@@ -30,7 +30,6 @@ function currentHourIn(tz) {
   );
 }
 
-// Aktiv-Fenster, das über Mitternacht geht (12 -> 2)
 function isWithinActiveWindow() {
   if (IGNORE_TIME_WINDOW) return true;
   const h = currentHourIn(CONFIG.timezone);
@@ -54,7 +53,6 @@ function containsAny(text, list) {
   return list.some((k) => n.includes(normalize(k)));
 }
 
-// Jaccard-Ähnlichkeit über Wörter — erkennt dieselbe News in anderer Formulierung
 function similarity(a, b) {
   const A = new Set(normalize(a).split(" ").filter((w) => w.length > 3));
   const B = new Set(normalize(b).split(" ").filter((w) => w.length > 3));
@@ -64,7 +62,7 @@ function similarity(a, b) {
   return shared / Math.min(A.size, B.size);
 }
 
-// ------------------------- State (bereits gepostet) -------------------------
+// ------------------------- State -------------------------
 async function loadState() {
   try {
     const raw = await fs.readFile(CONFIG.stateFile, "utf8");
@@ -81,7 +79,7 @@ async function saveState(state) {
   await fs.writeFile(CONFIG.stateFile, JSON.stringify(state, null, 2));
 }
 
-// ------------------------- Feeds einlesen -------------------------
+// ------------------------- Feeds -------------------------
 const parser = new Parser({
   timeout: 15000,
   headers: { "User-Agent": "Mozilla/5.0 (compatible; TransferBot/1.0)" },
@@ -118,8 +116,6 @@ function filterItems(items, state) {
 
   for (const item of items) {
     if (!item.title || seenIds.has(item.id)) continue;
-
-    // Zu alt?
     if (item.publishedAt && Date.now() - item.publishedAt.getTime() > maxAge) continue;
 
     const haystack = `${item.title} ${item.summary}`;
@@ -127,7 +123,6 @@ function filterItems(items, state) {
     if (containsAny(haystack, BLOCK_KEYWORDS)) continue;
     if (CLUB_FILTER.length && !containsAny(haystack, CLUB_FILTER)) continue;
 
-    // Gleiche News schon in State oder in dieser Runde?
     const dup =
       state.some((e) => similarity(e.title, item.title) > CONFIG.similarityThreshold) ||
       out.some((e) => similarity(e.title, item.title) > CONFIG.similarityThreshold);
@@ -136,12 +131,44 @@ function filterItems(items, state) {
     out.push(item);
   }
 
-  // Neueste zuerst
   return out.sort((a, b) => (b.publishedAt ?? 0) - (a.publishedAt ?? 0));
 }
 
-// ------------------------- Claude: Post schreiben -------------------------
-async function writePost(item) {
+// ------------------------- Post bauen -------------------------
+
+// Wörter, die auf eine bestätigte Meldung hindeuten
+const CONFIRMED = ["resmen", "imzaladi", "imzayi atti", "acikladi", "duyurdu", "tamam", "bitti"];
+// Wörter, die auf ein Gerücht hindeuten
+const RUMOR = ["iddia", "one suruldu", "gundem", "istiyor", "kanca", "rota", "sicak gelisme", "temas"];
+
+function pickEmoji(title) {
+  const n = normalize(title);
+  if (CONFIRMED.some((w) => n.includes(normalize(w)))) return "🔴";
+  if (RUMOR.some((w) => n.includes(normalize(w)))) return "🟡";
+  return "⚪";
+}
+
+// Ohne Claude: Schlagzeile aufräumen und mit Quelle ausgeben
+function buildPostLocal(item) {
+  let title = item.title
+    .replace(/\s+/g, " ")
+    .replace(/^["'«»]+|["'«»]+$/g, "")
+    .trim();
+
+  // Clickbait-Endungen wegkürzen
+  title = title.replace(/\s*\.{3,}$/, "");
+
+  const emoji = pickEmoji(title);
+  const footer = `\n\n📌 Kaynak: ${item.source}`;
+  const maxTitle = 280 - footer.length - emoji.length - 1;
+
+  if (title.length > maxTitle) title = title.slice(0, maxTitle - 1).trim() + "…";
+
+  return `${emoji} ${title}${footer}`;
+}
+
+// Mit Claude (nur wenn ANTHROPIC_API_KEY gesetzt ist)
+async function buildPostWithClaude(item) {
   const prompt = `Du bist Redakteur für einen türkischen Süper-Lig-Transfer-Account auf X.
 
 SCHLAGZEILE: ${item.title}
@@ -150,14 +177,14 @@ QUELLE: ${item.source}
 
 Schreibe daraus einen eigenständigen Post auf Türkisch. Regeln:
 - Formuliere komplett NEU. Übernimm keine Satzteile wörtlich.
-- Maximal 200 Zeichen, damit die Quellenzeile noch reinpasst.
-- Nur Fakten aus dem Text. Erfinde nichts dazu, übertreibe nicht.
-- Wenn es ein Gerücht ist, kennzeichne es ("iddia edildi", "öne sürüldü").
-- Starte mit einem passenden Emoji (🔴 bestätigt, 🟡 Gerücht, ⚪ sonstiges).
-- Keine Hashtags, keine Links, keine Anführungszeichen um den Post.
-- Wenn es KEINE echte Transfer-News ist, antworte exakt: SKIP
+- Maximal 200 Zeichen.
+- Nur Fakten aus dem Text. Erfinde nichts dazu.
+- Gerüchte kennzeichnen ("iddia edildi", "öne sürüldü").
+- Starte mit einem Emoji (🔴 bestätigt, 🟡 Gerücht, ⚪ sonstiges).
+- Keine Hashtags, keine Links.
+- Keine echte Transfer-News? Antworte exakt: SKIP
 
-Gib nur den Post-Text aus, sonst nichts.`;
+Gib nur den Post-Text aus.`;
 
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
@@ -177,12 +204,11 @@ Gib nur den Post-Text aus, sonst nichts.`;
 
   const data = await res.json();
   const text = data.content.filter((b) => b.type === "text").map((b) => b.text).join("").trim();
-
   if (!text || text === "SKIP") return null;
   return `${text}\n\n📌 Kaynak: ${item.source}`;
 }
 
-// ------------------------- Posten -------------------------
+// ------------------------- Senden -------------------------
 function getTwitterClient() {
   const { X_APP_KEY, X_APP_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET } = process.env;
   if (!X_APP_KEY || !X_APP_SECRET || !X_ACCESS_TOKEN || !X_ACCESS_SECRET) return null;
@@ -209,10 +235,18 @@ async function postToTelegram(text) {
 // ------------------------- Ablauf -------------------------
 async function main() {
   if (!isWithinActiveWindow()) {
-    log(`😴 Außerhalb des Zeitfensters (${CONFIG.activeFrom}–${CONFIG.activeTo} Uhr ${CONFIG.timezone}). Ende.`);
+    log(`😴 Außerhalb des Zeitfensters (${CONFIG.activeFrom}–${CONFIG.activeTo} Uhr). Ende.`);
     return;
   }
-  if (!process.env.ANTHROPIC_API_KEY) throw new Error("ANTHROPIC_API_KEY fehlt");
+
+  const useClaude = Boolean(process.env.ANTHROPIC_API_KEY);
+  log(useClaude ? "🤖 Modus: Claude schreibt um" : "📰 Modus: Schlagzeile direkt (kostenlos)");
+
+  const hasTelegram = Boolean(process.env.TELEGRAM_BOT_TOKEN && process.env.TELEGRAM_CHAT_ID);
+  const twitter = DRY_RUN ? null : getTwitterClient();
+  if (!DRY_RUN && !hasTelegram && !twitter) {
+    log("⚠️  Weder Telegram noch X konfiguriert — es wird nichts gesendet.");
+  }
 
   const state = await loadState();
   log(`📚 ${state.length} Einträge im Gedächtnis`);
@@ -225,37 +259,35 @@ async function main() {
 
   if (!candidates.length) return;
 
-  const twitter = DRY_RUN ? null : getTwitterClient();
   let posted = 0;
 
   for (const item of candidates) {
     try {
-      const text = await writePost(item);
+      const text = useClaude ? await buildPostWithClaude(item) : buildPostLocal(item);
 
-      // Auch bei SKIP merken, damit wir es nicht nochmal an Claude schicken
       state.push({ id: item.id, title: item.title, ts: Date.now() });
       if (!text) {
-        log(`⏭️  Übersprungen (keine echte News): ${item.title.slice(0, 60)}`);
+        log(`⏭️  Übersprungen: ${item.title.slice(0, 60)}`);
         continue;
       }
 
       if (DRY_RUN) {
-        log(`\n--- TESTLAUF, nichts gepostet ---\n${text}\n---------------------------------\n`);
+        log(`\n--- TESTLAUF, nichts gesendet ---\n${text}\n---------------------------------\n`);
       } else {
         if (twitter) await twitter.v2.tweet(text);
-        await postToTelegram(text);
-        log(`✅ Gepostet: ${text.slice(0, 70)}...`);
+        if (hasTelegram) await postToTelegram(text);
+        log(`✅ Gesendet: ${text.slice(0, 70)}...`);
       }
 
       posted++;
-      await new Promise((r) => setTimeout(r, 3000)); // kurze Pause
+      await new Promise((r) => setTimeout(r, 3000));
     } catch (err) {
       log(`❌ Fehler bei "${item.title.slice(0, 50)}":`, err.message);
     }
   }
 
   await saveState(state);
-  log(`🏁 Fertig. ${posted} Post(s) in diesem Durchlauf.`);
+  log(`🏁 Fertig. ${posted} Meldung(en) in diesem Durchlauf.`);
 }
 
 main().catch((err) => {
