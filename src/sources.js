@@ -55,10 +55,17 @@ export const TRANSFER_KEYWORDS = [
 
 // Wenn eins davon vorkommt, wird der Artikel VERWORFEN.
 export const BLOCK_KEYWORDS = [
+  // andere Sportarten
   "basketbol", "voleybol", "NBA", "Euroleague", "tenis", "Formula",
   "at yarışı", "iddaa", "kupon", "burç", "magazin", "dizi",
   "güreş", "boks", "yüzme", "atletizm", "hentbol", "sutopu",
   "para tekvando", "golf", "bilardo", "judo", "olimpiyat",
+  // Spielvorschauen / Live-Ticker — keine Transfer-News
+  "hangi kanalda", "saat kaçta", "muhtemel 11", "ilk 11",
+  "maçı canlı", "canlı anlatım", "canlı izle", "canlı skor",
+  "ne zaman, saat", "maç önü", "puan durumu", "fikstür",
+  "maçı ne zaman", "hangi kanaldan", "şifresiz mi",
+  "maç sonucu", "maçın ardından", "kadro açıklandı",
 ];
 
 // Nur Süper Lig: Artikel muss einen dieser Klubs erwähnen.

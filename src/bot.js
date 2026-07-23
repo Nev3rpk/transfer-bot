@@ -80,15 +80,43 @@ async function saveState(state) {
 }
 
 // ------------------------- Feeds -------------------------
-const parser = new Parser({
-  timeout: 15000,
-  headers: { "User-Agent": "Mozilla/5.0 (compatible; TransferBot/1.0)" },
-});
+const parser = new Parser();
+
+// Manche türkische Seiten liefern Windows-1254 statt UTF-8.
+// Ohne das kommen kaputte Zeichen wie "Galatasaray'day?m" raus.
+async function fetchFeedText(url) {
+  const res = await fetch(url, {
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; TransferBot/1.0)" },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`Status ${res.status}`);
+
+  const buf = Buffer.from(await res.arrayBuffer());
+
+  // Zeichensatz aus HTTP-Header oder XML-Deklaration lesen
+  let charset = (res.headers.get("content-type") || "").match(/charset=["']?([\w-]+)/i)?.[1];
+  if (!charset) {
+    charset = buf.subarray(0, 250).toString("latin1")
+      .match(/encoding=["']([\w-]+)["']/i)?.[1];
+  }
+  charset = (charset || "utf-8").toLowerCase().replace(/^["']|["']$/g, "");
+  if (charset === "iso-8859-9") charset = "windows-1254";
+
+  let text;
+  try {
+    text = new TextDecoder(charset, { fatal: false }).decode(buf);
+  } catch {
+    text = buf.toString("utf8");
+  }
+
+  // Deklaration auf UTF-8 umschreiben, sonst meckert der XML-Parser
+  return text.replace(/(<\?xml[^>]*encoding=["'])[\w-]+(["'])/i, "$1UTF-8$2");
+}
 
 async function fetchAllFeeds() {
   const results = await Promise.allSettled(
     FEEDS.map(async (feed) => {
-      const parsed = await parser.parseURL(feed.url);
+      const parsed = await parser.parseString(await fetchFeedText(feed.url));
       return (parsed.items || []).map((item) => ({
         source: feed.name,
         transferOnly: Boolean(feed.transferOnly),
