@@ -10,7 +10,7 @@ const CONFIG = {
   activeFrom: 12,          // ab 12:00 Uhr
   activeTo: 2,             // bis 02:00 Uhr (nachts)
   maxPostsPerRun: 3,       // Spam-Bremse
-  maxAgeMinutes: 180,      // älter als 3h wird ignoriert
+  maxAgeMinutes: Number(process.env.MAX_AGE_MINUTES || 720), // Standard 12h
   similarityThreshold: 0.6,// gegen Doppel-News aus verschiedenen Quellen
   stateFile: path.join(process.cwd(), "state", "seen.json"),
   stateKeepDays: 5,
@@ -91,6 +91,7 @@ async function fetchAllFeeds() {
       const parsed = await parser.parseURL(feed.url);
       return (parsed.items || []).map((item) => ({
         source: feed.name,
+        transferOnly: Boolean(feed.transferOnly),
         title: (item.title || "").trim(),
         summary: (item.contentSnippet || item.content || "").trim().slice(0, 600),
         link: item.link || "",
@@ -113,23 +114,36 @@ function filterItems(items, state) {
   const seenIds = new Set(state.map((e) => e.id));
   const maxAge = CONFIG.maxAgeMinutes * 60_000;
   const out = [];
+  const stat = { total: items.length, neu: 0, aktuell: 0, transfer: 0, superlig: 0, final: 0 };
 
   for (const item of items) {
     if (!item.title || seenIds.has(item.id)) continue;
+    stat.neu++;
+
     if (item.publishedAt && Date.now() - item.publishedAt.getTime() > maxAge) continue;
+    stat.aktuell++;
 
     const haystack = `${item.title} ${item.summary}`;
-    if (!containsAny(haystack, TRANSFER_KEYWORDS)) continue;
     if (containsAny(haystack, BLOCK_KEYWORDS)) continue;
+    if (!item.transferOnly && !containsAny(haystack, TRANSFER_KEYWORDS)) continue;
+    stat.transfer++;
+
     if (CLUB_FILTER.length && !containsAny(haystack, CLUB_FILTER)) continue;
+    stat.superlig++;
 
     const dup =
       state.some((e) => similarity(e.title, item.title) > CONFIG.similarityThreshold) ||
       out.some((e) => similarity(e.title, item.title) > CONFIG.similarityThreshold);
     if (dup) continue;
+    stat.final++;
 
     out.push(item);
   }
+
+  log(
+    `📊 ${stat.total} gesamt → ${stat.neu} ungesehen → ${stat.aktuell} aktuell ` +
+    `→ ${stat.transfer} Transfer-Bezug → ${stat.superlig} Süper Lig → ${stat.final} übrig`
+  );
 
   return out.sort((a, b) => (b.publishedAt ?? 0) - (a.publishedAt ?? 0));
 }
@@ -265,7 +279,7 @@ async function main() {
     try {
       const text = useClaude ? await buildPostWithClaude(item) : buildPostLocal(item);
 
-      state.push({ id: item.id, title: item.title, ts: Date.now() });
+      if (!DRY_RUN) state.push({ id: item.id, title: item.title, ts: Date.now() });
       if (!text) {
         log(`⏭️  Übersprungen: ${item.title.slice(0, 60)}`);
         continue;
@@ -286,7 +300,7 @@ async function main() {
     }
   }
 
-  await saveState(state);
+  if (!DRY_RUN) await saveState(state);
   log(`🏁 Fertig. ${posted} Meldung(en) in diesem Durchlauf.`);
 }
 

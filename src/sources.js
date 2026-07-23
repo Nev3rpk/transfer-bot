@@ -2,30 +2,31 @@
 //  QUELLEN — hier trägst du alles ein, was der Bot lesen soll
 // ============================================================
 //
-//  name  = wird als "Kaynak: X" unter dem Post genannt
-//  url   = RSS-Feed URL
+//  name        = wird als "Kaynak: X" unter dem Post genannt
+//  url         = RSS-Feed URL
+//  transferOnly = true  -> Feed enthält NUR Transfer-News,
+//                          Stichwort-Filter wird übersprungen
 //
-//  Neue Quelle hinzufügen? Einfach eine Zeile anhängen.
-//  Vorher testen mit:  npm run check-feeds
+//  Testen mit:  npm run check-feeds
 //
 
 export const FEEDS = [
-  // --- Fotomaç (verifiziert, hat einen reinen Transfer-Feed) ---
-  { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/transfer.xml" },
+  // --- Fotomaç ---
+  { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/transfer.xml", transferOnly: true },
   { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/superlig.xml" },
   { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/galatasaray.xml" },
   { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/fenerbahce.xml" },
   { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/besiktas.xml" },
   { name: "Fotomaç", url: "https://www.fotomac.com.tr/rss/trabzonspor.xml" },
 
-  // --- Weitere Quellen: mit `npm run check-feeds` testen, ob sie laufen ---
+  // --- A Spor ---
   { name: "A Spor", url: "https://www.aspor.com.tr/rss/anasayfa.xml" },
-  { name: "NTV Spor", url: "https://www.ntvspor.net/rss" },
-  { name: "Sporx", url: "https://www.sporx.com/rss/anasayfa.xml" },
+
+  // --- Sporx (korrigierte Adresse) ---
+  { name: "Sporx", url: "https://www.sporx.com/son-dakika-rss" },
 
   // --- Google News: fängt Scoops namentlich genannter Journalisten ab ---
-  // Ersetz die Namen durch die aus deiner Liste. So bekommst du z.B.
-  // "Yağız Sabuncuoğlu duyurdu: ..." Artikel automatisch rein.
+  // Deine Journalisten-Liste kommt hier rein, mit OR getrennt.
   {
     name: "Google News",
     url:
@@ -37,18 +38,27 @@ export const FEEDS = [
   },
 ];
 
-// Nur Artikel, die mindestens EINS davon enthalten, werden verarbeitet.
+// Artikel muss mindestens EINS davon enthalten (außer bei transferOnly-Feeds).
 export const TRANSFER_KEYWORDS = [
+  // klassisch
   "transfer", "imza", "anlaşma", "anlaştı", "bonservis", "sözleşme",
-  "teklif", "görüşme", "kiralık", "ayrılık", "resmen", "gündem",
-  "prensip", "el sıkıştı", "İstanbul'a geliyor", "sağlık kontrol",
+  "teklif", "görüşme", "kiralık", "kiraya", "ayrılık", "ayrılıyor",
+  "resmen", "gündem", "prensip", "el sıkıştı", "sağlık kontrol",
+  // wie türkische Schlagzeilen wirklich klingen
+  "rota", "kanca", "gözünü dikti", "istiyor", "peşinde", "takip",
+  "geliyor", "gidiyor", "yolcu", "veda", "bitiriyor", "bitirdi",
+  "gelişme", "iddia", "öne sürüldü", "duyurdu", "açıkladı",
+  "kadrosuna", "kadroya", "yeni transferi", "hedefinde", "temas",
+  "milyon euro", "opsiyon", "menajer", "görüştü", "masada",
+  "yıldız", "bombası", "harekete geçti", "devrede", "karar",
 ];
 
 // Wenn eins davon vorkommt, wird der Artikel VERWORFEN.
-// Hält Nicht-Transfer-Rauschen raus.
 export const BLOCK_KEYWORDS = [
   "basketbol", "voleybol", "NBA", "Euroleague", "tenis", "Formula",
   "at yarışı", "iddaa", "kupon", "burç", "magazin", "dizi",
+  "güreş", "boks", "yüzme", "atletizm", "hentbol", "sutopu",
+  "para tekvando", "golf", "bilardo", "judo", "olimpiyat",
 ];
 
 // Nur Süper Lig: Artikel muss einen dieser Klubs erwähnen.
@@ -59,4 +69,5 @@ export const CLUB_FILTER = [
   "Rizespor", "Kayserispor", "Gaziantep", "Eyüpspor", "Kocaelispor",
   "Gençlerbirliği", "Antalyaspor", "Karagümrük", "Çorum", "Erzurumspor",
   "Amed", "Süper Lig", "Cimbom", "Aslan", "Kartal", "Kanarya", "Bordo",
+  "sarı-kırmızı", "sarı-lacivert", "siyah-beyaz", "bordo-mavi",
 ];
