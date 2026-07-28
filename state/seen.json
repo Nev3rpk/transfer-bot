@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170075",
-    "title": "Beşiktaş Kadın Futbol Takımı, Meryem Küçükbirinci'yi açıkladı!",
-    "ts": 1784817602700
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/23/fenerbahce-futbol-asnin-yeni-yonetim-kurulu-resmen-aciklandi",
-    "title": "Fenerbahçe Futbol A.Ş.'nin yeni yönetim kurulu resmen açıklandı",
-    "ts": 1784817605999
-  },
-  {
-    "id": "news-1170065",
-    "title": "Fenerbahçe Futbol AŞ'nin yeni yönetimi belli oldu! Mahmut Uslu kararı",
-    "ts": 1784817609140
-  },
-  {
     "id": "news-1170086",
     "title": "Galatasaray'ın kamp kadrosunda sürpriz!",
     "ts": 1784823743807
@@ -593,5 +578,20 @@
     "id": "https://www.aspor.com.tr/samsunspor/2026/07/28/carlo-holse-transferi-resmen-aciklandi",
     "title": "Carlo Holse transferi resmen açıklandı!",
     "ts": 1785246518041
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/07/28/samsunspor-baskani-yuksel-yildirim-hedefimiz",
+    "title": "Samsunspor Başkanı Yüksel Yıldırım: Hedefimiz...",
+    "ts": 1785254457846
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/07/28/galatasaray-osimhenin-yedegini-buldu-tribunde-izlediler",
+    "title": "Galatasaray Osimhen'in yedeğini buldu! Tribünde izlediler",
+    "ts": 1785254461396
+  },
+  {
+    "id": "news-1170618",
+    "title": "Fenerbahçe'den 1. Lig'e gitti: Yiğit Fidan",
+    "ts": 1785254464577
   }
 ]
