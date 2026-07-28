@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170086",
-    "title": "Galatasaray'ın kamp kadrosunda sürpriz!",
-    "ts": 1784823743807
-  },
-  {
-    "id": "news-1170085",
-    "title": "Maruf Güneş: \"Gerçekler çarpıtılıyor\"",
-    "ts": 1784823747370
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/07/23/besiktasta-istifa-karar-mohamed-salah-paylasimlari",
-    "title": "Beşiktaş'ta istifa kararı! Mohamed Salah paylaşımları...",
-    "ts": 1784823750651
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/23/vincenzo-italianodan-transfer-aciklamasi-yeni-gelen-arkadaslar-olacak",
     "title": "Vincenzo Italiano'dan transfer açıklaması! \"Yeni gelen arkadaşlar olacak\"",
     "ts": 1784829275331
@@ -593,5 +578,20 @@
     "id": "news-1170618",
     "title": "Fenerbahçe'den 1. Lig'e gitti: Yiğit Fidan",
     "ts": 1785254464577
+  },
+  {
+    "id": "news-1170632",
+    "title": "Fatih Karagümrük, Muhammed Emin Sarıkaya'yı duyurdu",
+    "ts": 1785261062377
+  },
+  {
+    "id": "news-1170631",
+    "title": "Eyüpspor, Anıl Yaşar'ı yeniden kiraladı!",
+    "ts": 1785261065790
+  },
+  {
+    "id": "news-1170629",
+    "title": "Beşiktaş'ta Salah rüzgarı tersine döndü! Taraftardan yönetime destek",
+    "ts": 1785261068923
   }
 ]
