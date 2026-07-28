@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170115",
-    "title": "Fenerbahçe'de Livakovic için Olympiakos iddiası",
-    "ts": 1784844012854
-  },
-  {
-    "id": "news-1170113",
-    "title": "Beşiktaş'ta Ouattara siftah yaptı",
-    "ts": 1784844016267
-  },
-  {
-    "id": "news-1170112",
-    "title": "Beşiktaş'ta Orkun Kökçü gollerine devam etti",
-    "ts": 1784844019395
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/07/23/omer-bayramdan-galatasaraya-virgil-van-dijk-mujdesi",
     "title": "Ömer Bayram'dan Galatasaray'a Virgil van Dijk müjdesi!",
     "ts": 1784849175767
@@ -593,5 +578,20 @@
     "id": "news-1170633",
     "title": "Kasımpaşa, Benedyczak'ın bonservisini aldı",
     "ts": 1785275862113
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/28/cabral-trabzonspora-transfer-surecini-anlatti",
+    "title": "Cabral Trabzonspor'a transfer sürecini anlattı!",
+    "ts": 1785279519314
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/07/28/romelu-lukakuda-sicak-gelisme-besiktas-ve-fenerbahce",
+    "title": "Romelu Lukaku'da sıcak gelişme! Beşiktaş ve Fenerbahçe...",
+    "ts": 1785279522710
+  },
+  {
+    "id": "news-1170615",
+    "title": "Al Ahly, Fenerbahçe'nin genç oyuncusu Omar Fayed'i istiyor!",
+    "ts": 1785279525844
   }
 ]
