@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/23/omer-bayramdan-galatasaraya-virgil-van-dijk-mujdesi",
-    "title": "Ömer Bayram'dan Galatasaray'a Virgil van Dijk müjdesi!",
-    "ts": 1784849175767
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/23/fenerbahcenin-eski-gozdesi-hull-city-ile-anlasti",
-    "title": "Fenerbahçe'nin eski gözdesi Hull City ile anlaştı!",
-    "ts": 1784849179240
-  },
-  {
     "id": "news-1170181",
     "title": "Hugo Almeida'dan Salah açıklaması",
     "ts": 1784893072991
@@ -593,5 +583,20 @@
     "id": "news-1170615",
     "title": "Al Ahly, Fenerbahçe'nin genç oyuncusu Omar Fayed'i istiyor!",
     "ts": 1785279525844
+  },
+  {
+    "id": "news-1170614",
+    "title": "Galatasaray potaya Fransız yıldız takviyesi yaptı: Marine Fauthoux",
+    "ts": 1785283178330
+  },
+  {
+    "id": "news-1170611",
+    "title": "Galatasaray'dan canlı takip: Franculino Dju",
+    "ts": 1785283181759
+  },
+  {
+    "id": "news-1170610",
+    "title": "Aubameyang neden Çorum'a gelmedi? Uğur Uçar açıkladı!",
+    "ts": 1785283184898
   }
 ]
