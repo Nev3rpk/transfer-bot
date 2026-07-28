@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170104",
-    "title": "Çorum'dan Memphis Depay'a teklif!",
-    "ts": 1784838917029
-  },
-  {
-    "id": "news-1170101",
-    "title": "Beşiktaş'ın Lucumi teklifine ret!",
-    "ts": 1784838920439
-  },
-  {
-    "id": "news-1170078",
-    "title": "Napoli'den Anguissa'nın geleceği için açıklama!",
-    "ts": 1784838923610
-  },
-  {
     "id": "news-1170115",
     "title": "Fenerbahçe'de Livakovic için Olympiakos iddiası",
     "ts": 1784844012854
@@ -578,5 +563,20 @@
     "id": "https://www.fotomac.com.tr/kasimpasa/2026/07/28/adrian-benedyczak-yeniden-kasimpasada",
     "title": "Adrian Benedyczak, yeniden Kasımpaşa'da",
     "ts": 1785266079335
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/07/28/can-uzun-galatasaraya-transfer-olacak-mi-sportif-direktorden-flas-sozler",
+    "title": "Can Uzun Galatasaray'a transfer olacak mı? Sportif direktörden flaş sözler",
+    "ts": 1785271253369
+  },
+  {
+    "id": "news-1170641",
+    "title": "Fatih Karagümrük, Manolis Siopis'i transfer etti",
+    "ts": 1785271256679
+  },
+  {
+    "id": "news-1170634",
+    "title": "RAMS Başakşehir, Skov Olsen'i açıkladı!",
+    "ts": 1785271259814
   }
 ]
