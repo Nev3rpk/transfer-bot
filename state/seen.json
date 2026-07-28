@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/07/23/vincenzo-italianodan-transfer-aciklamasi-yeni-gelen-arkadaslar-olacak",
-    "title": "Vincenzo Italiano'dan transfer açıklaması! \"Yeni gelen arkadaşlar olacak\"",
-    "ts": 1784829275331
-  },
-  {
-    "id": "news-1170092",
-    "title": "Elversberg, Juan'ı istiyor",
-    "ts": 1784829278924
-  },
-  {
-    "id": "news-1170082",
-    "title": "Beşiktaş'ta istifa: Ahmet Çağlar",
-    "ts": 1784829282111
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/07/23/besiktas-midtjylland-macinda-kirmizi-kart-karari",
-    "title": "Beşiktaş-Midtjylland maçında kırmızı kart kararı!",
-    "ts": 1784833466404
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/07/23/besiktas-midtjylland-canli-mac-uefa-avrupa-ligi-2-on-eleme-turu",
-    "title": "Beşiktaş-Midtjylland canlı maç | UEFA Avrupa Ligi 2. ön eleme turu",
-    "ts": 1784833469878
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/23/fenerbahceden-leao-icin-cilgin-teklif-bu-rakam-cok-konusulur",
-    "title": "Fenerbahçe'den Leao için çılgın teklif! Bu rakam çok konuşulur",
-    "ts": 1784833473071
-  },
-  {
     "id": "news-1170104",
     "title": "Çorum'dan Memphis Depay'a teklif!",
     "ts": 1784838917029
@@ -593,5 +563,20 @@
     "id": "news-1170629",
     "title": "Beşiktaş'ta Salah rüzgarı tersine döndü! Taraftardan yönetime destek",
     "ts": 1785261068923
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/07/28/mohamed-salah-transferinden-vaz-mi-gecildi",
+    "title": "Mohamed Salah transferinden vaz mı geçildi?",
+    "ts": 1785266072699
+  },
+  {
+    "id": "https://www.fotomac.com.tr/basaksehir/2026/07/28/basaksehir-fk-andreas-skov-olseni-kadrosuna-katti",
+    "title": "Başakşehir FK,  Andreas Skov Olsen'i kadrosuna kattı",
+    "ts": 1785266076169
+  },
+  {
+    "id": "https://www.fotomac.com.tr/kasimpasa/2026/07/28/adrian-benedyczak-yeniden-kasimpasada",
+    "title": "Adrian Benedyczak, yeniden Kasımpaşa'da",
+    "ts": 1785266079335
   }
 ]
