@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170181",
-    "title": "Hugo Almeida'dan Salah açıklaması",
-    "ts": 1784893072991
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/24/rafael-leaodan-transfer-aciklamasi-fenerbahce-ve-galatasaray",
-    "title": "Rafael Leao'dan transfer açıklaması! Fenerbahçe ve Galatasaray...",
-    "ts": 1784893076544
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/24/galatasarayda-sasirtan-ayrilik-yolda-bunu-kimse-beklemiyordu",
-    "title": "Galatasaray'da şaşırtan ayrılık yolda! Bunu kimse beklemiyordu",
-    "ts": 1784893079823
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/24/besiktastan-darwin-nunez-bombasi-anlasma-saglanmak-uzere",
     "title": "Beşiktaş'tan Darwin Nunez bombası! Anlaşma sağlanmak üzere",
     "ts": 1784899407312
@@ -598,5 +583,20 @@
     "id": "news-1170610",
     "title": "Aubameyang neden Çorum'a gelmedi? Uğur Uçar açıkladı!",
     "ts": 1785283184898
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/29/italyadan-fenerbahceye-bir-transfer-daha-herkes-leaoyu-beklerken",
+    "title": "İtalya'dan Fenerbahçe'ye bir transfer daha! Herkes Leao'yu beklerken...",
+    "ts": 1785326212963
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/29/fenerbahceye-transferde-fulham-engeli",
+    "title": "Fenerbahçe'ye transferde Fulham engeli!",
+    "ts": 1785326216445
+  },
+  {
+    "id": "news-1170713",
+    "title": "Parma ve Marsilya El Bilal Toure'nin peşinde!",
+    "ts": 1785326219559
   }
 ]
