@@ -1,10 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/24/fenerbahceye-transferde-yeni-edin-dzeko-ermedin-demirovic",
-    "title": "Fenerbahçe'ye transferde yeni Edin Dzeko: Ermedin Demirovic",
-    "ts": 1784933776350
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/25/besiktastan-youssouf-fofana-bombasi",
     "title": "Beşiktaş'tan Youssouf Fofana bombası!",
     "ts": 1784977465042
@@ -613,5 +608,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/29/muciden-flas-itiraf-besiktasa-attigim-gol",
     "title": "Muçi'den flaş itiraf! \"Beşiktaş'a attığım gol...\"",
     "ts": 1785364089140
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/07/29/paul-onuachu-turkiyeden-cok-ciddi-teklifler-aldim",
+    "title": "Paul Onuachu: Türkiye'den çok ciddi teklifler aldım",
+    "ts": 1785367844577
+  },
+  {
+    "id": "https://www.fotomac.com.tr/goztepe/2026/07/29/goztepeden-transferde-luka-gugeshashvili-hamlesi",
+    "title": "Göztepe'den transferde Luka Gugeshashvili hamlesi!",
+    "ts": 1785367848070
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/29/rene-mitongo-onuachudan-cok-sey-ogrenecegim",
+    "title": "Rene Mitongo: Onuachu'dan çok şey öğreneceğim",
+    "ts": 1785367851246
   }
 ]
