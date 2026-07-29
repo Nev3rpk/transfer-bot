@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170221",
-    "title": "Çorum FK'de ayrılık: Pedrinho ile yollar ayrıldı",
-    "ts": 1784924069464
-  },
-  {
-    "id": "https://www.aspor.com.tr/kadin-futbol-ligi/2026/07/24/trabzonspor-kadin-futbol-takimi-marija-aleksici-transfer-etti",
-    "title": "Trabzonspor Kadın Futbol Takımı, Marija Aleksic'i transfer etti",
-    "ts": 1784924072937
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/24/fenerbahcede-diego-carlos-krizi-maasimi-alir-otururum",
-    "title": "Fenerbahçe'de Diego Carlos krizi: Maaşımı alır otururum!",
-    "ts": 1784924076103
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/okan-buruktan-ayrilik-aciklamasi-bircok-oyuncu-bizimle-beraber-olmayacak",
     "title": "Okan Buruk'tan ayrılık açıklaması! \"Birçok oyuncu bizimle beraber olmayacak\"",
     "ts": 1784928912378
@@ -613,5 +598,20 @@
     "id": "news-1170734",
     "title": "Natasha Howard yeniden Türkiye'de, adres Galatasaray!",
     "ts": 1785355713757
+  },
+  {
+    "id": "news-1170733",
+    "title": "Dursun Özbek açıkladı: Mauro Icardi'ye teklif",
+    "ts": 1785360339285
+  },
+  {
+    "id": "https://www.fotomac.com.tr/basaksehir/2026/07/29/rams-basaksehirden-transferde-umut-bozok-surprizi",
+    "title": "RAMS Başakşehir'den transferde Umut Bozok sürprizi!",
+    "ts": 1785360342656
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/07/29/mauro-icardi-her-an-transfer-olabilir-menajerinden-flas-sozler",
+    "title": "Mauro Icardi her an transfer olabilir! Menajerinden flaş sözler",
+    "ts": 1785360345777
   }
 ]
