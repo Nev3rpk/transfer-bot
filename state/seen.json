@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/okan-buruktan-ayrilik-aciklamasi-bircok-oyuncu-bizimle-beraber-olmayacak",
-    "title": "Okan Buruk'tan ayrılık açıklaması! \"Birçok oyuncu bizimle beraber olmayacak\"",
-    "ts": 1784928912378
-  },
-  {
-    "id": "news-1170226",
-    "title": "Can Armando:\" Kendimi herkese göstermek istiyorum!\"",
-    "ts": 1784928915729
-  },
-  {
-    "id": "news-1170224",
-    "title": "Kayserispor'da Jadel Katongo ile yollar ayrıldı",
-    "ts": 1784928918842
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/07/24/fenerbahceye-transferde-yeni-edin-dzeko-ermedin-demirovic",
     "title": "Fenerbahçe'ye transferde yeni Edin Dzeko: Ermedin Demirovic",
     "ts": 1784933776350
@@ -613,5 +598,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/07/29/mauro-icardi-her-an-transfer-olabilir-menajerinden-flas-sozler",
     "title": "Mauro Icardi her an transfer olabilir! Menajerinden flaş sözler",
     "ts": 1785360345777
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/29/yonetim-biletlerini-kesti-fenerbahcede-5-ayrilik-birden",
+    "title": "Yönetim biletlerini kesti! Fenerbahçe'de 5 ayrılık birden",
+    "ts": 1785364082633
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/29/fenerbahcede-ayrilik-listesi-belli-oldu-teklifler-bekleniyor",
+    "title": "Fenerbahçe'de ayrılık listesi belli oldu! Teklifler bekleniyor",
+    "ts": 1785364085983
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/29/muciden-flas-itiraf-besiktasa-attigim-gol",
+    "title": "Muçi'den flaş itiraf! \"Beşiktaş'a attığım gol...\"",
+    "ts": 1785364089140
   }
 ]
