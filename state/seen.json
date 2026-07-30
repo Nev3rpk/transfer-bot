@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170263",
-    "title": "Göztepe kaleyi Ali Emre Yanar'a emanet ediyor",
-    "ts": 1784981653942
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/07/25/besiktasta-sag-kanat-operasyonu-salahin-arkasina-bakayoko",
-    "title": "Beşiktaş'ta sağ kanat operasyonu: Salah'ın arkasına Bakayoko!",
-    "ts": 1784981657429
-  },
-  {
-    "id": "news-1170256",
-    "title": "Galatasaray'da golcü arayışı: 2 yeni aday",
-    "ts": 1784981660608
-  },
-  {
     "id": "news-1170275",
     "title": "Gençlerbirliği, İrfan Can için Fenerbahçe'yi bekliyor",
     "ts": 1784988529148
@@ -623,5 +608,20 @@
     "id": "news-1170802",
     "title": "Fenerbahçe'nin istediği isme Fulham'dan 70 milyon euro: Gonzalo Garcia",
     "ts": 1785412037552
+  },
+  {
+    "id": "news-1170839",
+    "title": "Trabzonspor'dan 18'lik yıldız hamlesi",
+    "ts": 1785419023430
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/07/30/galatasarayda-franjo-ivanovic-gelismesi-transferde-son-durum",
+    "title": "Galatasaray'da Franjo Ivanovic gelişmesi! Transferde son durum...",
+    "ts": 1785419026729
+  },
+  {
+    "id": "news-1170829",
+    "title": "Bodrum FK'dan iki takviye",
+    "ts": 1785419029846
   }
 ]
