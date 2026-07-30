@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/07/25/besiktastan-youssouf-fofana-bombasi",
-    "title": "Beşiktaş'tan Youssouf Fofana bombası!",
-    "ts": 1784977465042
-  },
-  {
-    "id": "news-1170260",
-    "title": "Okan Buruk'un Jankat kararsızlığı",
-    "ts": 1784977468340
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/25/galatasaraya-bremer-soku-o-rakami-reddetti",
-    "title": "Galatasaray'a Bremer şoku! O rakamı reddetti",
-    "ts": 1784977471462
-  },
-  {
     "id": "news-1170263",
     "title": "Göztepe kaleyi Ali Emre Yanar'a emanet ediyor",
     "ts": 1784981653942
@@ -623,5 +608,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/29/rene-mitongo-onuachudan-cok-sey-ogrenecegim",
     "title": "Rene Mitongo: Onuachu'dan çok şey öğreneceğim",
     "ts": 1785367851246
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/30/fenerbahce-istiyordu-40-milyon-euroya-transfer-oluyor",
+    "title": "Fenerbahçe istiyordu! 40 milyon euro'ya transfer oluyor",
+    "ts": 1785412031023
+  },
+  {
+    "id": "news-1170808",
+    "title": "Galatasaray'ın istediği Abline Monaco'da!",
+    "ts": 1785412034380
+  },
+  {
+    "id": "news-1170802",
+    "title": "Fenerbahçe'nin istediği isme Fulham'dan 70 milyon euro: Gonzalo Garcia",
+    "ts": 1785412037552
   }
 ]
