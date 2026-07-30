@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/25/bremerden-galatasaraya-transfer-yaniti-8-milyon-euroluk-sozlesme-teklif-edilmisti",
-    "title": "Bremer'den Galatasaray'a transfer yanıtı! 8 milyon euro'luk sözleşme teklif edilmişti",
-    "ts": 1784998247584
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/25/trabzonspor-aciklama-seyircisiz-oynanacak",
-    "title": "Trabzonspor açıklama! Seyircisiz oynanacak",
-    "ts": 1784998251280
-  },
-  {
-    "id": "https://www.aspor.com.tr/kocaelispor/2026/07/25/kocaelisporda-3-ayrilik-resmi-aciklama-yapildi",
-    "title": "Kocaelispor'da 3 ayrılık! Resmi açıklama yapıldı",
-    "ts": 1784998254477
-  },
-  {
     "id": "news-1170297",
     "title": "Fenerbahçe'den Gonzalo Garcia hamlesi! Mourinho onay verdi",
     "ts": 1785002022813
@@ -608,5 +593,20 @@
     "id": "news-1170852",
     "title": "Manchester United'dan Leao için hamle",
     "ts": 1785426425557
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/07/30/besiktasin-yeni-kalecisi-alexander-nubel-kimdir-kac-yasinda",
+    "title": "Beşiktaş'ın yeni kalecisi Alexander Nübel kimdir, kaç yaşında?",
+    "ts": 1785431959269
+  },
+  {
+    "id": "https://www.aspor.com.tr/kadin-futbol-ligi/2026/07/30/trabzonspor-kadin-futbol-takimi-jae-eun-songu-transfer-etti",
+    "title": "Trabzonspor Kadın Futbol Takımı, Jae-Eun Song'u transfer etti",
+    "ts": 1785431962658
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/07/30/vincenzo-italiano-turu-gecmek-istiyoruz",
+    "title": "Vincenzo Italiano: Turu geçmek istiyoruz!",
+    "ts": 1785431965803
   }
 ]
