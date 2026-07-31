@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170384",
-    "title": "Galatasaray'da Jamal Musiala bitiyor!",
-    "ts": 1785097721646
-  },
-  {
-    "id": "news-1170311",
-    "title": "Beşiktaş'tan Salah'a süre: 24 saat!",
-    "ts": 1785097725079
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/26/fenerbahceden-rafael-leao-cikarmasi-yonetim-italyaya-gidiyor",
-    "title": "Fenerbahçe'den Rafael Leao çıkarması! Yönetim İtalya'ya gidiyor",
-    "ts": 1785097728232
-  },
-  {
     "id": "news-1170390",
     "title": "Rafael Leao için Beşiktaş iddiası!",
     "ts": 1785101262970
@@ -573,5 +558,20 @@
     "id": "news-1170973",
     "title": "Fenerbahçe'den İrfan Can Kahveci için resmi açıklama",
     "ts": 1785525282311
+  },
+  {
+    "id": "https://www.fotomac.com.tr/eyupspor/2026/07/31/eyupspor-abdelhamid-sabiri-transferini-acikladi",
+    "title": "Eyüpspor Abdelhamid Sabiri transferini açıkladı!",
+    "ts": 1785530404013
+  },
+  {
+    "id": "https://www.aspor.com.tr/eyupspor/2026/07/31/eyupspor-abdelhamid-sabiriyi-transfer-etti",
+    "title": "Eyüpspor, Abdelhamid Sabiri'yi transfer etti",
+    "ts": 1785530407397
+  },
+  {
+    "id": "news-1170980",
+    "title": "Gençlerbirliği, Salih Uçan ile anlaştı!",
+    "ts": 1785530410610
   }
 ]
