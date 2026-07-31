@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/26/fenerbahceye-marcus-rashford-transferinde-beklenmeyen-engel",
-    "title": "Fenerbahçe'ye Marcus Rashford transferinde beklenmeyen engel!",
-    "ts": 1785069395341
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/26/fenerbahcede-flas-asensio-gelismesi-ismail-kartal",
-    "title": "Fenerbahçe'de flaş Asensio gelişmesi! İsmail Kartal...",
-    "ts": 1785069398758
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/26/transferde-kerem-akturkoglu-marcus-rashford-ve-roma-ucgeni",
-    "title": "Transferde Kerem Aktürkoğlu, Marcus Rashford ve Roma üçgeni!",
-    "ts": 1785069401897
-  },
-  {
     "id": "news-1170351",
     "title": "Galatasaray'da yeni hedef Konstantinos Karetsas",
     "ts": 1785075947381
@@ -603,5 +588,20 @@
     "id": "news-1170939",
     "title": "Ozan Tufan'dan ayrılık itirafı: \"Trabzonspor'dan gönderilebilirdim\"",
     "ts": 1785498846562
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/31/trabzonspor-gianluca-prestianni-icin-anlasma-sagladi",
+    "title": "Trabzonspor, Gianluca Prestianni için anlaşma sağladı!",
+    "ts": 1785505721100
+  },
+  {
+    "id": "news-1170949",
+    "title": "Galatasaray'dan Enciso için teklif!",
+    "ts": 1785505724427
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/31/fenerbahcede-yildiz-ismi-domenico-tedesco-transferde-gozune-kestirdi",
+    "title": "Fenerbahçe'de yıldız ismi Domenico Tedesco transferde gözüne kestirdi!",
+    "ts": 1785505727546
   }
 ]
