@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170346",
-    "title": "Çaykur Rizespor'da ayrılık: Papanikolaou",
-    "ts": 1785064520345
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/26/galatasarayda-104-depremi-2-oyuncuyla-yollar-ayrilacak",
-    "title": "Galatasaray'da 10+4 depremi! 2 oyuncuyla yollar ayrılacak",
-    "ts": 1785064523692
-  },
-  {
-    "id": "news-1170339",
-    "title": "Galatasaray'a Brahim Diaz Müjdesi!",
-    "ts": 1785064526804
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/26/fenerbahceye-marcus-rashford-transferinde-beklenmeyen-engel",
     "title": "Fenerbahçe'ye Marcus Rashford transferinde beklenmeyen engel!",
     "ts": 1785069395341
@@ -603,5 +588,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/07/30/galatasaraydan-can-uzun-harekati-frankfurtun-inadini-kiracak-teklif",
     "title": "Galatasaray'dan Can Uzun harekatı! Frankfurt'un inadını kıracak teklif",
     "ts": 1785447651499
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/31/galatasarayda-can-uzun-transferinde-beklenen-haber-geldi",
+    "title": "Galatasaray'da Can Uzun transferinde beklenen haber geldi!",
+    "ts": 1785498839818
+  },
+  {
+    "id": "news-1170942",
+    "title": "Erzurumspor FK'ye bedelsiz Hollandalı kanat",
+    "ts": 1785498843374
+  },
+  {
+    "id": "news-1170939",
+    "title": "Ozan Tufan'dan ayrılık itirafı: \"Trabzonspor'dan gönderilebilirdim\"",
+    "ts": 1785498846562
   }
 ]
