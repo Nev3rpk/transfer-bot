@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170369",
-    "title": "Fenerbahçe için Amar Dedic iddiası!",
-    "ts": 1785084752338
-  },
-  {
-    "id": "news-1170365",
-    "title": "Eren Elmalı'dan transfer itirafı",
-    "ts": 1785084755905
-  },
-  {
-    "id": "https://www.aspor.com.tr/webtv/trabzonspor/fatih-tekkeden-transfer-sozleri-ayrilmasini-bekledigimiz-oyuncular-var",
-    "title": "Fatih Tekke'den transfer sözleri: Ayrılmasını beklediğimiz oyuncular var",
-    "ts": 1785084759161
-  },
-  {
     "id": "news-1170372",
     "title": "Galatasaray'da Lucumi transferi Davinson'a bağlı!",
     "ts": 1785088628665
@@ -588,5 +573,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/07/31/besiktastan-tansfer-iddialarina-net-yanit",
     "title": "Beşiktaş'tan tansfer iddialarına net yanıt!",
     "ts": 1785513507946
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/07/31/besiktasta-devrim-sahin-bodrumspora-kiralandi",
+    "title": "Beşiktaş'ta Devrim Şahin Bodrumspor'a kiralandı",
+    "ts": 1785519593494
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/31/transferde-buyuk-surpriz-osimhen-ve-leaoyu-ayni-takim-istiyor",
+    "title": "Transferde büyük sürpriz! Osimhen ve Leao'yu aynı takım istiyor",
+    "ts": 1785519596927
+  },
+  {
+    "id": "news-1170956",
+    "title": "Beşiktaş'tan transfer iddialarına yalanlama!",
+    "ts": 1785519600087
   }
 ]
