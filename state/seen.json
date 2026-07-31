@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1170390",
-    "title": "Rafael Leao için Beşiktaş iddiası!",
-    "ts": 1785101262970
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/26/galatasaraydan-flas-musiala-aciklamasi-transfer",
-    "title": "Galatasaray'dan flaş Musiala açıklaması! Transfer...",
-    "ts": 1785101266311
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/27/besiktastan-rafael-leao-surprizi-bunu-kimse-beklemiyordu",
     "title": "Beşiktaş'tan Rafael Leao sürprizi! Bunu kimse beklemiyordu",
     "ts": 1785156744115
@@ -573,5 +563,20 @@
     "id": "news-1170980",
     "title": "Gençlerbirliği, Salih Uçan ile anlaştı!",
     "ts": 1785530410610
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/07/31/besiktastan-aciklama",
+    "title": "Beşiktaş'tan açıklama!",
+    "ts": 1785535172282
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/07/31/galatasarayda-mastantuono-gelismesi-real-madridden-resmi-aciklama",
+    "title": "Galatasaray'da Mastantuono gelişmesi! Real Madrid'den resmi açıklama",
+    "ts": 1785535175826
+  },
+  {
+    "id": "news-1170951",
+    "title": "Fenerbahçe'nin UEFA kadrosunda değişiklik",
+    "ts": 1785535178992
   }
 ]
