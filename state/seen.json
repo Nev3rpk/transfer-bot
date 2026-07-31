@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1170351",
-    "title": "Galatasaray'da yeni hedef Konstantinos Karetsas",
-    "ts": 1785075947381
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/07/26/trabzonspor-eintracht-frankfurt-canli-hazirlik-maci",
-    "title": "Trabzonspor-Eintracht Frankfurt | CANLI (Hazırlık maçı)",
-    "ts": 1785075950779
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/26/galatasarayda-okan-buruktan-taraftarlara-transfer-mujdesi",
-    "title": "Galatasaray'da Okan Buruk'tan taraftarlara transfer müjdesi!",
-    "ts": 1785075953912
-  },
-  {
-    "id": "news-1170335",
-    "title": "Okan Buruk bileti kesti! Galatasaray'da iki isim gidiyor",
-    "ts": 1785080234777
-  },
-  {
-    "id": "news-1170334",
-    "title": "Galatasaray'dan Can Uzun için 30 milyon euro",
-    "ts": 1785080238286
-  },
-  {
-    "id": "news-1170333",
-    "title": "Göztepe'de kaleye Gürcü aday: Luka Gugeshashvili",
-    "ts": 1785080241471
-  },
-  {
     "id": "news-1170369",
     "title": "Fenerbahçe için Amar Dedic iddiası!",
     "ts": 1785084752338
@@ -603,5 +573,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/31/fenerbahcede-yildiz-ismi-domenico-tedesco-transferde-gozune-kestirdi",
     "title": "Fenerbahçe'de yıldız ismi Domenico Tedesco transferde gözüne kestirdi!",
     "ts": 1785505727546
+  },
+  {
+    "id": "news-1170961",
+    "title": "Trabzonspor'dan Muhammed Salah açıklaması!",
+    "ts": 1785513501309
+  },
+  {
+    "id": "news-1170960",
+    "title": "Fenerbahçe'nin gündemindeydi! Mauro Junior kararını verdi!",
+    "ts": 1785513504778
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/07/31/besiktastan-tansfer-iddialarina-net-yanit",
+    "title": "Beşiktaş'tan tansfer iddialarına net yanıt!",
+    "ts": 1785513507946
   }
 ]
