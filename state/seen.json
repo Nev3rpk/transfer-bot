@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170504",
-    "title": "Fenerbahçe'den Leao için Milano çıkarması!",
-    "ts": 1785173868415
-  },
-  {
-    "id": "news-1170502",
-    "title": "Fenerbahçe Kadın Futbol Takımı'ndan kaleye Paraguaylı takviye!",
-    "ts": 1785173871844
-  },
-  {
-    "id": "news-1170501",
-    "title": "Alanyaspor'da Güven Yalçın ile yollar ayrıldı!",
-    "ts": 1785173874957
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/27/trabzonspor-rene-mitongo-ile-anlasma-sagladi",
     "title": "Trabzonspor Rene Mitongo ile anlaşma sağladı!",
     "ts": 1785179840581
@@ -638,5 +623,20 @@
     "id": "news-1171040",
     "title": "Fenerbahçe'den Rafael Leao'ya teklif hazırlığı",
     "ts": 1785603219903
+  },
+  {
+    "id": "news-1171061",
+    "title": "El Bilal Toure'nin yeni takımı belli oluyor",
+    "ts": 1785606968317
+  },
+  {
+    "id": "news-1171038",
+    "title": "Noa Lang için 25 milyon euro",
+    "ts": 1785606971654
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/01/aziz-yildirim-bir-santrfor-alacagiz-dedi-transferin-tarihini-acikladi",
+    "title": "Aziz Yıldırım \"Bir santrfor alacağız\" dedi! Transferin tarihini açıkladı",
+    "ts": 1785606974791
   }
 ]
