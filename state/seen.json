@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/27/trabzonspor-rene-mitongo-ile-anlasma-sagladi",
-    "title": "Trabzonspor Rene Mitongo ile anlaşma sağladı!",
-    "ts": 1785179840581
-  },
-  {
-    "id": "news-1170506",
-    "title": "Galatasaray'a Reijnders için transfer şartı!",
-    "ts": 1785179844128
-  },
-  {
-    "id": "news-1170505",
-    "title": "Amedspor, Gift Orban'ı açıkladı!",
-    "ts": 1785179847314
-  },
-  {
     "id": "news-1170512",
     "title": "Okan Buruk'tan mağlubiyet sonrası transfer açıklaması!",
     "ts": 1785185375905
@@ -653,5 +638,20 @@
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktasta-mauro-icardi-gelismesi-8-milyon-euro-maas",
     "title": "Beşiktaş'ta Mauro Icardi gelişmesi! \"8 milyon euro maaş...\"",
     "ts": 1785610976042
+  },
+  {
+    "id": "news-1171069",
+    "title": "Fenerbahçe'de Vedat Muriqi sevinci",
+    "ts": 1785615889100
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/01/yildiz-stoperden-fenerbahceye-transfer-cevabi-2-kati-maas-teklif-edilmisti",
+    "title": "Yıldız stoperden Fenerbahçe'ye transfer cevabı! 2 katı maaş teklif edilmişti",
+    "ts": 1785615892575
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/01/galatasarayda-ayrilik-eski-takimi-talip-oldu",
+    "title": "Galatasaray'da ayrılık! Eski takımı talip oldu",
+    "ts": 1785615895741
   }
 ]
