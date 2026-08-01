@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/27/trabzonsporlu-sidny-lopes-cabraldan-en-guzel-gol-tesekkuru",
-    "title": "Trabzonsporlu Sidny Lopes Cabral'dan 'en güzel gol' teşekkürü",
-    "ts": 1785189582976
-  },
-  {
-    "id": "news-1170497",
-    "title": "Beşiktaş'tan Vlahovic açıklaması!",
-    "ts": 1785189586408
-  },
-  {
-    "id": "news-1170430",
-    "title": "Fred, Fenerbahçe'ye veda ediyor",
-    "ts": 1785189589567
-  },
-  {
     "id": "news-1170493",
     "title": "Kocaelispor, Churlinov'un sözleşmesini feshetti",
     "ts": 1785193703825
@@ -648,5 +633,15 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/01/galatasaray-avrupayi-sarsan-yildiza-talip-oldu-degeri-firladi",
     "title": "Galatasaray Avrupa'yı sarsan yıldıza talip oldu! Değeri fırladı",
     "ts": 1785619426485
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/01/isvec-ligini-sallayan-golcu-galatasaraya-ada-basini-transferi-boyle-duyurdu",
+    "title": "İsveç Ligi'ni sallayan golcü Galatasaray'a! Ada basını transferi böyle duyurdu",
+    "ts": 1785623140820
+  },
+  {
+    "id": "news-1171076",
+    "title": "Trabzonspor büyük oynuyor: Sörloth",
+    "ts": 1785623144241
   }
 ]
