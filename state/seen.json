@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/07/28/carlo-holse-mls-ekibi-st-louis-citye-transfer-oldu",
-    "title": "Carlo Holse MLS ekibi St. Louis City'e transfer oldu!",
-    "ts": 1785246511547
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/07/28/rafael-leaodan-gundem-olan-paylasim",
-    "title": "Rafael Leao'dan gündem olan paylaşım!",
-    "ts": 1785246514895
-  },
-  {
-    "id": "https://www.aspor.com.tr/samsunspor/2026/07/28/carlo-holse-transferi-resmen-aciklandi",
-    "title": "Carlo Holse transferi resmen açıklandı!",
-    "ts": 1785246518041
-  },
-  {
     "id": "https://www.fotomac.com.tr/samsunspor/2026/07/28/samsunspor-baskani-yuksel-yildirim-hedefimiz",
     "title": "Samsunspor Başkanı Yüksel Yıldırım: Hedefimiz...",
     "ts": 1785254457846
@@ -643,5 +628,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/02/ertugrul-dogan-istesek-150-milyon-euroluk-oyuncu-satabiliriz",
     "title": "Ertuğrul Doğan: İstesek 150 milyon euro'luk oyuncu satabiliriz",
     "ts": 1785674065051
+  },
+  {
+    "id": "news-1171158",
+    "title": "Beşiktaş'ın Jeff Chabot teklifine ret",
+    "ts": 1785680728746
+  },
+  {
+    "id": "news-1171157",
+    "title": "Fenerbahçe için Ismaila Sarr iddiası!",
+    "ts": 1785680732127
+  },
+  {
+    "id": "news-1171152",
+    "title": "ABB FOMGET, Dilan Bora'yı yeniden kadrosuna kattı",
+    "ts": 1785680735256
   }
 ]
