@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170493",
-    "title": "Kocaelispor, Churlinov'un sözleşmesini feshetti",
-    "ts": 1785193703825
-  },
-  {
-    "id": "news-1170489",
-    "title": "Beşiktaş Kadın Futbol Takımı, Yana Derkach'ı duyurdu",
-    "ts": 1785193707750
-  },
-  {
-    "id": "https://www.fotomac.com.tr/alanyaspor/2026/07/27/corendon-alanyaspordan-guven-yalcin-aciklamasi",
-    "title": "Corendon Alanyaspor'dan Güven Yalçın açıklaması!",
-    "ts": 1785193710877
-  },
-  {
     "id": "news-1170589",
     "title": "Ahmetcan Kaplan'ın transferi iptal oldu!",
     "ts": 1785239553290
@@ -643,5 +628,20 @@
     "id": "news-1171076",
     "title": "Trabzonspor büyük oynuyor: Sörloth",
     "ts": 1785623144241
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/02/besiktasa-paraguayli-savunmaci-omar-alderete",
+    "title": "Beşiktaş'a Paraguaylı savunmacı: Omar Alderete!",
+    "ts": 1785669161935
+  },
+  {
+    "id": "news-1171130",
+    "title": "Aliağa FK, Adem Yeşilyurt'u kiralamak istiyor",
+    "ts": 1785669165452
+  },
+  {
+    "id": "news-1171129",
+    "title": "Göztepe'de Armstrong'a tam not!",
+    "ts": 1785669168649
   }
 ]
