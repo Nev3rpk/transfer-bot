@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170644",
-    "title": "İtalyan gazeteci duyurdu! İşte Fenerbahçe ve Galatasaray'ın teklifleri",
-    "ts": 1785275855697
-  },
-  {
-    "id": "news-1170643",
-    "title": "Bursaspor, Zeki Yavru'yu açıkladı!",
-    "ts": 1785275858995
-  },
-  {
-    "id": "news-1170633",
-    "title": "Kasımpaşa, Benedyczak'ın bonservisini aldı",
-    "ts": 1785275862113
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/28/cabral-trabzonspora-transfer-surecini-anlatti",
     "title": "Cabral Trabzonspor'a transfer sürecini anlattı!",
     "ts": 1785279519314
@@ -673,5 +658,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/02/okan-buruk-guclu-bir-kadro-kuracagiz",
     "title": "Okan Buruk: Güçlü bir kadro kuracağız!",
     "ts": 1785705868191
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/galatasaray-haberleri-abdullah-kavukcu-son-sozumuzu-soylemedik",
+    "title": "GALATASARAY HABERLERİ - Abdullah Kavukcu: Son sözümüzü söylemedik!",
+    "ts": 1785709548421
+  },
+  {
+    "id": "news-1171175",
+    "title": "Abdullah Kavukcu'dan transfer tepkilerine tek tek cevap verdi!",
+    "ts": 1785709551713
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/02/okan-buruktan-rennes-maci-sonrasi-transfer-aciklamasi",
+    "title": "Okan Buruk'tan Rennes maçı sonrası transfer açıklaması!",
+    "ts": 1785709554827
   }
 ]
