@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170589",
-    "title": "Ahmetcan Kaplan'ın transferi iptal oldu!",
-    "ts": 1785239553290
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/28/resmi-aciklama-geldi-fenerbahce-ve-rafael-leao",
-    "title": "Resmi açıklama geldi! Fenerbahçe ve Rafael Leao...",
-    "ts": 1785239556914
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/28/fenerbahceden-lige-damga-vuracak-takas-2-oyuncu",
-    "title": "Fenerbahçe'den lige damga vuracak takas! 2 oyuncu...",
-    "ts": 1785239560061
-  },
-  {
     "id": "https://www.fotomac.com.tr/samsunspor/2026/07/28/carlo-holse-mls-ekibi-st-louis-citye-transfer-oldu",
     "title": "Carlo Holse MLS ekibi St. Louis City'e transfer oldu!",
     "ts": 1785246511547
@@ -643,5 +628,20 @@
     "id": "news-1171129",
     "title": "Göztepe'de Armstrong'a tam not!",
     "ts": 1785669168649
+  },
+  {
+    "id": "news-1171145",
+    "title": "Chibuike Nwaiwu için transfer yanıtı",
+    "ts": 1785674058301
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasta-stoper-icin-3-aday-ortaya-cikti-pereira-ve-chabot-olmazsa",
+    "title": "Beşiktaş'ta stoper için 3. aday ortaya çıktı! Pereira ve Chabot olmazsa...",
+    "ts": 1785674061864
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/02/ertugrul-dogan-istesek-150-milyon-euroluk-oyuncu-satabiliriz",
+    "title": "Ertuğrul Doğan: İstesek 150 milyon euro'luk oyuncu satabiliriz",
+    "ts": 1785674065051
   }
 ]
