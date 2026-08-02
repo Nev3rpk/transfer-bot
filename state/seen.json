@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/07/28/samsunspor-baskani-yuksel-yildirim-hedefimiz",
-    "title": "Samsunspor Başkanı Yüksel Yıldırım: Hedefimiz...",
-    "ts": 1785254457846
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/28/galatasaray-osimhenin-yedegini-buldu-tribunde-izlediler",
-    "title": "Galatasaray Osimhen'in yedeğini buldu! Tribünde izlediler",
-    "ts": 1785254461396
-  },
-  {
-    "id": "news-1170618",
-    "title": "Fenerbahçe'den 1. Lig'e gitti: Yiğit Fidan",
-    "ts": 1785254464577
-  },
-  {
     "id": "news-1170632",
     "title": "Fatih Karagümrük, Muhammed Emin Sarıkaya'yı duyurdu",
     "ts": 1785261062377
@@ -658,5 +643,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/02/trabzonspor-udinese-canli-hazirlik-maci",
     "title": "Trabzonspor-Udinese | CANLI (Hazırlık maçı)",
     "ts": 1785685015630
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasa-nicolas-jackson-onerisi-transferde-formul-belli-oldu",
+    "title": "Beşiktaş'a Nicolas Jackson önerisi! Transferde formül belli oldu",
+    "ts": 1785689548100
+  },
+  {
+    "id": "news-1171140",
+    "title": "Galatasaray'da zor hedef: Rodrigo Mora",
+    "ts": 1785689551429
+  },
+  {
+    "id": "news-1171138",
+    "title": "Galatasaray'da savunma hedefi: Nathan Zeze",
+    "ts": 1785689554546
   }
 ]
