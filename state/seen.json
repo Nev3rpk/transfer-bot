@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/07/28/mohamed-salah-transferinden-vaz-mi-gecildi",
-    "title": "Mohamed Salah transferinden vaz mı geçildi?",
-    "ts": 1785266072699
-  },
-  {
-    "id": "https://www.fotomac.com.tr/basaksehir/2026/07/28/basaksehir-fk-andreas-skov-olseni-kadrosuna-katti",
-    "title": "Başakşehir FK,  Andreas Skov Olsen'i kadrosuna kattı",
-    "ts": 1785266076169
-  },
-  {
-    "id": "https://www.fotomac.com.tr/kasimpasa/2026/07/28/adrian-benedyczak-yeniden-kasimpasada",
-    "title": "Adrian Benedyczak, yeniden Kasımpaşa'da",
-    "ts": 1785266079335
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/07/28/can-uzun-galatasaraya-transfer-olacak-mi-sportif-direktorden-flas-sozler",
     "title": "Can Uzun Galatasaray'a transfer olacak mı? Sportif direktörden flaş sözler",
     "ts": 1785271253369
@@ -673,5 +658,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/02/galatasaraydan-fransiz-stopere-kanca-opsiyonlu-kiralama",
     "title": "Galatasaray'dan Fransız stopere kanca! Opsiyonlu kiralama...",
     "ts": 1785697564027
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/02/besiktasta-felix-uduokhai-yolcu-yeni-takimi",
+    "title": "Beşiktaş'ta Felix Uduokhai yolcu! Yeni takımı...",
+    "ts": 1785702421472
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/02/aziz-yildirimin-bu-hafta-bitirecegiz-dedigi-santrfor-ortaya-cikti",
+    "title": "Aziz Yıldırım'ın \"Bu hafta bitireceğiz\" dediği santrfor ortaya çıktı!",
+    "ts": 1785702424842
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasta-beklenen-ayrilikta-sona-gelindi-onder-ozen-transferin-haberini-vermisti",
+    "title": "Beşiktaş'ta beklenen ayrılıkta sona gelindi! Önder Özen transferin haberini vermişti",
+    "ts": 1785702427971
   }
 ]
