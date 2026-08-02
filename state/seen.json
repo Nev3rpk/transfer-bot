@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170632",
-    "title": "Fatih Karagümrük, Muhammed Emin Sarıkaya'yı duyurdu",
-    "ts": 1785261062377
-  },
-  {
-    "id": "news-1170631",
-    "title": "Eyüpspor, Anıl Yaşar'ı yeniden kiraladı!",
-    "ts": 1785261065790
-  },
-  {
-    "id": "news-1170629",
-    "title": "Beşiktaş'ta Salah rüzgarı tersine döndü! Taraftardan yönetime destek",
-    "ts": 1785261068923
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/28/mohamed-salah-transferinden-vaz-mi-gecildi",
     "title": "Mohamed Salah transferinden vaz mı geçildi?",
     "ts": 1785266072699
@@ -658,5 +643,20 @@
     "id": "news-1171138",
     "title": "Galatasaray'da savunma hedefi: Nathan Zeze",
     "ts": 1785689554546
+  },
+  {
+    "id": "news-1171167",
+    "title": "Cenk Özkacar: \"Kendimi yeni transfer olmuş gibi hissetmiyorum\"",
+    "ts": 1785693410193
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/02/galatasaraydan-u23-stoper-hamlesi-iste-transfer-formulu",
+    "title": "Galatasaray'dan U23 stoper hamlesi! İşte transfer formülü",
+    "ts": 1785693413512
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/02/fenerbahcede-transfer-gelismesi-kararini-acikladi",
+    "title": "Fenerbahçe'de transfer gelişmesi! Kararını açıkladı",
+    "ts": 1785693416630
   }
 ]
