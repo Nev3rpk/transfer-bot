@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170732",
-    "title": "Gaziantep FK, Ulrich Meleke'yi duyurdu!",
-    "ts": 1785333914384
-  },
-  {
-    "id": "news-1170731",
-    "title": "Başakşehir, Umut Bozok'u kadrosuna kattı",
-    "ts": 1785333917777
-  },
-  {
-    "id": "news-1170729",
-    "title": "Fenerbahçe'de 5 ayrılık birden! Biletleri kesildi",
-    "ts": 1785333920916
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/07/29/trabzonspor-rene-mitongo-transferini-duyurdu",
     "title": "Trabzonspor Rene Mitongo transferini duyurdu!",
     "ts": 1785340813386
@@ -658,5 +643,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/03/besiktasta-leandro-trossard-ilk-antrenmanina-cikti",
     "title": "Beşiktaş'ta Leandro Trossard ilk antrenmanına çıktı",
     "ts": 1785761544381
+  },
+  {
+    "id": "news-1171261",
+    "title": "Leandro Trossard, sahaya indi",
+    "ts": 1785771625416
+  },
+  {
+    "id": "news-1171260",
+    "title": "Fenerbahçe'den Rashford hamlesi!",
+    "ts": 1785771629071
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/03/super-ligde-2026-2027-sezonu-adnan-suvari-sezonu-adiyla-oynanacak",
+    "title": "Süper Lig’de 2026-2027 sezonu Adnan Süvari Sezonu adıyla oynanacak",
+    "ts": 1785771632236
   }
 ]
