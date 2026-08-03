@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/29/gornik-zabrze-fenerbahce-macinda-penalti-karari",
-    "title": "Gornik Zabrze - Fenerbahçe maçında penaltı kararı!",
-    "ts": 1785349845716
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/07/29/gornik-zabrze-fenerbahce-canli-uefa-sampiyonlar-ligi-2-on-eleme-turu",
-    "title": "Gornik Zabrze-Fenerbahçe | CANLI (UEFA Şampiyonlar Ligi 2. ön eleme turu)",
-    "ts": 1785349849197
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/29/vedat-muriqi-imza-gununde-fenerbahceli-taraftarlarla-bulustu",
-    "title": "Vedat Muriqi imza gününde Fenerbahçeli taraftarlarla buluştu",
-    "ts": 1785349852311
-  },
-  {
     "id": "news-1170764",
     "title": "Icardi'nin menajeri Pino'dan yeni takım açıklaması!",
     "ts": 1785355707329
@@ -643,5 +628,20 @@
     "id": "news-1171290",
     "title": "Galatasaray, Zeze için ilk teklifini yaptı: Anında cevap geldi",
     "ts": 1785779126339
+  },
+  {
+    "id": "news-1171296",
+    "title": "İnegölspor, Harun Tekin'i transfer etti!",
+    "ts": 1785784967196
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/03/fenerbahceden-mimovic-icin-tumosan-konyaspor-devrede",
+    "title": "Fenerbahçe'den Mimovic için Tümosan Konyaspor devrede!",
+    "ts": 1785784970691
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/03/galatasaraya-transferde-zeze-soku-yapilan-teklife",
+    "title": "Galatasaray'a transferde Zeze şoku! Yapılan teklife...",
+    "ts": 1785784973821
   }
 ]
