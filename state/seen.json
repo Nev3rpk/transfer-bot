@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170733",
-    "title": "Dursun Özbek açıkladı: Mauro Icardi'ye teklif",
-    "ts": 1785360339285
-  },
-  {
-    "id": "https://www.fotomac.com.tr/basaksehir/2026/07/29/rams-basaksehirden-transferde-umut-bozok-surprizi",
-    "title": "RAMS Başakşehir'den transferde Umut Bozok sürprizi!",
-    "ts": 1785360342656
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/29/mauro-icardi-her-an-transfer-olabilir-menajerinden-flas-sozler",
-    "title": "Mauro Icardi her an transfer olabilir! Menajerinden flaş sözler",
-    "ts": 1785360345777
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/29/yonetim-biletlerini-kesti-fenerbahcede-5-ayrilik-birden",
     "title": "Yönetim biletlerini kesti! Fenerbahçe'de 5 ayrılık birden",
     "ts": 1785364082633
@@ -643,5 +628,10 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/03/fenerbahce-marcus-rasford-transferi-icin-kesenin-agzini-acti",
     "title": "Fenerbahçe Marcus Rasford transferi için kesenin ağzını açtı!",
     "ts": 1785789732922
+  },
+  {
+    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/08/03/fatih-karagumruk-dorukhan-tokoz-ile-anlasti",
+    "title": "Fatih Karagümrük, Dorukhan Toköz ile anlaştı",
+    "ts": 1785794506044
   }
 ]
