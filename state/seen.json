@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170839",
-    "title": "Trabzonspor'dan 18'lik yıldız hamlesi",
-    "ts": 1785419023430
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/30/galatasarayda-franjo-ivanovic-gelismesi-transferde-son-durum",
-    "title": "Galatasaray'da Franjo Ivanovic gelişmesi! Transferde son durum...",
-    "ts": 1785419026729
-  },
-  {
-    "id": "news-1170829",
-    "title": "Bodrum FK'dan iki takviye",
-    "ts": 1785419029846
-  },
-  {
     "id": "news-1170856",
     "title": "Trabzonspor'da ayrılık yakın: Salih Malkoçoğlu",
     "ts": 1785426419096
@@ -603,5 +588,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/04/besiktasta-jaden-philogene-sesleri-teknik-heyetten-transfere-onay-geldi",
     "title": "Beşiktaş'ta Jaden Philogene sesleri! Teknik heyetten transfere onay geldi",
     "ts": 1785844753422
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/super-lig-ekibi-salih-ucan-ve-irfan-can-egribayat-ile-anlasma-sagladi",
+    "title": "Süper Lig ekibi Salih Uçan ve İrfan Can Eğribayat ile anlaşma sağladı!",
+    "ts": 1785853475629
+  },
+  {
+    "id": "news-1171380",
+    "title": "Fenerbahçe'ye Nicolas Jackson için dev rakipler",
+    "ts": 1785853479228
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/fenerbahcede-surpriz-ayrilik-iste-o-isim",
+    "title": "Fenerbahçe'de sürpriz ayrılık! İşte o isim...",
+    "ts": 1785853482411
   }
 ]
