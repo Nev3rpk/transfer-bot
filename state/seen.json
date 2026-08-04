@@ -1,30 +1,5 @@
 [
   {
-    "id": "news-1170881",
-    "title": "Galatasaray'da Sacha Boey gerçeği!",
-    "ts": 1785442335331
-  },
-  {
-    "id": "news-1170842",
-    "title": "Roma ve Crystal Palace'tan Oosterwolde hamlesi!",
-    "ts": 1785442338898
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/30/fenerbahceye-transferde-buyuk-sok-40-milyon-euroya-imzaliyor",
-    "title": "Fenerbahçe'ye transferde büyük şok! 40 milyon euro'ya imzalıyor",
-    "ts": 1785442342129
-  },
-  {
-    "id": "news-1170883",
-    "title": "Dorukhan Toköz, Kayserispor'dan ayrıldığını açıkladı",
-    "ts": 1785447648046
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/07/30/galatasaraydan-can-uzun-harekati-frankfurtun-inadini-kiracak-teklif",
-    "title": "Galatasaray'dan Can Uzun harekatı! Frankfurt'un inadını kıracak teklif",
-    "ts": 1785447651499
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/07/31/galatasarayda-can-uzun-transferinde-beklenen-haber-geldi",
     "title": "Galatasaray'da Can Uzun transferinde beklenen haber geldi!",
     "ts": 1785498839818
@@ -603,5 +578,20 @@
     "id": "news-1171397",
     "title": "Çorum FK'den Aubameyang açıklaması!",
     "ts": 1785874077851
+  },
+  {
+    "id": "https://www.fotomac.com.tr/goztepe/2026/08/04/goztepe-gokdeniz-bayrakdari-kadrosuna-katti",
+    "title": "Göztepe, Gökdeniz Bayrakdar'ı kadrosuna kattı",
+    "ts": 1785880004127
+  },
+  {
+    "id": "news-1171404",
+    "title": "Fenerbahçe'de Kante gelişmesi! UEFA kadrosuna eklendi",
+    "ts": 1785880007660
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/fenerbahcede-dikkat-ceken-gelisme-ngolo-kante-listeye-eklendi",
+    "title": "Fenerbahçe'de dikkat çeken gelişme! N'Golo Kante listeye eklendi",
+    "ts": 1785880010854
   }
 ]
