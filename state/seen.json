@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/besiktas/2026/07/30/midtjylland-besiktas-macinda-penalti-karari",
-    "title": "Midtjylland-Beşiktaş maçında penaltı kararı!",
-    "ts": 1785437631420
-  },
-  {
-    "id": "https://www.aspor.com.tr/basaksehir/2026/07/30/rams-basaksehir-konferans-liginde-inter-turkuya-maglup-oldu-ve-avrupaya-veda-etti",
-    "title": "RAMS Başakşehir Konferans Ligi'nde Inter Turku'ya mağlup oldu ve Avrupa'ya veda etti!",
-    "ts": 1785437634785
-  },
-  {
-    "id": "news-1170850",
-    "title": "Galatasaray'da Mario Lemina'dan Osimhen ve Icardi açıklaması!",
-    "ts": 1785437637913
-  },
-  {
     "id": "news-1170881",
     "title": "Galatasaray'da Sacha Boey gerçeği!",
     "ts": 1785442335331
@@ -603,5 +588,20 @@
     "id": "news-1171372",
     "title": "İsmail Kartal açıkladı: \"Kadroda olacaklar\"",
     "ts": 1785867041885
+  },
+  {
+    "id": "news-1171401",
+    "title": "Fenerbahçe'de golcü çıkmazı: Pavlidis - Endrick!",
+    "ts": 1785874071139
+  },
+  {
+    "id": "news-1171398",
+    "title": "Eyüpspor, Nijeryalı santrfor Ahmed Abdullahi'yi transfer etti",
+    "ts": 1785874074659
+  },
+  {
+    "id": "news-1171397",
+    "title": "Çorum FK'den Aubameyang açıklaması!",
+    "ts": 1785874077851
   }
 ]
