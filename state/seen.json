@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170856",
-    "title": "Trabzonspor'da ayrılık yakın: Salih Malkoçoğlu",
-    "ts": 1785426419096
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/30/fenerbahce-ve-galatasaraya-transfer-soku-rafael-leao",
-    "title": "Fenerbahçe ve Galatasaray'a transfer şoku! Rafael Leao…",
-    "ts": 1785426422425
-  },
-  {
-    "id": "news-1170852",
-    "title": "Manchester United'dan Leao için hamle",
-    "ts": 1785426425557
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/30/besiktasin-yeni-kalecisi-alexander-nubel-kimdir-kac-yasinda",
     "title": "Beşiktaş'ın yeni kalecisi Alexander Nübel kimdir, kaç yaşında?",
     "ts": 1785431959269
@@ -603,5 +588,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/fenerbahcede-surpriz-ayrilik-iste-o-isim",
     "title": "Fenerbahçe'de sürpriz ayrılık! İşte o isim...",
     "ts": 1785853482411
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-mohamed-salah-gelismesi-canli-yayinda-aciklandi",
+    "title": "Trabzonspor'da Mohamed Salah gelişmesi! Canlı yayında açıklandı",
+    "ts": 1785860767959
+  },
+  {
+    "id": "news-1171385",
+    "title": "Benjamin Pavard'a üç talip birden! Tercihi şaşırttı",
+    "ts": 1785860771443
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/08/04/samsunspor-antoine-sekongoyu-transfer-etti",
+    "title": "Samsunspor Antoine Sekongo'yu transfer etti",
+    "ts": 1785860774621
   }
 ]
