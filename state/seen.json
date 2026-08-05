@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/eyupspor/2026/07/31/eyupspor-abdelhamid-sabiri-transferini-acikladi",
-    "title": "Eyüpspor Abdelhamid Sabiri transferini açıkladı!",
-    "ts": 1785530404013
-  },
-  {
-    "id": "https://www.aspor.com.tr/eyupspor/2026/07/31/eyupspor-abdelhamid-sabiriyi-transfer-etti",
-    "title": "Eyüpspor, Abdelhamid Sabiri'yi transfer etti",
-    "ts": 1785530407397
-  },
-  {
-    "id": "news-1170980",
-    "title": "Gençlerbirliği, Salih Uçan ile anlaştı!",
-    "ts": 1785530410610
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/31/besiktastan-aciklama",
     "title": "Beşiktaş'tan açıklama!",
     "ts": 1785535172282
@@ -623,5 +608,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/05/trabzonda-mohamed-salah-coskusu-havalimanina-akin-ettiler",
     "title": "Trabzon'da Mohamed Salah coşkusu! Havalimanına akın ettiler",
     "ts": 1785957614130
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/05/fenerbahceden-forvet-transferi-icin-resmi-aciklama",
+    "title": "Fenerbahçe'den forvet transferi için resmi açıklama!",
+    "ts": 1785962578182
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/05/fenerbahcede-mason-greenwood-siftah-yapti",
+    "title": "Fenerbahçe'de Mason Greenwood siftah yaptı!",
+    "ts": 1785962581676
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/05/aleksey-batrakov-galatasaraya-transfer-olacak-mi-boyle-yanitladi",
+    "title": "Aleksey Batrakov, Galatasaray'a transfer olacak mı? Böyle yanıtladı",
+    "ts": 1785962584855
   }
 ]
