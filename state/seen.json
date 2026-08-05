@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/07/31/besiktasta-devrim-sahin-bodrumspora-kiralandi",
-    "title": "Beşiktaş'ta Devrim Şahin Bodrumspor'a kiralandı",
-    "ts": 1785519593494
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/07/31/transferde-buyuk-surpriz-osimhen-ve-leaoyu-ayni-takim-istiyor",
-    "title": "Transferde büyük sürpriz! Osimhen ve Leao'yu aynı takım istiyor",
-    "ts": 1785519596927
-  },
-  {
-    "id": "news-1170956",
-    "title": "Beşiktaş'tan transfer iddialarına yalanlama!",
-    "ts": 1785519600087
-  },
-  {
-    "id": "news-1170975",
-    "title": "Trabzonspor için Eldor Shomurodov iddiası!",
-    "ts": 1785525275610
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/07/31/milandan-flas-leao-karari-fenerbahce-ve-galatasaraya-ilettiler",
-    "title": "Milan'dan flaş Leao kararı! Fenerbahçe ve Galatasaray'a ilettiler",
-    "ts": 1785525279120
-  },
-  {
-    "id": "news-1170973",
-    "title": "Fenerbahçe'den İrfan Can Kahveci için resmi açıklama",
-    "ts": 1785525282311
-  },
-  {
     "id": "https://www.fotomac.com.tr/eyupspor/2026/07/31/eyupspor-abdelhamid-sabiri-transferini-acikladi",
     "title": "Eyüpspor Abdelhamid Sabiri transferini açıkladı!",
     "ts": 1785530404013
@@ -638,5 +608,20 @@
     "id": "news-1171500",
     "title": "Ertuğrul Doğan'dan Serdal Adalı'nın Salah açıklaması için cevap!",
     "ts": 1785951448225
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/05/fenerbahce-sturm-graz-macinda-hakemden-skandal-karar",
+    "title": "Fenerbahçe-Sturm Graz maçında hakemden skandal karar!",
+    "ts": 1785957607560
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/05/besiktasta-leandro-trossard-uefa-kadrosuna-eklendi",
+    "title": "Beşiktaş'ta Leandro Trossard UEFA kadrosuna eklendi!",
+    "ts": 1785957611004
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/05/trabzonda-mohamed-salah-coskusu-havalimanina-akin-ettiler",
+    "title": "Trabzon'da Mohamed Salah coşkusu! Havalimanına akın ettiler",
+    "ts": 1785957614130
   }
 ]
