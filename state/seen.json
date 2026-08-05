@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1170961",
-    "title": "Trabzonspor'dan Muhammed Salah açıklaması!",
-    "ts": 1785513501309
-  },
-  {
-    "id": "news-1170960",
-    "title": "Fenerbahçe'nin gündemindeydi! Mauro Junior kararını verdi!",
-    "ts": 1785513504778
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/07/31/besiktastan-tansfer-iddialarina-net-yanit",
-    "title": "Beşiktaş'tan tansfer iddialarına net yanıt!",
-    "ts": 1785513507946
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/07/31/besiktasta-devrim-sahin-bodrumspora-kiralandi",
     "title": "Beşiktaş'ta Devrim Şahin Bodrumspor'a kiralandı",
     "ts": 1785519593494
@@ -638,5 +623,20 @@
     "id": "news-1171498",
     "title": "Horejs: \"Tomas Sivok ile görüştük\"",
     "ts": 1785945478061
+  },
+  {
+    "id": "news-1171504",
+    "title": "Fenerbahçeli yıldızlardan Şampiyonlar Ligi mesajı",
+    "ts": 1785951441734
+  },
+  {
+    "id": "news-1171503",
+    "title": "Trabzonspor'da transfer açıklaması: \"Pazartesi günü belli olacak\"",
+    "ts": 1785951445069
+  },
+  {
+    "id": "news-1171500",
+    "title": "Ertuğrul Doğan'dan Serdal Adalı'nın Salah açıklaması için cevap!",
+    "ts": 1785951448225
   }
 ]
