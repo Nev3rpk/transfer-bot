@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171031",
-    "title": "Aziz Yıldırım açıkladı: Chris Van Puyvelde",
-    "ts": 1785587527588
-  },
-  {
-    "id": "news-1171030",
-    "title": "Aziz Yıldırım'dan Kante için flaş sözler",
-    "ts": 1785587531107
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/01/aziz-yildirimdan-kante-tepkisi-satabiliyorsaniz-satin",
-    "title": "Aziz Yıldırım'dan Kante tepkisi: Satabiliyorsanız satın!",
-    "ts": 1785587534237
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/01/besiktas-ve-galatasaray-arasindaki-transfer-yarisinda-sicak-gelisme-takas-teklifi",
     "title": "Beşiktaş ve Galatasaray arasındaki transfer yarışında sıcak gelişme! Takas teklifi...",
     "ts": 1785594232671
@@ -623,5 +608,20 @@
     "id": "news-1171568",
     "title": "Fenerbahçe'de Pavlidis için görüşmeler hızlandı!",
     "ts": 1786017541300
+  },
+  {
+    "id": "news-1171594",
+    "title": "Cenk Tosun'dan Beşiktaş itirafı!",
+    "ts": 1786026036667
+  },
+  {
+    "id": "news-1171593",
+    "title": "Mustafa Hekimoğlu'na İspanya kancası!",
+    "ts": 1786026039983
+  },
+  {
+    "id": "https://www.fotomac.com.tr/transfer/2026/08/06/o-transfer-suya-dusuyor-yildiz-isim-ulkesinin-yolunu-tuttu",
+    "title": "O transfer suya düşüyor! Yıldız isim ülkesinin yolunu tuttu",
+    "ts": 1786026043103
   }
 ]
