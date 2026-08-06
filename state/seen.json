@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171028",
-    "title": "Aziz Yıldırım'dan transfer açıklaması!",
-    "ts": 1785582730550
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/01/aziz-yildirimdan-ngolo-kante-cikisi-kimse-almaz",
-    "title": "Aziz Yıldırım'dan N'Golo Kante çıkışı! \"Kimse almaz\"",
-    "ts": 1785582734018
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/01/fenerbahceden-karsiyakaya-kiralik-transfer",
-    "title": "Fenerbahçe'den Karşıyaka'ya kiralık transfer!",
-    "ts": 1785582737208
-  },
-  {
     "id": "news-1171031",
     "title": "Aziz Yıldırım açıkladı: Chris Van Puyvelde",
     "ts": 1785587527588
@@ -623,5 +608,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/08/05/kocaelispor-ayriligi-acikladi",
     "title": "Kocaelispor ayrılığı açıkladı!",
     "ts": 1785972478549
+  },
+  {
+    "id": "news-1171575",
+    "title": "Somaspor'da transfer sürüyor",
+    "ts": 1786017534851
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/06/jamie-carragherdan-salah-transferi-icin-skandal-yorum",
+    "title": "Jamie Carragher'dan Salah transferi için skandal yorum!",
+    "ts": 1786017538183
+  },
+  {
+    "id": "news-1171568",
+    "title": "Fenerbahçe'de Pavlidis için görüşmeler hızlandı!",
+    "ts": 1786017541300
   }
 ]
