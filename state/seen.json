@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/02/fenerbahce-ismaila-sarr-transferinde-mutlu-sona-ulasti-anlasma-saglandi",
-    "title": "Fenerbahçe Ismaila Sarr transferinde mutlu sona ulaştı! Anlaşma sağlandı",
-    "ts": 1785685008917
-  },
-  {
-    "id": "news-1171161",
-    "title": "Sidiki Cherif'e Premier Lig kancası!",
-    "ts": 1785685012463
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/02/trabzonspor-udinese-canli-hazirlik-maci",
-    "title": "Trabzonspor-Udinese | CANLI (Hazırlık maçı)",
-    "ts": 1785685015630
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasa-nicolas-jackson-onerisi-transferde-formul-belli-oldu",
     "title": "Beşiktaş'a Nicolas Jackson önerisi! Transferde formül belli oldu",
     "ts": 1785689548100
@@ -543,5 +528,20 @@
     "id": "news-1171717",
     "title": "Beşiktaş'tan Taylan Bulut kararı!",
     "ts": 1786116163746
+  },
+  {
+    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/08/07/kayserisporun-transfer-yasagi-kaldirildi",
+    "title": "Kayserispor'un transfer yasağı kaldırıldı",
+    "ts": 1786119269120
+  },
+  {
+    "id": "news-1171703",
+    "title": "Çaykur Rizespor'dan Zeqiri, Esenler Erokspor'a transfer oldu",
+    "ts": 1786119272563
+  },
+  {
+    "id": "news-1171698",
+    "title": "Antalyaspor'dan transfer yasağı için müjde!",
+    "ts": 1786119275708
   }
 ]
