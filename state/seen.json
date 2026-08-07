@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/02/galatasaray-taraftarindan-yonetime-transfer-tepkisi",
-    "title": "Galatasaray taraftarından yönetime transfer tepkisi!",
-    "ts": 1785697557277
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fatih-tekkeden-flas-mohamed-salah-sozleri-trabzonspor-ile-anilmasi",
-    "title": "Fatih Tekke'den flaş Mohamed Salah sözleri! \"Trabzonspor ile anılması...\"",
-    "ts": 1785697560838
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/02/galatasaraydan-fransiz-stopere-kanca-opsiyonlu-kiralama",
-    "title": "Galatasaray'dan Fransız stopere kanca! Opsiyonlu kiralama...",
-    "ts": 1785697564027
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/02/besiktasta-felix-uduokhai-yolcu-yeni-takimi",
     "title": "Beşiktaş'ta Felix Uduokhai yolcu! Yeni takımı...",
     "ts": 1785702421472
@@ -543,5 +528,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/07/fenerbahceden-marsilyadan-yeni-yildiz-iste-o-isim",
     "title": "Fenerbahçe'den Marsilya'dan yeni yıldız! İşte o isim...",
     "ts": 1786126142658
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/icardiden-galatasarayin-davetine-ret-dursun-ozbek-divan-kurulunda-aciklamisti",
+    "title": "Icardi'den Galatasaray'ın davetine ret! Dursun Özbek Divan Kurulu'nda açıklamıştı",
+    "ts": 1786130822072
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/07/romelu-lukakudan-trabzonsporun-teklifine-yanit",
+    "title": "Romelu Lukaku'dan Trabzonspor'un teklifine yanıt!",
+    "ts": 1786130825588
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/07/benficadan-pavlidis-hakkinda-resmi-aciklama-fenerbahceye-transfer-olacak-mi",
+    "title": "Benfica'dan Pavlidis hakkında resmi açıklama! Fenerbahçe'ye transfer olacak mı?",
+    "ts": 1786130828745
   }
 ]
