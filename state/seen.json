@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171158",
-    "title": "Beşiktaş'ın Jeff Chabot teklifine ret",
-    "ts": 1785680728746
-  },
-  {
-    "id": "news-1171157",
-    "title": "Fenerbahçe için Ismaila Sarr iddiası!",
-    "ts": 1785680732127
-  },
-  {
-    "id": "news-1171152",
-    "title": "ABB FOMGET, Dilan Bora'yı yeniden kadrosuna kattı",
-    "ts": 1785680735256
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/02/fenerbahce-ismaila-sarr-transferinde-mutlu-sona-ulasti-anlasma-saglandi",
     "title": "Fenerbahçe Ismaila Sarr transferinde mutlu sona ulaştı! Anlaşma sağlandı",
     "ts": 1785685008917
@@ -543,5 +528,20 @@
     "id": "news-1171706",
     "title": "Trabzonspor'dan Salah için haciz yalanlaması",
     "ts": 1786111663577
+  },
+  {
+    "id": "news-1171726",
+    "title": "Kayserispor, transfer yasağını kaldırdı",
+    "ts": 1786116157067
+  },
+  {
+    "id": "news-1171725",
+    "title": "Parma, El Bilal Toure transferini duyurdu",
+    "ts": 1786116160552
+  },
+  {
+    "id": "news-1171717",
+    "title": "Beşiktaş'tan Taylan Bulut kararı!",
+    "ts": 1786116163746
   }
 ]
