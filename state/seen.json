@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171174",
-    "title": "Beşiktaş'ta Darwin Nunez gelişmesi",
-    "ts": 1785705861744
-  },
-  {
-    "id": "news-1171173",
-    "title": "Okan Buruk'tan transfer tepkilerine yanıt",
-    "ts": 1785705865060
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/02/okan-buruk-guclu-bir-kadro-kuracagiz",
-    "title": "Okan Buruk: Güçlü bir kadro kuracağız!",
-    "ts": 1785705868191
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/galatasaray-haberleri-abdullah-kavukcu-son-sozumuzu-soylemedik",
     "title": "GALATASARAY HABERLERİ - Abdullah Kavukcu: Son sözümüzü söylemedik!",
     "ts": 1785709548421
@@ -543,5 +528,15 @@
     "id": "news-1171747",
     "title": "Çorum FK, Jesus Ramirez'i kadrosuna kattı!",
     "ts": 1786136857729
+  },
+  {
+    "id": "https://www.aspor.com.tr/corum-fk/2026/08/07/corum-fk-venezuelali-santrfor-jesus-ramirezi-renklerine-bagladi",
+    "title": "Çorum FK, Venezuelalı santrfor Jesus Ramirez'i renklerine bağladı",
+    "ts": 1786140258428
+  },
+  {
+    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/08/07/kayserispor-15-futbolcuyu-kadrosuna-katti",
+    "title": "Kayserispor, 15 futbolcuyu kadrosuna kattı",
+    "ts": 1786140261848
   }
 ]
