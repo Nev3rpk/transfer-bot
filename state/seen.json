@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/02/besiktasta-felix-uduokhai-yolcu-yeni-takimi",
-    "title": "Beşiktaş'ta Felix Uduokhai yolcu! Yeni takımı...",
-    "ts": 1785702421472
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/02/aziz-yildirimin-bu-hafta-bitirecegiz-dedigi-santrfor-ortaya-cikti",
-    "title": "Aziz Yıldırım'ın \"Bu hafta bitireceğiz\" dediği santrfor ortaya çıktı!",
-    "ts": 1785702424842
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasta-beklenen-ayrilikta-sona-gelindi-onder-ozen-transferin-haberini-vermisti",
-    "title": "Beşiktaş'ta beklenen ayrılıkta sona gelindi! Önder Özen transferin haberini vermişti",
-    "ts": 1785702427971
-  },
-  {
     "id": "news-1171174",
     "title": "Beşiktaş'ta Darwin Nunez gelişmesi",
     "ts": 1785705861744
@@ -548,5 +533,15 @@
     "id": "news-1171745",
     "title": "Erzurumspor, Ebosele ile anlaştı!",
     "ts": 1786133090941
+  },
+  {
+    "id": "news-1171749",
+    "title": "Kayserispor'da tarihi gün! 15 transfer birden!",
+    "ts": 1786136854382
+  },
+  {
+    "id": "news-1171747",
+    "title": "Çorum FK, Jesus Ramirez'i kadrosuna kattı!",
+    "ts": 1786136857729
   }
 ]
