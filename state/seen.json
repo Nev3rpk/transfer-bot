@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/02/besiktasa-nicolas-jackson-onerisi-transferde-formul-belli-oldu",
-    "title": "Beşiktaş'a Nicolas Jackson önerisi! Transferde formül belli oldu",
-    "ts": 1785689548100
-  },
-  {
-    "id": "news-1171140",
-    "title": "Galatasaray'da zor hedef: Rodrigo Mora",
-    "ts": 1785689551429
-  },
-  {
-    "id": "news-1171138",
-    "title": "Galatasaray'da savunma hedefi: Nathan Zeze",
-    "ts": 1785689554546
-  },
-  {
     "id": "news-1171167",
     "title": "Cenk Özkacar: \"Kendimi yeni transfer olmuş gibi hissetmiyorum\"",
     "ts": 1785693410193
@@ -543,5 +528,20 @@
     "id": "news-1171698",
     "title": "Antalyaspor'dan transfer yasağı için müjde!",
     "ts": 1786119275708
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/eren-derdiyok-yeniden-galatasarayda",
+    "title": "Eren Derdiyok yeniden Galatasaray'da!",
+    "ts": 1786122896842
+  },
+  {
+    "id": "news-1171731",
+    "title": "Ümraniyespor'dan iki takviye!",
+    "ts": 1786122900161
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/07/trabzonspor-goztepe-macinin-kamp-kadrosunu-acikladi",
+    "title": "Trabzonspor, Göztepe maçının kamp kadrosunu açıkladı!",
+    "ts": 1786122903258
   }
 ]
