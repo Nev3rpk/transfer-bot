@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171167",
-    "title": "Cenk Özkacar: \"Kendimi yeni transfer olmuş gibi hissetmiyorum\"",
-    "ts": 1785693410193
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/02/galatasaraydan-u23-stoper-hamlesi-iste-transfer-formulu",
-    "title": "Galatasaray'dan U23 stoper hamlesi! İşte transfer formülü",
-    "ts": 1785693413512
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/02/fenerbahcede-transfer-gelismesi-kararini-acikladi",
-    "title": "Fenerbahçe'de transfer gelişmesi! Kararını açıkladı",
-    "ts": 1785693416630
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/02/galatasaray-taraftarindan-yonetime-transfer-tepkisi",
     "title": "Galatasaray taraftarından yönetime transfer tepkisi!",
     "ts": 1785697557277
@@ -543,5 +528,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/07/trabzonspor-goztepe-macinin-kamp-kadrosunu-acikladi",
     "title": "Trabzonspor, Göztepe maçının kamp kadrosunu açıkladı!",
     "ts": 1786122903258
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/galatasaraydan-transferde-10-numara-harekati-iste-gundeme-gelen-son-isim",
+    "title": "Galatasaray'dan transferde 10 numara harekatı! İşte gündeme gelen son isim",
+    "ts": 1786126136088
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/07/kerem-akturkoglu-yerine-greenwoodun-takim-arkadasi-gelebilir-igor-paixao",
+    "title": "Kerem Aktürkoğlu yerine Greenwood'un takım arkadaşı gelebilir! Igor Paixao...",
+    "ts": 1786126139519
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/07/fenerbahceden-marsilyadan-yeni-yildiz-iste-o-isim",
+    "title": "Fenerbahçe'den Marsilya'dan yeni yıldız! İşte o isim...",
+    "ts": 1786126142658
   }
 ]
