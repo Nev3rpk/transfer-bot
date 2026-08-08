@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171296",
-    "title": "İnegölspor, Harun Tekin'i transfer etti!",
-    "ts": 1785784967196
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/03/fenerbahceden-mimovic-icin-tumosan-konyaspor-devrede",
-    "title": "Fenerbahçe'den Mimovic için Tümosan Konyaspor devrede!",
-    "ts": 1785784970691
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/03/galatasaraya-transferde-zeze-soku-yapilan-teklife",
-    "title": "Galatasaray'a transferde Zeze şoku! Yapılan teklife...",
-    "ts": 1785784973821
-  },
-  {
     "id": "news-1171301",
     "title": "Erzurumspor FK'da anlaşma: Nariman Akhundzada",
     "ts": 1785789726475
@@ -673,5 +658,15 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/08/osimhenin-eski-takim-arkadasi-galatasaraya-gecmiste-de-gundeme-gelmisti",
     "title": "Osimhen'in eski takım arkadaşı Galatasaray'a! Geçmişte de gündeme gelmişti",
     "ts": 1786216099864
+  },
+  {
+    "id": "news-1171815",
+    "title": "Ederson'dan ayrılık iddialarına net cevap!",
+    "ts": 1786218692972
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/08/galatasarayda-dursun-ozbek-yonetimine-transfer-tepkisi",
+    "title": "Galatasaray'da Dursun Özbek yönetimine transfer tepkisi!",
+    "ts": 1786218696437
   }
 ]
