@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171261",
-    "title": "Leandro Trossard, sahaya indi",
-    "ts": 1785771625416
-  },
-  {
-    "id": "news-1171260",
-    "title": "Fenerbahçe'den Rashford hamlesi!",
-    "ts": 1785771629071
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/03/super-ligde-2026-2027-sezonu-adnan-suvari-sezonu-adiyla-oynanacak",
-    "title": "Süper Lig’de 2026-2027 sezonu Adnan Süvari Sezonu adıyla oynanacak",
-    "ts": 1785771632236
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/03/galatasarayin-nathan-zeze-teklifine-yanit-transfer-gelismesini-fransizlar-duyurdu",
     "title": "Galatasaray'ın Nathan Zeze teklifine yanıt! Transfer gelişmesini Fransızlar duyurdu",
     "ts": 1785779119725
@@ -613,5 +598,20 @@
     "id": "news-1171781",
     "title": "Fenerbahçe'de sıcak saatler: Romelu Lukaku",
     "ts": 1786202861014
+  },
+  {
+    "id": "news-1171802",
+    "title": "Galatasaray'ın istediği Mora için Farioli'den açıklama!",
+    "ts": 1786204576202
+  },
+  {
+    "id": "news-1171771",
+    "title": "Trabzonspor'dan Parrott hamlesi",
+    "ts": 1786204579835
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/08/vansporlu-ozan-can-kokcuden-kardesi-orkun-kokcuye-destek",
+    "title": "Vansporlu Ozan Can Kökçü'den kardeşi Orkun Kökçü'ye destek!",
+    "ts": 1786204583065
   }
 ]
