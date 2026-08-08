@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171265",
-    "title": "Diego Carlos için görüşmeler sürüyor",
-    "ts": 1785761537822
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/03/besiktas-ve-galatasaraya-lucumiden-kotu-haber-transfer-olmak-istedigi-takim",
-    "title": "Beşiktaş ve Galatasaray'a Lucumi'den kötü haber! Transfer olmak istediği takım...",
-    "ts": 1785761541238
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/03/besiktasta-leandro-trossard-ilk-antrenmanina-cikti",
-    "title": "Beşiktaş'ta Leandro Trossard ilk antrenmanına çıktı",
-    "ts": 1785761544381
-  },
-  {
     "id": "news-1171261",
     "title": "Leandro Trossard, sahaya indi",
     "ts": 1785771625416
@@ -568,5 +553,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/08/transfer-haberi-galatasaraydan-yerli-operasyonu-cimbomdan-2-milli-oyuncuya-kanca",
     "title": "TRANSFER HABERİ: Galatasaray'dan yerli operasyonu! Cimbom'dan 2 milli oyuncuya kanca",
     "ts": 1786192394410
+  },
+  {
+    "id": "https://www.fotomac.com.tr/konyaspor/2026/08/08/berkan-kutlu-tumosan-konyaspora-veda-etti",
+    "title": "Berkan Kutlu TÜMOSAN Konyaspor'a veda etti!",
+    "ts": 1786196412921
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/08/trabzonspor-tarihinin-en-yuksek-kombine-satisini-yapti",
+    "title": "Trabzonspor tarihinin en yüksek kombine satışını yaptı!",
+    "ts": 1786196416423
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/08/trabzonda-salahi-gulumseten-teklif",
+    "title": "Trabzon’da Salah’ı gülümseten teklif",
+    "ts": 1786196419625
   }
 ]
