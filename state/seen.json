@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/super-lig-ekibi-salih-ucan-ve-irfan-can-egribayat-ile-anlasma-sagladi",
-    "title": "Süper Lig ekibi Salih Uçan ve İrfan Can Eğribayat ile anlaşma sağladı!",
-    "ts": 1785853475629
-  },
-  {
-    "id": "news-1171380",
-    "title": "Fenerbahçe'ye Nicolas Jackson için dev rakipler",
-    "ts": 1785853479228
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/fenerbahcede-surpriz-ayrilik-iste-o-isim",
-    "title": "Fenerbahçe'de sürpriz ayrılık! İşte o isim...",
-    "ts": 1785853482411
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-mohamed-salah-gelismesi-canli-yayinda-aciklandi",
     "title": "Trabzonspor'da Mohamed Salah gelişmesi! Canlı yayında açıklandı",
     "ts": 1785860767959
@@ -733,5 +718,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/08/09/transfer-haberi-trabzonsporda-rene-mitongo-icin-surpriz-karar",
     "title": "TRANSFER HABERİ: Trabzonspor'da Rene Mitongo için sürpriz karar!",
     "ts": 1786283003198
+  },
+  {
+    "id": "news-1171874",
+    "title": "Trabzonspor'dan Salah'a yöresel karşılama videosu ilgi gördü",
+    "ts": 1786285682057
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/09/transfer-haberi-galatasaraya-portekizli-golcu-rekor-teklif-yapildi",
+    "title": "TRANSFER HABERİ: Galatasaray'a Portekizli golcü! Rekor teklif yapıldı",
+    "ts": 1786285685516
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/09/galatasaraydan-o-futbolcu-icin-kulubune-rekor-teklif-gecmiste-fenerbahcenin-de-gundemindeydi",
+    "title": "Galatasaray'dan o futbolcu için kulübüne rekor teklif! Geçmişte Fenerbahçe'nin de gündemindeydi",
+    "ts": 1786285688687
   }
 ]
