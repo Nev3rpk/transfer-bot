@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171321",
-    "title": "Trabzonspor'da Salah için geri sayım: Türkiye'ye geliyor",
-    "ts": 1785844746755
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/04/ismail-kartaldan-greenwood-karari-iste-fenerbahcenin-sturm-graz-maci-11i",
-    "title": "İsmail Kartal'dan Greenwood kararı! İşte Fenerbahçe'nin Sturm Graz maçı 11'i",
-    "ts": 1785844750248
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/04/besiktasta-jaden-philogene-sesleri-teknik-heyetten-transfere-onay-geldi",
-    "title": "Beşiktaş'ta Jaden Philogene sesleri! Teknik heyetten transfere onay geldi",
-    "ts": 1785844753422
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/super-lig-ekibi-salih-ucan-ve-irfan-can-egribayat-ile-anlasma-sagladi",
     "title": "Süper Lig ekibi Salih Uçan ve İrfan Can Eğribayat ile anlaşma sağladı!",
     "ts": 1785853475629
@@ -718,5 +703,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/09/menajerlerden-galatasaraya-kevin-de-bruyne-teklifi-transferde-gunun-bombasi",
     "title": "Menajerlerden Galatasaray'a Kevin De Bruyne teklifi! Transferde günün bombası",
     "ts": 1786276421984
+  },
+  {
+    "id": "news-1171864",
+    "title": "Flaş gelişme! Vlahovic Beşiktaş'a sıcak bakıyor",
+    "ts": 1786278965501
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/09/lokomotiv-moskovadan-aleksey-batrakov-aciklamasi-galatasaray-ve-transfer",
+    "title": "Lokomotiv Moskova'dan Aleksey Batrakov açıklaması! Galatasaray ve transfer...",
+    "ts": 1786278968882
+  },
+  {
+    "id": "news-1171861",
+    "title": "Fenerbahçe'de Cengiz Ünder için Fransız devi harekete geçti!",
+    "ts": 1786278971986
   }
 ]
