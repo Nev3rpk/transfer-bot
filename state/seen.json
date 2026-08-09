@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/04/mohamed-salah-trabzonsporda-anlasma-saglandi",
-    "title": "Mohamed Salah Trabzonspor'da! Anlaşma sağlandı",
-    "ts": 1785867035240
-  },
-  {
-    "id": "https://www.aspor.com.tr/samsunspor/2026/08/04/samsunspor-antoine-sekongoyu-5-yilligina-kadrosuna-katti",
-    "title": "Samsunspor, Antoine Sekongo'yu 5 yıllığına kadrosuna kattı",
-    "ts": 1785867038716
-  },
-  {
-    "id": "news-1171372",
-    "title": "İsmail Kartal açıkladı: \"Kadroda olacaklar\"",
-    "ts": 1785867041885
-  },
-  {
     "id": "news-1171401",
     "title": "Fenerbahçe'de golcü çıkmazı: Pavlidis - Endrick!",
     "ts": 1785874071139
@@ -793,5 +778,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/09/ismail-yuksek-fenerbahceden-ayriliyor-mu-transferde-sicak-gelisme",
     "title": "İsmail Yüksek Fenerbahçe'den ayrılıyor mu? Transferde sıcak gelişme",
     "ts": 1786298220835
+  },
+  {
+    "id": "news-1171884",
+    "title": "Galatasaray'dan Chelsea'nin forvetine kanca: Emmanuel Emegha",
+    "ts": 1786300647885
+  },
+  {
+    "id": "news-1171843",
+    "title": "Fenerbahçe'ye sürpriz golcü: Ayase Ueda",
+    "ts": 1786300651476
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/09/dusan-vlahovic-elden-kaciyor-besiktasa-transferde-dev-rakip",
+    "title": "Dusan Vlahovic elden kaçıyor! Beşiktaş'a transferde dev rakip",
+    "ts": 1786300654649
   }
 ]
