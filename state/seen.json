@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171504",
-    "title": "Fenerbahçeli yıldızlardan Şampiyonlar Ligi mesajı",
-    "ts": 1785951441734
-  },
-  {
-    "id": "news-1171503",
-    "title": "Trabzonspor'da transfer açıklaması: \"Pazartesi günü belli olacak\"",
-    "ts": 1785951445069
-  },
-  {
-    "id": "news-1171500",
-    "title": "Ertuğrul Doğan'dan Serdal Adalı'nın Salah açıklaması için cevap!",
-    "ts": 1785951448225
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/05/fenerbahce-sturm-graz-macinda-hakemden-skandal-karar",
     "title": "Fenerbahçe-Sturm Graz maçında hakemden skandal karar!",
     "ts": 1785957607560
@@ -788,5 +773,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/10/fenerbahcede-matteo-guendouziden-kanteye-buyuk-ovgu",
     "title": "Fenerbahçe'de Matteo Guendouzi'den Kante'ye büyük övgü!",
     "ts": 1786380389837
+  },
+  {
+    "id": "news-1171976",
+    "title": "Konyaspor, Arthur Masuaku'yu resmen açıkladı!",
+    "ts": 1786383924284
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/10/trabzonspor-kulubunden-borc-aciklamasi",
+    "title": "Trabzonspor Kulübü'nden borç açıklaması!",
+    "ts": 1786383927616
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/10/fenerbahcede-ismail-kartaldan-dikkat-ceken-kadro-aciklamasi",
+    "title": "Fenerbahçe'de İsmail Kartal'dan dikkat çeken transfer sözleri!",
+    "ts": 1786383930718
   }
 ]
