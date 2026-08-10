@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171528",
-    "title": "Fenerbahçe'de Sidiki Cherif için Stuttgart iddiası!",
-    "ts": 1785967642748
-  },
-  {
-    "id": "news-1171522",
-    "title": "Carragher'den Salah'ın Trabzonspor seçimi için olay sözler!",
-    "ts": 1785967646325
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/05/ismail-kartaldan-strum-graz-maci-sonrasi-dikkat-ceken-sozler-yavas-yavas-geliyoruz",
-    "title": "İsmail Kartal'dan Strum Graz maçı sonrası dikkat çeken sözler: Yavaş yavaş geliyoruz",
-    "ts": 1785967649504
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/05/muhammed-salah-trabzonda-iste-ilk-sozleri",
     "title": "Muhammed Salah, Trabzon'da! İşte ilk sözleri",
     "ts": 1785972471871
@@ -818,5 +803,15 @@
     "id": "https://www.fotomac.com.tr/transfer/2026/08/10/konyasporda-masuaku-icin-flas-aciklama",
     "title": "Konyaspor'da Masuaku için flaş açıklama!",
     "ts": 1786397695646
+  },
+  {
+    "id": "news-1171987",
+    "title": "Çorum FK, Alexandros Kyziridis'i renklerine bağladı",
+    "ts": 1786400998931
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/10/4-super-lig-devi-kapa-bildirdi-yillik-donem-kar-ve-zararlari-belli-oldu",
+    "title": "4 Süper Lig devi KAP'a bildirdi! Yıllık dönem kâr ve zararları belli oldu",
+    "ts": 1786401002362
   }
 ]
