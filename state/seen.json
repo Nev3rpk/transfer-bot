@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/05/galatasarayda-soke-eden-osimhen-gelismesi-ispanyol-basini-duyurdu",
-    "title": "Galatasaray'da şoke eden Osimhen gelişmesi! İspanyol basını duyurdu",
-    "ts": 1785937894341
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/05/transfer-haberi-galatasarayda-victor-osimhen-soku-bunu-kimse-beklemiyordu",
-    "title": "TRANSFER HABERİ: Galatasaray'da Victor Osimhen şoku! Bunu kimse beklemiyordu",
-    "ts": 1785937897850
-  },
-  {
-    "id": "news-1171495",
-    "title": "Christ Oulai'den transfer itirafı!",
-    "ts": 1785937901015
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/05/trabzonspor-acikladi-mohamed-salahin-imza-toreni-tarihi-ve-saati",
     "title": "Trabzonspor açıkladı: Mohamed Salah'ın imza töreni tarihi ve saati",
     "ts": 1785945471309
@@ -758,5 +743,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/10/transfer-haberi-galatasaraya-tangocu-yildiz-cimbom-son-birkac-saat-icinde-devreye-girdi",
     "title": "TRANSFER HABERİ: Galatasaray'a Tangocu yıldız! 'Cimbom son birkaç saat içinde devreye girdi'",
     "ts": 1786363617809
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/10/galatasaraydan-besiktasa-transfer-calimi-italyan-basini-duyurdu",
+    "title": "Galatasaray'dan Beşiktaş'a transfer çalımı! İtalyan basını duyurdu",
+    "ts": 1786369939521
+  },
+  {
+    "id": "news-1171953",
+    "title": "Galatasaray'ın istediği yıldız Roma'ya gidiyor",
+    "ts": 1786369943035
+  },
+  {
+    "id": "news-1171952",
+    "title": "Konyaspor, Adil Demirbağ'a gelen teklifleri açıkladı",
+    "ts": 1786369946193
   }
 ]
