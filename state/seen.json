@@ -1,65 +1,5 @@
 [
   {
-    "id": "news-1171401",
-    "title": "Fenerbahçe'de golcü çıkmazı: Pavlidis - Endrick!",
-    "ts": 1785874071139
-  },
-  {
-    "id": "news-1171398",
-    "title": "Eyüpspor, Nijeryalı santrfor Ahmed Abdullahi'yi transfer etti",
-    "ts": 1785874074659
-  },
-  {
-    "id": "news-1171397",
-    "title": "Çorum FK'den Aubameyang açıklaması!",
-    "ts": 1785874077851
-  },
-  {
-    "id": "https://www.fotomac.com.tr/goztepe/2026/08/04/goztepe-gokdeniz-bayrakdari-kadrosuna-katti",
-    "title": "Göztepe, Gökdeniz Bayrakdar'ı kadrosuna kattı",
-    "ts": 1785880004127
-  },
-  {
-    "id": "news-1171404",
-    "title": "Fenerbahçe'de Kante gelişmesi! UEFA kadrosuna eklendi",
-    "ts": 1785880007660
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/fenerbahcede-dikkat-ceken-gelisme-ngolo-kante-listeye-eklendi",
-    "title": "Fenerbahçe'de dikkat çeken gelişme! N'Golo Kante listeye eklendi",
-    "ts": 1785880010854
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/04/benficadan-fenerbahceye-pavlidis-transferi-icin-yanit",
-    "title": "Benfica'dan Fenerbahçe'ye Pavlidis transferi için yanıt!",
-    "ts": 1785884171466
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/04/benficadan-fenerbahceye-pavlidis-yaniti-iste-transferde-son-durum",
-    "title": "Benfica'dan Fenerbahçe'ye Pavlidis yanıtı! İşte transferde son durum",
-    "ts": 1785884174922
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/04/trabzonspor-baskani-ertugrul-dogan-acikladi-sorloth",
-    "title": "Trabzonspor Başkanı Ertuğrul Doğan açıkladı: Sörloth...",
-    "ts": 1785884178093
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/04/fenerbahcede-transfer-gundemi-gabriel-martinelli",
-    "title": "Fenerbahçe'de transfer gündemi Gabriel Martinelli!",
-    "ts": 1785887944087
-  },
-  {
-    "id": "news-1171371",
-    "title": "Torreira'ya saldırı sonrası hapis istemi!",
-    "ts": 1785887947412
-  },
-  {
-    "id": "news-1171369",
-    "title": "Süper Lig'e gol çizgisi teknolojisi geliyor!",
-    "ts": 1785887950535
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/05/serdal-adalidan-flas-mohamed-salah-aciklamasi",
     "title": "Beşiktaş Başkanı Serdal Adalı'dan flaş Mohamed Salah açıklaması! \"Zamanı gelince...\"",
     "ts": 1785930808736
@@ -803,5 +743,20 @@
     "id": "news-1171886",
     "title": "Fenerbahçe'ye Rashford'dan kötü haber!",
     "ts": 1786303637364
+  },
+  {
+    "id": "news-1171942",
+    "title": "Galatasaray - Leao transferinde son durum",
+    "ts": 1786359696364
+  },
+  {
+    "id": "news-1171934",
+    "title": "Herro: \"Sonraki kontratımı hiç düşünmüyorum\"",
+    "ts": 1786359699988
+  },
+  {
+    "id": "news-1171928",
+    "title": "Beşiktaş Joe Willock ile sona yaklaştı!",
+    "ts": 1786359703135
   }
 ]
