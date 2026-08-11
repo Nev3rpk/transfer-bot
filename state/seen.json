@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171575",
-    "title": "Somaspor'da transfer sürüyor",
-    "ts": 1786017534851
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/06/jamie-carragherdan-salah-transferi-icin-skandal-yorum",
-    "title": "Jamie Carragher'dan Salah transferi için skandal yorum!",
-    "ts": 1786017538183
-  },
-  {
-    "id": "news-1171568",
-    "title": "Fenerbahçe'de Pavlidis için görüşmeler hızlandı!",
-    "ts": 1786017541300
-  },
-  {
     "id": "news-1171594",
     "title": "Cenk Tosun'dan Beşiktaş itirafı!",
     "ts": 1786026036667
@@ -828,5 +813,20 @@
     "id": "news-1172020",
     "title": "Menemen FK'da yatırımcı arayışı sürüyor",
     "ts": 1786448337392
+  },
+  {
+    "id": "news-1172032",
+    "title": "Salah'ın Trabzonspor videosuna büyük ilgi: Milyonlarca kez izlendi",
+    "ts": 1786452486998
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/11/transfer-haberi-besiktastan-mohamed-ali-cho-icin-dev-teklif-fransiz-basini-duyurdu",
+    "title": "TRANSFER HABERİ: Beşiktaş'tan Mohamed-Ali Cho için dev teklif! Fransız basını duyurdu",
+    "ts": 1786452490433
+  },
+  {
+    "id": "news-1172025",
+    "title": "Galatasaray'ın ilgilendiği Chermiti'nin çapraz bağı koptu!",
+    "ts": 1786452493574
   }
 ]
