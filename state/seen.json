@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/05/muhammed-salah-trabzonda-iste-ilk-sozleri",
-    "title": "Muhammed Salah, Trabzon'da! İşte ilk sözleri",
-    "ts": 1785972471871
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/05/besiktas-yeni-transferi-leandro-trossardin-lisansini-cikardi",
-    "title": "Beşiktaş yeni transferi Leandro Trossard'ın lisansını çıkardı!",
-    "ts": 1785972475374
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/05/kocaelispor-ayriligi-acikladi",
-    "title": "Kocaelispor ayrılığı açıkladı!",
-    "ts": 1785972478549
-  },
-  {
     "id": "news-1171575",
     "title": "Somaspor'da transfer sürüyor",
     "ts": 1786017534851
@@ -813,5 +798,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/08/10/4-super-lig-devi-kapa-bildirdi-yillik-donem-kar-ve-zararlari-belli-oldu",
     "title": "4 Süper Lig devi KAP'a bildirdi! Yıllık dönem kâr ve zararları belli oldu",
     "ts": 1786401002362
+  },
+  {
+    "id": "news-1172018",
+    "title": "Beşiktaş'ın Miretti transferinde önünde iki engel!",
+    "ts": 1786445040944
+  },
+  {
+    "id": "news-1172015",
+    "title": "Amedspor'dan Oğuz Aydın için sürpriz hamle!",
+    "ts": 1786445044279
+  },
+  {
+    "id": "news-1172014",
+    "title": "Galatasaray orta sahadaki hedefi Alexis Mac Allister",
+    "ts": 1786445047396
   }
 ]
