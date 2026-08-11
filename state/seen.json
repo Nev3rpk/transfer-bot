@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171594",
-    "title": "Cenk Tosun'dan Beşiktaş itirafı!",
-    "ts": 1786026036667
-  },
-  {
-    "id": "news-1171593",
-    "title": "Mustafa Hekimoğlu'na İspanya kancası!",
-    "ts": 1786026039983
-  },
-  {
-    "id": "https://www.fotomac.com.tr/transfer/2026/08/06/o-transfer-suya-dusuyor-yildiz-isim-ulkesinin-yolunu-tuttu",
-    "title": "O transfer suya düşüyor! Yıldız isim ülkesinin yolunu tuttu",
-    "ts": 1786026043103
-  },
-  {
     "id": "news-1171679",
     "title": "Beşiktaş'tan Gallagher hamlesi",
     "ts": 1786099527234
@@ -843,5 +828,20 @@
     "id": "news-1172044",
     "title": "Beşiktaş'tan sağ kanat atağı: Mohamed Ali Cho",
     "ts": 1786457744023
+  },
+  {
+    "id": "news-1172051",
+    "title": "Beşiktaş'ta orta sahaya sürpriz aday: Kristian Thorstvedt",
+    "ts": 1786462042096
+  },
+  {
+    "id": "news-1171991",
+    "title": "Galatasaray'dan Martinelli için resmi teklif!",
+    "ts": 1786462045585
+  },
+  {
+    "id": "news-1172013",
+    "title": "Gözaltı kararı sonrası Fenerbahçe'den ilk açıklama!",
+    "ts": 1786462048741
   }
 ]
