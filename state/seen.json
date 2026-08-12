@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/eren-derdiyok-yeniden-galatasarayda",
-    "title": "Eren Derdiyok yeniden Galatasaray'da!",
-    "ts": 1786122896842
-  },
-  {
-    "id": "news-1171731",
-    "title": "Ümraniyespor'dan iki takviye!",
-    "ts": 1786122900161
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/07/trabzonspor-goztepe-macinin-kamp-kadrosunu-acikladi",
-    "title": "Trabzonspor, Göztepe maçının kamp kadrosunu açıkladı!",
-    "ts": 1786122903258
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/galatasaraydan-transferde-10-numara-harekati-iste-gundeme-gelen-son-isim",
     "title": "Galatasaray'dan transferde 10 numara harekatı! İşte gündeme gelen son isim",
     "ts": 1786126136088
@@ -913,5 +898,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/fenerbahcede-oguz-cetin-lukakuyu-acikladi",
     "title": "Fenerbahçe'de Oğuz Çetin, Lukaku'yu açıkladı!",
     "ts": 1786551927142
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/lukaku-ile-ilgili-dikkat-ceken-detay-3-yasinda-ankarada-yasiyordu",
+    "title": "Lukaku ile ilgili dikkat çeken detay! 3 yaşında Ankara'da yaşıyordu",
+    "ts": 1786555618660
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/12/besiktas-dusan-vlahovici-resmen-acikladi",
+    "title": "Beşiktaş, Dusan Vlahovic'i resmen açıkladı!",
+    "ts": 1786555621979
+  },
+  {
+    "id": "news-1172099",
+    "title": "Galatasaray'da Soule hamlesi: En az 25 milyon euro!",
+    "ts": 1786555625094
   }
 ]
