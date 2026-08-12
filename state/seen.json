@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/07/galatasaraya-yeni-10-numara-adayi-can-uzun-batrakov-ve-mora-beklenirken",
-    "title": "Galatasaray'a yeni 10 numara adayı! Can Uzun, Batrakov ve Mora beklenirken...",
-    "ts": 1786102806712
-  },
-  {
-    "id": "news-1171683",
-    "title": "Oğuz Aydın için 7 milyon Euro: Fenerbahçe reddetti",
-    "ts": 1786102810202
-  },
-  {
-    "id": "news-1171680",
-    "title": "Galatasaray'da Renato Nhaga kararı: Türkiye yasağı",
-    "ts": 1786102813358
-  },
-  {
     "id": "news-1171693",
     "title": "Rashford transferinde şeytan engeli!",
     "ts": 1786106793010
@@ -913,5 +898,20 @@
     "id": "news-1172106",
     "title": "Roma, Mora için Porto ile anlaşmaya vardı!",
     "ts": 1786532136897
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/son-dakika-transfer-haberi-fenerbahce-romelu-lukakuyu-istanbula-getiriyor",
+    "title": "SON DAKİKA TRANSFER HABERİ: Fenerbahçe, Romelu Lukaku'yu İstanbul'a getiriyor!",
+    "ts": 1786534946177
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/12/transfer-haberi-galatasaraylilari-kizdiracak-victor-osimhen-iddiasi",
+    "title": "TRANSFER HABERİ: Galatasaraylıları kızdıracak Victor Osimhen iddiası!",
+    "ts": 1786534949777
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/ailesi-istanbuldan-ayrildi-fenerbahceli-yildiz-hakkinda-flas-gelisme",
+    "title": "Ailesi İstanbul'dan ayrıldı! Fenerbahçeli yıldız hakkında flaş gelişme",
+    "ts": 1786534953017
   }
 ]
