@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171693",
-    "title": "Rashford transferinde şeytan engeli!",
-    "ts": 1786106793010
-  },
-  {
-    "id": "news-1171690",
-    "title": "The Telegraph: \"Türkler, bu transferleri nasıl yapıyor?\"",
-    "ts": 1786106796443
-  },
-  {
-    "id": "news-1171688",
-    "title": "Yüksel Yıldırım: \"Gabriele Guarino, Samsunspor'a hayırlı olsun\"",
-    "ts": 1786106799573
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/07/fenerbahceye-endrick-soku-yeni-rotasi",
     "title": "Fenerbahçe'ye Endrick şoku! Yeni rotası...",
     "ts": 1786111657173
@@ -913,5 +898,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/ailesi-istanbuldan-ayrildi-fenerbahceli-yildiz-hakkinda-flas-gelisme",
     "title": "Ailesi İstanbul'dan ayrıldı! Fenerbahçeli yıldız hakkında flaş gelişme",
     "ts": 1786534953017
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/12/galatasaraya-transferde-kotu-haber-yeni-takimina-imzayi-atiyor",
+    "title": "Galatasaray'a transferde kötü haber! Yeni takımına imzayı atıyor",
+    "ts": 1786539201322
+  },
+  {
+    "id": "news-1172104",
+    "title": "Dursun Özbek'ten transfer talimatı: \"Hedef 21 Ağustos\"",
+    "ts": 1786539204807
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/12/juventusun-orta-sahasi-hedefte-besiktastan-surpriz-hamle",
+    "title": "Juventus'un Orta Sahası Hedefte! Beşiktaş'tan Sürpriz Hamle",
+    "ts": 1786539207969
   }
 ]
