@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1171749",
-    "title": "Kayserispor'da tarihi gün! 15 transfer birden!",
-    "ts": 1786136854382
-  },
-  {
-    "id": "news-1171747",
-    "title": "Çorum FK, Jesus Ramirez'i kadrosuna kattı!",
-    "ts": 1786136857729
-  },
-  {
     "id": "https://www.aspor.com.tr/corum-fk/2026/08/07/corum-fk-venezuelali-santrfor-jesus-ramirezi-renklerine-bagladi",
     "title": "Çorum FK, Venezuelalı santrfor Jesus Ramirez'i renklerine bağladı",
     "ts": 1786140258428
@@ -898,5 +888,10 @@
     "id": "news-1172143",
     "title": "Fenerbahçe'nin yeni transferi Lukaku, İstanbul'da",
     "ts": 1786566964348
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/romelu-lukaku-fenerbahce-icin-geldi-iste-ilk-goruntuler",
+    "title": "Romelu Lukaku, Fenerbahçe için geldi! İşte ilk görüntüler",
+    "ts": 1786570691989
   }
 ]
