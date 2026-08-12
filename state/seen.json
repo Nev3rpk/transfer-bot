@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/galatasaraydan-transferde-10-numara-harekati-iste-gundeme-gelen-son-isim",
-    "title": "Galatasaray'dan transferde 10 numara harekatı! İşte gündeme gelen son isim",
-    "ts": 1786126136088
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/07/kerem-akturkoglu-yerine-greenwoodun-takim-arkadasi-gelebilir-igor-paixao",
-    "title": "Kerem Aktürkoğlu yerine Greenwood'un takım arkadaşı gelebilir! Igor Paixao...",
-    "ts": 1786126139519
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/07/fenerbahceden-marsilyadan-yeni-yildiz-iste-o-isim",
-    "title": "Fenerbahçe'den Marsilya'dan yeni yıldız! İşte o isim...",
-    "ts": 1786126142658
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/icardiden-galatasarayin-davetine-ret-dursun-ozbek-divan-kurulunda-aciklamisti",
     "title": "Icardi'den Galatasaray'ın davetine ret! Dursun Özbek Divan Kurulu'nda açıklamıştı",
     "ts": 1786130822072
@@ -913,5 +898,20 @@
     "id": "news-1172099",
     "title": "Galatasaray'da Soule hamlesi: En az 25 milyon euro!",
     "ts": 1786555625094
+  },
+  {
+    "id": "news-1172146",
+    "title": "Dursun Özbek'ten transfer ve şampiyonluk mesajı",
+    "ts": 1786559135242
+  },
+  {
+    "id": "news-1172145",
+    "title": "Oğuz Çetin, Lukaku transferinin arka planını anlattı!",
+    "ts": 1786559138647
+  },
+  {
+    "id": "https://www.takvim.com.tr/spor/galatasaray/2026/08/12/galatasaraydan-arsenale-cikarma-2-yildiz-icin-paket-teklif",
+    "title": "Arsenal'den Galatasaray'a çifte yıldız!",
+    "ts": 1786559141752
   }
 ]
