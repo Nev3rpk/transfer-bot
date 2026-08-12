@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/corum-fk/2026/08/07/corum-fk-venezuelali-santrfor-jesus-ramirezi-renklerine-bagladi",
-    "title": "Çorum FK, Venezuelalı santrfor Jesus Ramirez'i renklerine bağladı",
-    "ts": 1786140258428
-  },
-  {
-    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/08/07/kayserispor-15-futbolcuyu-kadrosuna-katti",
-    "title": "Kayserispor, 15 futbolcuyu kadrosuna kattı",
-    "ts": 1786140261848
-  },
-  {
     "id": "news-1171776",
     "title": "Galatasaray'dan Osimhen'in takım arkadaşına teklif hazırlığı!",
     "ts": 1786184679209
@@ -893,5 +883,10 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/romelu-lukaku-fenerbahce-icin-geldi-iste-ilk-goruntuler",
     "title": "Romelu Lukaku, Fenerbahçe için geldi! İşte ilk görüntüler",
     "ts": 1786570691989
+  },
+  {
+    "id": "news-1172153",
+    "title": "Sarıyer, Eren Karadağ'ı renklerine bağladı",
+    "ts": 1786574017738
   }
 ]
