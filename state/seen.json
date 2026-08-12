@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171726",
-    "title": "Kayserispor, transfer yasağını kaldırdı",
-    "ts": 1786116157067
-  },
-  {
-    "id": "news-1171725",
-    "title": "Parma, El Bilal Toure transferini duyurdu",
-    "ts": 1786116160552
-  },
-  {
-    "id": "news-1171717",
-    "title": "Beşiktaş'tan Taylan Bulut kararı!",
-    "ts": 1786116163746
-  },
-  {
     "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/08/07/kayserisporun-transfer-yasagi-kaldirildi",
     "title": "Kayserispor'un transfer yasağı kaldırıldı",
     "ts": 1786119269120
@@ -913,5 +898,20 @@
     "id": "news-1172102",
     "title": "Beşiktaş'ta Jeff Chabot pazarlığı kızıştı!",
     "ts": 1786544241834
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/fenerbahcede-ilk-ayrilik-gerceklesiyor-italyan-kulubuyle-anlasmaya-vardigi-duyuruldu",
+    "title": "Fenerbahçe'de ilk ayrılık gerçekleşiyor! İtalyan kulübüyle anlaşmaya vardığı duyuruldu",
+    "ts": 1786548448979
+  },
+  {
+    "id": "news-1172140",
+    "title": "Fenerbahçe'de Omar Fayed gelişmesi! İtalya yolcusu",
+    "ts": 1786548452398
+  },
+  {
+    "id": "news-1172101",
+    "title": "Galatasaray Balogun'un şartlarını sordu!",
+    "ts": 1786548455545
   }
 ]
