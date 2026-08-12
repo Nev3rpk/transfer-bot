@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/07/icardiden-galatasarayin-davetine-ret-dursun-ozbek-divan-kurulunda-aciklamisti",
-    "title": "Icardi'den Galatasaray'ın davetine ret! Dursun Özbek Divan Kurulu'nda açıklamıştı",
-    "ts": 1786130822072
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/07/romelu-lukakudan-trabzonsporun-teklifine-yanit",
-    "title": "Romelu Lukaku'dan Trabzonspor'un teklifine yanıt!",
-    "ts": 1786130825588
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/07/benficadan-pavlidis-hakkinda-resmi-aciklama-fenerbahceye-transfer-olacak-mi",
-    "title": "Benfica'dan Pavlidis hakkında resmi açıklama! Fenerbahçe'ye transfer olacak mı?",
-    "ts": 1786130828745
-  },
-  {
-    "id": "news-1171745",
-    "title": "Erzurumspor, Ebosele ile anlaştı!",
-    "ts": 1786133090941
-  },
-  {
     "id": "news-1171749",
     "title": "Kayserispor'da tarihi gün! 15 transfer birden!",
     "ts": 1786136854382
@@ -913,5 +893,10 @@
     "id": "https://www.takvim.com.tr/spor/galatasaray/2026/08/12/galatasaraydan-arsenale-cikarma-2-yildiz-icin-paket-teklif",
     "title": "Arsenal'den Galatasaray'a çifte yıldız!",
     "ts": 1786559141752
+  },
+  {
+    "id": "news-1172143",
+    "title": "Fenerbahçe'nin yeni transferi Lukaku, İstanbul'da",
+    "ts": 1786566964348
   }
 ]
