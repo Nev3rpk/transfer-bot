@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1171817",
-    "title": "Fenerbahçe arsaVev, Şampiyonlar Ligi'ne veda etti!",
-    "ts": 1786222583390
-  },
-  {
-    "id": "news-1171820",
-    "title": "Renato Veiga'dan Galatasaray yanıtı",
-    "ts": 1786224497730
-  },
-  {
     "id": "news-1171823",
     "title": "Beşiktaş'ta forvet harekatı! Vlahovic, Jesus ve David",
     "ts": 1786226111373
@@ -813,5 +803,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahcede-irfan-can-egribayat-ile-yollar-ayrildi",
     "title": "Fenerbahçe'de İrfan Can Eğribayat ile yollar ayrıldı!",
     "ts": 1786653286056
+  },
+  {
+    "id": "news-1172275",
+    "title": "Başakşehir'den Portekiz'e transfer: Matchoi Djalo",
+    "ts": 1786657086809
+  },
+  {
+    "id": "news-1172273",
+    "title": "Beşiktaş'ta Vlahovic'e sevgi gösterisi",
+    "ts": 1786657090194
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasarayin-transfer-listesindeki-leaodan-kotu-haber-sakatlandi",
+    "title": "Galatasaray'ın transfer listesindeki Leao'dan kötü haber! Sakatlandı...",
+    "ts": 1786657093295
   }
 ]
