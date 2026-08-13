@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1171823",
-    "title": "Beşiktaş'ta forvet harekatı! Vlahovic, Jesus ve David",
-    "ts": 1786226111373
-  },
-  {
     "id": "news-1171855",
     "title": "Galatasaray'da Jelert çıkmazı!",
     "ts": 1786271171747
@@ -818,5 +813,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasarayin-transfer-listesindeki-leaodan-kotu-haber-sakatlandi",
     "title": "Galatasaray'ın transfer listesindeki Leao'dan kötü haber! Sakatlandı...",
     "ts": 1786657093295
+  },
+  {
+    "id": "https://www.aspor.com.tr/avrupa-ligi/2026/08/13/hradec-kralove-teknik-direktoru-david-horejs-bugun-tecrubemiz-yetmedi",
+    "title": "Hradec Kralove Teknik Direktörü David Horejs: Bugün tecrübemiz yetmedi!",
+    "ts": 1786660451365
+  },
+  {
+    "id": "news-1172279",
+    "title": "Lucas Torreira için yeniden ayrılık iddiası!",
+    "ts": 1786660454742
+  },
+  {
+    "id": "news-1172278",
+    "title": "Galatasaray'ı üzen Leao gelişmesi",
+    "ts": 1786660457875
   }
 ]
