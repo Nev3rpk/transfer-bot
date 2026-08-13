@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171786",
-    "title": "Trabzonspor'da transfer uçağı kalkıyor: Darwin Nunez",
-    "ts": 1786192387835
-  },
-  {
-    "id": "news-1171785",
-    "title": "Alanyaspor, Baran Ali Gezek ve Şahin Dik'i kadrosuna kattı",
-    "ts": 1786192391274
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/08/transfer-haberi-galatasaraydan-yerli-operasyonu-cimbomdan-2-milli-oyuncuya-kanca",
-    "title": "TRANSFER HABERİ: Galatasaray'dan yerli operasyonu! Cimbom'dan 2 milli oyuncuya kanca",
-    "ts": 1786192394410
-  },
-  {
     "id": "https://www.fotomac.com.tr/konyaspor/2026/08/08/berkan-kutlu-tumosan-konyaspora-veda-etti",
     "title": "Berkan Kutlu TÜMOSAN Konyaspor'a veda etti!",
     "ts": 1786196412921
@@ -878,5 +863,20 @@
     "id": "news-1172202",
     "title": "Beşiktaş'ta Ndidi gelişmesi: Al-İttihad devreye girdi",
     "ts": 1786621358748
+  },
+  {
+    "id": "news-1172220",
+    "title": "Dusan Vlahovic'in Beşiktaş'a uzanan siyah-beyaz kariyeri",
+    "ts": 1786625679106
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasaraya-osimhen-icin-tarihi-transfer-teklifi-alman-basinindan-flas-iddia",
+    "title": "Galatasaray'a Osimhen için tarihi transfer teklifi! Alman basınından flaş iddia",
+    "ts": 1786625682518
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/osimhen-gidiyor-mu-al-hilalden-galatasaraya-surpriz-hamle",
+    "title": "Osimhen gidiyor mu? Al-Hilal'den Galatasaray'a sürpriz hamle!",
+    "ts": 1786625685676
   }
 ]
