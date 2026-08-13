@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-yeni-transfer-korkuttu-devam-edemedi",
-    "title": "Trabzonspor'da yeni transfer korkuttu! Devam edemedi",
-    "ts": 1786211703941
-  },
-  {
-    "id": "news-1171813",
-    "title": "Trabzonspor'da Noah Saviolo şoku! Oyuna devam edemedi",
-    "ts": 1786211707246
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/08/iste-aziz-yildirim-ve-romelu-lukaku-arasindaki-gorusmenin-detaylari",
-    "title": "İşte Aziz Yıldırım ve Romelu Lukaku arasındaki görüşmenin detayları!",
-    "ts": 1786211710346
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/galatasarayda-rodrigo-mora-gelismesi-anlasma-saglandi",
     "title": "Galatasaray'da Rodrigo Mora gelişmesi! Anlaşma sağlandı",
     "ts": 1786213629977
@@ -833,5 +818,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahcede-yeni-transfer-romelu-lukaku-tesisleri-gezdi",
     "title": "Fenerbahçe'de yeni transfer Romelu Lukaku tesisleri gezdi",
     "ts": 1786642043455
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/13/trabzonspor-baskani-ertugrul-dogandan-darwin-nunez-aciklamasi",
+    "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan Darwin Nunez açıklaması!",
+    "ts": 1786645583860
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/13/ertugrul-dogandan-salah-sozleri-besiktasin-gorustugunu-ogrenince",
+    "title": "Ertuğrul Doğan'dan Salah sözleri! \"Beşiktaş'ın görüştüğünü öğrenince...\"",
+    "ts": 1786645587161
+  },
+  {
+    "id": "news-1172262",
+    "title": "Fenerbahçe'den Gençlerbirliği'ne gitti: İrfan Can Eğribayat",
+    "ts": 1786645590399
   }
 ]
