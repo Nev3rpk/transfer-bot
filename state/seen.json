@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171802",
-    "title": "Galatasaray'ın istediği Mora için Farioli'den açıklama!",
-    "ts": 1786204576202
-  },
-  {
-    "id": "news-1171771",
-    "title": "Trabzonspor'dan Parrott hamlesi",
-    "ts": 1786204579835
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/08/vansporlu-ozan-can-kokcuden-kardesi-orkun-kokcuye-destek",
-    "title": "Vansporlu Ozan Can Kökçü'den kardeşi Orkun Kökçü'ye destek!",
-    "ts": 1786204583065
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/08/fenerbahcede-semedo-takimdan-ayrilabilir-iste-nedeni",
     "title": "Fenerbahçe'de Semedo takımdan ayrılabilir! İşte nedeni",
     "ts": 1786206503145
@@ -848,5 +833,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasaraydan-transferde-premier-lig-cikarmasi-martinelli-haricinde-o-yildiz-da-hedefte",
     "title": "Galatasaray'dan transferde Premier Lig çıkarması! Martinelli haricinde o yıldız da hedefte",
     "ts": 1786634959568
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahce-otobusune-yonelik-saldirida-sicak-gelisme-bakan-gurlek-acikladi",
+    "title": "Bakan Gürlek'ten Fenerbahçe otobüsüne saldırı ile ilgili açıklama!",
+    "ts": 1786638333967
+  },
+  {
+    "id": "https://www.aspor.com.tr/rizespor/2026/08/13/caykur-rizespor-umut-erdemi-transfer-etti",
+    "title": "Çaykur Rizespor, Umut Erdem'i transfer etti",
+    "ts": 1786638337270
+  },
+  {
+    "id": "news-1172212",
+    "title": "Trabzonspor'dan Atakan Karazor hamlesi!",
+    "ts": 1786638340419
   }
 ]
