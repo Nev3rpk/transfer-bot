@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1171815",
-    "title": "Ederson'dan ayrılık iddialarına net cevap!",
-    "ts": 1786218692972
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/08/galatasarayda-dursun-ozbek-yonetimine-transfer-tepkisi",
-    "title": "Galatasaray'da Dursun Özbek yönetimine transfer tepkisi!",
-    "ts": 1786218696437
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/08/fenerbahcede-edersonun-yeri-lukakunun-arkadasi-ile-dolacak",
-    "title": "Fenerbahçe'de Ederson'un yeri Lukaku'nun arkadaşı ile dolacak!",
-    "ts": 1786220448071
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fatih-tekkeden-muhammed-salah-aciklamasi",
-    "title": "Fatih Tekke'den Muhammed Salah açıklaması!",
-    "ts": 1786220451492
-  },
-  {
     "id": "news-1171817",
     "title": "Fenerbahçe arsaVev, Şampiyonlar Ligi'ne veda etti!",
     "ts": 1786222583390
@@ -818,5 +798,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/13/trabzonsporun-uefa-avrupa-liginde-play-off-turunda-rakibi-belli-oldu",
     "title": "Trabzonspor'un UEFA Avrupa Ligi'nde Play-Off Turu'ndaki rakibi belli oldu!",
     "ts": 1786649617759
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galeri/fenerbahce/lukaku-fbahcede-ilk-antrenmanina-cikti",
+    "title": "Lukaku, F.Bahçe'de ilk antrenmanına çıktı",
+    "ts": 1786653279502
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/13/besiktasta-djalo-sakatligi-nedeniyle-maca-devam-edemedi",
+    "title": "Beşiktaş'ta Djalo sakatlığı nedeniyle maça devam edemedi!",
+    "ts": 1786653282925
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahcede-irfan-can-egribayat-ile-yollar-ayrildi",
+    "title": "Fenerbahçe'de İrfan Can Eğribayat ile yollar ayrıldı!",
+    "ts": 1786653286056
   }
 ]
