@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/konyaspor/2026/08/08/berkan-kutlu-tumosan-konyaspora-veda-etti",
-    "title": "Berkan Kutlu TÜMOSAN Konyaspor'a veda etti!",
-    "ts": 1786196412921
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/08/trabzonspor-tarihinin-en-yuksek-kombine-satisini-yapti",
-    "title": "Trabzonspor tarihinin en yüksek kombine satışını yaptı!",
-    "ts": 1786196416423
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/08/trabzonda-salahi-gulumseten-teklif",
-    "title": "Trabzon’da Salah’ı gülümseten teklif",
-    "ts": 1786196419625
-  },
-  {
     "id": "news-1171797",
     "title": "Kocaelispor'dan Muhammed Efe Küçük'e 5 yıllık imza",
     "ts": 1786199129798
@@ -878,5 +863,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/osimhen-gidiyor-mu-al-hilalden-galatasaraya-surpriz-hamle",
     "title": "Osimhen gidiyor mu? Al-Hilal'den Galatasaray'a sürpriz hamle!",
     "ts": 1786625685676
+  },
+  {
+    "id": "news-1172242",
+    "title": "Gençlerbirliği'nden transfer yasağı için üçlü mekanizma",
+    "ts": 1786630749281
+  },
+  {
+    "id": "news-1172237",
+    "title": "Kayserispor, German Onugkha ile yollarını ayırdı",
+    "ts": 1786630752738
+  },
+  {
+    "id": "news-1172236",
+    "title": "Göztepe'de Juan düğümü: İki transfer birden rafa kalktı",
+    "ts": 1786630755889
   }
 ]
