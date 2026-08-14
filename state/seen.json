@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1171887",
-    "title": "Trabzonspor'a Premier Lig'den yıldız orta saha: Yves Bissouma",
-    "ts": 1786303633943
-  },
-  {
-    "id": "news-1171886",
-    "title": "Fenerbahçe'ye Rashford'dan kötü haber!",
-    "ts": 1786303637364
-  },
-  {
     "id": "news-1171942",
     "title": "Galatasaray - Leao transferinde son durum",
     "ts": 1786359696364
@@ -798,5 +788,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/14/dusan-vlahovic-besiktasta-imzayi-atti-taraftara-sampiyonluk-sozu",
     "title": "Dusan Vlahovic Beşiktaş'ta imzayı attı! Taraftara şampiyonluk sözü",
     "ts": 1786735610051
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahce-otobusune-silahli-saldiri-sorusturmasinda-1-supheli-tutuklandi",
+    "title": "Fenerbahçe otobüsüne silahlı saldırı soruşturmasında 1 şüpheli tutuklandı!",
+    "ts": 1786737767799
+  },
+  {
+    "id": "news-1172361",
+    "title": "Konyaspor, Hull City'den transfer yaptı",
+    "ts": 1786737771133
+  },
+  {
+    "id": "news-1172346",
+    "title": "Galatasaray, Batrakov transferini bitiriyor!",
+    "ts": 1786737774243
   }
 ]
