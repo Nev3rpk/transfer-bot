@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171855",
-    "title": "Galatasaray'da Jelert çıkmazı!",
-    "ts": 1786271171747
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/09/umut-erdem-kimdir-umut-erdem-kac-yasinda-nereli",
-    "title": "Umut Erdem kimdir? Umut Erdem kaç yaşında, nereli?",
-    "ts": 1786271175252
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/09/galatasaraydan-transferde-de-bruyne-karari-menajerler-tarafindan-onerildi",
-    "title": "Galatasaray'dan transferde De Bruyne kararı! Menajerler tarafından önerildi",
-    "ts": 1786271178491
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/09/dunyaca-unlu-gazeteci-fenerbahcenin-yeni-transferini-acikladi",
     "title": "Dünyaca ünlü gazeteci Fenerbahçe'nin yeni transferini açıkladı!",
     "ts": 1786273278254
@@ -843,5 +828,20 @@
     "id": "news-1172272",
     "title": "Trossard, Beşiktaş taraftarıyla buluştu",
     "ts": 1786664057797
+  },
+  {
+    "id": "news-1172303",
+    "title": "Fenerbahçe'den genç oyuncu transferi için açıklama!",
+    "ts": 1786704754575
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/14/galatasaray-arca-corum-fk-macinin-vari-belli-oldu",
+    "title": "Galatasaray-Arca Çorum FK maçının VAR'ı belli oldu!",
+    "ts": 1786704757993
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/14/okan-buruktan-yeni-sezon-paylasimi",
+    "title": "Okan Buruk'tan yeni sezon paylaşımı!",
+    "ts": 1786704761228
   }
 ]
