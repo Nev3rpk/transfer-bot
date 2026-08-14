@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171883",
-    "title": "Trabzonspor'dan Paredes için flaş hamle!",
-    "ts": 1786298214389
-  },
-  {
-    "id": "news-1171882",
-    "title": "Galatasaray'da Martinelli harekatı: Arsenal'den tek şart",
-    "ts": 1786298217731
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/09/ismail-yuksek-fenerbahceden-ayriliyor-mu-transferde-sicak-gelisme",
-    "title": "İsmail Yüksek Fenerbahçe'den ayrılıyor mu? Transferde sıcak gelişme",
-    "ts": 1786298220835
-  },
-  {
     "id": "news-1171884",
     "title": "Galatasaray'dan Chelsea'nin forvetine kanca: Emmanuel Emegha",
     "ts": 1786300647885
@@ -798,5 +783,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/14/galatasarayda-gabriel-martinelli-gelismesi-kararini-iletti",
     "title": "Galatasaray'da Gabriel Martinelli gelişmesi! Kararını iletti",
     "ts": 1786728334325
+  },
+  {
+    "id": "news-1172369",
+    "title": "Galatasaray'dan Malick Fofana hamlesi",
+    "ts": 1786731269445
+  },
+  {
+    "id": "https://www.fotomac.com.tr/rizespor/2026/08/14/caykur-rizespordan-transferde-moussa-diakite-hamlesi",
+    "title": "Çaykur Rizespor'dan transferde Moussa Diakite hamlesi!",
+    "ts": 1786731272970
+  },
+  {
+    "id": "news-1172368",
+    "title": "Samsunspor'da ayrılık: Muja",
+    "ts": 1786731276130
   }
 ]
