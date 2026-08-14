@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1171874",
-    "title": "Trabzonspor'dan Salah'a yöresel karşılama videosu ilgi gördü",
-    "ts": 1786285682057
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/09/transfer-haberi-galatasaraya-portekizli-golcu-rekor-teklif-yapildi",
-    "title": "TRANSFER HABERİ: Galatasaray'a Portekizli golcü! Rekor teklif yapıldı",
-    "ts": 1786285685516
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/09/galatasaraydan-o-futbolcu-icin-kulubune-rekor-teklif-gecmiste-fenerbahcenin-de-gundemindeydi",
-    "title": "Galatasaray'dan o futbolcu için kulübüne rekor teklif! Geçmişte Fenerbahçe'nin de gündemindeydi",
-    "ts": 1786285688687
-  },
-  {
-    "id": "https://www.aspor.com.tr/corum-fk/2026/08/09/arca-corum-fk-istanbul-basaksehir-fkden-berat-ayberk-ozdemiri-renklerine-bagladi",
-    "title": "Arca Çorum FK, İstanbul Başakşehir FK'den Berat Ayberk Özdemir'i renklerine bağladı",
-    "ts": 1786287688367
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/09/alexander-nubelin-eski-antrenoru-mihacicten-flas-itiraf-bayern-munihin-neuer-teklifini-geri-cevirdi",
-    "title": "Alexander Nübel'in eski antrenörü Mihacic'ten flaş itiraf: Bayern Münih'in 'Neuer' teklifini geri çevirdi",
-    "ts": 1786287691845
-  },
-  {
-    "id": "news-1171850",
-    "title": "Arsenal'in Gabriel Jesus talebi belli oldu",
-    "ts": 1786287694997
-  },
-  {
     "id": "https://www.aspor.com.tr/futbol/2026/08/09/boca-juniors-enner-valenciayi-kadrosuna-katti",
     "title": "Boca Juniors, Enner Valencia'yı kadrosuna kattı!",
     "ts": 1786290951113
@@ -828,5 +798,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahceye-20lik-sol-kanat-cihan-kamer-transfer-rotasini-aciklamisti",
     "title": "Fenerbahçe'ye 20'lik sol kanat! Cihan Kamer transfer rotasını açıklamıştı",
     "ts": 1786716713358
+  },
+  {
+    "id": "https://www.aspor.com.tr/konyaspor/2026/08/14/enis-destan-tumosan-konyasporda",
+    "title": "Enis Destan TÜMOSAN Konyaspor'da!",
+    "ts": 1786720441217
+  },
+  {
+    "id": "https://www.aspor.com.tr/voleybol/2026/08/14/fbahce-medicanada-stefano-lavarini-donemi-yeniden-basladi",
+    "title": "F.Bahçe Medicana'da Stefano Lavarini dönemi yeniden başladı!",
+    "ts": 1786720444573
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/14/fredden-fenerbahceye-veda-paylasimi",
+    "title": "Fred'den Fenerbahçe'ye veda paylaşımı!",
+    "ts": 1786720447700
   }
 ]
