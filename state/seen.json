@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/09/dunyaca-unlu-gazeteci-fenerbahcenin-yeni-transferini-acikladi",
-    "title": "Dünyaca ünlü gazeteci Fenerbahçe'nin yeni transferini açıkladı!",
-    "ts": 1786273278254
-  },
-  {
-    "id": "news-1171857",
-    "title": "Fenerbahçe'de Lukaku için kritik gelişme! Anlaşma çok yakın",
-    "ts": 1786273281836
-  },
-  {
-    "id": "news-1171853",
-    "title": "Beşiktaş'ın Vlahovic transferine Atletico Madrid engeli",
-    "ts": 1786273284999
-  },
-  {
     "id": "news-1171860",
     "title": "Aleksey Batrakov için Galatasaray'a şok yanıt!",
     "ts": 1786276415103
@@ -843,5 +828,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/14/okan-buruktan-yeni-sezon-paylasimi",
     "title": "Okan Buruk'tan yeni sezon paylaşımı!",
     "ts": 1786704761228
+  },
+  {
+    "id": "news-1172312",
+    "title": "Hacıosmanoğlu açıkladı: Süper Lig'e yabancı VAR geliyor!",
+    "ts": 1786707555752
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/14/tff-baskani-ibrahim-haciosmanoglundan-yabanci-var-aciklamasi",
+    "title": "TFF Başkanı İbrahim Hacıosmanoğlu'ndan yabancı VAR açıklaması",
+    "ts": 1786707559281
+  },
+  {
+    "id": "news-1172306",
+    "title": "Galatasaray'a Leao müjdesi! Bonservisi düştü",
+    "ts": 1786707562440
   }
 ]
