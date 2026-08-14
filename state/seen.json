@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171884",
-    "title": "Galatasaray'dan Chelsea'nin forvetine kanca: Emmanuel Emegha",
-    "ts": 1786300647885
-  },
-  {
-    "id": "news-1171843",
-    "title": "Fenerbahçe'ye sürpriz golcü: Ayase Ueda",
-    "ts": 1786300651476
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/09/dusan-vlahovic-elden-kaciyor-besiktasa-transferde-dev-rakip",
-    "title": "Dusan Vlahovic elden kaçıyor! Beşiktaş'a transferde dev rakip",
-    "ts": 1786300654649
-  },
-  {
     "id": "news-1171887",
     "title": "Trabzonspor'a Premier Lig'den yıldız orta saha: Yves Bissouma",
     "ts": 1786303633943
@@ -798,5 +783,20 @@
     "id": "news-1172368",
     "title": "Samsunspor'da ayrılık: Muja",
     "ts": 1786731276130
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/08/14/ciro-immobileden-emeklilik-karari",
+    "title": "Ciro Immobile'den emeklilik kararı!",
+    "ts": 1786735603543
+  },
+  {
+    "id": "news-1172373",
+    "title": "Ciro Immobile futbolu bıraktı",
+    "ts": 1786735606940
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/14/dusan-vlahovic-besiktasta-imzayi-atti-taraftara-sampiyonluk-sozu",
+    "title": "Dusan Vlahovic Beşiktaş'ta imzayı attı! Taraftara şampiyonluk sözü",
+    "ts": 1786735610051
   }
 ]
