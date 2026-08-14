@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171865",
-    "title": "Galatasaray'a Rodrigo Mora'da kötü haber!",
-    "ts": 1786282996753
-  },
-  {
-    "id": "news-1171852",
-    "title": "PSG'den Arda Güler için çılgın teklif! Fenerbahçe de kasayı dolduracak",
-    "ts": 1786283000095
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/09/transfer-haberi-trabzonsporda-rene-mitongo-icin-surpriz-karar",
-    "title": "TRANSFER HABERİ: Trabzonspor'da Rene Mitongo için sürpriz karar!",
-    "ts": 1786283003198
-  },
-  {
     "id": "news-1171874",
     "title": "Trabzonspor'dan Salah'a yöresel karşılama videosu ilgi gördü",
     "ts": 1786285682057
@@ -828,5 +813,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/14/trabzonspor-kasimpasa-kafilesini-acikladi-salah",
     "title": "Trabzonspor Kasımpaşa kafilesini açıkladı! Salah...",
     "ts": 1786711813634
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahceden-u23-operasyonu",
+    "title": "Fenerbahçe'den U23 operasyonu!",
+    "ts": 1786716706852
+  },
+  {
+    "id": "news-1172341",
+    "title": "Lazio'dan Icardi için resmi açıklama!",
+    "ts": 1786716710234
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahceye-20lik-sol-kanat-cihan-kamer-transfer-rotasini-aciklamisti",
+    "title": "Fenerbahçe'ye 20'lik sol kanat! Cihan Kamer transfer rotasını açıklamıştı",
+    "ts": 1786716713358
   }
 ]
