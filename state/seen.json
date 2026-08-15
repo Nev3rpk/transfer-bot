@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171968",
-    "title": "Deniz Eren Dönmezer, Hull City yolunda!",
-    "ts": 1786373525444
-  },
-  {
-    "id": "news-1171966",
-    "title": "Galatasaray Daikin, İlayda Uçak'ı kadrosuna kattı",
-    "ts": 1786373528830
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/10/fenerbahceden-sasirtan-forvet-hamlesi-herkes-lukaku-derken",
-    "title": "Fenerbahçe'den şaşırtan forvet hamlesi! Herkes Lukaku derken...",
-    "ts": 1786373531949
-  },
-  {
     "id": "https://www.aspor.com.tr/trabzonspor/2026/08/10/trabzonspordan-mali-tablo-aciklamasi-net-borc-59-milyar-tl",
     "title": "Trabzonspor'dan mali tablo açıklaması: Net borç 5,9 milyar TL",
     "ts": 1786377244780
@@ -973,5 +958,20 @@
     "id": "news-1172458",
     "title": "Napoli'nin Noa Lang'ta istediği rakam belli oldu!",
     "ts": 1786805160755
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/15/dusan-vlahovic-umarim-cok-gol-atarim-ve-sampiyonluklar-kazaniriz",
+    "title": "Dusan Vlahovic: Umarım çok gol atarım ve şampiyonluklar kazanırız",
+    "ts": 1786806811379
+  },
+  {
+    "id": "news-1172468",
+    "title": "Trabzonspor'da tarihi kombine başarısı! 25 bin hedefi de aşıldı",
+    "ts": 1786806814782
+  },
+  {
+    "id": "news-1172466",
+    "title": "Galatasaray için Sörloth ve Singo iddiası!",
+    "ts": 1786806817898
   }
 ]
