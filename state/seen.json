@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/konyaspor/2026/08/10/tumosan-konyaspordan-transferde-arthur-masuaku-surprizi",
-    "title": "TÜMOSAN Konyaspor'dan transferde Arthur Masuaku sürprizi!",
-    "ts": 1786387601767
-  },
-  {
-    "id": "https://www.aspor.com.tr/konyaspor/2026/08/10/konyaspor-arthur-masuakuyu-kadrosuna-katti",
-    "title": "Konyaspor, Arthur Masuaku'yu kadrosuna kattı",
-    "ts": 1786387605166
-  },
-  {
-    "id": "news-1171979",
-    "title": "Çorum FK'den Galatasaray maçı öncesi iddialı mesajlar",
-    "ts": 1786387608298
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/10/fenerbahceli-eski-futbolcu-bruno-alves-libero-tvye-konustu",
     "title": "Fenerbahçeli eski futbolcu Bruno Alves Libero TV'ye konuştu!",
     "ts": 1786391447697
@@ -998,5 +983,15 @@
     "id": "news-1172488",
     "title": "Salah'lı Trabzonspor'a ilk hafta Paşa uyarısı!",
     "ts": 1786817950368
+  },
+  {
+    "id": "news-1172496",
+    "title": "Trabzonspor'da sezonun ilk golü Saviolo'dan",
+    "ts": 1786820037169
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/15/ismail-kartal-genclerbirligi-macinda-neden-rotasyon-gittigini-acikladi",
+    "title": "İsmail Kartal, Gençlerbirliği maçında neden rotasyon gittiğini açıkladı",
+    "ts": 1786820040458
   }
 ]
