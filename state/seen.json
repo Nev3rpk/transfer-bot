@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171976",
-    "title": "Konyaspor, Arthur Masuaku'yu resmen açıkladı!",
-    "ts": 1786383924284
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/10/trabzonspor-kulubunden-borc-aciklamasi",
-    "title": "Trabzonspor Kulübü'nden borç açıklaması!",
-    "ts": 1786383927616
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/10/fenerbahcede-ismail-kartaldan-dikkat-ceken-kadro-aciklamasi",
-    "title": "Fenerbahçe'de İsmail Kartal'dan dikkat çeken transfer sözleri!",
-    "ts": 1786383930718
-  },
-  {
     "id": "https://www.fotomac.com.tr/konyaspor/2026/08/10/tumosan-konyaspordan-transferde-arthur-masuaku-surprizi",
     "title": "TÜMOSAN Konyaspor'dan transferde Arthur Masuaku sürprizi!",
     "ts": 1786387601767
@@ -1003,5 +988,15 @@
     "id": "news-1172484",
     "title": "Serdal Adalı: \"Salah olsa, Vlahovic olmazdı\"",
     "ts": 1786815777592
+  },
+  {
+    "id": "news-1172491",
+    "title": "İsmail Kartal'dan rotasyon açıklaması: \"Herkesin oynaması gerekiyor\"",
+    "ts": 1786817946961
+  },
+  {
+    "id": "news-1172488",
+    "title": "Salah'lı Trabzonspor'a ilk hafta Paşa uyarısı!",
+    "ts": 1786817950368
   }
 ]
