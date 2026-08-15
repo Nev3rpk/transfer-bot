@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1171987",
-    "title": "Çorum FK, Alexandros Kyziridis'i renklerine bağladı",
-    "ts": 1786400998931
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/10/4-super-lig-devi-kapa-bildirdi-yillik-donem-kar-ve-zararlari-belli-oldu",
-    "title": "4 Süper Lig devi KAP'a bildirdi! Yıllık dönem kâr ve zararları belli oldu",
-    "ts": 1786401002362
-  },
-  {
     "id": "news-1172018",
     "title": "Beşiktaş'ın Miretti transferinde önünde iki engel!",
     "ts": 1786445040944
@@ -973,5 +963,10 @@
     "id": "news-1172519",
     "title": "Mahmut Uslu: \"Bu şekilde bu lig devam etmez\"",
     "ts": 1786830185365
+  },
+  {
+    "id": "news-1172530",
+    "title": "Muriqi, 2218 gün sonra Süper Lig sahnesinde",
+    "ts": 1786833912579
   }
 ]
