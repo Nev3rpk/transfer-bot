@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171942",
-    "title": "Galatasaray - Leao transferinde son durum",
-    "ts": 1786359696364
-  },
-  {
-    "id": "news-1171934",
-    "title": "Herro: \"Sonraki kontratımı hiç düşünmüyorum\"",
-    "ts": 1786359699988
-  },
-  {
-    "id": "news-1171928",
-    "title": "Beşiktaş Joe Willock ile sona yaklaştı!",
-    "ts": 1786359703135
-  },
-  {
     "id": "news-1171945",
     "title": "Konyaspor, Arthur Masuaku'yu renklerine bağlayacak",
     "ts": 1786363611260
@@ -913,5 +898,20 @@
     "id": "news-1172412",
     "title": "Trabzonspor'da Darwin Nunez için forma operasyonu!",
     "ts": 1786790771934
+  },
+  {
+    "id": "news-1172426",
+    "title": "Trabzonspor'da Draguş düğümü",
+    "ts": 1786792432390
+  },
+  {
+    "id": "news-1172425",
+    "title": "Fenerbahçe, Pedersen için İtalya'da görüşüyor!",
+    "ts": 1786792435901
+  },
+  {
+    "id": "news-1172411",
+    "title": "Galatasaray'da Singo planı: Yerine Arda Turan'ın prensi",
+    "ts": 1786792439057
   }
 ]
