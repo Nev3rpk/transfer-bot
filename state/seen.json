@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1171945",
-    "title": "Konyaspor, Arthur Masuaku'yu renklerine bağlayacak",
-    "ts": 1786363611260
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/10/trabzonspordan-muhammed-salahin-transferine-gosterilen-ilgi-icin-tesekkur-mesaji",
-    "title": "Trabzonspor'dan Muhammed Salah'ın transferine gösterilen ilgi için teşekkür mesajı!",
-    "ts": 1786363614671
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/10/transfer-haberi-galatasaraya-tangocu-yildiz-cimbom-son-birkac-saat-icinde-devreye-girdi",
-    "title": "TRANSFER HABERİ: Galatasaray'a Tangocu yıldız! 'Cimbom son birkaç saat içinde devreye girdi'",
-    "ts": 1786363617809
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/10/galatasaraydan-besiktasa-transfer-calimi-italyan-basini-duyurdu",
     "title": "Galatasaray'dan Beşiktaş'a transfer çalımı! İtalyan basını duyurdu",
     "ts": 1786369939521
@@ -928,5 +913,20 @@
     "id": "news-1172427",
     "title": "Beşiktaş, Fares Ghedjemis için devreye girdi!",
     "ts": 1786794133466
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/15/fenerbahcede-yerli-hamlesi-iste-caglar-yerine-dusunulen-isim",
+    "title": "Fenerbahçe'de yerli hamlesi! İşte Çağlar yerine düşünülen isim",
+    "ts": 1786796612706
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/15/fenerbahcede-yerli-hamlesi-iste-caglar-yerine-dusunulen-isim",
+    "title": "O isim gelirse Çağlar gidecek",
+    "ts": 1786796616394
+  },
+  {
+    "id": "news-1172435",
+    "title": "Beşiktaş'tan Necip Uysal'a anlamlı veda!",
+    "ts": 1786796619569
   }
 ]
