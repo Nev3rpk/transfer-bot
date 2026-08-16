@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172078",
-    "title": "Muriqi'den 2214 gün sonra dönüş",
-    "ts": 1786487679746
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/12/trabzonsporda-surpriz-forvet-onerisi",
     "title": "Trabzonspor'a sürpriz forvet önerisi!",
     "ts": 1786532130445
@@ -1023,5 +1018,10 @@
     "id": "news-1172640",
     "title": "Salih Özcan'dan Beşiktaş mesajı: \"Allah'a şükür iyi gidiyoruz\"",
     "ts": 1786916525583
+  },
+  {
+    "id": "news-1172642",
+    "title": "Besnik Hasi: \"Bir transfer yapacağız!\"",
+    "ts": 1786922024047
   }
 ]
