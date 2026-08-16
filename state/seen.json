@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172044",
-    "title": "Beşiktaş'tan sağ kanat atağı: Mohamed Ali Cho",
-    "ts": 1786457744023
-  },
-  {
     "id": "news-1172051",
     "title": "Beşiktaş'ta orta sahaya sürpriz aday: Kristian Thorstvedt",
     "ts": 1786462042096
@@ -1033,5 +1028,20 @@
     "id": "news-1172558",
     "title": "Bayern'in Neuer planıydı: Eski hocasından Nübel'e büyük övgü",
     "ts": 1786889748862
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/16/galatasarayin-ilgilendigi-isimler-kadro-disi",
+    "title": "Galatasaray'ın ilgilendiği isimler kadro dışı!",
+    "ts": 1786891608506
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/16/fenerbahceden-hakan-calhanoglu-atagi-transferde-son-durum",
+    "title": "Fenerbahçe'den Hakan Çalhanoğlu atağı! Transferde son durum...",
+    "ts": 1786891611908
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/16/transfer-haberi-fenerbahceden-hakan-calhanoglu-bombasi",
+    "title": "TRANSFER HABERİ: Fenerbahçe'den Hakan Çalhanoğlu bombası!",
+    "ts": 1786891615081
   }
 ]
