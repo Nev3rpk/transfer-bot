@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172054",
-    "title": "Lucas Torreira'dan Salah, Fenerbahçe ve ayrılık açıklaması",
-    "ts": 1786465446931
-  },
-  {
-    "id": "news-1172053",
-    "title": "Kocaelispor, Berkan Kutlu'yu kadrosuna kattı",
-    "ts": 1786465450422
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/11/galatasarayda-lucas-torreira-fbahceye-attigim-golden-sonra",
-    "title": "Galatasaray'da Lucas Torreira: F.Bahçe'ye attığım golden sonra...",
-    "ts": 1786465453694
-  },
-  {
     "id": "https://www.fotomac.com.tr/superlig/2026/08/11/rafael-leaodan-transfer-aciklamasi-fenerbahce-ve-galatasaray",
     "title": "Rafael Leao'dan transfer açıklaması! Fenerbahçe ve Galatasaray...",
     "ts": 1786469090395
@@ -1053,5 +1038,10 @@
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/16/basaksehir-kocaelispor-canli-trendyol-super-lig",
     "title": "Başakşehir-Kocaelispor | CANLI (Trendyol Süper Lig)",
     "ts": 1786896965638
+  },
+  {
+    "id": "https://www.aspor.com.tr/konyaspor/2026/08/16/konyaspor-kulubu-baskani-omer-atikerden-transfer-aciklamasi",
+    "title": "Konyaspor Kulübü Başkanı Ömer Atiker'den transfer açıklaması",
+    "ts": 1786900445616
   }
 ]
