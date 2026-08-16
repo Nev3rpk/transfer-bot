@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172021",
-    "title": "Galatasaray Eren Dinkçi için harekete geçti",
-    "ts": 1786448330742
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/11/galatasarayin-yeni-golcusu-chelseaden-iste-cimbomun-surpriz-transferi",
-    "title": "Galatasaray'ın yeni golcüsü Chelsea'den! İşte Cimbom'un sürpriz transferi",
-    "ts": 1786448334234
-  },
-  {
-    "id": "news-1172020",
-    "title": "Menemen FK'da yatırımcı arayışı sürüyor",
-    "ts": 1786448337392
-  },
-  {
     "id": "news-1172032",
     "title": "Salah'ın Trabzonspor videosuna büyük ilgi: Milyonlarca kez izlendi",
     "ts": 1786452486998
@@ -998,5 +983,20 @@
     "id": "news-1172568",
     "title": "Fenerbahçe için yine Hakan Çalhanoğlu iddiası!",
     "ts": 1786878826796
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/08/16/genclerbirligi-fenerbahce-macinda-kucuk-cocugun-formasinin-cikarttirilmasina-gozalti-karari",
+    "title": "Gençlerbirliği-Fenerbahçe maçında küçük çocuğun formasının çıkarttırılmasına gözaltı kararı!",
+    "ts": 1786880579880
+  },
+  {
+    "id": "news-1172565",
+    "title": "Beşiktaş'tan orta sahaya Timber hamlesi",
+    "ts": 1786880583316
+  },
+  {
+    "id": "news-1172564",
+    "title": "Ethan Nwaneri için Galatasaray'a mesaj",
+    "ts": 1786880586452
   }
 ]
