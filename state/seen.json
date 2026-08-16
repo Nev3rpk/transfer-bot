@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172032",
-    "title": "Salah'ın Trabzonspor videosuna büyük ilgi: Milyonlarca kez izlendi",
-    "ts": 1786452486998
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/11/transfer-haberi-besiktastan-mohamed-ali-cho-icin-dev-teklif-fransiz-basini-duyurdu",
-    "title": "TRANSFER HABERİ: Beşiktaş'tan Mohamed-Ali Cho için dev teklif! Fransız basını duyurdu",
-    "ts": 1786452490433
-  },
-  {
-    "id": "news-1172025",
-    "title": "Galatasaray'ın ilgilendiği Chermiti'nin çapraz bağı koptu!",
-    "ts": 1786452493574
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/11/besiktas-fransiz-kanat-oyuncusu-icin-devrede",
     "title": "Beşiktaş Fransız kanat oyuncusu için devrede!",
     "ts": 1786457737303
@@ -1013,5 +998,20 @@
     "id": "news-1172586",
     "title": "Fenerbahçe Jonathan Rowe için harekete geçti",
     "ts": 1786883103495
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktasa-transferde-kotu-haber-dev-kulupler-o-isim-icin-devrede",
+    "title": "Beşiktaş'a transferde kötü haber! Dev kulüpler o isim için devrede",
+    "ts": 1786885700124
+  },
+  {
+    "id": "news-1172590",
+    "title": "Galatasaray'da büyük çıkmaz: Nelsson ve Jelert!",
+    "ts": 1786885703465
+  },
+  {
+    "id": "news-1172585",
+    "title": "Galatasaray'ın Fofana için rakibi Roma!",
+    "ts": 1786885706575
   }
 ]
