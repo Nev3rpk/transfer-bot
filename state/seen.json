@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172051",
-    "title": "Beşiktaş'ta orta sahaya sürpriz aday: Kristian Thorstvedt",
-    "ts": 1786462042096
-  },
-  {
-    "id": "news-1171991",
-    "title": "Galatasaray'dan Martinelli için resmi teklif!",
-    "ts": 1786462045585
-  },
-  {
-    "id": "news-1172013",
-    "title": "Gözaltı kararı sonrası Fenerbahçe'den ilk açıklama!",
-    "ts": 1786462048741
-  },
-  {
     "id": "news-1172054",
     "title": "Lucas Torreira'dan Salah, Fenerbahçe ve ayrılık açıklaması",
     "ts": 1786465446931
@@ -1058,5 +1043,10 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktastan-cezayirli-kanat-icin-flas-teklif-transferde-kritik-tarih-belli-oldu",
     "title": "Beşiktaş'tan Cezayirli kanat için flaş teklif! Transferde kritik tarih belli oldu",
     "ts": 1786893291863
+  },
+  {
+    "id": "news-1172610",
+    "title": "Konyaspor Başkanı Ömer Atiker: \"Gerekli takviyeleri en kısa sürede yapacağız\"",
+    "ts": 1786895027284
   }
 ]
