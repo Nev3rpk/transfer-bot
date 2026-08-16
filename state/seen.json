@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172018",
-    "title": "Beşiktaş'ın Miretti transferinde önünde iki engel!",
-    "ts": 1786445040944
-  },
-  {
-    "id": "news-1172015",
-    "title": "Amedspor'dan Oğuz Aydın için sürpriz hamle!",
-    "ts": 1786445044279
-  },
-  {
-    "id": "news-1172014",
-    "title": "Galatasaray orta sahadaki hedefi Alexis Mac Allister",
-    "ts": 1786445047396
-  },
-  {
     "id": "news-1172021",
     "title": "Galatasaray Eren Dinkçi için harekete geçti",
     "ts": 1786448330742
@@ -983,5 +968,20 @@
     "id": "news-1172574",
     "title": "Fenerbahçe'de sağ bek planı: Semedo'nun yerine Pedersen",
     "ts": 1786875361846
+  },
+  {
+    "id": "news-1172580",
+    "title": "Beşiktaş'a kötü haber: Fares Ghedjemis",
+    "ts": 1786877217416
+  },
+  {
+    "id": "news-1172573",
+    "title": "\"Osimhen aradı, Metu da Galatasaray'a geldi!\"",
+    "ts": 1786877220803
+  },
+  {
+    "id": "news-1172572",
+    "title": "Beşiktaş'ın ilgilendiği Danois'in menajeri İstanbul'a geldi",
+    "ts": 1786877223946
   }
 ]
