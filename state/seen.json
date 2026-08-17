@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/12/galatasaraya-transferde-kotu-haber-yeni-takimina-imzayi-atiyor",
-    "title": "Galatasaray'a transferde kötü haber! Yeni takımına imzayı atıyor",
-    "ts": 1786539201322
-  },
-  {
-    "id": "news-1172104",
-    "title": "Dursun Özbek'ten transfer talimatı: \"Hedef 21 Ağustos\"",
-    "ts": 1786539204807
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/12/juventusun-orta-sahasi-hedefte-besiktastan-surpriz-hamle",
-    "title": "Juventus'un Orta Sahası Hedefte! Beşiktaş'tan Sürpriz Hamle",
-    "ts": 1786539207969
-  },
-  {
     "id": "news-1172135",
     "title": "Süper Lig'in gündemindeydi! Sörloth'tan kötü haber",
     "ts": 1786544235162
@@ -1068,5 +1053,20 @@
     "id": "news-1172689",
     "title": "Beşiktaş'ta Willock'ta sona doğru!",
     "ts": 1786969782715
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/17/galatasaray-2-transferine-kavusuyor-istanbula-gelis-tarihi",
+    "title": "Galatasaray 2. transferine kavuşuyor! İstanbul'a geliş tarihi...",
+    "ts": 1786972938582
+  },
+  {
+    "id": "news-1172727",
+    "title": "Serdal Adalı sponsorluk töreninde dengesini kaybederek yere düştü",
+    "ts": 1786972942157
+  },
+  {
+    "id": "https://www.aspor.com.tr/samsunspor/2026/08/17/samsunsporda-cherif-ndiaye-paoka-kiralandi",
+    "title": "Samsunspor'da Cherif Ndiaye PAOK'a kiralandı!",
+    "ts": 1786972945308
   }
 ]
