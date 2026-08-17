@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/fenerbahcede-ilk-ayrilik-gerceklesiyor-italyan-kulubuyle-anlasmaya-vardigi-duyuruldu",
-    "title": "Fenerbahçe'de ilk ayrılık gerçekleşiyor! İtalyan kulübüyle anlaşmaya vardığı duyuruldu",
-    "ts": 1786548448979
-  },
-  {
-    "id": "news-1172140",
-    "title": "Fenerbahçe'de Omar Fayed gelişmesi! İtalya yolcusu",
-    "ts": 1786548452398
-  },
-  {
-    "id": "news-1172101",
-    "title": "Galatasaray Balogun'un şartlarını sordu!",
-    "ts": 1786548455545
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/fenerbahce-romelu-lukakuyu-resmen-acikladi",
     "title": "Fenerbahçe, Romelu Lukaku'yu resmen açıkladı!",
     "ts": 1786551920586
@@ -1098,5 +1083,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/17/galatasaray-transferde-fenerbahceyi-bekliyor-flas-gelismeyi-italyanlar-duyurdu",
     "title": "Galatasaray transferde Fenerbahçe'yi bekliyor! Flaş gelişmeyi İtalyanlar duyurdu",
     "ts": 1786979939363
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktastan-bir-gizemli-paylasim-daha",
+    "title": "Beşiktaş'tan bir gizemli paylaşım daha!",
+    "ts": 1786981665082
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/17/besiktastan-dikkat-ceken-paylasim",
+    "title": "Beşiktaş'tan dikkat çeken paylaşım!",
+    "ts": 1786981668469
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahceye-transferde-domenico-tedesco-engeli",
+    "title": "Fenerbahçe'ye transferde Domenico Tedesco engeli!",
+    "ts": 1786981671587
   }
 ]
