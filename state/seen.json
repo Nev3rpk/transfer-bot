@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172143",
-    "title": "Fenerbahçe'nin yeni transferi Lukaku, İstanbul'da",
-    "ts": 1786566964348
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/romelu-lukaku-fenerbahce-icin-geldi-iste-ilk-goruntuler",
     "title": "Romelu Lukaku, Fenerbahçe için geldi! İşte ilk görüntüler",
     "ts": 1786570691989
@@ -1093,5 +1088,15 @@
     "id": "news-1172741",
     "title": "Beşiktaş'ta Avrupa kadrosu değişti!",
     "ts": 1786996180416
+  },
+  {
+    "id": "news-1172647",
+    "title": "Aleksey Batrakov, Galatasaray için geliyor!",
+    "ts": 1786999887205
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktastan-lukebakio-hamlesi",
+    "title": "Beşiktaş'tan Lukebakio için yoğun mesai!",
+    "ts": 1786999890610
   }
 ]
