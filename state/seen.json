@@ -1,10 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/12/romelu-lukaku-fenerbahce-icin-geldi-iste-ilk-goruntuler",
-    "title": "Romelu Lukaku, Fenerbahçe için geldi! İşte ilk görüntüler",
-    "ts": 1786570691989
-  },
-  {
     "id": "news-1172153",
     "title": "Sarıyer, Eren Karadağ'ı renklerine bağladı",
     "ts": 1786574017738
@@ -1098,5 +1093,15 @@
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktastan-lukebakio-hamlesi",
     "title": "Beşiktaş'tan Lukebakio için yoğun mesai!",
     "ts": 1786999890610
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/17/samsunspor-teknik-direktoru-thorsten-fink-hakemin-kararlari-genel-itibariyle-dogruydu",
+    "title": "Samsunspor Teknik Direktörü Thorsten Fink: Hakemin kararları genel itibariyle doğruydu",
+    "ts": 1787005028162
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/17/samsunspor-kulubu-baskani-yuksel-yildirimdan-transfer-sozleri",
+    "title": "Samsunspor Kulübü Başkanı Yüksel Yıldırım'dan transfer sözleri!",
+    "ts": 1787005031577
   }
 ]
