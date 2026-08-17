@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172160",
-    "title": "Muhammed Diomande, Çorum FK'de!",
-    "ts": 1786577663647
-  },
-  {
     "id": "news-1172207",
     "title": "Dusan Vlahovic, 2 kasa domatesle geldi; işte sırrı",
     "ts": 1786618578198
@@ -1103,5 +1098,10 @@
     "id": "news-1172754",
     "title": "Stoilov'dan olay penaltı sözleri: \"Hiç kimse vermezdi\"",
     "ts": 1787008598413
+  },
+  {
+    "id": "news-1172758",
+    "title": "Icardi için Lazio baskısını artırdı!",
+    "ts": 1787010258451
   }
 ]
