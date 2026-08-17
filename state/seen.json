@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/lukaku-ile-ilgili-dikkat-ceken-detay-3-yasinda-ankarada-yasiyordu",
-    "title": "Lukaku ile ilgili dikkat çeken detay! 3 yaşında Ankara'da yaşıyordu",
-    "ts": 1786555618660
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/12/besiktas-dusan-vlahovici-resmen-acikladi",
-    "title": "Beşiktaş, Dusan Vlahovic'i resmen açıkladı!",
-    "ts": 1786555621979
-  },
-  {
-    "id": "news-1172099",
-    "title": "Galatasaray'da Soule hamlesi: En az 25 milyon euro!",
-    "ts": 1786555625094
-  },
-  {
-    "id": "news-1172146",
-    "title": "Dursun Özbek'ten transfer ve şampiyonluk mesajı",
-    "ts": 1786559135242
-  },
-  {
-    "id": "news-1172145",
-    "title": "Oğuz Çetin, Lukaku transferinin arka planını anlattı!",
-    "ts": 1786559138647
-  },
-  {
-    "id": "https://www.takvim.com.tr/spor/galatasaray/2026/08/12/galatasaraydan-arsenale-cikarma-2-yildiz-icin-paket-teklif",
-    "title": "Arsenal'den Galatasaray'a çifte yıldız!",
-    "ts": 1786559141752
-  },
-  {
     "id": "news-1172143",
     "title": "Fenerbahçe'nin yeni transferi Lukaku, İstanbul'da",
     "ts": 1786566964348
@@ -1108,5 +1078,10 @@
     "id": "news-1172739",
     "title": "Michy Batshuayi'nin yeni adresi Suudi Arabistan",
     "ts": 1786987249115
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktas-vlahovicin-lisansini-cikardi",
+    "title": "Beşiktaş Vlahovic'in lisansını çıkardı!",
+    "ts": 1786991327881
   }
 ]
