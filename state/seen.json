@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/12/trabzonsporda-surpriz-forvet-onerisi",
-    "title": "Trabzonspor'a sürpriz forvet önerisi!",
-    "ts": 1786532130445
-  },
-  {
-    "id": "news-1172107",
-    "title": "N'Golo Kante'den yıldızlaşan performans!",
-    "ts": 1786532133793
-  },
-  {
-    "id": "news-1172106",
-    "title": "Roma, Mora için Porto ile anlaşmaya vardı!",
-    "ts": 1786532136897
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/son-dakika-transfer-haberi-fenerbahce-romelu-lukakuyu-istanbula-getiriyor",
     "title": "SON DAKİKA TRANSFER HABERİ: Fenerbahçe, Romelu Lukaku'yu İstanbul'a getiriyor!",
     "ts": 1786534946177
@@ -1053,5 +1038,20 @@
     "id": "news-1172710",
     "title": "Beşiktaş'a kötü haber: Kevin Danois",
     "ts": 1786964121638
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/17/fenerbahcede-bir-ayrilik-daha-ingiltereye-gonderiliyor",
+    "title": "Fenerbahçe'de bir ayrılık daha! İngiltere'ye gönderiliyor",
+    "ts": 1786965550555
+  },
+  {
+    "id": "news-1172715",
+    "title": "Lazio'dan Mauro Icardi'ye teklif",
+    "ts": 1786965554140
+  },
+  {
+    "id": "https://www.fotomac.com.tr/italyaseriea/2026/08/17/besiktas-ve-galatasaray-istiyordu-iste-jhon-lucuminin-yeni-takimi",
+    "title": "Beşiktaş ve Galatasaray istiyordu! İşte Jhon Lucumi'nin yeni takımı",
+    "ts": 1786965557319
   }
 ]
