@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172135",
-    "title": "Süper Lig'in gündemindeydi! Sörloth'tan kötü haber",
-    "ts": 1786544235162
-  },
-  {
-    "id": "news-1172133",
-    "title": "Fenerbahçe'de ayrılık zirvesi! O isimlerle yollar ayrılıyor...",
-    "ts": 1786544238648
-  },
-  {
-    "id": "news-1172102",
-    "title": "Beşiktaş'ta Jeff Chabot pazarlığı kızıştı!",
-    "ts": 1786544241834
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/12/fenerbahcede-ilk-ayrilik-gerceklesiyor-italyan-kulubuyle-anlasmaya-vardigi-duyuruldu",
     "title": "Fenerbahçe'de ilk ayrılık gerçekleşiyor! İtalyan kulübüyle anlaşmaya vardığı duyuruldu",
     "ts": 1786548448979
@@ -1083,5 +1068,20 @@
     "id": "news-1172726",
     "title": "Mathieu Valbuena: \"Turun anahtarı Mason Greenwood\"",
     "ts": 1786975181481
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahcede-flas-ederson-gelismesi-juventusun-transferde-karari",
+    "title": "Fenerbahçe'de flaş Ederson gelişmesi! Juventus'un transferde kararı...",
+    "ts": 1786977188934
+  },
+  {
+    "id": "https://www.fotomac.com.tr/goztepe/2026/08/17/goztepe-boran-eliguzeli-transfer-etti",
+    "title": "Göztepe Boran Eligüzel’i transfer etti!",
+    "ts": 1786977192257
+  },
+  {
+    "id": "https://www.aspor.com.tr/basketbol/2026/08/17/dallas-mavericks-formasi-giyen-tarik-biberovicten-fenerbahce-itirafi",
+    "title": "Dallas Mavericks forması giyen Tarık Biberovic'ten Fenerbahçe itirafı",
+    "ts": 1786977195378
   }
 ]
