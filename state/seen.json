@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172207",
-    "title": "Dusan Vlahovic, 2 kasa domatesle geldi; işte sırrı",
-    "ts": 1786618578198
-  },
-  {
-    "id": "news-1172206",
-    "title": "Trabzonspor'da Muhammet Salah seferberliği!",
-    "ts": 1786618581518
-  },
-  {
-    "id": "news-1172205",
-    "title": "Fenerbahçe'de Diego Carlos'ta görüşmesi!",
-    "ts": 1786618584658
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/13/fenerbahceden-tffye-flas-basvuru-bu-hamle-cok-konusulur",
     "title": "Fenerbahçe'den TFF'ye flaş başvuru! Bu hamle çok konuşulur",
     "ts": 1786621352135
@@ -1133,5 +1118,20 @@
     "id": "news-1172797",
     "title": "Emirhan İlkhan için Süper Lig iddiası!",
     "ts": 1787050477166
+  },
+  {
+    "id": "news-1172827",
+    "title": "Galatasaray, Batrakov'u devlerinden elinden alıyor!",
+    "ts": 1787051959033
+  },
+  {
+    "id": "news-1172826",
+    "title": "Fenerbahçe - Beşiktaş: Oğuz Aydın gelişmesi!",
+    "ts": 1787051962519
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/18/trabzonspordan-besiktasa-transfer-piyangosu-emirhan-ilkhan",
+    "title": "Trabzonspor'dan Beşiktaş'a transfer piyangosu! Emirhan İlkhan...",
+    "ts": 1787051965663
   }
 ]
