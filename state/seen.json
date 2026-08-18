@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galeri/fenerbahce/lukaku-fbahcede-ilk-antrenmanina-cikti",
-    "title": "Lukaku, F.Bahçe'de ilk antrenmanına çıktı",
-    "ts": 1786653279502
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/13/besiktasta-djalo-sakatligi-nedeniyle-maca-devam-edemedi",
-    "title": "Beşiktaş'ta Djalo sakatlığı nedeniyle maça devam edemedi!",
-    "ts": 1786653282925
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahcede-irfan-can-egribayat-ile-yollar-ayrildi",
-    "title": "Fenerbahçe'de İrfan Can Eğribayat ile yollar ayrıldı!",
-    "ts": 1786653286056
-  },
-  {
     "id": "news-1172275",
     "title": "Başakşehir'den Portekiz'e transfer: Matchoi Djalo",
     "ts": 1786657086809
@@ -1178,5 +1163,15 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/kadikoyde-gorsel-solen",
     "title": "Kadıköy’de görsel şölen",
     "ts": 1787082456395
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahce-taraftarindan-ismail-kartala-asensio-cagrisi",
+    "title": "Fenerbahçe taraftarından İsmail Kartal’a Asensio çağrısı",
+    "ts": 1787086018396
+  },
+  {
+    "id": "news-1172883",
+    "title": "Minik taraftar Göktuğ, Aziz Yıldırım ile buluştu",
+    "ts": 1787086021691
   }
 ]
