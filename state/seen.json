@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172275",
-    "title": "Başakşehir'den Portekiz'e transfer: Matchoi Djalo",
-    "ts": 1786657086809
-  },
-  {
-    "id": "news-1172273",
-    "title": "Beşiktaş'ta Vlahovic'e sevgi gösterisi",
-    "ts": 1786657090194
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasarayin-transfer-listesindeki-leaodan-kotu-haber-sakatlandi",
-    "title": "Galatasaray'ın transfer listesindeki Leao'dan kötü haber! Sakatlandı...",
-    "ts": 1786657093295
-  },
-  {
     "id": "https://www.aspor.com.tr/avrupa-ligi/2026/08/13/hradec-kralove-teknik-direktoru-david-horejs-bugun-tecrubemiz-yetmedi",
     "title": "Hradec Kralove Teknik Direktörü David Horejs: Bugün tecrübemiz yetmedi!",
     "ts": 1786660451365
@@ -1178,5 +1163,15 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/mason-greenwood-fransada-kazanmak-istiyoruz",
     "title": "Mason Greenwood: Fransa'da kazanmak istiyoruz!",
     "ts": 1787087805791
+  },
+  {
+    "id": "https://www.fotomac.com.tr/sampiyonlarligi/2026/08/18/vedat-muric-lukakudan-ogrenecegim-cok-sey-olacaktir",
+    "title": "Vedat Muriç: Lukaku'dan öğreneceğim çok şey olacaktır",
+    "ts": 1787089528929
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/18/vedat-muriqi-fransada-kazanarak-sampiyonlar-ligi-muzigini-dinletmek-istiyoruz",
+    "title": "Vedat Muriqi: Fransa'da kazanarak Şampiyonlar Ligi müziğini dinletmek istiyoruz!",
+    "ts": 1787089532279
   }
 ]
