@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/13/fenerbahceden-tffye-flas-basvuru-bu-hamle-cok-konusulur",
-    "title": "Fenerbahçe'den TFF'ye flaş başvuru! Bu hamle çok konuşulur",
-    "ts": 1786621352135
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/13/trabzonspora-ernest-muciden-kotu-haber",
-    "title": "Trabzonspor'a Ernest Muçi'den kötü haber!",
-    "ts": 1786621355591
-  },
-  {
-    "id": "news-1172202",
-    "title": "Beşiktaş'ta Ndidi gelişmesi: Al-İttihad devreye girdi",
-    "ts": 1786621358748
-  },
-  {
     "id": "news-1172220",
     "title": "Dusan Vlahovic'in Beşiktaş'a uzanan siyah-beyaz kariyeri",
     "ts": 1786625679106
@@ -1133,5 +1118,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/08/18/trabzonspordan-besiktasa-transfer-piyangosu-emirhan-ilkhan",
     "title": "Trabzonspor'dan Beşiktaş'a transfer piyangosu! Emirhan İlkhan...",
     "ts": 1787051965663
+  },
+  {
+    "id": "news-1172831",
+    "title": "Galatasaray, Noa Lang için yeniden masada",
+    "ts": 1787053741587
+  },
+  {
+    "id": "news-1172794",
+    "title": "Beşiktaş'tan Juventus'a resmi teklif: Nico Gonzalez",
+    "ts": 1787053744922
+  },
+  {
+    "id": "news-1172792",
+    "title": "Kauno Zalgiris cephesinden Beşiktaş itirafı",
+    "ts": 1787053748023
   }
 ]
