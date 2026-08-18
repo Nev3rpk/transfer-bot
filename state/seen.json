@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172266",
-    "title": "Olaitan: \"Beşiktaş'ta tarih yazmak istiyorum\"",
-    "ts": 1786649611087
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahceden-ozel-lukaku-videosu",
-    "title": "Fenerbahçe'den özel Lukaku videosu!",
-    "ts": 1786649614614
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/13/trabzonsporun-uefa-avrupa-liginde-play-off-turunda-rakibi-belli-oldu",
-    "title": "Trabzonspor'un UEFA Avrupa Ligi'nde Play-Off Turu'ndaki rakibi belli oldu!",
-    "ts": 1786649617759
-  },
-  {
     "id": "https://www.fotomac.com.tr/galeri/fenerbahce/lukaku-fbahcede-ilk-antrenmanina-cikti",
     "title": "Lukaku, F.Bahçe'de ilk antrenmanına çıktı",
     "ts": 1786653279502
@@ -1183,5 +1168,15 @@
     "id": "news-1172878",
     "title": "Göztepe Bekir Turaç Böke'yi renklerine bağladı!",
     "ts": 1787080024346
+  },
+  {
+    "id": "news-1172881",
+    "title": "Musiala yine bayıldı! Sağlık durumunu açıkladı",
+    "ts": 1787082452873
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/kadikoyde-gorsel-solen",
+    "title": "Kadıköy’de görsel şölen",
+    "ts": 1787082456395
   }
 ]
