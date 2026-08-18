@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahce-otobusune-yonelik-saldirida-sicak-gelisme-bakan-gurlek-acikladi",
-    "title": "Bakan Gürlek'ten Fenerbahçe otobüsüne saldırı ile ilgili açıklama!",
-    "ts": 1786638333967
-  },
-  {
-    "id": "https://www.aspor.com.tr/rizespor/2026/08/13/caykur-rizespor-umut-erdemi-transfer-etti",
-    "title": "Çaykur Rizespor, Umut Erdem'i transfer etti",
-    "ts": 1786638337270
-  },
-  {
-    "id": "news-1172212",
-    "title": "Trabzonspor'dan Atakan Karazor hamlesi!",
-    "ts": 1786638340419
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/13/besiktasta-onder-ozenden-transfer-aciklamasi",
     "title": "Beşiktaş'ta Önder Özen'den transfer açıklaması!",
     "ts": 1786642036989
@@ -1178,5 +1163,15 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galatasarayda-3-ayrilik-birden-gerceklesebilir",
     "title": "Galatasaray'da 3 ayrılık birden gerçekleşebilir!",
     "ts": 1787070203830
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/18/galatasaraydan-transferde-buyuk-surpriz-leao-derken-o-yildiz-geliyor",
+    "title": "Galatasaray'dan transferde büyük sürpriz! Leao derken o yıldız geliyor",
+    "ts": 1787072225789
+  },
+  {
+    "id": "news-1172870",
+    "title": "Alanyaspor, Fenerbahçe'de Emre Demir'i istiyor",
+    "ts": 1787072229253
   }
 ]
