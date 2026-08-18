@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/13/besiktasta-onder-ozenden-transfer-aciklamasi",
-    "title": "Beşiktaş'ta Önder Özen'den transfer açıklaması!",
-    "ts": 1786642036989
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/13/onder-ozenden-dusan-vlahovic-aciklamasi",
-    "title": "Önder Özen'den Dusan Vlahovic açıklaması!",
-    "ts": 1786642040352
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahcede-yeni-transfer-romelu-lukaku-tesisleri-gezdi",
-    "title": "Fenerbahçe'de yeni transfer Romelu Lukaku tesisleri gezdi",
-    "ts": 1786642043455
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/13/trabzonspor-baskani-ertugrul-dogandan-darwin-nunez-aciklamasi",
     "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan Darwin Nunez açıklaması!",
     "ts": 1786645583860
@@ -1188,5 +1173,15 @@
     "id": "news-1172872",
     "title": "Fuat Çapa açıkladı: \"Ndiaye'nin yerine forvet arıyoruz\"",
     "ts": 1787073902649
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galatasaraydan-alexander-sorloth-bombasi-iste-transferde-son-durum",
+    "title": "Galatasaray'dan Alexander Sörloth bombası! İşte transferde son durum",
+    "ts": 1787075512517
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/18/trabzonspordan-karim-benzema-surprizi",
+    "title": "Trabzonspor'dan Karim Benzema sürprizi!",
+    "ts": 1787075515865
   }
 ]
