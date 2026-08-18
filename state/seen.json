@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172242",
-    "title": "Gençlerbirliği'nden transfer yasağı için üçlü mekanizma",
-    "ts": 1786630749281
-  },
-  {
-    "id": "news-1172237",
-    "title": "Kayserispor, German Onugkha ile yollarını ayırdı",
-    "ts": 1786630752738
-  },
-  {
-    "id": "news-1172236",
-    "title": "Göztepe'de Juan düğümü: İki transfer birden rafa kalktı",
-    "ts": 1786630755889
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/13/besiktastan-vlahovic-hakkinda-kap-aciklamasi",
     "title": "Beşiktaş'tan Vlahovic hakkında KAP açıklaması!",
     "ts": 1786634953088
@@ -1148,5 +1133,20 @@
     "id": "news-1172746",
     "title": "Beşiktaş'a transfer yanıtı: Dodi Lukebakio",
     "ts": 1787060228023
+  },
+  {
+    "id": "news-1172849",
+    "title": "Fenerbahçe'den ayrıldı, LaLiga'ya gidiyor: Edson Alvarez",
+    "ts": 1787063167546
+  },
+  {
+    "id": "news-1172848",
+    "title": "Beşiktaş'tan Kasımpaşa'ya Yasin Özcan yanıtı",
+    "ts": 1787063170928
+  },
+  {
+    "id": "news-1172847",
+    "title": "Galatasaray Kadın Futbol Takımı, Eleni Markou'yu açıkladı",
+    "ts": 1787063174053
   }
 ]
