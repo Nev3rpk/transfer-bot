@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/13/besiktastan-vlahovic-hakkinda-kap-aciklamasi",
-    "title": "Beşiktaş'tan Vlahovic hakkında KAP açıklaması!",
-    "ts": 1786634953088
-  },
-  {
-    "id": "news-1172253",
-    "title": "Fenerbahçe otobüsü saldırısında kritik gelişme",
-    "ts": 1786634956439
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/13/galatasaraydan-transferde-premier-lig-cikarmasi-martinelli-haricinde-o-yildiz-da-hedefte",
-    "title": "Galatasaray'dan transferde Premier Lig çıkarması! Martinelli haricinde o yıldız da hedefte",
-    "ts": 1786634959568
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/13/fenerbahce-otobusune-yonelik-saldirida-sicak-gelisme-bakan-gurlek-acikladi",
     "title": "Bakan Gürlek'ten Fenerbahçe otobüsüne saldırı ile ilgili açıklama!",
     "ts": 1786638333967
@@ -1163,5 +1148,20 @@
     "id": "news-1172851",
     "title": "Konyaspor'a Macar orta saha: Rajmund Toth",
     "ts": 1787065263596
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahcede-jayden-oosterwolde-icin-sicak-gelisme",
+    "title": "Fenerbahçe'de Jayden Oosterwolde için sıcak gelişme!",
+    "ts": 1787068519725
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/yapay-zekadan-fenerbahce-lyon-maci-skor-tahmini-tur-ihtimalleri",
+    "title": "Yapay zekadan Fenerbahçe-Lyon maçı skor tahmini! Tur ihtimalleri...",
+    "ts": 1787068523052
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahcede-bir-ayrilik-daha-menajeri-istanbula-geliyor",
+    "title": "Fenerbahçe'de bir ayrılık daha! Menajeri İstanbul'a geliyor",
+    "ts": 1787068526176
   }
 ]
