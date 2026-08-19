@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahce-otobusune-silahli-saldiri-sorusturmasinda-1-supheli-tutuklandi",
-    "title": "Fenerbahçe otobüsüne silahlı saldırı soruşturmasında 1 şüpheli tutuklandı!",
-    "ts": 1786737767799
-  },
-  {
-    "id": "news-1172361",
-    "title": "Konyaspor, Hull City'den transfer yaptı",
-    "ts": 1786737771133
-  },
-  {
-    "id": "news-1172346",
-    "title": "Galatasaray, Batrakov transferini bitiriyor!",
-    "ts": 1786737774243
-  },
-  {
     "id": "news-1172378",
     "title": "Galatasaray'ın ayakta kalan tek adamı",
     "ts": 1786740844875
@@ -1258,5 +1243,20 @@
     "id": "news-1172994",
     "title": "Galatasaray'da Batrakov'un sözleşme şartları belli oldu!",
     "ts": 1787168872078
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/08/19/galatasarayin-gundemindeki-tijjani-reijnders-al-qadsiaha-transfer-oldu",
+    "title": "Galatasaray'ın gündemindeki Tijjani Reijnders, Al-Qadsiah'a transfer oldu!",
+    "ts": 1787170749458
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/19/galatasaray-ile-gorusmeler-basladi-italyan-gazeteci-torreira-transferini-duyurdu",
+    "title": "Galatasaray ile görüşmeler başladı! İtalyan gazeteci Torreira transferini duyurdu",
+    "ts": 1787170752980
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/19/galatasarayda-arca-corum-fk-macindan-sonra-istifa-karari-dursun-ozbek-engelledi",
+    "title": "Galatasaray'da Arca Çorum FK maçından sonra istifa kararı! Dursun Özbek engelledi",
+    "ts": 1787170756088
   }
 ]
