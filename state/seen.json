@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172396",
-    "title": "beIN Trio'dan Galatasaray - Arca Çorum FK yorumları",
-    "ts": 1786749291474
-  },
-  {
     "id": "news-1172418",
     "title": "Galatasaray'a Bruno Fernandes'ten sıcak haber!",
     "ts": 1786788941028
@@ -1198,5 +1193,10 @@
     "id": "news-1173005",
     "title": "Trabzonspor'un Salah'a sürpriz videosu beğeni topladı",
     "ts": 1787179732917
+  },
+  {
+    "id": "news-1173009",
+    "title": "Selçuk İnan açıkladı! 3 isim Amed maçında yok",
+    "ts": 1787181422713
   }
 ]
