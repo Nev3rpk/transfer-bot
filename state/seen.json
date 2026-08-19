@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/futbol/2026/08/14/ciro-immobileden-emeklilik-karari",
-    "title": "Ciro Immobile'den emeklilik kararı!",
-    "ts": 1786735603543
-  },
-  {
-    "id": "news-1172373",
-    "title": "Ciro Immobile futbolu bıraktı",
-    "ts": 1786735606940
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/14/dusan-vlahovic-besiktasta-imzayi-atti-taraftara-sampiyonluk-sozu",
-    "title": "Dusan Vlahovic Beşiktaş'ta imzayı attı! Taraftara şampiyonluk sözü",
-    "ts": 1786735610051
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/14/fenerbahce-otobusune-silahli-saldiri-sorusturmasinda-1-supheli-tutuklandi",
     "title": "Fenerbahçe otobüsüne silahlı saldırı soruşturmasında 1 şüpheli tutuklandı!",
     "ts": 1786737767799
@@ -1258,5 +1243,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/19/torreira-galatasaraydan-ayriliyor-mu-torreira-hangi-takima-gidecek",
     "title": "Torreira Galatasaray'dan ayrılıyor mu? Torreira hangi takıma gidecek?",
     "ts": 1787166085623
+  },
+  {
+    "id": "news-1172995",
+    "title": "Fatih Terim'den yıllar sonra çok konuşulacak sözler!",
+    "ts": 1787168865621
+  },
+  {
+    "id": "https://www.aspor.com.tr/kocaelispor/2026/08/19/kocaelispor-goncalo-sousayi-transfer-etti",
+    "title": "Kocaelispor, Gonçalo Sousa'yı transfer etti!",
+    "ts": 1787168868968
+  },
+  {
+    "id": "news-1172994",
+    "title": "Galatasaray'da Batrakov'un sözleşme şartları belli oldu!",
+    "ts": 1787168872078
   }
 ]
