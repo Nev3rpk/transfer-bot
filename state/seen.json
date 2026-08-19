@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172369",
-    "title": "Galatasaray'dan Malick Fofana hamlesi",
-    "ts": 1786731269445
-  },
-  {
-    "id": "https://www.fotomac.com.tr/rizespor/2026/08/14/caykur-rizespordan-transferde-moussa-diakite-hamlesi",
-    "title": "Çaykur Rizespor'dan transferde Moussa Diakite hamlesi!",
-    "ts": 1786731272970
-  },
-  {
-    "id": "news-1172368",
-    "title": "Samsunspor'da ayrılık: Muja",
-    "ts": 1786731276130
-  },
-  {
     "id": "https://www.aspor.com.tr/futbol/2026/08/14/ciro-immobileden-emeklilik-karari",
     "title": "Ciro Immobile'den emeklilik kararı!",
     "ts": 1786735603543
@@ -1243,5 +1228,20 @@
     "id": "CBMiwwFBVV95cUxOQ3ZiYS0ySllWb1N4aW15ZXNacF9nYzhnbGFTRF9uNXZPLXk3enlnLVpNVzFuZzR5dkZvS21YczB4T2t4ZHdYQ0EwTmU3b3I0SkVHSkR5TWF5YnhDaFFuY1RBQ281RUJVdWpmTy1OTTJ3ajlLTXhkYmd3Y2RpZlFKb1BoR2xfRGllS0xKVWVobmZJT1h4V3FtNldLUFdGVjBObW1Weno3Z1hRS2h3bzZzbGlaWjlPZTlWWC1RT3lXOGFSQnPSAcgBQVVfeXFMUC05cUEtV3cwRFNYb1lCMmk2WXprWjI2UzBYQ2t6SnhpbGNyaUNlQVJoRWh2OUQ1R3RpbDVENGR0Qk5GMmlDbzRheHNCcXN4clBWSjZ2c0FtbG5Td2tKVllhREUyVDF2UlFSUmlLZ1FtYTRxZUpwdGlPSkVmcjJ5Y3hTTnE1bW5HOVZRbTVheXBoSTdlWGMzeUgtNl9IbGl0TWJ1QnBhc1VNWjdSMlN4QzNtd254N0FIek4yMTNpd2x6bFp5UnZpOUk",
     "title": "Nevzat Dindar: \"Galatasaray'da bir sene daha kalıp sonrasında ayrılma kararı aldı, kendine güveniyor\" - Haber Sarı Kırmızı",
     "ts": 1787161711940
+  },
+  {
+    "id": "https://www.aspor.com.tr/erzurumspor/2026/08/19/erzurumspor-fk-miguel-cardosoyu-transfer-etti",
+    "title": "Erzurumspor FK, Miguel Cardoso'yu transfer etti",
+    "ts": 1787163823560
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/19/erzurumspor-fk-kadrosunu-miguel-cardoso-ile-guclendirdi",
+    "title": "Erzurumspor FK kadrosunu Miguel Cardoso ile güçlendirdi!",
+    "ts": 1787163826861
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/19/besiktasta-vincenzo-italianodan-transfer-aciklamasi",
+    "title": "Beşiktaş'ta Vincenzo Italiano'dan transfer açıklaması!",
+    "ts": 1787163829978
   }
 ]
