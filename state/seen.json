@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172303",
-    "title": "Fenerbahçe'den genç oyuncu transferi için açıklama!",
-    "ts": 1786704754575
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/14/galatasaray-arca-corum-fk-macinin-vari-belli-oldu",
-    "title": "Galatasaray-Arca Çorum FK maçının VAR'ı belli oldu!",
-    "ts": 1786704757993
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/14/okan-buruktan-yeni-sezon-paylasimi",
-    "title": "Okan Buruk'tan yeni sezon paylaşımı!",
-    "ts": 1786704761228
-  },
-  {
     "id": "news-1172312",
     "title": "Hacıosmanoğlu açıkladı: Süper Lig'e yabancı VAR geliyor!",
     "ts": 1786707555752
@@ -1168,5 +1153,20 @@
     "id": "news-1172954",
     "title": "Galatasaray için Noah Sadiki iddiası!",
     "ts": 1787134888333
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/19/besiktasa-transferde-sok-haber-10-milyon-euro-karsiliginda-anlasma-saglandi",
+    "title": "Beşiktaş'a transferde şok haber! 10 milyon euro karşılığında anlaşma sağlandı",
+    "ts": 1787136806403
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/19/galatasarayin-anlasmaya-vardigi-aleksey-batrakova-turk-bayrakli-veda",
+    "title": "Galatasaray'ın anlaşmaya vardığı Aleksey Batrakov'a Türk bayraklı veda!",
+    "ts": 1787136809910
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaraylilari-uzen-transfer-haberleri-lucas-torreira",
+    "title": "Galatasaraylıları üzen transfer haberleri! Lucas Torreira…",
+    "ts": 1787136813122
   }
 ]
