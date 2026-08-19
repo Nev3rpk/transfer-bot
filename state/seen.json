@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172387",
-    "title": "Okan Buruk'tan transfer açıklaması!",
-    "ts": 1786745721517
-  },
-  {
-    "id": "https://www.takvim.com.tr/spor/galatasaray/2026/08/14/galatasaraydan-60-milyon-euroluk-surpriz-transfer-hamlesi",
-    "title": "Galatasaray'dan 60 milyon euroluk sürpriz transfer hamlesi!",
-    "ts": 1786745724952
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/14/besiktasta-yeni-transfer-dusan-vlahovic-ilk-antrenmanina-cikti",
-    "title": "Beşiktaş'ta yeni transfer Dusan Vlahovic, ilk antrenmanına çıktı",
-    "ts": 1786745728101
-  },
-  {
     "id": "news-1172391",
     "title": "Galatasaray'da kaptanlık sıralaması belli oldu!",
     "ts": 1786747624954
@@ -1218,5 +1203,10 @@
     "id": "news-1173000",
     "title": "Galatasaray'a Leao transferinde kötü haber",
     "ts": 1787176111608
+  },
+  {
+    "id": "news-1173002",
+    "title": "Galatasaray'dan Bilal El Khannouss hamlesi",
+    "ts": 1787177860406
   }
 ]
