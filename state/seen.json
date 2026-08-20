@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172460",
-    "title": "Dusan Vlahovic'ten transfer itirafı ve şampiyonluk mesajı",
-    "ts": 1786805154068
-  },
-  {
-    "id": "https://www.aspor.com.tr/konyaspor/2026/08/15/tumosan-konyaspordan-4-imza-birden",
-    "title": "TÜMOSAN Konyaspor’dan 4 imza birden",
-    "ts": 1786805157581
-  },
-  {
-    "id": "news-1172458",
-    "title": "Napoli'nin Noa Lang'ta istediği rakam belli oldu!",
-    "ts": 1786805160755
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/15/dusan-vlahovic-umarim-cok-gol-atarim-ve-sampiyonluklar-kazaniriz",
     "title": "Dusan Vlahovic: Umarım çok gol atarım ve şampiyonluklar kazanırız",
     "ts": 1786806811379
@@ -1183,5 +1168,20 @@
     "id": "https://www.fotomac.com.tr/genclerbirligi/2026/08/20/genclerbirligi-portekizli-tiago-gouveiayi-kadrosuna-katti",
     "title": "Gençlerbirliği, Portekizli Tiago Gouveia'yı kadrosuna kattı!",
     "ts": 1787236163660
+  },
+  {
+    "id": "news-1173085",
+    "title": "Tottenham'dan Galatasaray'a transfer yanıtı: Pape Matar Sarr",
+    "ts": 1787238368756
+  },
+  {
+    "id": "news-1173084",
+    "title": "Çaykur Rizespor'dan transfer açıklaması",
+    "ts": 1787238372279
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/20/transfer-surprizi-fenerbahceden-2-lige-gidebilir",
+    "title": "Transfer sürprizi! Fenerbahçe'den 2. Lig'e gidebilir",
+    "ts": 1787238375476
   }
 ]
