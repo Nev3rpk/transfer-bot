@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172426",
-    "title": "Trabzonspor'da Draguş düğümü",
-    "ts": 1786792432390
-  },
-  {
-    "id": "news-1172425",
-    "title": "Fenerbahçe, Pedersen için İtalya'da görüşüyor!",
-    "ts": 1786792435901
-  },
-  {
-    "id": "news-1172411",
-    "title": "Galatasaray'da Singo planı: Yerine Arda Turan'ın prensi",
-    "ts": 1786792439057
-  },
-  {
     "id": "news-1172431",
     "title": "Batrakov transferinde kritik şart",
     "ts": 1786794127044
@@ -1198,5 +1183,20 @@
     "id": "https://www.aspor.com.tr/genclerbirligi/2026/08/20/genclerbirligi-cheikh-niasseyi-transfer-etti",
     "title": "Gençlerbirliği, Cheikh Niasse'yi transfer etti",
     "ts": 1787223337119
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasarayda-o-isim-devre-arasinda-gonderilebilir",
+    "title": "Galatasaray'da o isim devre arasında gönderilebilir!",
+    "ts": 1787224836818
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/fenerbahceden-transferde-chelsea-cikarmasi-hedef-iki-genc-yildiz",
+    "title": "Fenerbahçe'den transferde Chelsea çıkarması! Hedef iki genç yıldız",
+    "ts": 1787224840367
+  },
+  {
+    "id": "news-1173031",
+    "title": "Galatasaray'da orta saha belirsizliği!",
+    "ts": 1787224843558
   }
 ]
