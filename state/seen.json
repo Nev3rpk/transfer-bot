@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172403",
-    "title": "İşte Fenerbahçe'nin Cherif'ten kazanacağı para",
-    "ts": 1786821395711
-  },
-  {
-    "id": "news-1172500",
-    "title": "Trabzonspor'da Melih Kabasakal ve Cabral siftah yaptı",
-    "ts": 1786822983827
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/15/anderson-talisca-2-kez-direge-takildi",
     "title": "Anderson Talisca 2 kez direğe takıldı",
     "ts": 1786824887713
@@ -1128,5 +1118,10 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/20/besiktasta-sok-sakatlik-leandro-trossard",
     "title": "Beşiktaş’ta şok sakatlık! Leandro Trossard…",
     "ts": 1787253062963
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasaray-aleksei-batrakovun-maliyetini-acikladi",
+    "title": "Galatasaray Aleksei Batrakov'un maliyetini açıkladı!",
+    "ts": 1787255633275
   }
 ]
