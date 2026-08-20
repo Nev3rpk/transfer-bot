@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172421",
-    "title": "Dusan Vlahovic ve Eduard Graf Sırp basınında gündem oldu!",
-    "ts": 1786790765272
-  },
-  {
-    "id": "news-1172422",
-    "title": "Dursun Özbek, sabır istedi tepki gördü!",
-    "ts": 1786790768777
-  },
-  {
-    "id": "news-1172412",
-    "title": "Trabzonspor'da Darwin Nunez için forma operasyonu!",
-    "ts": 1786790771934
-  },
-  {
     "id": "news-1172426",
     "title": "Trabzonspor'da Draguş düğümü",
     "ts": 1786792432390
@@ -1198,5 +1183,20 @@
     "id": "news-1173045",
     "title": "Gençlerbirliği, Cheikh Niasse'yi renklerine bağladı!",
     "ts": 1787221347096
+  },
+  {
+    "id": "news-1173051",
+    "title": "Süper Lig'in 2. haftasında hakemler belli oldu",
+    "ts": 1787223330604
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/20/galatasarayda-yildiz-futbolcu-ile-devre-arasinda-yollar-ayrilacak",
+    "title": "Galatasaray'da yıldız futbolcu ile devre arasında yollar ayrılacak!",
+    "ts": 1787223333983
+  },
+  {
+    "id": "https://www.aspor.com.tr/genclerbirligi/2026/08/20/genclerbirligi-cheikh-niasseyi-transfer-etti",
+    "title": "Gençlerbirliği, Cheikh Niasse'yi transfer etti",
+    "ts": 1787223337119
   }
 ]
