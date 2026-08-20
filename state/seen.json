@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172496",
-    "title": "Trabzonspor'da sezonun ilk golü Saviolo'dan",
-    "ts": 1786820037169
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/15/ismail-kartal-genclerbirligi-macinda-neden-rotasyon-gittigini-acikladi",
-    "title": "İsmail Kartal, Gençlerbirliği maçında neden rotasyon gittiğini açıkladı",
-    "ts": 1786820040458
-  },
-  {
     "id": "news-1172403",
     "title": "İşte Fenerbahçe'nin Cherif'ten kazanacağı para",
     "ts": 1786821395711
@@ -1133,5 +1123,10 @@
     "id": "news-1173100",
     "title": "Gaziantep FK, Sontje Hansen'ı duyurdu",
     "ts": 1787250535654
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/20/besiktasta-sok-sakatlik-leandro-trossard",
+    "title": "Beşiktaş’ta şok sakatlık! Leandro Trossard…",
+    "ts": 1787253062963
   }
 ]
