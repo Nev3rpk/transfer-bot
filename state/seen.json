@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172431",
-    "title": "Batrakov transferinde kritik şart",
-    "ts": 1786794127044
-  },
-  {
-    "id": "news-1172430",
-    "title": "Beşiktaş'ta Uduokhai için ayrılık kararı!",
-    "ts": 1786794130359
-  },
-  {
-    "id": "news-1172427",
-    "title": "Beşiktaş, Fares Ghedjemis için devreye girdi!",
-    "ts": 1786794133466
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/15/fenerbahcede-yerli-hamlesi-iste-caglar-yerine-dusunulen-isim",
     "title": "Fenerbahçe'de yerli hamlesi! İşte Çağlar yerine düşünülen isim",
     "ts": 1786796612706
@@ -1198,5 +1183,20 @@
     "id": "news-1173031",
     "title": "Galatasaray'da orta saha belirsizliği!",
     "ts": 1787224843558
+  },
+  {
+    "id": "news-1173059",
+    "title": "Salah etkisi Kahire'ye taşındı",
+    "ts": 1787226672155
+  },
+  {
+    "id": "news-1173028",
+    "title": "Beşiktaş'tan David Neres için dev hamle!",
+    "ts": 1787226675547
+  },
+  {
+    "id": "news-1173027",
+    "title": "Galatasaray'da Wilfred Singo kararı belli oldu!",
+    "ts": 1787226678680
   }
 ]
