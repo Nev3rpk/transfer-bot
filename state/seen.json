@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172432",
-    "title": "Galatasaray'da Martinelli planı: Alternatifi İspanya'dan",
-    "ts": 1786799209833
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/15/fenerbahcede-yerli-planlamasi-caglarin-kaderi-o-isme-bagli",
-    "title": "Fenerbahçe'de yerli planlaması! Çağlar'ın kaderi o isme bağlı",
-    "ts": 1786799213379
-  },
-  {
-    "id": "news-1172410",
-    "title": "Fenerbahçe ve Beşiktaş, Wout Faes için yarışta!",
-    "ts": 1786799216550
-  },
-  {
     "id": "news-1172453",
     "title": "Karşıyaka'da Harun Kaya gelişmesi: Takıma dönmek istiyor",
     "ts": 1786801797612
@@ -1198,5 +1183,20 @@
     "id": "news-1173024",
     "title": "Beşiktaş'ta Antony ihtimali zora girdi!",
     "ts": 1787229221306
+  },
+  {
+    "id": "news-1173072",
+    "title": "Rangers, Cerny için Beşiktaş'ı yokladı!",
+    "ts": 1787233204006
+  },
+  {
+    "id": "news-1173071",
+    "title": "Amedspor'dan Fenerbahçe'ye transfer tepkisi!",
+    "ts": 1787233207399
+  },
+  {
+    "id": "news-1173068",
+    "title": "Galatasaray'da Demirovic transferinde flaş gelişme!",
+    "ts": 1787233210527
   }
 ]
