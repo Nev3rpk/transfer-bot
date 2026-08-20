@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/15/anderson-talisca-2-kez-direge-takildi",
-    "title": "Anderson Talisca 2 kez direğe takıldı",
-    "ts": 1786824887713
-  },
-  {
-    "id": "news-1172505",
-    "title": "Bouchouari: \"Lige 3 puanla başlamak istiyorduk\"",
-    "ts": 1786824891140
-  },
-  {
     "id": "news-1172519",
     "title": "Mahmut Uslu: \"Bu şekilde bu lig devam etmez\"",
     "ts": 1786830185365
@@ -1123,5 +1113,10 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasaray-aleksei-batrakovun-maliyetini-acikladi",
     "title": "Galatasaray Aleksei Batrakov'un maliyetini açıkladı!",
     "ts": 1787255633275
+  },
+  {
+    "id": "news-1173117",
+    "title": "Zeljko Sopic: \"Beşiktaş çok farklı bir seviyede\"",
+    "ts": 1787257209332
   }
 ]
