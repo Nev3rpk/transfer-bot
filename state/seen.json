@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172418",
-    "title": "Galatasaray'a Bruno Fernandes'ten sıcak haber!",
-    "ts": 1786788941028
-  },
-  {
-    "id": "news-1172416",
-    "title": "Fenerbahçe'de Rashford defteri kapandı!",
-    "ts": 1786788944398
-  },
-  {
-    "id": "news-1172414",
-    "title": "Rafael Leao'da sıcak gelişme",
-    "ts": 1786788947512
-  },
-  {
     "id": "news-1172421",
     "title": "Dusan Vlahovic ve Eduard Graf Sırp basınında gündem oldu!",
     "ts": 1786790765272
@@ -1198,5 +1183,20 @@
     "id": "news-1173009",
     "title": "Selçuk İnan açıkladı! 3 isim Amed maçında yok",
     "ts": 1787181422713
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/20/galatasraydan-resmi-transfer-aciklamasi",
+    "title": "Galatasray'dan resmi transfer açıklaması!",
+    "ts": 1787221340537
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasaray-aleksey-batrakov-transferini-resmen-acikladi",
+    "title": "Galatasaray Aleksey Batrakov transferini resmen açıkladı!",
+    "ts": 1787221343951
+  },
+  {
+    "id": "news-1173045",
+    "title": "Gençlerbirliği, Cheikh Niasse'yi renklerine bağladı!",
+    "ts": 1787221347096
   }
 ]
