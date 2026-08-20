@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1172453",
-    "title": "Karşıyaka'da Harun Kaya gelişmesi: Takıma dönmek istiyor",
-    "ts": 1786801797612
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/15/galatasarayda-ez-abde-sesleri-afrikadan-flas-transfer-iddiasi",
-    "title": "Galatasaray'da Ez Abde sesleri! Afrika'dan flaş transfer iddiası",
-    "ts": 1786801801052
-  },
-  {
-    "id": "news-1172450",
-    "title": "Göztepe yine iyi start peşinde",
-    "ts": 1786801804293
-  },
-  {
-    "id": "news-1172455",
-    "title": "Fenerbahçe'de Şampiyonlar Ligi planı: İki kanat listede",
-    "ts": 1786803290149
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/15/galatasaraya-batrakov-mujdesi-rusyadan-onay-cikti",
-    "title": "Galatasaray'a Batrakov müjdesi! Rusya'dan onay çıktı",
-    "ts": 1786803293533
-  },
-  {
-    "id": "news-1172448",
-    "title": "Balıkesirspor, Göztepe'den Tibet Durakçay'ı renklerine bağladı",
-    "ts": 1786803296662
-  },
-  {
     "id": "news-1172460",
     "title": "Dusan Vlahovic'ten transfer itirafı ve şampiyonluk mesajı",
     "ts": 1786805154068
@@ -1198,5 +1168,20 @@
     "id": "news-1173068",
     "title": "Galatasaray'da Demirovic transferinde flaş gelişme!",
     "ts": 1787233210527
+  },
+  {
+    "id": "news-1173077",
+    "title": "Galatasaray, Erzurumspor FK kamp kadrosunu açıkladı",
+    "ts": 1787236157189
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/transferde-surpriz-gelisme-fenerbahceden-2-lige",
+    "title": "Transferde sürpriz gelişme! Fenerbahçe'den 2. Lig'e...",
+    "ts": 1787236160537
+  },
+  {
+    "id": "https://www.fotomac.com.tr/genclerbirligi/2026/08/20/genclerbirligi-portekizli-tiago-gouveiayi-kadrosuna-katti",
+    "title": "Gençlerbirliği, Portekizli Tiago Gouveia'yı kadrosuna kattı!",
+    "ts": 1787236163660
   }
 ]
