@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172491",
-    "title": "İsmail Kartal'dan rotasyon açıklaması: \"Herkesin oynaması gerekiyor\"",
-    "ts": 1786817946961
-  },
-  {
-    "id": "news-1172488",
-    "title": "Salah'lı Trabzonspor'a ilk hafta Paşa uyarısı!",
-    "ts": 1786817950368
-  },
-  {
     "id": "news-1172496",
     "title": "Trabzonspor'da sezonun ilk golü Saviolo'dan",
     "ts": 1786820037169
@@ -1138,5 +1128,10 @@
     "id": "news-1173098",
     "title": "Galatasaray, Aleksey Batrakov'un lisansını çıkardı!",
     "ts": 1787248473077
+  },
+  {
+    "id": "news-1173100",
+    "title": "Gaziantep FK, Sontje Hansen'ı duyurdu",
+    "ts": 1787250535654
   }
 ]
