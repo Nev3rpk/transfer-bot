@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172580",
-    "title": "Beşiktaş'a kötü haber: Fares Ghedjemis",
-    "ts": 1786877217416
-  },
-  {
-    "id": "news-1172573",
-    "title": "\"Osimhen aradı, Metu da Galatasaray'a geldi!\"",
-    "ts": 1786877220803
-  },
-  {
-    "id": "news-1172572",
-    "title": "Beşiktaş'ın ilgilendiği Danois'in menajeri İstanbul'a geldi",
-    "ts": 1786877223946
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/16/galatasaray-10-numarasina-kavusuyor-batrakov-transfer-atesini-yakti",
     "title": "Galatasaray 10 numarasına kavuşuyor! Batrakov transfer ateşini yaktı",
     "ts": 1786878820099
@@ -1108,5 +1093,20 @@
     "id": "news-1173168",
     "title": "Elias Jelert, Le Havre'ye gidiyor",
     "ts": 1787307741251
+  },
+  {
+    "id": "news-1173187",
+    "title": "Cengiz Ünder için sürpriz transfer gelişmesi",
+    "ts": 1787309746728
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/21/goztepe-transferde-ataga-kalkti",
+    "title": "Göztepe, transferde atağa kalktı",
+    "ts": 1787309750114
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaraydan-cifte-transfer-ermedin-demirovic-ile-ayni-ucakta-gelecek",
+    "title": "Galatasaray'dan çifte transfer! Ermedin Demirovic ile aynı uçakta gelecek",
+    "ts": 1787309753235
   }
 ]
