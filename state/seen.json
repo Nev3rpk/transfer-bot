@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/16/galatasarayin-ilgilendigi-isimler-kadro-disi",
-    "title": "Galatasaray'ın ilgilendiği isimler kadro dışı!",
-    "ts": 1786891608506
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/16/fenerbahceden-hakan-calhanoglu-atagi-transferde-son-durum",
-    "title": "Fenerbahçe'den Hakan Çalhanoğlu atağı! Transferde son durum...",
-    "ts": 1786891611908
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/16/transfer-haberi-fenerbahceden-hakan-calhanoglu-bombasi",
-    "title": "TRANSFER HABERİ: Fenerbahçe'den Hakan Çalhanoğlu bombası!",
-    "ts": 1786891615081
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/16/fenerbahceye-sidiki-cherif-piyangosu-transfer",
     "title": "Fenerbahçe'ye Sidiki Cherif piyangosu! Transfer...",
     "ts": 1786893285464
@@ -1093,5 +1078,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/21/fenerbahcede-cifte-ayrilik-o-isimlerin-bileti-kesildi",
     "title": "Fenerbahçe'de çifte ayrılık! O isimlerin bileti kesildi",
     "ts": 1787322452211
+  },
+  {
+    "id": "news-1173213",
+    "title": "Alanyaspor, Ivan Cedric'i kadrosuna kattı",
+    "ts": 1787324617535
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/21/galatasarayda-ayrilik-gelismesi-elias-jelert",
+    "title": "Galatasaray'da ayrılık gelişmesi! Elias Jelert...",
+    "ts": 1787324620950
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaraydan-ayrilik-aciklamasi-iste-yeni-adresi",
+    "title": "Galatasaray'dan ayrılık açıklaması! İşte yeni adresi",
+    "ts": 1787324624098
   }
 ]
