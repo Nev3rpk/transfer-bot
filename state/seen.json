@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/16/basaksehir-kocaelispor-canli-trendyol-super-lig",
-    "title": "Başakşehir-Kocaelispor | CANLI (Trendyol Süper Lig)",
-    "ts": 1786896965638
-  },
-  {
-    "id": "https://www.aspor.com.tr/konyaspor/2026/08/16/konyaspor-kulubu-baskani-omer-atikerden-transfer-aciklamasi",
-    "title": "Konyaspor Kulübü Başkanı Ömer Atiker'den transfer açıklaması",
-    "ts": 1786900445616
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/16/vincenzo-italianodan-eyupspor-maci-oncesi-aciklama-rotasyon-yapmak-zorunda-kaldim",
     "title": "Vincenzo Italiano'dan Eyüpspor maçı öncesi açıklama: Rotasyon yapmak zorunda kaldım!",
     "ts": 1786904338868
@@ -1078,5 +1068,10 @@
     "id": "https://www.fotomac.com.tr/alanyaspor/2026/08/21/corendon-alanyaspor-ivan-cedric-transferini-acikladi",
     "title": "Corendon Alanyaspor Ivan Cedric transferini açıkladı!",
     "ts": 1787327812784
+  },
+  {
+    "id": "news-1173227",
+    "title": "Antalyaspor'da 5 oyuncu birden imzaladı",
+    "ts": 1787334869196
   }
 ]
