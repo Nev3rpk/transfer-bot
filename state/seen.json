@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/16/fenerbahceye-sidiki-cherif-piyangosu-transfer",
-    "title": "Fenerbahçe'ye Sidiki Cherif piyangosu! Transfer...",
-    "ts": 1786893285464
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktastan-sag-kanada-yeni-aday-transferde-formul-belirlendi",
-    "title": "Beşiktaş'tan sağ kanada yeni aday! Transferde formül belirlendi.",
-    "ts": 1786893288761
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktastan-cezayirli-kanat-icin-flas-teklif-transferde-kritik-tarih-belli-oldu",
-    "title": "Beşiktaş'tan Cezayirli kanat için flaş teklif! Transferde kritik tarih belli oldu",
-    "ts": 1786893291863
-  },
-  {
-    "id": "news-1172610",
-    "title": "Konyaspor Başkanı Ömer Atiker: \"Gerekli takviyeleri en kısa sürede yapacağız\"",
-    "ts": 1786895027284
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/16/basaksehir-kocaelispor-canli-trendyol-super-lig",
     "title": "Başakşehir-Kocaelispor | CANLI (Trendyol Süper Lig)",
     "ts": 1786896965638
@@ -1093,5 +1073,10 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaraydan-ayrilik-aciklamasi-iste-yeni-adresi",
     "title": "Galatasaray'dan ayrılık açıklaması! İşte yeni adresi",
     "ts": 1787324624098
+  },
+  {
+    "id": "https://www.fotomac.com.tr/alanyaspor/2026/08/21/corendon-alanyaspor-ivan-cedric-transferini-acikladi",
+    "title": "Corendon Alanyaspor Ivan Cedric transferini açıkladı!",
+    "ts": 1787327812784
   }
 ]
