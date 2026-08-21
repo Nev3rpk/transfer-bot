@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172640",
-    "title": "Salih Özcan'dan Beşiktaş mesajı: \"Allah'a şükür iyi gidiyoruz\"",
-    "ts": 1786916525583
-  },
-  {
     "id": "news-1172642",
     "title": "Besnik Hasi: \"Bir transfer yapacağız!\"",
     "ts": 1786922024047
@@ -1073,5 +1068,10 @@
     "id": "news-1173242",
     "title": "Serkan Özbalta'dan yönetime transfer çağrısı!",
     "ts": 1787347032413
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/21/okan-buruk-gorustugumuz-isimler-var",
+    "title": "Okan Buruk: Görüştüğümüz isimler var!",
+    "ts": 1787348815197
   }
 ]
