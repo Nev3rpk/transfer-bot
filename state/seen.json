@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktasa-transferde-kotu-haber-dev-kulupler-o-isim-icin-devrede",
-    "title": "Beşiktaş'a transferde kötü haber! Dev kulüpler o isim için devrede",
-    "ts": 1786885700124
-  },
-  {
-    "id": "news-1172590",
-    "title": "Galatasaray'da büyük çıkmaz: Nelsson ve Jelert!",
-    "ts": 1786885703465
-  },
-  {
-    "id": "news-1172585",
-    "title": "Galatasaray'ın Fofana için rakibi Roma!",
-    "ts": 1786885706575
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktas-baskani-serdal-adalidan-yeni-sezon-mesaji",
     "title": "Beşiktaş Başkanı Serdal Adalı'dan yeni sezon mesajı!",
     "ts": 1786888245367
@@ -1108,5 +1093,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/21/besiktas-transfer-etmek-istiyordu-kulubu-serbest-birakti",
     "title": "Beşiktaş transfer etmek istiyordu! Kulübü serbest bıraktı",
     "ts": 1787315584383
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/21/fenerbahce-ve-barcelona-livakovic-transferinde-anlasmaya-vardi-iste-bonservis-bedeli",
+    "title": "Fenerbahçe ve Barcelona Livakovic transferinde anlaşmaya vardı! İşte bonservis bedeli",
+    "ts": 1787319571144
+  },
+  {
+    "id": "news-1173195",
+    "title": "Amed Sportif Faaliyetler'de Celal Hanalp, Vanspor'da!",
+    "ts": 1787319574564
+  },
+  {
+    "id": "news-1173159",
+    "title": "Galatasaray'da tarihi imza: Aleksey Batrakov",
+    "ts": 1787319577751
   }
 ]
