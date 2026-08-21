@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172589",
-    "title": "6 yaşında başladı, hayaline ulaştı: Galatasaray'a transfer oldu",
-    "ts": 1786883096787
-  },
-  {
-    "id": "news-1172588",
-    "title": "Altay'da kalenin yeni sahibi belli oldu",
-    "ts": 1786883100336
-  },
-  {
-    "id": "news-1172586",
-    "title": "Fenerbahçe Jonathan Rowe için harekete geçti",
-    "ts": 1786883103495
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/08/16/besiktasa-transferde-kotu-haber-dev-kulupler-o-isim-icin-devrede",
     "title": "Beşiktaş'a transferde kötü haber! Dev kulüpler o isim için devrede",
     "ts": 1786885700124
@@ -1108,5 +1093,20 @@
     "id": "news-1173164",
     "title": "Stanimir Stoilov'dan transfer açıklaması",
     "ts": 1787313010022
+  },
+  {
+    "id": "news-1173193",
+    "title": "Beşiktaş'ta sağ kanat ve orta saha bekleyişi!",
+    "ts": 1787315577622
+  },
+  {
+    "id": "news-1173138",
+    "title": "Fenerbahçe anlaştı; Barcelona'ya gidiyor!",
+    "ts": 1787315581201
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/21/besiktas-transfer-etmek-istiyordu-kulubu-serbest-birakti",
+    "title": "Beşiktaş transfer etmek istiyordu! Kulübü serbest bıraktı",
+    "ts": 1787315584383
   }
 ]
