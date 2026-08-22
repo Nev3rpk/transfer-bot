@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktastan-bir-gizemli-paylasim-daha",
-    "title": "Beşiktaş'tan bir gizemli paylaşım daha!",
-    "ts": 1786981665082
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/17/besiktastan-dikkat-ceken-paylasim",
-    "title": "Beşiktaş'tan dikkat çeken paylaşım!",
-    "ts": 1786981668469
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahceye-transferde-domenico-tedesco-engeli",
-    "title": "Fenerbahçe'ye transferde Domenico Tedesco engeli!",
-    "ts": 1786981671587
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/17/galatasaray-ivan-karpova-kavusuyor-sozlesme-detaylari-duyuruldu",
     "title": "Galatasaray Ivan Karpov'a kavuşuyor! Sözleşme detayları duyuruldu",
     "ts": 1786983553705
@@ -1103,5 +1088,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/22/besiktasta-flas-ayrilik-karari",
     "title": "Beşiktaş'ta flaş ayrılık kararı!",
     "ts": 1787413438901
+  },
+  {
+    "id": "news-1173251",
+    "title": "Diego Carlos, yeniden Como yolcusu!",
+    "ts": 1787415320276
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/22/arca-corum-fk-kasimpasa-canli-trendyol-super-lig-2-hafta",
+    "title": "Arca Çorum FK-Kasımpaşa CANLI | Trendyol Süper Lig 2. hafta",
+    "ts": 1787415323655
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/22/caykur-rizespor-samsunspor-canli-trendyol-super-lig-2-hafta",
+    "title": "Çaykur Rizespor-Samsunspor CANLI | Trendyol Süper Lig 2. hafta",
+    "ts": 1787415326792
   }
 ]
