@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172647",
-    "title": "Aleksey Batrakov, Galatasaray için geliyor!",
-    "ts": 1786999887205
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktastan-lukebakio-hamlesi",
-    "title": "Beşiktaş'tan Lukebakio için yoğun mesai!",
-    "ts": 1786999890610
-  },
-  {
     "id": "https://www.fotomac.com.tr/superlig/2026/08/17/samsunspor-teknik-direktoru-thorsten-fink-hakemin-kararlari-genel-itibariyle-dogruydu",
     "title": "Samsunspor Teknik Direktörü Thorsten Fink: Hakemin kararları genel itibariyle doğruydu",
     "ts": 1787005028162
@@ -1108,5 +1098,15 @@
     "id": "news-1173354",
     "title": "Fenerbahçe'den Konyaspor'a karşı 4 gollü galibiyet",
     "ts": 1787431604860
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/22/marco-asensio-boyle-bir-galibiyete-ihtiyacimiz-vardi",
+    "title": "Marco Asensio: Böyle bir galibiyete ihtiyacımız vardı!",
+    "ts": 1787435029544
+  },
+  {
+    "id": "news-1173373",
+    "title": "Fenerbahçe maçındaki penaltı için değerlendirme",
+    "ts": 1787435033011
   }
 ]
