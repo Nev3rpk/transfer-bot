@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/17/fenerbahcede-bir-ayrilik-daha-ingiltereye-gonderiliyor",
-    "title": "Fenerbahçe'de bir ayrılık daha! İngiltere'ye gönderiliyor",
-    "ts": 1786965550555
-  },
-  {
-    "id": "news-1172715",
-    "title": "Lazio'dan Mauro Icardi'ye teklif",
-    "ts": 1786965554140
-  },
-  {
-    "id": "https://www.fotomac.com.tr/italyaseriea/2026/08/17/besiktas-ve-galatasaray-istiyordu-iste-jhon-lucuminin-yeni-takimi",
-    "title": "Beşiktaş ve Galatasaray istiyordu! İşte Jhon Lucumi'nin yeni takımı",
-    "ts": 1786965557319
-  },
-  {
     "id": "news-1172716",
     "title": "Galatasaray'ın transfer listesinde: Conrad Harder",
     "ts": 1786967291429
@@ -1088,5 +1073,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/08/22/trabzonsporda-yaprak-dokumu-4-futbolcuyla-yollar-ayriliyor",
     "title": "Trabzonspor'da yaprak dökümü! 4 futbolcuyla yollar ayrılıyor",
     "ts": 1787397277514
+  },
+  {
+    "id": "news-1173278",
+    "title": "Fenerbahçe'nin istediği Yusuf Akçiçek'te maaş sıkıntısı!",
+    "ts": 1787398984051
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/22/fenerbahceden-talisca-karari-konyaspor-macinda",
+    "title": "Fenerbahçe'den Talisca kararı! Konyaspor maçında...",
+    "ts": 1787398987498
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahcede-anderson-talisca-konyaspor-macinin-kadrosuna-alinmadi",
+    "title": "Fenerbahçe'de Anderson Talisca Konyaspor maçının kadrosuna alınmadı",
+    "ts": 1787398990596
   }
 ]
