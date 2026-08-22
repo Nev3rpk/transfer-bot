@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahcede-ayriliklar-pes-pese-adaya-kiralaniyor",
-    "title": "Fenerbahçe'de ayrılıklar peş peşe! Ada'ya kiralanıyor",
-    "ts": 1786964115150
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/17/besiktasin-hedefindeki-isme-hull-city-kancasi-kulupten-aciklama-yapildi",
-    "title": "Beşiktaş'ın hedefindeki isme Hull City kancası! Kulüpten açıklama yapıldı",
-    "ts": 1786964118508
-  },
-  {
-    "id": "news-1172710",
-    "title": "Beşiktaş'a kötü haber: Kevin Danois",
-    "ts": 1786964121638
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/17/fenerbahcede-bir-ayrilik-daha-ingiltereye-gonderiliyor",
     "title": "Fenerbahçe'de bir ayrılık daha! İngiltere'ye gönderiliyor",
     "ts": 1786965550555
@@ -1088,5 +1073,20 @@
     "id": "news-1173267",
     "title": "Galatasaray'da Mario Lemina kendini hatırlattı!",
     "ts": 1787395648569
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/22/jonathan-davidden-transfer-karari-galatasaray-yakindan-ilgileniyordu",
+    "title": "Jonathan David'den transfer kararı! Galatasaray yakından ilgileniyordu",
+    "ts": 1787397270780
+  },
+  {
+    "id": "news-1173265",
+    "title": "Beşiktaş'ın 6'da 6'sına eski yıldızlardan övgü!",
+    "ts": 1787397274342
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/22/trabzonsporda-yaprak-dokumu-4-futbolcuyla-yollar-ayriliyor",
+    "title": "Trabzonspor'da yaprak dökümü! 4 futbolcuyla yollar ayrılıyor",
+    "ts": 1787397277514
   }
 ]
