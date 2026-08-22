@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172706",
-    "title": "Ederson, Martinez derken Juve'nin yeni kalecisi Vicario",
-    "ts": 1786962293212
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahcede-romelu-lukaku-uefa-listesine-eklendi",
-    "title": "Fenerbahçe'de Romelu Lukaku UEFA listesine eklendi!",
-    "ts": 1786962296744
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/17/fenerbahcede-ederson-icin-beklenen-adresten-flas-karar-transfer-plani",
-    "title": "Fenerbahçe'de Ederson için beklenen adresten flaş karar! Transfer planı...",
-    "ts": 1786962299888
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/17/fenerbahcede-ayriliklar-pes-pese-adaya-kiralaniyor",
     "title": "Fenerbahçe'de ayrılıklar peş peşe! Ada'ya kiralanıyor",
     "ts": 1786964115150
@@ -1088,5 +1073,20 @@
     "id": "news-1173270",
     "title": "Trabzonspor'a golcü önerisi: Lorenzo Lucca",
     "ts": 1787393772073
+  },
+  {
+    "id": "news-1173272",
+    "title": "Fenerbahçe'den 20 milyonluk hamle: Gustavo Puerta",
+    "ts": 1787395642138
+  },
+  {
+    "id": "news-1173268",
+    "title": "Galatasaray'da Ugockukwu'dan siftah!",
+    "ts": 1787395645468
+  },
+  {
+    "id": "news-1173267",
+    "title": "Galatasaray'da Mario Lemina kendini hatırlattı!",
+    "ts": 1787395648569
   }
 ]
