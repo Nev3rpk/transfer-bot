@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1172642",
-    "title": "Besnik Hasi: \"Bir transfer yapacağız!\"",
-    "ts": 1786922024047
-  },
-  {
     "id": "news-1172706",
     "title": "Ederson, Martinez derken Juve'nin yeni kalecisi Vicario",
     "ts": 1786962293212
@@ -1078,5 +1073,20 @@
     "id": "news-1173248",
     "title": "Bursaspor'dan hakem tepkisi; \"Güle güle...\"",
     "ts": 1787350595348
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/romanin-oosterwolde-teklifi-belli-oldu-fenerbahceye-onerilen-rakam",
+    "title": "Roma'nın Oosterwolde teklifi belli oldu! Fenerbahçe'ye önerilen rakam...",
+    "ts": 1787393765632
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/22/talisca-hakkinda-carpici-transfer-iddiasi-arap-ekibiyle-anlasmaya-vardi",
+    "title": "Talisca hakkında çarpıcı transfer iddiası: Arap ekibiyle anlaşmaya vardı!",
+    "ts": 1787393768906
+  },
+  {
+    "id": "news-1173270",
+    "title": "Trabzonspor'a golcü önerisi: Lorenzo Lucca",
+    "ts": 1787393772073
   }
 ]
