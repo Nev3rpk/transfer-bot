@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172716",
-    "title": "Galatasaray'ın transfer listesinde: Conrad Harder",
-    "ts": 1786967291429
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/17/galatasarayda-flas-ayrilik-yildiz-isim-sozlesmesini-feshediyor",
-    "title": "Galatasaray'da flaş ayrılık! Yıldız isim sözleşmesini feshediyor",
-    "ts": 1786967294824
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/17/fenerbahcede-lyon-maci-oncesi-sert-uyari-mucadele-etmeyen-gider",
-    "title": "Fenerbahçe’de Lyon maçı öncesi sert uyarı: Mücadele etmeyen gider!",
-    "ts": 1786967297971
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktasa-mustafa-hekimoglu-piyangosu-dev-teklif-ortaya-cikti",
     "title": "Beşiktaş'a Mustafa Hekimoğlu piyangosu! Dev teklif ortaya çıktı",
     "ts": 1786969776210
@@ -1088,5 +1073,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahcede-anderson-talisca-konyaspor-macinin-kadrosuna-alinmadi",
     "title": "Fenerbahçe'de Anderson Talisca Konyaspor maçının kadrosuna alınmadı",
     "ts": 1787398990596
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/22/galatasaraydan-hakan-calhanoglu-surprizi-canli-yayinda-acikladi",
+    "title": "Galatasaray'dan Hakan Çalhanoğlu sürprizi! Canlı yayında açıkladı",
+    "ts": 1787401469739
+  },
+  {
+    "id": "news-1173283",
+    "title": "Beşiktaş'ın Alanyaspor maçı kamp kadrosu açıklandı! Trossard kararı!",
+    "ts": 1787401473036
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/22/jonathan-david-kararini-verdi-galatasaray-istiyordu",
+    "title": "Jonathan David kararını verdi! Galatasaray istiyordu",
+    "ts": 1787401476140
   }
 ]
