@@ -1,10 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktas-vlahovicin-lisansini-cikardi",
-    "title": "Beşiktaş Vlahovic'in lisansını çıkardı!",
-    "ts": 1786991327881
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktas-uefa-kadrosunu-guncelledi-dusan-vlahovic",
     "title": "Beşiktaş UEFA kadrosunu güncelledi! Dusan Vlahovic...",
     "ts": 1786996176998
@@ -1088,5 +1083,20 @@
     "id": "news-1173346",
     "title": "Crystal Palace'tan Ismaila Sarr açıklaması",
     "ts": 1787420647970
+  },
+  {
+    "id": "news-1173358",
+    "title": "Kadıköy'de VAR ile penaltı kararı",
+    "ts": 1787424973235
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/22/besiktastan-ingiliz-ekibine-resmi-teklif-dunyaca-unlu-gazeteci-duyurdu",
+    "title": "Beşiktaş'tan İngiliz ekibine resmi teklif! Dünyaca ünlü gazeteci duyurdu",
+    "ts": 1787424976726
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein",
+    "title": "Beşiktaş'tan Joe Willock için resmi teklif! Karar Newcastle'ın",
+    "ts": 1787424979875
   }
 ]
