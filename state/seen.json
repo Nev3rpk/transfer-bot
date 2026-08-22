@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/17/besiktasa-mustafa-hekimoglu-piyangosu-dev-teklif-ortaya-cikti",
-    "title": "Beşiktaş'a Mustafa Hekimoğlu piyangosu! Dev teklif ortaya çıktı",
-    "ts": 1786969776210
-  },
-  {
-    "id": "news-1172690",
-    "title": "Galatasaray'a Marcus Rashford önerisi",
-    "ts": 1786969779506
-  },
-  {
-    "id": "news-1172689",
-    "title": "Beşiktaş'ta Willock'ta sona doğru!",
-    "ts": 1786969782715
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/17/galatasaray-2-transferine-kavusuyor-istanbula-gelis-tarihi",
     "title": "Galatasaray 2. transferine kavuşuyor! İstanbul'a geliş tarihi...",
     "ts": 1786972938582
@@ -1088,5 +1073,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/22/jonathan-david-kararini-verdi-galatasaray-istiyordu",
     "title": "Jonathan David kararını verdi! Galatasaray istiyordu",
     "ts": 1787401476140
+  },
+  {
+    "id": "news-1173277",
+    "title": "Fares Ghedjemis'te Beşiktaş'ın şansı arttı!",
+    "ts": 1787404097926
+  },
+  {
+    "id": "news-1173262",
+    "title": "Ismaila Sarr'dan kulübüne Galatasaray baskısı",
+    "ts": 1787404101284
+  },
+  {
+    "id": "news-1173259",
+    "title": "Fenerbahçe'de beklenmedik ayrılık iddiası: Anderson Talisca",
+    "ts": 1787404104391
   }
 ]
