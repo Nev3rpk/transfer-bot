@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/18/besiktasta-arthur-melo-sesleri-italiano-icin-bicilmis-kaftan",
-    "title": "Beşiktaş'ta Arthur Melo sesleri! Italiano için biçilmiş kaftan",
-    "ts": 1787048424746
-  },
-  {
-    "id": "news-1172806",
-    "title": "Roma'da iki transfer yakın!",
-    "ts": 1787048428222
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/18/galatasarayda-ismail-jakobs-roland-sallai-ve-gabriel-saraya-transfer-kancasi",
-    "title": "Galatasaray'da Ismail Jakobs, Roland Sallai ve Gabriel Sara'ya transfer kancası",
-    "ts": 1787048431383
-  },
-  {
     "id": "news-1172825",
     "title": "Galatasaray, Tresoldi'yi ikna edemedi!",
     "ts": 1787050470534
@@ -1123,5 +1108,20 @@
     "id": "news-1173397",
     "title": "Beşiktaş ile Juventus arasında Fabio Miretti görüşmesi!",
     "ts": 1787480171312
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/23/fenerbahcede-diego-carlos-gelismesi-ayrilik-son-asamada",
+    "title": "Fenerbahçe'de Diego Carlos gelişmesi! Ayrılık son aşamada",
+    "ts": 1787482087052
+  },
+  {
+    "id": "news-1173395",
+    "title": "Fenerbahçe'den Acun Ilıcalı açıklaması: \"Kabul edilemez\"",
+    "ts": 1787482090343
+  },
+  {
+    "id": "news-1173394",
+    "title": "Batrakov'un bilinmeyenleri ortaya çıktı!",
+    "ts": 1787482093445
   }
 ]
