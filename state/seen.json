@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172842",
-    "title": "Real Betis, Sofyan Amrabat'ı istiyor",
-    "ts": 1787060221174
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/18/galatasarayda-o-transfer-baris-alper-ve-sanenin-kaderini-belirleyecek",
-    "title": "Galatasaray'da o transfer Barış Alper ve Sane'nin kaderini belirleyecek",
-    "ts": 1787060224858
-  },
-  {
-    "id": "news-1172746",
-    "title": "Beşiktaş'a transfer yanıtı: Dodi Lukebakio",
-    "ts": 1787060228023
-  },
-  {
     "id": "news-1172849",
     "title": "Fenerbahçe'den ayrıldı, LaLiga'ya gidiyor: Edson Alvarez",
     "ts": 1787063167546
@@ -1123,5 +1108,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/23/fenerbahceden-savunmaya-flas-hamle-al-hilal-ile-transfer-gorusmeleri-basladi",
     "title": "Fenerbahçe'den savunmaya flaş hamle! Al Hilal ile transfer görüşmeleri başladı",
     "ts": 1787490565841
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/23/galatasaraydan-flas-karar-o-isme-gelen-teklifler-degerlendirilecek",
+    "title": "Galatasaray'dan flaş karar! O isme gelen teklifler değerlendirilecek",
+    "ts": 1787493127660
+  },
+  {
+    "id": "https://www.aspor.com.tr/dunyadan-futbol/2026/08/23/al-diriyah-al-hilalden-darwin-nunezi-kiralik-olarak-kadrosuna-katti",
+    "title": "Al Diriyah, Al Hilal'den Darwin Nunez'i kiralık olarak kadrosuna kattı",
+    "ts": 1787493130947
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/23/eyupspor-simeone-giordanoyu-kadrosuna-katti",
+    "title": "Eyüpspor, Simeone Giordano'yu kadrosuna kattı!",
+    "ts": 1787493134049
   }
 ]
