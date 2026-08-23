@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galatasaraydan-alexander-sorloth-bombasi-iste-transferde-son-durum",
-    "title": "Galatasaray'dan Alexander Sörloth bombası! İşte transferde son durum",
-    "ts": 1787075512517
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/18/trabzonspordan-karim-benzema-surprizi",
-    "title": "Trabzonspor'dan Karim Benzema sürprizi!",
-    "ts": 1787075515865
-  },
-  {
     "id": "news-1172879",
     "title": "Sivasspor Mosah Muhammed'i duyurdu!",
     "ts": 1787080017538
@@ -1103,5 +1093,15 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/23/corendon-alanyaspor-besiktas-canli-trendyol-super-lig-2-hafta-canli-mac",
     "title": "Corendon Alanyaspor-Beşiktaş CANLI | Trendyol Süper Lig 2. hafta CANLI MAÇ",
     "ts": 1787506983149
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/trabzonspor-baskani-ertugrul-dogandan-hakem-tepkisi",
+    "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan hakem tepkisi!",
+    "ts": 1787511324301
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/trabzonsporda-galibiyet-uclusu-salahtan",
+    "title": "Trabzonspor'da galibiyet üçlüsü Salah'tan!",
+    "ts": 1787511327761
   }
 ]
