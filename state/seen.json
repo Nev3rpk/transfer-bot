@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172879",
-    "title": "Sivasspor Mosah Muhammed'i duyurdu!",
-    "ts": 1787080017538
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/18/romelu-lukakuya-yogun-ilgi",
-    "title": "Romelu Lukaku’ya yoğun ilgi",
-    "ts": 1787080021188
-  },
-  {
-    "id": "news-1172878",
-    "title": "Göztepe Bekir Turaç Böke'yi renklerine bağladı!",
-    "ts": 1787080024346
-  },
-  {
     "id": "news-1172881",
     "title": "Musiala yine bayıldı! Sağlık durumunu açıkladı",
     "ts": 1787082452873
@@ -1103,5 +1088,15 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/trabzonsporda-galibiyet-uclusu-salahtan",
     "title": "Trabzonspor'da galibiyet üçlüsü Salah'tan!",
     "ts": 1787511327761
+  },
+  {
+    "id": "news-1173468",
+    "title": "Ernest Muçi açıkladı: Hazır mı?",
+    "ts": 1787512702193
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-nwaiwudan-transfer-iddialarina-yanit",
+    "title": "Trabzonspor'da Nwaiwu'dan transfer iddialarına yanıt!",
+    "ts": 1787512705774
   }
 ]
