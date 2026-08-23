@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172825",
-    "title": "Galatasaray, Tresoldi'yi ikna edemedi!",
-    "ts": 1787050470534
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/18/besiktasta-italianonun-eski-ogrenicisi-icin-teklif-yapildi-vlahovicin-ardindan",
-    "title": "Beşiktaş'ta Italiano'nun eski öğrenicisi için teklif yapıldı! Vlahovic'in ardından...",
-    "ts": 1787050474013
-  },
-  {
-    "id": "news-1172797",
-    "title": "Emirhan İlkhan için Süper Lig iddiası!",
-    "ts": 1787050477166
-  },
-  {
     "id": "news-1172827",
     "title": "Galatasaray, Batrakov'u devlerinden elinden alıyor!",
     "ts": 1787051959033
@@ -1123,5 +1108,20 @@
     "id": "news-1173394",
     "title": "Batrakov'un bilinmeyenleri ortaya çıktı!",
     "ts": 1787482093445
+  },
+  {
+    "id": "https://www.fotomac.com.tr/eyupspor/2026/08/23/eyupspor-simone-giordanoyu-resmen-acikladi",
+    "title": "Eyüpspor, Simone Giordano'yu resmen açıkladı!",
+    "ts": 1787483690669
+  },
+  {
+    "id": "news-1173402",
+    "title": "Oğuz Aydın'a Avrupa'dan yoğun ilgi!",
+    "ts": 1787483694044
+  },
+  {
+    "id": "news-1173392",
+    "title": "Beşiktaş'ın kanadı İtalya'dan gelecek!",
+    "ts": 1787483697256
   }
 ]
