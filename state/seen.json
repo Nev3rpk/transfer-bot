@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172830",
-    "title": "Fransızlardan Fenerbahçe'yi kızdıran manşet!",
-    "ts": 1787056280822
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/18/hem-galatasarayla-hem-de-ajaxla-anlasti-transferde-ilginc-durum",
-    "title": "Hem Galatasarayla hem de Ajax'la anlaştı! Transferde ilginç durum",
-    "ts": 1787056284421
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galatasarayda-lucas-torreira-icin-kritik-karar-yonetim",
-    "title": "Galatasaray'da Lucas Torreira için kritik karar! Yönetim...",
-    "ts": 1787056287598
-  },
-  {
     "id": "news-1172842",
     "title": "Real Betis, Sofyan Amrabat'ı istiyor",
     "ts": 1787060221174
@@ -1123,5 +1108,20 @@
     "id": "news-1173406",
     "title": "Kocaelispor, Amed'e karşı siftah peşinde!",
     "ts": 1787487918922
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspordan-golcu-transferinde-fabio-silva-hamlesi",
+    "title": "Trabzonspor'dan golcü transferinde Fabio Silva hamlesi!",
+    "ts": 1787490559388
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/trabzonspor-fabinhoya-kavusuyor-iste-sehre-gelecegi-tarih",
+    "title": "Trabzonspor Fabinho'ya kavuşuyor! İşte şehre geleceği tarih",
+    "ts": 1787490562725
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/23/fenerbahceden-savunmaya-flas-hamle-al-hilal-ile-transfer-gorusmeleri-basladi",
+    "title": "Fenerbahçe'den savunmaya flaş hamle! Al Hilal ile transfer görüşmeleri başladı",
+    "ts": 1787490565841
   }
 ]
