@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172849",
-    "title": "Fenerbahçe'den ayrıldı, LaLiga'ya gidiyor: Edson Alvarez",
-    "ts": 1787063167546
-  },
-  {
-    "id": "news-1172848",
-    "title": "Beşiktaş'tan Kasımpaşa'ya Yasin Özcan yanıtı",
-    "ts": 1787063170928
-  },
-  {
-    "id": "news-1172847",
-    "title": "Galatasaray Kadın Futbol Takımı, Eleni Markou'yu açıkladı",
-    "ts": 1787063174053
-  },
-  {
     "id": "https://www.fotomac.com.tr/konyaspor/2026/08/18/konyaspor-rajmund-toth-ile-sozlesme-imzaladi",
     "title": "Konyaspor Rajmund Toth ile sözleşme imzaladı!",
     "ts": 1787065257150
@@ -1138,5 +1123,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/23/dunya-devi-osimhene-talip-iste-gonderdikleri-mesaj",
     "title": "Dünya devi Osimhen'e talip! İşte gönderdikleri mesaj",
     "ts": 1787494594381
+  },
+  {
+    "id": "news-1173422",
+    "title": "Ollie Watkins için flaş gelişme! Al Hilal devrede",
+    "ts": 1787496421614
+  },
+  {
+    "id": "news-1173389",
+    "title": "Tottenham'dan Roland Sallai hamlesi! Galatasaray'ın transfer tavrı net",
+    "ts": 1787496424917
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/23/besiktas-joe-willock-ile-prensipte-anlasmaya-vardi-iste-yapilan-transfer-teklifi",
+    "title": "Beşiktaş Joe Willock ile prensipte anlaşmaya vardı! İşte yapılan transfer teklifi",
+    "ts": 1787496428097
   }
 ]
