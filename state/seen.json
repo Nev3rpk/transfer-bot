@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172827",
-    "title": "Galatasaray, Batrakov'u devlerinden elinden alıyor!",
-    "ts": 1787051959033
-  },
-  {
-    "id": "news-1172826",
-    "title": "Fenerbahçe - Beşiktaş: Oğuz Aydın gelişmesi!",
-    "ts": 1787051962519
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/18/trabzonspordan-besiktasa-transfer-piyangosu-emirhan-ilkhan",
-    "title": "Trabzonspor'dan Beşiktaş'a transfer piyangosu! Emirhan İlkhan...",
-    "ts": 1787051965663
-  },
-  {
     "id": "news-1172831",
     "title": "Galatasaray, Noa Lang için yeniden masada",
     "ts": 1787053741587
@@ -1123,5 +1108,20 @@
     "id": "news-1173392",
     "title": "Beşiktaş'ın kanadı İtalya'dan gelecek!",
     "ts": 1787483697256
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/23/talisca-kararini-verdi-fenerbahceden-ayrilacak-mi",
+    "title": "Talisca kararını verdi! Fenerbahçe'den ayrılacak mı?",
+    "ts": 1787485431153
+  },
+  {
+    "id": "news-1173405",
+    "title": "Demirovic için Galatasaray'a olay sözler: \"Osimhen ile birlikte oynayabilir!\"",
+    "ts": 1787485434764
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/23/besiktaslilari-miretti-transferinde-heyecanlandiran-haber",
+    "title": "Beşiktaşlıları Miretti transferinde heyecanlandıran haber!",
+    "ts": 1787485437924
   }
 ]
