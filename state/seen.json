@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172831",
-    "title": "Galatasaray, Noa Lang için yeniden masada",
-    "ts": 1787053741587
-  },
-  {
-    "id": "news-1172794",
-    "title": "Beşiktaş'tan Juventus'a resmi teklif: Nico Gonzalez",
-    "ts": 1787053744922
-  },
-  {
-    "id": "news-1172792",
-    "title": "Kauno Zalgiris cephesinden Beşiktaş itirafı",
-    "ts": 1787053748023
-  },
-  {
     "id": "news-1172830",
     "title": "Fransızlardan Fenerbahçe'yi kızdıran manşet!",
     "ts": 1787056280822
@@ -1123,5 +1108,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/23/besiktaslilari-miretti-transferinde-heyecanlandiran-haber",
     "title": "Beşiktaşlıları Miretti transferinde heyecanlandıran haber!",
     "ts": 1787485437924
+  },
+  {
+    "id": "news-1173411",
+    "title": "Pape Matar Sarr'dan Galatasaray'a büyük ters köşe!",
+    "ts": 1787487912283
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/23/galatasarayda-yildiz-isme-gelen-transfer-teklifleri-degerlendirilecek",
+    "title": "Galatasaray'da yıldız isme gelen transfer teklifleri değerlendirilecek!",
+    "ts": 1787487915767
+  },
+  {
+    "id": "news-1173406",
+    "title": "Kocaelispor, Amed'e karşı siftah peşinde!",
+    "ts": 1787487918922
   }
 ]
