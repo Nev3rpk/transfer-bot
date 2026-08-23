@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahcede-jayden-oosterwolde-icin-sicak-gelisme",
-    "title": "Fenerbahçe'de Jayden Oosterwolde için sıcak gelişme!",
-    "ts": 1787068519725
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/yapay-zekadan-fenerbahce-lyon-maci-skor-tahmini-tur-ihtimalleri",
-    "title": "Yapay zekadan Fenerbahçe-Lyon maçı skor tahmini! Tur ihtimalleri...",
-    "ts": 1787068523052
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahcede-bir-ayrilik-daha-menajeri-istanbula-geliyor",
-    "title": "Fenerbahçe'de bir ayrılık daha! Menajeri İstanbul'a geliyor",
-    "ts": 1787068526176
-  },
-  {
     "id": "news-1172869",
     "title": "Erzurumspor'a Ganalı orta saha: Elisha Owusu",
     "ts": 1787070197255
@@ -1143,5 +1128,10 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/fatih-tekke-basaksehir-maci-oncesi-konustu-tek-odak-noktamiz",
     "title": "Fatih Tekke, Başakşehir maçı öncesi konuştu! \"Tek odak noktamız...\"",
     "ts": 1787499884238
+  },
+  {
+    "id": "news-1173446",
+    "title": "Trabzon'da VAR'la gol kararı!",
+    "ts": 1787501811832
   }
 ]
