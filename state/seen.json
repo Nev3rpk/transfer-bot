@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172881",
-    "title": "Musiala yine bayıldı! Sağlık durumunu açıkladı",
-    "ts": 1787082452873
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/kadikoyde-gorsel-solen",
-    "title": "Kadıköy’de görsel şölen",
-    "ts": 1787082456395
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahce-taraftarindan-ismail-kartala-asensio-cagrisi",
     "title": "Fenerbahçe taraftarından İsmail Kartal’a Asensio çağrısı",
     "ts": 1787086018396
@@ -1103,5 +1093,15 @@
     "id": "news-1173467",
     "title": "Fatih Tekke'den Salah ve transfer açıklaması",
     "ts": 1787514207429
+  },
+  {
+    "id": "news-1173479",
+    "title": "Chibuike Nwaiwu'dan transfer açıklaması",
+    "ts": 1787517958360
+  },
+  {
+    "id": "news-1173478",
+    "title": "Kocaelispor, Matej Maglica'yı kadrosuna kattı!",
+    "ts": 1787517961751
   }
 ]
