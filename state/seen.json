@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/konyaspor/2026/08/18/konyaspor-rajmund-toth-ile-sozlesme-imzaladi",
-    "title": "Konyaspor Rajmund Toth ile sözleşme imzaladı!",
-    "ts": 1787065257150
-  },
-  {
-    "id": "https://www.aspor.com.tr/konyaspor/2026/08/18/konyaspor-rajmund-toth-transferini-acikladi",
-    "title": "Konyaspor, Rajmund Toth transferini açıkladı!",
-    "ts": 1787065260484
-  },
-  {
-    "id": "news-1172851",
-    "title": "Konyaspor'a Macar orta saha: Rajmund Toth",
-    "ts": 1787065263596
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/18/fenerbahcede-jayden-oosterwolde-icin-sicak-gelisme",
     "title": "Fenerbahçe'de Jayden Oosterwolde için sıcak gelişme!",
     "ts": 1787068519725
@@ -1138,5 +1123,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/23/besiktas-joe-willock-ile-prensipte-anlasmaya-vardi-iste-yapilan-transfer-teklifi",
     "title": "Beşiktaş Joe Willock ile prensipte anlaşmaya vardı! İşte yapılan transfer teklifi",
     "ts": 1787496428097
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/23/dunya-devinden-osimhene-transfer-mesaji-pesini-birakmiyorlar",
+    "title": "Dünya devinden Osimhen'e transfer mesajı! Peşini bırakmıyorlar",
+    "ts": 1787498108776
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/23/fenerbahcede-taliscanin-ardindan-bir-ayrilik-ihtimali-daha-ronaldonun-yanina-gidebilir",
+    "title": "Fenerbahçe'de Talisca'nın ardından bir ayrılık ihtimali daha! Ronaldo'nun yanına gidebilir",
+    "ts": 1787498112284
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/23/fenerbahcenin-konyaspora-karsi-kazandigi-penalti-dogru-mu-ahmet-cakar-acikladi",
+    "title": "Fenerbahçe'nin Konyaspor'a karşı kazandığı penaltı doğru mu? Ahmet Çakar açıkladı",
+    "ts": 1787498115443
   }
 ]
