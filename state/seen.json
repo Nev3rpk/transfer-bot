@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172869",
-    "title": "Erzurumspor'a Ganalı orta saha: Elisha Owusu",
-    "ts": 1787070197255
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/18/fenerbahcede-ayrilik-cok-yakin-transferin-bu-hafta-tamamlanmasi-bekleniyor",
-    "title": "Fenerbahçe'de ayrılık çok yakın! Transferin bu hafta tamamlanması bekleniyor",
-    "ts": 1787070200655
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/18/galatasarayda-3-ayrilik-birden-gerceklesebilir",
-    "title": "Galatasaray'da 3 ayrılık birden gerçekleşebilir!",
-    "ts": 1787070203830
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/18/galatasaraydan-transferde-buyuk-surpriz-leao-derken-o-yildiz-geliyor",
     "title": "Galatasaray'dan transferde büyük sürpriz! Leao derken o yıldız geliyor",
     "ts": 1787072225789
@@ -1133,5 +1118,10 @@
     "id": "news-1173446",
     "title": "Trabzon'da VAR'la gol kararı!",
     "ts": 1787501811832
+  },
+  {
+    "id": "news-1173447",
+    "title": "Fares Ghedjemis, kadroya alınmadı!",
+    "ts": 1787503763949
   }
 ]
