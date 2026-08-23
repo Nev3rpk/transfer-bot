@@ -1,15 +1,5 @@
 [
   {
-    "id": "news-1172754",
-    "title": "Stoilov'dan olay penaltı sözleri: \"Hiç kimse vermezdi\"",
-    "ts": 1787008598413
-  },
-  {
-    "id": "news-1172758",
-    "title": "Icardi için Lazio baskısını artırdı!",
-    "ts": 1787010258451
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/18/besiktasta-arthur-melo-sesleri-italiano-icin-bicilmis-kaftan",
     "title": "Beşiktaş'ta Arthur Melo sesleri! Italiano için biçilmiş kaftan",
     "ts": 1787048424746
@@ -1118,5 +1108,20 @@
     "id": "https://www.fotomac.com.tr/konyaspor/2026/08/22/ilhan-paluttan-adil-demirbag-icin-fenerbahce-iddiasina-yanit",
     "title": "İlhan Palut'tan Adil Demirbağ için Fenerbahçe iddiasına yanıt!",
     "ts": 1787438742965
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/23/galatasaraya-transferde-kotu-haber-yeni-kulubuyle-anlasmaya-vardi",
+    "title": "Galatasaray'a transferde kötü haber! Yeni kulübüyle anlaşmaya vardı",
+    "ts": 1787480164743
+  },
+  {
+    "id": "news-1173398",
+    "title": "Beşiktaş'a Soule müjdesi!",
+    "ts": 1787480168164
+  },
+  {
+    "id": "news-1173397",
+    "title": "Beşiktaş ile Juventus arasında Fabio Miretti görüşmesi!",
+    "ts": 1787480171312
   }
 ]
