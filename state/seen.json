@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172966",
-    "title": "Can Armando Güner için transfer açıklaması",
-    "ts": 1787140107566
-  },
-  {
-    "id": "news-1172964",
-    "title": "Torreira neden ayrılmak istiyor?",
-    "ts": 1787140110842
-  },
-  {
-    "id": "news-1172963",
-    "title": "Amedspor'dan Oğuz Aydın açıklaması!",
-    "ts": 1787140113954
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahce-ayriligi-resmen-acikladi-iste-sidiki-cherifin-yeni-takimi",
     "title": "Fenerbahçe ayrılığı resmen açıkladı! İşte Sidiki Cherif'in yeni takımı",
     "ts": 1787142766938
@@ -1053,5 +1038,20 @@
     "id": "news-1173517",
     "title": "Trabzonspor'da şampiyonluk sonrası en golcü başlangıcı Salah yaptı",
     "ts": 1787570432437
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/24/galatasaraydan-flas-transfer-hamlesi-trabzonsporun-hedefindeydi",
+    "title": "Galatasaray'dan flaş transfer hamlesi! Trabzonspor'un hedefindeydi",
+    "ts": 1787572290409
+  },
+  {
+    "id": "news-1173547",
+    "title": "Alanzinho'dan Fabinho yorumu",
+    "ts": 1787572293755
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/24/trabzonspor-gorusuyordu-galatasaray-devreye-girdi-fabio-silva",
+    "title": "Trabzonspor görüşüyordu Galatasaray devreye girdi! Fabio Silva...",
+    "ts": 1787572296856
   }
 ]
