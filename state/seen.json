@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/erzurumspor/2026/08/19/erzurumspor-fk-miguel-cardosoyu-transfer-etti",
-    "title": "Erzurumspor FK, Miguel Cardoso'yu transfer etti",
-    "ts": 1787163823560
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/19/erzurumspor-fk-kadrosunu-miguel-cardoso-ile-guclendirdi",
-    "title": "Erzurumspor FK kadrosunu Miguel Cardoso ile güçlendirdi!",
-    "ts": 1787163826861
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/19/besiktasta-vincenzo-italianodan-transfer-aciklamasi",
-    "title": "Beşiktaş'ta Vincenzo Italiano'dan transfer açıklaması!",
-    "ts": 1787163829978
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/19/fenerbahceye-diego-carlos-mujdesi-iste-yapilan-teklif",
     "title": "Fenerbahçe'ye Diego Carlos müjdesi! İşte yapılan teklif",
     "ts": 1787166079020
@@ -983,5 +968,10 @@
     "id": "news-1173563",
     "title": "Trabzonspor Kadın Futbol Takımı, Melissa Sandrine Behinan'ı transfer etti",
     "ts": 1787594169144
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/24/trabzonspor-fabinho-transferini-kapa-bildirdi-iste-sozlesme-detaylari",
+    "title": "Trabzonspor Fabinho transferini KAP'a bildirdi! İşte sözleşme detayları",
+    "ts": 1787596428241
   }
 ]
