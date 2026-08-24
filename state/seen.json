@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1173000",
-    "title": "Galatasaray'a Leao transferinde kötü haber",
-    "ts": 1787176111608
-  },
-  {
     "id": "news-1173002",
     "title": "Galatasaray'dan Bilal El Khannouss hamlesi",
     "ts": 1787177860406
@@ -943,5 +938,10 @@
     "id": "news-1173578",
     "title": "Kocaelispor'a üç puanı yeni transferler ile aldı!",
     "ts": 1787605016369
+  },
+  {
+    "id": "news-1173585",
+    "title": "Galatasaray'ı kızdıran gelişme: Rafael Leao",
+    "ts": 1787608352469
   }
 ]
