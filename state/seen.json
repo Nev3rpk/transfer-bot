@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1173005",
-    "title": "Trabzonspor'un Salah'a sürpriz videosu beğeni topladı",
-    "ts": 1787179732917
-  },
-  {
     "id": "news-1173009",
     "title": "Selçuk İnan açıkladı! 3 isim Amed maçında yok",
     "ts": 1787181422713
@@ -943,5 +938,20 @@
     "id": "news-1173586",
     "title": "Fenerbahçe'de Diego Carlos için anlaşma tamam! Tek şart kaldı",
     "ts": 1787609925116
+  },
+  {
+    "id": "news-1173589",
+    "title": "Besnik Hasi mağlubiyetin kırılma anını açıkladı!",
+    "ts": 1787611873058
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/24/transfer-haberi-fenerbahcede-o-isimle-yollar-ayriliyor-prensip-anlasmasina-varildi",
+    "title": "TRANSFER HABERİ: Fenerbahçe'de o isimle yollar ayrılıyor! Prensip anlaşmasına varıldı",
+    "ts": 1787611876490
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/24/fenerbahcede-ayrilik-gerceklesiyor-italyan-ekibiyle-anlasma-saglandi",
+    "title": "Fenerbahçe'de ayrılık gerçekleşiyor! İtalyan ekibiyle anlaşma sağlandı",
+    "ts": 1787611879605
   }
 ]
