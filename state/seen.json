@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahce-ayriligi-resmen-acikladi-iste-sidiki-cherifin-yeni-takimi",
-    "title": "Fenerbahçe ayrılığı resmen açıkladı! İşte Sidiki Cherif'in yeni takımı",
-    "ts": 1787142766938
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/19/adi-trabzonspor-ile-aniliyordu-nunez-kararini-verdi",
-    "title": "Adı Trabzonspor ile anılıyordu! Nunez kararını verdi",
-    "ts": 1787142770694
-  },
-  {
-    "id": "news-1172970",
-    "title": "Kayserispor'un hedefi yeniden \"Süper Lig\"",
-    "ts": 1787142773972
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/19/fenerbahcede-romelu-lukakudan-flas-aciklamalar-2-yilin-ardindan-evime-donecegim",
     "title": "Fenerbahçe'de Romelu Lukaku'dan flaş açıklamalar: 2 yılın ardından evime döneceğim!",
     "ts": 1787146697908
@@ -1053,5 +1038,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/24/trabzonspor-gorusuyordu-galatasaray-devreye-girdi-fabio-silva",
     "title": "Trabzonspor görüşüyordu Galatasaray devreye girdi! Fabio Silva...",
     "ts": 1787572296856
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/24/fenerbahceye-veda-ediyor-bu-aksam-turkiyeden-ayrilacak",
+    "title": "Fenerbahçe'ye veda ediyor! Bu akşam Türkiye'den ayrılacak",
+    "ts": 1787574923675
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/24/fenerbahcede-jayden-oosterwolde-takimdan-ayriliyor",
+    "title": "Fenerbahçe'de Jayden Oosterwolde takımdan ayrılıyor!",
+    "ts": 1787574926979
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/24/fenerbahcede-sok-gercek-nathan-ake",
+    "title": "Fenerbahçe'de şok gerçek! Nathan Ake…",
+    "ts": 1787574930102
   }
 ]
