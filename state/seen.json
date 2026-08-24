@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1172986",
-    "title": "Galatasaray'ın yeni transferi Batrakov'un bilinmeyenleri!",
-    "ts": 1787151649793
-  },
-  {
-    "id": "news-1172946",
-    "title": "Barcelona, Livakovic için Fenerbahçe ile masada!",
-    "ts": 1787151653193
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/08/19/darwin-nunez-transferinde-trabzonspora-kotu-haber",
-    "title": "Darwin Nunez transferinde Trabzonspor'a kötü haber!",
-    "ts": 1787151656296
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahcede-omar-fayedin-yeni-adresi-belli-oldu",
     "title": "Fenerbahçe'de Omar Fayed'in yeni adresi belli oldu!",
     "ts": 1787154913551
@@ -1053,5 +1038,15 @@
     "id": "CBMiW0FVX3lxTE83SlNEMWFWckNna1BHREx3d2FRUXcwaGZXVWVIQnhsWWdLS0R0bVpUYlE0dHJsYXl4bFZGZ2gweUxKSHpPbkdDZFBQOXlOWUc3OGdJc1pYcS1rNW8",
     "title": "Son Dakika Fenerbahçe Transfer Haberleri | Yağız Sabuncuoğlu Man On Fire Netflix (1431DQFHxF) - Mshale",
     "ts": 1787582082620
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/24/besiktastan-mhkye-flas-cagri-gorevini-birakmaya-davet-ediyorum",
+    "title": "Beşiktaş'tan MHK'ye flaş çağrı! \"Görevini bırakmaya davet ediyorum\"",
+    "ts": 1787585567819
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/24/galatasaraydan-flas-torreira-hamlesi-uruguayli-yildiza-rest-cekildi",
+    "title": "Galatasaray'dan flaş Torreira hamlesi! Uruguaylı yıldıza rest çekildi",
+    "ts": 1787585571339
   }
 ]
