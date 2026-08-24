@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1173002",
-    "title": "Galatasaray'dan Bilal El Khannouss hamlesi",
-    "ts": 1787177860406
-  },
-  {
     "id": "news-1173005",
     "title": "Trabzonspor'un Salah'a sürpriz videosu beğeni topladı",
     "ts": 1787179732917
@@ -943,5 +938,10 @@
     "id": "news-1173585",
     "title": "Galatasaray'ı kızdıran gelişme: Rafael Leao",
     "ts": 1787608352469
+  },
+  {
+    "id": "news-1173586",
+    "title": "Fenerbahçe'de Diego Carlos için anlaşma tamam! Tek şart kaldı",
+    "ts": 1787609925116
   }
 ]
