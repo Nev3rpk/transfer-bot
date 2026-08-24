@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/19/fenerbahceye-diego-carlos-mujdesi-iste-yapilan-teklif",
-    "title": "Fenerbahçe'ye Diego Carlos müjdesi! İşte yapılan teklif",
-    "ts": 1787166079020
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahcede-flas-oosterwolde-gelismesi-roma",
-    "title": "Fenerbahçe'de flaş Oosterwolde gelişmesi! Roma...",
-    "ts": 1787166082432
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/19/torreira-galatasaraydan-ayriliyor-mu-torreira-hangi-takima-gidecek",
-    "title": "Torreira Galatasaray'dan ayrılıyor mu? Torreira hangi takıma gidecek?",
-    "ts": 1787166085623
-  },
-  {
     "id": "news-1172995",
     "title": "Fatih Terim'den yıllar sonra çok konuşulacak sözler!",
     "ts": 1787168865621
@@ -973,5 +958,10 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/24/trabzonspor-fabinho-transferini-kapa-bildirdi-iste-sozlesme-detaylari",
     "title": "Trabzonspor Fabinho transferini KAP'a bildirdi! İşte sözleşme detayları",
     "ts": 1787596428241
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/24/galatasaray-goztepe-macinin-hazirliklarina-basladi-aleksey-batrakov-ilk-antrenmanina-cikti",
+    "title": "Galatasaray, Göztepe maçının hazırlıklarına başladı! Aleksey Batrakov ilk antrenmanına çıktı",
+    "ts": 1787599402773
   }
 ]
