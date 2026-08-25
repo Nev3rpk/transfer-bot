@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173085",
-    "title": "Tottenham'dan Galatasaray'a transfer yanıtı: Pape Matar Sarr",
-    "ts": 1787238368756
-  },
-  {
-    "id": "news-1173084",
-    "title": "Çaykur Rizespor'dan transfer açıklaması",
-    "ts": 1787238372279
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/20/transfer-surprizi-fenerbahceden-2-lige-gidebilir",
-    "title": "Transfer sürprizi! Fenerbahçe'den 2. Lig'e gidebilir",
-    "ts": 1787238375476
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/pfdkdan-mahmut-usluya-ceza",
     "title": "PFDK'dan Mahmut Uslu'ya ceza!",
     "ts": 1787241455848
@@ -958,5 +943,20 @@
     "id": "news-1173637",
     "title": "Dominik Livakovic imzaya gidiyor!",
     "ts": 1787668660278
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/25/son-dakika-transfer-haberi-besiktasta-jean-onana-ile-yollar-ayrildi",
+    "title": "SON DAKİKA TRANSFER HABERİ: Beşiktaş'ta Jean Onana ile yollar ayrıldı!",
+    "ts": 1787672149971
+  },
+  {
+    "id": "news-1173648",
+    "title": "Beşiktaş, Jean Onana ile yollarını ayırdı!",
+    "ts": 1787672153399
+  },
+  {
+    "id": "news-1173636",
+    "title": "Samsunspor Ohlenschlaeger'i kadrosuna kattı!",
+    "ts": 1787672156680
   }
 ]
