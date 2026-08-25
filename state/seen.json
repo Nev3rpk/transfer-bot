@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasarayda-o-isim-devre-arasinda-gonderilebilir",
-    "title": "Galatasaray'da o isim devre arasında gönderilebilir!",
-    "ts": 1787224836818
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/fenerbahceden-transferde-chelsea-cikarmasi-hedef-iki-genc-yildiz",
-    "title": "Fenerbahçe'den transferde Chelsea çıkarması! Hedef iki genç yıldız",
-    "ts": 1787224840367
-  },
-  {
-    "id": "news-1173031",
-    "title": "Galatasaray'da orta saha belirsizliği!",
-    "ts": 1787224843558
-  },
-  {
     "id": "news-1173059",
     "title": "Salah etkisi Kahire'ye taşındı",
     "ts": 1787226672155
@@ -958,5 +943,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/25/galatasaraylilara-transfer-mujdesi-bu-hafta",
     "title": "Galatasaraylılara transfer müjdesi! Bu hafta...",
     "ts": 1787655485782
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/25/besiktastan-lukebakio-hamlesi",
+    "title": "Beşiktaş'tan Lukebakio hamlesi!",
+    "ts": 1787657283341
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/25/fenerbahce-oosterwoldenin-yerine-arsenaldan-o-transferi-getirecek",
+    "title": "Fenerbahçe, Oosterwolde'nin yerine Arsenal'dan o transferi getirecek!",
+    "ts": 1787657286681
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/25/galatasarayda-okan-buruktan-renato-nhaga-icin-flas-karar",
+    "title": "Galatasaray'da Okan Buruk'tan Renato Nhaga için flaş karar!",
+    "ts": 1787657289801
   }
 ]
