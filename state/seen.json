@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173051",
-    "title": "Süper Lig'in 2. haftasında hakemler belli oldu",
-    "ts": 1787223330604
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/20/galatasarayda-yildiz-futbolcu-ile-devre-arasinda-yollar-ayrilacak",
-    "title": "Galatasaray'da yıldız futbolcu ile devre arasında yollar ayrılacak!",
-    "ts": 1787223333983
-  },
-  {
-    "id": "https://www.aspor.com.tr/genclerbirligi/2026/08/20/genclerbirligi-cheikh-niasseyi-transfer-etti",
-    "title": "Gençlerbirliği, Cheikh Niasse'yi transfer etti",
-    "ts": 1787223337119
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasarayda-o-isim-devre-arasinda-gonderilebilir",
     "title": "Galatasaray'da o isim devre arasında gönderilebilir!",
     "ts": 1787224836818
@@ -958,5 +943,20 @@
     "id": "news-1173611",
     "title": "Yazarlardan Galatasaray yorumları",
     "ts": 1787653464922
+  },
+  {
+    "id": "news-1173628",
+    "title": "Kocaelispor tribünündeki olaya ilişkin 5 gözaltı kararı",
+    "ts": 1787655479377
+  },
+  {
+    "id": "news-1173610",
+    "title": "Beşiktaş peşindeydi: Ghedjemis kadro dışı bırakıldı!",
+    "ts": 1787655482681
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/25/galatasaraylilara-transfer-mujdesi-bu-hafta",
+    "title": "Galatasaraylılara transfer müjdesi! Bu hafta...",
+    "ts": 1787655485782
   }
 ]
