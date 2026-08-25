@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173062",
-    "title": "Göztepe, Richard Akonnor'un peşinde",
-    "ts": 1787229214631
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasarayda-yeni-transfer-aleksey-batrakov-istanbulda",
-    "title": "Galatasaray'da yeni transfer Aleksey Batrakov İstanbul'da!",
-    "ts": 1787229218148
-  },
-  {
-    "id": "news-1173024",
-    "title": "Beşiktaş'ta Antony ihtimali zora girdi!",
-    "ts": 1787229221306
-  },
-  {
     "id": "news-1173072",
     "title": "Rangers, Cerny için Beşiktaş'ı yokladı!",
     "ts": 1787233204006
@@ -958,5 +943,20 @@
     "id": "news-1173605",
     "title": "Beşiktaş genç kule için harekete geçti!",
     "ts": 1787658902148
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/25/besiktas-ernest-poku-ile-anlasti",
+    "title": "Beşiktaş, Ernest Poku ile anlaştı!",
+    "ts": 1787661265298
+  },
+  {
+    "id": "news-1173633",
+    "title": "Fenerbahçe'den Alanyaspor'a gitti",
+    "ts": 1787661269219
+  },
+  {
+    "id": "news-1173604",
+    "title": "Gardi'den Galatasaray'a öneri: Mateta",
+    "ts": 1787661272382
   }
 ]
