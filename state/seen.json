@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173077",
-    "title": "Galatasaray, Erzurumspor FK kamp kadrosunu açıkladı",
-    "ts": 1787236157189
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/transferde-surpriz-gelisme-fenerbahceden-2-lige",
-    "title": "Transferde sürpriz gelişme! Fenerbahçe'den 2. Lig'e...",
-    "ts": 1787236160537
-  },
-  {
-    "id": "https://www.fotomac.com.tr/genclerbirligi/2026/08/20/genclerbirligi-portekizli-tiago-gouveiayi-kadrosuna-katti",
-    "title": "Gençlerbirliği, Portekizli Tiago Gouveia'yı kadrosuna kattı!",
-    "ts": 1787236163660
-  },
-  {
     "id": "news-1173085",
     "title": "Tottenham'dan Galatasaray'a transfer yanıtı: Pape Matar Sarr",
     "ts": 1787238368756
@@ -958,5 +943,20 @@
     "id": "https://www.fotomac.com.tr/samsunspor/2026/08/25/samsunspor-oskar-ohlenschlaegeri-transfer-etti",
     "title": "Samsunspor, Oskar Ohlenschlaeger'i transfer etti!",
     "ts": 1787665387721
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/08/25/galatasarayin-transfer-etmek-istedigi-demirovic-son-kararini-verdi",
+    "title": "Galatasaray'ın transfer etmek istediği Demirovic son kararını verdi!",
+    "ts": 1787668653895
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/25/galatasaraya-kotu-haber-o-isim-takiminda-kalacak",
+    "title": "Galatasaray'a kötü haber! O isim takımında kalacak",
+    "ts": 1787668657179
+  },
+  {
+    "id": "news-1173637",
+    "title": "Dominik Livakovic imzaya gidiyor!",
+    "ts": 1787668660278
   }
 ]
