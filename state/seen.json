@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173059",
-    "title": "Salah etkisi Kahire'ye taşındı",
-    "ts": 1787226672155
-  },
-  {
-    "id": "news-1173028",
-    "title": "Beşiktaş'tan David Neres için dev hamle!",
-    "ts": 1787226675547
-  },
-  {
-    "id": "news-1173027",
-    "title": "Galatasaray'da Wilfred Singo kararı belli oldu!",
-    "ts": 1787226678680
-  },
-  {
     "id": "news-1173062",
     "title": "Göztepe, Richard Akonnor'un peşinde",
     "ts": 1787229214631
@@ -958,5 +943,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/25/galatasarayda-okan-buruktan-renato-nhaga-icin-flas-karar",
     "title": "Galatasaray'da Okan Buruk'tan Renato Nhaga için flaş karar!",
     "ts": 1787657289801
+  },
+  {
+    "id": "news-1173632",
+    "title": "Paulo Fonseca: \"Tarih yazmak istiyoruz\"",
+    "ts": 1787658895632
+  },
+  {
+    "id": "news-1173607",
+    "title": "Fenerbahçe'de Yusuf Akçiçek için 1 milyon euroluk fark!",
+    "ts": 1787658899018
+  },
+  {
+    "id": "news-1173605",
+    "title": "Beşiktaş genç kule için harekete geçti!",
+    "ts": 1787658902148
   }
 ]
