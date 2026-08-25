@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173072",
-    "title": "Rangers, Cerny için Beşiktaş'ı yokladı!",
-    "ts": 1787233204006
-  },
-  {
-    "id": "news-1173071",
-    "title": "Amedspor'dan Fenerbahçe'ye transfer tepkisi!",
-    "ts": 1787233207399
-  },
-  {
-    "id": "news-1173068",
-    "title": "Galatasaray'da Demirovic transferinde flaş gelişme!",
-    "ts": 1787233210527
-  },
-  {
     "id": "news-1173077",
     "title": "Galatasaray, Erzurumspor FK kamp kadrosunu açıkladı",
     "ts": 1787236157189
@@ -958,5 +943,20 @@
     "id": "news-1173604",
     "title": "Gardi'den Galatasaray'a öneri: Mateta",
     "ts": 1787661272382
+  },
+  {
+    "id": "news-1173638",
+    "title": "Göztepe'de planlar alt üst oldu",
+    "ts": 1787665381218
+  },
+  {
+    "id": "https://www.fotomac.com.tr/alanyaspor/2026/08/25/alanyaspor-emre-demir-ile-3-yillik-sozlesme-imzaladi",
+    "title": "Alanyaspor, Emre Demir ile 3 yıllık sözleşme imzaladı!",
+    "ts": 1787665384613
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/08/25/samsunspor-oskar-ohlenschlaegeri-transfer-etti",
+    "title": "Samsunspor, Oskar Ohlenschlaeger'i transfer etti!",
+    "ts": 1787665387721
   }
 ]
