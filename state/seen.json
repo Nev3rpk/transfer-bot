@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/20/pfdkdan-mahmut-usluya-ceza",
-    "title": "PFDK'dan Mahmut Uslu'ya ceza!",
-    "ts": 1787241455848
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/20/galatasarayin-yildiz-ismine-40-milyon-euroluk-transfer-teklifi",
-    "title": "Galatasaray'ın yıldız ismine 40 milyon euro'luk transfer teklifi!",
-    "ts": 1787241459337
-  },
-  {
-    "id": "news-1173066",
-    "title": "Fenerbahçe'den flaş Arda Güler açıklaması!",
-    "ts": 1787241462524
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/08/20/besiktasli-taraftarlardan-yeni-transfer-dusan-vlahovice-sevgi-seli",
     "title": "Beşiktaşlı taraftarlardan yeni transfer Dusan Vlahovic’e sevgi seli!",
     "ts": 1787246524896
@@ -958,5 +943,15 @@
     "id": "news-1173636",
     "title": "Samsunspor Ohlenschlaeger'i kadrosuna kattı!",
     "ts": 1787672156680
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/25/fenerbahce-teknik-direktoru-ismail-kartal-oyunculara-18-yillik-hasretimizi-anlattim",
+    "title": "Fenerbahçe Teknik Direktörü İsmail Kartal: Oyunculara 18 yıllık hasretimizi anlattım",
+    "ts": 1787675281005
+  },
+  {
+    "id": "news-1173643",
+    "title": "Beşiktaş - Miretti: Anlaşma çok yakın!",
+    "ts": 1787675284299
   }
 ]
