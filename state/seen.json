@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1173099",
-    "title": "Can Uzun'dan Galatasaray'a ret!",
-    "ts": 1787248469668
-  },
-  {
-    "id": "news-1173098",
-    "title": "Galatasaray, Aleksey Batrakov'un lisansını çıkardı!",
-    "ts": 1787248473077
-  },
-  {
-    "id": "news-1173100",
-    "title": "Gaziantep FK, Sontje Hansen'ı duyurdu",
-    "ts": 1787250535654
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/20/besiktasta-sok-sakatlik-leandro-trossard",
-    "title": "Beşiktaş’ta şok sakatlık! Leandro Trossard…",
-    "ts": 1787253062963
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasaray-aleksei-batrakovun-maliyetini-acikladi",
     "title": "Galatasaray Aleksei Batrakov'un maliyetini açıkladı!",
     "ts": 1787255633275
@@ -978,5 +958,10 @@
     "id": "news-1173652",
     "title": "Vedat Muriqi'den sakatlığı için açıklama!",
     "ts": 1787680432229
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/08/25/tffden-yabanci-kurali-kararii-yeni-duzenleme-geliyor",
+    "title": "TFF'den yabancı kuralı kararıı! Yeni düzenleme geliyor",
+    "ts": 1787687633119
   }
 ]
