@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173193",
-    "title": "Beşiktaş'ta sağ kanat ve orta saha bekleyişi!",
-    "ts": 1787315577622
-  },
-  {
-    "id": "news-1173138",
-    "title": "Fenerbahçe anlaştı; Barcelona'ya gidiyor!",
-    "ts": 1787315581201
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/21/besiktas-transfer-etmek-istiyordu-kulubu-serbest-birakti",
-    "title": "Beşiktaş transfer etmek istiyordu! Kulübü serbest bıraktı",
-    "ts": 1787315584383
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/21/fenerbahce-ve-barcelona-livakovic-transferinde-anlasmaya-vardi-iste-bonservis-bedeli",
     "title": "Fenerbahçe ve Barcelona Livakovic transferinde anlaşmaya vardı! İşte bonservis bedeli",
     "ts": 1787319571144
@@ -953,5 +938,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/26/fenerbahce-haberi-diego-carlos-icin-kritik-karar-aciklanmasi-an-meselesi",
     "title": "FENERBAHÇE HABERİ: Diego Carlos için kritik karar! Açıklanması an meselesi",
     "ts": 1787745251076
+  },
+  {
+    "id": "news-1173722",
+    "title": "Alanyaspor-Beşiktaş maçının hakemleri hakkında suç duyurusu",
+    "ts": 1787747889321
+  },
+  {
+    "id": "news-1173721",
+    "title": "Kocaelispor-Amedspor maçındaki olaylara ev hapsi kararı",
+    "ts": 1787747892618
+  },
+  {
+    "id": "news-1173720",
+    "title": "Ismaila Sarr'a Liverpool'dan dev teklif!",
+    "ts": 1787747895724
   }
 ]
