@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173181",
-    "title": "Juventus, Arthur Melo'nun sözleşmesini feshetti! Beşiktaş ihtimali...",
-    "ts": 1787307734818
-  },
-  {
-    "id": "news-1173172",
-    "title": "Batista Mendy için transfer yarışı kızışıyor",
-    "ts": 1787307738153
-  },
-  {
-    "id": "news-1173168",
-    "title": "Elias Jelert, Le Havre'ye gidiyor",
-    "ts": 1787307741251
-  },
-  {
     "id": "news-1173187",
     "title": "Cengiz Ünder için sürpriz transfer gelişmesi",
     "ts": 1787309746728
@@ -968,5 +953,20 @@
     "id": "news-1173668",
     "title": "Roma'da Oosterwolde endişesi: Ek tetkik kararı",
     "ts": 1787692833656
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/26/fenerbahcede-lyon-maci-sonrasi-flas-ayrilik-yolda-son-macina-cikabilir",
+    "title": "Fenerbahçe'de Lyon maçı sonrası flaş ayrılık yolda! Son maçına çıkabilir",
+    "ts": 1787740090557
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/26/felix-uduokhai-union-berlin-ile-anlasti",
+    "title": "Felix Uduokhai, Union Berlin ile anlaştı!",
+    "ts": 1787740094276
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/26/fenerbahce-hucumuna-21lik-joker-jean-matteo-bahoya",
+    "title": "Fenerbahçe hücumuna 21'lik joker: Jean-Matteo Bahoya!",
+    "ts": 1787740097428
   }
 ]
