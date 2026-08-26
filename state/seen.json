@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1173213",
-    "title": "Alanyaspor, Ivan Cedric'i kadrosuna kattı",
-    "ts": 1787324617535
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/21/galatasarayda-ayrilik-gelismesi-elias-jelert",
-    "title": "Galatasaray'da ayrılık gelişmesi! Elias Jelert...",
-    "ts": 1787324620950
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaraydan-ayrilik-aciklamasi-iste-yeni-adresi",
-    "title": "Galatasaray'dan ayrılık açıklaması! İşte yeni adresi",
-    "ts": 1787324624098
-  },
-  {
-    "id": "https://www.fotomac.com.tr/alanyaspor/2026/08/21/corendon-alanyaspor-ivan-cedric-transferini-acikladi",
-    "title": "Corendon Alanyaspor Ivan Cedric transferini açıkladı!",
-    "ts": 1787327812784
-  },
-  {
     "id": "news-1173227",
     "title": "Antalyaspor'da 5 oyuncu birden imzaladı",
     "ts": 1787334869196
@@ -953,5 +933,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/26/galatasarayda-ismaila-sarr-gelismesi-yaklasik-60-milyon-euro",
     "title": "Galatasaray'da Ismaila Sarr gelişmesi! Yaklaşık 60 milyon euro...",
     "ts": 1787755042855
+  },
+  {
+    "id": "https://www.fotomac.com.tr/avrupaligi/2026/08/26/ferencvaros-teknik-direktoru-balazs-borbelyden-salah-sozleri",
+    "title": "Ferencvaros Teknik Direktörü Balazs Borbely'den Salah sözleri!",
+    "ts": 1787760736917
+  },
+  {
+    "id": "news-1173754",
+    "title": "Ferencvaros'tan Trabzonspor mesajı!",
+    "ts": 1787760740350
+  },
+  {
+    "id": "news-1173753",
+    "title": "Ismaila Sarr için sakatlık açıklaması!",
+    "ts": 1787760743513
   }
 ]
