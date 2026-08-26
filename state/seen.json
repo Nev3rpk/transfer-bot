@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173242",
-    "title": "Serkan Özbalta'dan yönetime transfer çağrısı!",
-    "ts": 1787347032413
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/21/okan-buruk-gorustugumuz-isimler-var",
-    "title": "Okan Buruk: Görüştüğümüz isimler var!",
-    "ts": 1787348815197
-  },
-  {
-    "id": "news-1173248",
-    "title": "Bursaspor'dan hakem tepkisi; \"Güle güle...\"",
-    "ts": 1787350595348
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/romanin-oosterwolde-teklifi-belli-oldu-fenerbahceye-onerilen-rakam",
     "title": "Roma'nın Oosterwolde teklifi belli oldu! Fenerbahçe'ye önerilen rakam...",
     "ts": 1787393765632
@@ -953,5 +938,20 @@
     "id": "news-1173787",
     "title": "Fenerbahçe için kritik goller; Vedat Muriqi ve Archie Brown",
     "ts": 1787776037452
+  },
+  {
+    "id": "news-1173797",
+    "title": "Ederson, Manchester City'yi istiyor!",
+    "ts": 1787788561066
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/26/fenerbahcenin-lyon-maci-zaferi-dis-basinda-gundem-oldu-iste-o-mansetler",
+    "title": "Fenerbahçe'nin, Lyon maçı zaferi dış basında gündem oldu! İşte o manşetler",
+    "ts": 1787788564369
+  },
+  {
+    "id": "news-1173809",
+    "title": "İşte Fenerbahçe'yi bekleyen gelir",
+    "ts": 1787788567468
   }
 ]
