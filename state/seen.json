@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173209",
-    "title": "Galatasaray'dan resmi ayrılık açıklaması: Jelert",
-    "ts": 1787322445532
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasarayda-demirovic-sesleri-yapilan-teklif-ortaya-cikti",
-    "title": "Galatasaray'da Demirovic sesleri! Yapılan teklif ortaya çıktı",
-    "ts": 1787322449037
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/21/fenerbahcede-cifte-ayrilik-o-isimlerin-bileti-kesildi",
-    "title": "Fenerbahçe'de çifte ayrılık! O isimlerin bileti kesildi",
-    "ts": 1787322452211
-  },
-  {
     "id": "news-1173213",
     "title": "Alanyaspor, Ivan Cedric'i kadrosuna kattı",
     "ts": 1787324617535
@@ -953,5 +938,20 @@
     "id": "news-1173732",
     "title": "Rıdvan Yılmaz dalya peşinde",
     "ts": 1787752125884
+  },
+  {
+    "id": "news-1173752",
+    "title": "Galatasaray'dan Rafael Leao'ya yeni teklif",
+    "ts": 1787755036438
+  },
+  {
+    "id": "news-1173750",
+    "title": "Antalyaspor, Ömer Faruk Beyaz'ı kadrosuna kattı",
+    "ts": 1787755039750
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/26/galatasarayda-ismaila-sarr-gelismesi-yaklasik-60-milyon-euro",
+    "title": "Galatasaray'da Ismaila Sarr gelişmesi! Yaklaşık 60 milyon euro...",
+    "ts": 1787755042855
   }
 ]
