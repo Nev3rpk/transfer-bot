@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1173227",
-    "title": "Antalyaspor'da 5 oyuncu birden imzaladı",
-    "ts": 1787334869196
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaray-demirovic-icin-teklif-yukseltti-alman-basini-duyurdu",
     "title": "Galatasaray Demirovic için teklif yükseltti! Alman basını duyurdu",
     "ts": 1787336801686
@@ -948,5 +943,20 @@
     "id": "news-1173753",
     "title": "Ismaila Sarr için sakatlık açıklaması!",
     "ts": 1787760743513
+  },
+  {
+    "id": "news-1173771",
+    "title": "Konyaspor'dan Thomas Lemar için teklif",
+    "ts": 1787767967594
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-fatih-tekkeden-a-spora-ozel-aciklamalar-avrupa-ligine-kalmak-istiyoruz",
+    "title": "Trabzonspor'da Fatih Tekke'den A Spor'a özel açıklamalar: Avrupa Ligi'ne kalmak istiyoruz",
+    "ts": 1787767971098
+  },
+  {
+    "id": "news-1173763",
+    "title": "Önder Özen'den transfer açıklaması",
+    "ts": 1787767974254
   }
 ]
