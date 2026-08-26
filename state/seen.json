@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1173189",
-    "title": "Galatasaray'dan Gençlerbirliği'ne gidiyor!",
-    "ts": 1787311222363
-  },
-  {
-    "id": "news-1173188",
-    "title": "Galatasaray'dan flaş Dursun Özbek açıklaması!",
-    "ts": 1787311225680
-  },
-  {
-    "id": "news-1173167",
-    "title": "Rıdvan Yılmaz'dan Beşiktaş'ta şov!",
-    "ts": 1787311228786
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/21/besiktasa-80-milyon-euroluk-transfer-firsati-arthur-melo",
-    "title": "Beşiktaş'a 80 milyon euro'luk transfer fırsatı! Arthur Melo...",
-    "ts": 1787313003451
-  },
-  {
-    "id": "news-1173165",
-    "title": "Fenerbahçe'den kasayı dolduran hamleler!",
-    "ts": 1787313006841
-  },
-  {
-    "id": "news-1173164",
-    "title": "Stanimir Stoilov'dan transfer açıklaması",
-    "ts": 1787313010022
-  },
-  {
     "id": "news-1173193",
     "title": "Beşiktaş'ta sağ kanat ve orta saha bekleyişi!",
     "ts": 1787315577622
@@ -968,5 +938,20 @@
     "id": "news-1173703",
     "title": "Galatasaray'da Jakobs'un sözleşmesindeki flaş detay!",
     "ts": 1787742113009
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/26/serdal-adalidan-fenerbahce-maci-icin-flas-talep-yabanci-var",
+    "title": "Serdal Adalı'dan Fenerbahçe maçı için flaş talep! Yabancı VAR...",
+    "ts": 1787745244422
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/08/26/besiktas-baskani-serdal-adali-konusuyor-canli",
+    "title": "Beşiktaş Başkanı Serdal Adalı konuşuyor | CANLI",
+    "ts": 1787745247959
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/26/fenerbahce-haberi-diego-carlos-icin-kritik-karar-aciklanmasi-an-meselesi",
+    "title": "FENERBAHÇE HABERİ: Diego Carlos için kritik karar! Açıklanması an meselesi",
+    "ts": 1787745251076
   }
 ]
