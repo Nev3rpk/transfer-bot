@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173187",
-    "title": "Cengiz Ünder için sürpriz transfer gelişmesi",
-    "ts": 1787309746728
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/08/21/goztepe-transferde-ataga-kalkti",
-    "title": "Göztepe, transferde atağa kalktı",
-    "ts": 1787309750114
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/21/galatasaraydan-cifte-transfer-ermedin-demirovic-ile-ayni-ucakta-gelecek",
-    "title": "Galatasaray'dan çifte transfer! Ermedin Demirovic ile aynı uçakta gelecek",
-    "ts": 1787309753235
-  },
-  {
     "id": "news-1173189",
     "title": "Galatasaray'dan Gençlerbirliği'ne gidiyor!",
     "ts": 1787311222363
@@ -968,5 +953,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/26/fenerbahce-hucumuna-21lik-joker-jean-matteo-bahoya",
     "title": "Fenerbahçe hücumuna 21'lik joker: Jean-Matteo Bahoya!",
     "ts": 1787740097428
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/26/besiktas-kauno-zalgiris-maci-kamp-kadrosunu-acikladi",
+    "title": "Beşiktaş, Kauno Zalgiris maçı kamp kadrosunu açıkladı!",
+    "ts": 1787742106349
+  },
+  {
+    "id": "https://www.fotomac.com.tr/genclerbirligi/2026/08/26/genclerbirligi-ousmane-diabateyi-sezon-sonuna-kadar-kiraladi",
+    "title": "Gençlerbirliği, Ousmane Diabate’yi sezon sonuna kadar kiraladı",
+    "ts": 1787742109852
+  },
+  {
+    "id": "news-1173703",
+    "title": "Galatasaray'da Jakobs'un sözleşmesindeki flaş detay!",
+    "ts": 1787742113009
   }
 ]
