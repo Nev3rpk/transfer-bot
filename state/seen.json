@@ -1,25 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/08/24/besiktastan-mhkye-flas-cagri-gorevini-birakmaya-davet-ediyorum",
-    "title": "Beşiktaş'tan MHK'ye flaş çağrı! \"Görevini bırakmaya davet ediyorum\"",
-    "ts": 1787585567819
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/08/24/galatasaraydan-flas-torreira-hamlesi-uruguayli-yildiza-rest-cekildi",
-    "title": "Galatasaray'dan flaş Torreira hamlesi! Uruguaylı yıldıza rest çekildi",
-    "ts": 1787585571339
-  },
-  {
-    "id": "news-1173567",
-    "title": "Kayserispor, Mikail Kulaksız ile profesyonel sözleşme imzaladı",
-    "ts": 1787588880775
-  },
-  {
-    "id": "news-1173563",
-    "title": "Trabzonspor Kadın Futbol Takımı, Melissa Sandrine Behinan'ı transfer etti",
-    "ts": 1787594169144
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/24/trabzonspor-fabinho-transferini-kapa-bildirdi-iste-sozlesme-detaylari",
     "title": "Trabzonspor Fabinho transferini KAP'a bildirdi! İşte sözleşme detayları",
     "ts": 1787596428241
@@ -448,5 +428,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahcede-kojo-peprah-oppong-ilk-antrenmanina-cikti",
     "title": "Fenerbahçe'de Kojo Peprah Oppong ilk antrenmanına çıktı",
     "ts": 1788015146085
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahcede-bir-ayrilik-daha-yolda-herkes-taliscayi-beklerken",
+    "title": "Fenerbahçe'de bir ayrılık daha yolda! Herkes Talisca'yı beklerken...",
+    "ts": 1788026768875
+  },
+  {
+    "id": "news-1174104",
+    "title": "Deniz Gül'den Galatasaray'a yeşil ışık!",
+    "ts": 1788026772234
+  },
+  {
+    "id": "news-1174100",
+    "title": "Fenerbahçe'de sözleşme fesih: Amrabat",
+    "ts": 1788026775354
   }
 ]
