@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/superlig/2026/08/25/tffden-yabanci-kurali-kararii-yeni-duzenleme-geliyor",
-    "title": "TFF'den yabancı kuralı kararıı! Yeni düzenleme geliyor",
-    "ts": 1787687633119
-  },
-  {
-    "id": "news-1173665",
-    "title": "Erzurumspor FK'den santrfor transferi: Diabate!",
-    "ts": 1787689245477
-  },
-  {
-    "id": "news-1173664",
-    "title": "Çaykur Rizespor, Doicaru'yu açıkladı!",
-    "ts": 1787689248835
-  },
-  {
     "id": "news-1173668",
     "title": "Roma'da Oosterwolde endişesi: Ek tetkik kararı",
     "ts": 1787692833656
@@ -288,5 +273,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahceye-transferde-kotu-haber-gundemdeki-yildiz-al-hilale-imza-atti",
     "title": "Fenerbahçe'ye transferde kötü haber! Gündemdeki yıldız Al Hilal'e imza attı",
     "ts": 1788114043281
+  },
+  {
+    "id": "news-1174246",
+    "title": "İsmail Kartal'dan maç sonu transfer açıklaması",
+    "ts": 1788124766394
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/ismail-kartaldan-samsunspor-maci-sonrasi-transfer-sozleri",
+    "title": "İsmail Kartal'dan Samsunspor maçı sonrası transfer sözleri!",
+    "ts": 1788124769808
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahce-samsunda-vedat-ve-oguz-ile-galibiyete-uzandi",
+    "title": "Fenerbahçe Samsun'da Vedat ve Oğuz ile galibiyete uzandı!",
+    "ts": 1788124772916
   }
 ]
