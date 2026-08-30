@@ -1,10 +1,5 @@
 [
   {
-    "id": "news-1173668",
-    "title": "Roma'da Oosterwolde endişesi: Ek tetkik kararı",
-    "ts": 1787692833656
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/26/fenerbahcede-lyon-maci-sonrasi-flas-ayrilik-yolda-son-macina-cikabilir",
     "title": "Fenerbahçe'de Lyon maçı sonrası flaş ayrılık yolda! Son maçına çıkabilir",
     "ts": 1787740090557
@@ -288,5 +283,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahce-samsunda-vedat-ve-oguz-ile-galibiyete-uzandi",
     "title": "Fenerbahçe Samsun'da Vedat ve Oğuz ile galibiyete uzandı!",
     "ts": 1788124772916
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/30/fenerbahcede-beklenen-ayrilik-iste-yeni-adresi",
+    "title": "Fenerbahçe'de beklenen ayrılık! İşte yeni adresi",
+    "ts": 1788133199520
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahcelileri-sevindiren-ayrilik-iste-yeni-adresi",
+    "title": "Fenerbahçelileri sevindiren ayrılık! İşte yeni adresi",
+    "ts": 1788133202872
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/30/galatasaray-forvet-transferinde-mutlu-sona-ulasti-iste-istanbula-gelis-tarihi",
+    "title": "Galatasaray forvet transferinde mutlu sona ulaştı! İşte İstanbul'a geliş tarihi",
+    "ts": 1788133206004
   }
 ]
