@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1173771",
-    "title": "Konyaspor'dan Thomas Lemar için teklif",
-    "ts": 1787767967594
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonsporda-fatih-tekkeden-a-spora-ozel-aciklamalar-avrupa-ligine-kalmak-istiyoruz",
-    "title": "Trabzonspor'da Fatih Tekke'den A Spor'a özel açıklamalar: Avrupa Ligi'ne kalmak istiyoruz",
-    "ts": 1787767971098
-  },
-  {
-    "id": "news-1173763",
-    "title": "Önder Özen'den transfer açıklaması",
-    "ts": 1787767974254
-  },
-  {
-    "id": "news-1173791",
-    "title": "Fenerbahçe'den Lyon deplasmanında penaltı isyanı!",
-    "ts": 1787776030735
-  },
-  {
-    "id": "news-1173789",
-    "title": "Okan Buruk'tan transfer ve Rafael Leao açıklaması!",
-    "ts": 1787776034258
-  },
-  {
-    "id": "news-1173787",
-    "title": "Fenerbahçe için kritik goller; Vedat Muriqi ve Archie Brown",
-    "ts": 1787776037452
-  },
-  {
     "id": "news-1173797",
     "title": "Ederson, Manchester City'yi istiyor!",
     "ts": 1787788561066
@@ -208,5 +178,20 @@
     "id": "news-1174337",
     "title": "David Datro Fofana, Chelsea'den ayrıldı!",
     "ts": 1788196818700
+  },
+  {
+    "id": "news-1174366",
+    "title": "Kayserispor, Sam Mather'ın sözleşmesini feshetti",
+    "ts": 1788213503700
+  },
+  {
+    "id": "news-1174364",
+    "title": "Vincenzo Italiano'dan derbi için açıklama",
+    "ts": 1788213507004
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/08/31/vincenzo-italiano-derbide-degerimizi-gostermek-istiyoruz",
+    "title": "Vincenzo Italiano: Derbide değerimizi göstermek istiyoruz",
+    "ts": 1788213510527
   }
 ]
