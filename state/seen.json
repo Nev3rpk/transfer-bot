@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173797",
-    "title": "Ederson, Manchester City'yi istiyor!",
-    "ts": 1787788561066
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/26/fenerbahcenin-lyon-maci-zaferi-dis-basinda-gundem-oldu-iste-o-mansetler",
-    "title": "Fenerbahçe'nin, Lyon maçı zaferi dış basında gündem oldu! İşte o manşetler",
-    "ts": 1787788564369
-  },
-  {
-    "id": "news-1173809",
-    "title": "İşte Fenerbahçe'yi bekleyen gelir",
-    "ts": 1787788567468
-  },
-  {
     "id": "news-1173864",
     "title": "Jayden Oosterwolde'nin Roma'ya transferi iptal!",
     "ts": 1787861117699
@@ -193,5 +178,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/08/31/vincenzo-italiano-derbide-degerimizi-gostermek-istiyoruz",
     "title": "Vincenzo Italiano: Derbide değerimizi göstermek istiyoruz",
     "ts": 1788213510527
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/01/trabzonsporda-flas-fatih-tekke-gelismesi",
+    "title": "Trabzonspor'da flaş Fatih Tekke gelişmesi!",
+    "ts": 1788272786981
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/01/trabzonsporda-fatih-tekke-donemi-sona-eriyor",
+    "title": "Trabzonspor'da Fatih Tekke dönemi sona eriyor",
+    "ts": 1788272790389
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahcede-kerem-akturkoglu-ve-marco-asensio-gelismesi-besiktas-derbisinde",
+    "title": "Fenerbahçe'de Beşiktaş derbisi öncesi flaş gelişme! Kerem ve Asensio ...",
+    "ts": 1788272793521
   }
 ]
