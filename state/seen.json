@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1173864",
-    "title": "Jayden Oosterwolde'nin Roma'ya transferi iptal!",
-    "ts": 1787861117699
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/27/dursun-ozbekten-sampiyonlar-ligi-kurasi-ve-transfer-sozleri",
-    "title": "Dursun Özbek'ten Şampiyonlar Ligi kurası ve transfer ve Fenerbahçe sözleri!",
-    "ts": 1787861121043
-  },
-  {
-    "id": "news-1173887",
-    "title": "Oğuz Çetin'den transfer açıklaması",
-    "ts": 1787861124151
-  },
-  {
     "id": "news-1174015",
     "title": "Beşiktaş'ta Cerny için ayrılık gelişmesi",
     "ts": 1787950959884
@@ -208,5 +193,20 @@
     "id": "news-1174462",
     "title": "Beşiktaş istedi, Juventus'tan ret geldi: Teun Koopmeiners",
     "ts": 1788285273615
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/01/galatasarayda-deniz-gul-transferinin-detaylari-belli-oldu",
+    "title": "Galatasaray'da Deniz Gül transferinin detayları belli oldu!",
+    "ts": 1788294168069
+  },
+  {
+    "id": "https://www.fotomac.com.tr/corum-fk/2026/09/01/corum-fk-youssoufa-moukokoyu-transfer-etti",
+    "title": "Çorum FK, Youssoufa Moukoko'yu transfer etti",
+    "ts": 1788294171640
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/01/trabzonsporda-john-lundstram-ile-yollar-ayrildi",
+    "title": "Trabzonspor'da John Lundstram ile yollar ayrıldı!",
+    "ts": 1788294174821
   }
 ]
