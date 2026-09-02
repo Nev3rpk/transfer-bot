@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174015",
-    "title": "Beşiktaş'ta Cerny için ayrılık gelişmesi",
-    "ts": 1787950959884
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/08/28/fatih-tekke-istifa-kararindan-dondu-trabzonsporda-gorevine-devam-ediyor",
-    "title": "Fatih Tekke istifa kararından döndü! Trabzonspor'da görevine devam ediyor",
-    "ts": 1787950963265
-  },
-  {
-    "id": "news-1174012",
-    "title": "Bodrum FK, Aboubakar'ı açıkladı",
-    "ts": 1787950966444
-  },
-  {
     "id": "news-1174069",
     "title": "Rafael Leao böyle bir yıldız!",
     "ts": 1788015139606
@@ -268,5 +253,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/02/galatasarayda-el-chadaille-bitshiabunun-lisansi-cikarildi",
     "title": "Galatasaray'da El Chadaille Bitshiabu'nun lisansı çıkarıldı!",
     "ts": 1788380549022
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/02/galatasaraydan-ayrilan-nelsson-nordsjaellanda-transfer-oldu",
+    "title": "Galatasaray'dan ayrılan Nelsson, Nordsjaelland'a transfer oldu!",
+    "ts": 1788389059276
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/02/paul-onuachu-trabzonsporda-kalacak-mi-ertugrul-dogan-acikladi",
+    "title": "Paul Onuachu Trabzonspor'da kalacak mı? Ertuğrul Doğan açıkladı",
+    "ts": 1788389062747
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/02/trabzonspor-baskani-ertugrul-dogan-aciklamalarda-bulunuyor-canli",
+    "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan teknik adam açıklaması!",
+    "ts": 1788389065890
   }
 ]
