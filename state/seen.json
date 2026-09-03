@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahcede-bir-ayrilik-daha-yolda-herkes-taliscayi-beklerken",
-    "title": "Fenerbahçe'de bir ayrılık daha yolda! Herkes Talisca'yı beklerken...",
-    "ts": 1788026768875
-  },
-  {
-    "id": "news-1174104",
-    "title": "Deniz Gül'den Galatasaray'a yeşil ışık!",
-    "ts": 1788026772234
-  },
-  {
-    "id": "news-1174100",
-    "title": "Fenerbahçe'de sözleşme fesih: Amrabat",
-    "ts": 1788026775354
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/08/29/rafael-leao-galatasaray-goztepe-maci-sonrasi-sahaya-indi-iste-o-anlar",
     "title": "Rafael Leao Galatasaray - Göztepe maçı sonrası sahaya indi! İşte o anlar",
     "ts": 1788037379161
@@ -283,5 +268,20 @@
     "id": "news-1174673",
     "title": "Fenerbahçe'den Asensio iddialarına yanıt",
     "ts": 1788458187942
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/03/trabzonsporda-genclerbirligi-macinin-hazirliklari-devam-etti",
+    "title": "Trabzonspor’da Gençlerbirliği maçının hazırlıkları devam etti",
+    "ts": 1788467207576
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/03/besiktas-avrupa-ligi-kadrosunu-acikladi",
+    "title": "Beşiktaş, Avrupa Ligi kadrosunu açıkladı!",
+    "ts": 1788467211148
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/03/trabzonspor-konferans-ligi-kadrosunu-acikladi",
+    "title": "Trabzonspor, Konferans Ligi kadrosunu açıkladı!",
+    "ts": 1788467214283
   }
 ]
