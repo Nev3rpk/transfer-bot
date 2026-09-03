@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/29/rafael-leao-galatasaray-goztepe-maci-sonrasi-sahaya-indi-iste-o-anlar",
-    "title": "Rafael Leao Galatasaray - Göztepe maçı sonrası sahaya indi! İşte o anlar",
-    "ts": 1788037379161
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahceden-ayrilan-amrabattan-sasirtan-transfer-iste-yeni-takimi",
-    "title": "Fenerbahçe'den ayrılan Amrabat'tan şaşırtan transfer! İşte yeni takımı",
-    "ts": 1788037382441
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/29/fenerbahcede-o-isim-rusya-yolcusu-lisansi-cikarilmamisti",
-    "title": "Fenerbahçe'de o isim Rusya yolcusu! Lisansı çıkarılmamıştı",
-    "ts": 1788037385540
-  },
-  {
     "id": "news-1174137",
     "title": "Aleksey Batrakov, Galatasaray'da siftah yaptı",
     "ts": 1788046119280
@@ -283,5 +268,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/09/03/trabzonspor-konferans-ligi-kadrosunu-acikladi",
     "title": "Trabzonspor, Konferans Ligi kadrosunu açıkladı!",
     "ts": 1788467214283
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/03/besiktasa-kotu-haber-breno-bidon-kulubunde-kaliyor",
+    "title": "Beşiktaş'a kötü haber! Breno Bidon kulübünde kalıyor",
+    "ts": 1788475815384
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/09/03/breno-bidonun-menajerinden-flas-aciklama-besiktasin-projesine-guven-duymadim",
+    "title": "Breno Bidon'un menajerinden flaş açıklama: Beşiktaş'ın projesine güven duymadım!",
+    "ts": 1788475818721
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/09/03/fenerbahcede-marco-asensiodan-sakatlik-aciklamasi-bu-konuda-aciklama-yapmam-gerekti",
+    "title": "Fenerbahçe'de Marco Asensio'dan sakatlık açıklaması: Bu konuda açıklama yapmam gerekti!",
+    "ts": 1788475821822
   }
 ]
