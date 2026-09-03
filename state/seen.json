@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174069",
-    "title": "Rafael Leao böyle bir yıldız!",
-    "ts": 1788015139606
-  },
-  {
-    "id": "news-1174067",
-    "title": "Al Jazira, Kristijan Aslani'yi açıkladı!",
-    "ts": 1788015142965
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahcede-kojo-peprah-oppong-ilk-antrenmanina-cikti",
-    "title": "Fenerbahçe'de Kojo Peprah Oppong ilk antrenmanına çıktı",
-    "ts": 1788015146085
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/29/fenerbahcede-bir-ayrilik-daha-yolda-herkes-taliscayi-beklerken",
     "title": "Fenerbahçe'de bir ayrılık daha yolda! Herkes Talisca'yı beklerken...",
     "ts": 1788026768875
@@ -283,5 +268,20 @@
     "id": "news-1174652",
     "title": "Fenerbahçe ve Galatasaray'a Talbi fırsatı!",
     "ts": 1788444146648
+  },
+  {
+    "id": "news-1174677",
+    "title": "Gençlerbirliği'ne yeni golcü",
+    "ts": 1788458181279
+  },
+  {
+    "id": "news-1174674",
+    "title": "Galatasaray'da Barış Alper gelişmesi",
+    "ts": 1788458184720
+  },
+  {
+    "id": "news-1174673",
+    "title": "Fenerbahçe'den Asensio iddialarına yanıt",
+    "ts": 1788458187942
   }
 ]
