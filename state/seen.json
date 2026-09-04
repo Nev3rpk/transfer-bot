@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174246",
-    "title": "İsmail Kartal'dan maç sonu transfer açıklaması",
-    "ts": 1788124766394
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/ismail-kartaldan-samsunspor-maci-sonrasi-transfer-sozleri",
-    "title": "İsmail Kartal'dan Samsunspor maçı sonrası transfer sözleri!",
-    "ts": 1788124769808
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahce-samsunda-vedat-ve-oguz-ile-galibiyete-uzandi",
-    "title": "Fenerbahçe Samsun'da Vedat ve Oğuz ile galibiyete uzandı!",
-    "ts": 1788124772916
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/08/30/fenerbahcede-beklenen-ayrilik-iste-yeni-adresi",
     "title": "Fenerbahçe'de beklenen ayrılık! İşte yeni adresi",
     "ts": 1788133199520
@@ -283,5 +268,20 @@
     "id": "news-1174803",
     "title": "Oğulcan Çağlayan, Kayserispor'a imza attı",
     "ts": 1788551109704
+  },
+  {
+    "id": "news-1174837",
+    "title": "Çaykur Rizespor, İtalyan Borrelli'yi kadrosuna kattı",
+    "ts": 1788559193492
+  },
+  {
+    "id": "https://www.aspor.com.tr/samsunspor/2026/09/04/samsunspor-toni-borevkovici-vitoria-scye-kiraladi",
+    "title": "Samsunspor, Toni Borevkovic'i Vitoria SC'ye kiraladı",
+    "ts": 1788559196823
+  },
+  {
+    "id": "https://www.aspor.com.tr/kasimpasa/2026/09/04/kasimpasa-jesurun-rak-sakyiyi-kadrosuna-katti",
+    "title": "Kasımpaşa, Jesurun Rak-Sakyi'yi kadrosuna kattı",
+    "ts": 1788559199923
   }
 ]
