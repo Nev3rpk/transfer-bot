@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/08/30/fenerbahcede-beklenen-ayrilik-iste-yeni-adresi",
-    "title": "Fenerbahçe'de beklenen ayrılık! İşte yeni adresi",
-    "ts": 1788133199520
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/08/30/fenerbahcelileri-sevindiren-ayrilik-iste-yeni-adresi",
-    "title": "Fenerbahçelileri sevindiren ayrılık! İşte yeni adresi",
-    "ts": 1788133202872
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/30/galatasaray-forvet-transferinde-mutlu-sona-ulasti-iste-istanbula-gelis-tarihi",
-    "title": "Galatasaray forvet transferinde mutlu sona ulaştı! İşte İstanbul'a geliş tarihi",
-    "ts": 1788133206004
-  },
-  {
     "id": "news-1174339",
     "title": "Fiorentina'dan Galatasaray'a teklif",
     "ts": 1788196811998
@@ -283,5 +268,20 @@
     "id": "https://www.aspor.com.tr/kasimpasa/2026/09/04/kasimpasa-jesurun-rak-sakyiyi-kadrosuna-katti",
     "title": "Kasımpaşa, Jesurun Rak-Sakyi'yi kadrosuna kattı",
     "ts": 1788559199923
+  },
+  {
+    "id": "news-1174849",
+    "title": "Yeni transferlerin ilk derbisi: Kim baskıya daha hazır?",
+    "ts": 1788565911950
+  },
+  {
+    "id": "https://www.aspor.com.tr/goztepe/2026/09/04/goztepe-ingiliz-futbolcu-anjorini-transfer-etti",
+    "title": "Göztepe, İngiliz futbolcu Anjorin'i transfer etti",
+    "ts": 1788565915448
+  },
+  {
+    "id": "https://www.aspor.com.tr/rizespor/2026/09/04/caykur-rizespor-can-bozdogani-renklerine-bagladi",
+    "title": "Çaykur Rizespor, Can Bozdoğan'ı renklerine bağladı",
+    "ts": 1788565918608
   }
 ]
