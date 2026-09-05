@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174339",
-    "title": "Fiorentina'dan Galatasaray'a teklif",
-    "ts": 1788196811998
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/08/31/galatasaraydan-tarihi-takas-torreiraya-karsilik",
-    "title": "Galatasaray'dan tarihi takas! Torreira'ya karşılık...",
-    "ts": 1788196815522
-  },
-  {
-    "id": "news-1174337",
-    "title": "David Datro Fofana, Chelsea'den ayrıldı!",
-    "ts": 1788196818700
-  },
-  {
     "id": "news-1174366",
     "title": "Kayserispor, Sam Mather'ın sözleşmesini feshetti",
     "ts": 1788213503700
@@ -313,5 +298,20 @@
     "id": "news-1174904",
     "title": "Batrakov'un menajeri Kuzmiçev: \"Galatasaray bize güvence verdi\"",
     "ts": 1788624565485
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/05/fenerbahceli-yildiza-besiktas-derbisinde-kadikoyde-islik",
+    "title": "Fenerbahçeli yıldıza Beşiktaş derbisinde Kadıköy'de ıslık!",
+    "ts": 1788632896098
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/09/05/derbide-korkutan-an-iki-yildiz-kafa-kafaya-carpisti",
+    "title": "Derbide korkutan an! İki yıldız kafa kafaya çarpıştı",
+    "ts": 1788632899558
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/09/05/bakan-gurlek-acikladi-yasa-disi-bahise-ve-suc-gelirlerine-gecit-yok",
+    "title": "Bakan Gürlek açıkladı: Yasa dışı bahise ve suç gelirlerine geçit yok",
+    "ts": 1788632902707
   }
 ]
