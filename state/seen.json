@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174366",
-    "title": "Kayserispor, Sam Mather'ın sözleşmesini feshetti",
-    "ts": 1788213503700
-  },
-  {
-    "id": "news-1174364",
-    "title": "Vincenzo Italiano'dan derbi için açıklama",
-    "ts": 1788213507004
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/08/31/vincenzo-italiano-derbide-degerimizi-gostermek-istiyoruz",
-    "title": "Vincenzo Italiano: Derbide değerimizi göstermek istiyoruz",
-    "ts": 1788213510527
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/01/trabzonsporda-flas-fatih-tekke-gelismesi",
     "title": "Trabzonspor'da flaş Fatih Tekke gelişmesi!",
     "ts": 1788272786981
@@ -328,5 +313,20 @@
     "id": "news-1174988",
     "title": "Vincenzo Italiano: \"Büyük takım performansı gösterdik\"",
     "ts": 1788640556638
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/05/derbide-vefat-eden-taraftar-icin-fenerbahce-ve-besiktastan-ortak-bassagligi",
+    "title": "Derbide vefat eden taraftar için Fenerbahçe ve Beşiktaş'tan ortak başsağlığı!",
+    "ts": 1788647648873
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahcenin-penalti-bekledigi-pozisyonda-karar-dogru-mu-usta-yorumcular-degerlendirdi",
+    "title": "Fenerbahçe'nin penaltı beklediği pozisyonda karar doğru mu? Usta yorumcular değerlendirdi",
+    "ts": 1788647652337
+  },
+  {
+    "id": "news-1174998",
+    "title": "Anderson Talisca'dan flaş paylaşım!",
+    "ts": 1788647655495
   }
 ]
