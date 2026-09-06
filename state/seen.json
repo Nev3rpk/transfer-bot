@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/01/trabzonsporda-flas-fatih-tekke-gelismesi",
-    "title": "Trabzonspor'da flaş Fatih Tekke gelişmesi!",
-    "ts": 1788272786981
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/01/trabzonsporda-fatih-tekke-donemi-sona-eriyor",
-    "title": "Trabzonspor'da Fatih Tekke dönemi sona eriyor",
-    "ts": 1788272790389
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahcede-kerem-akturkoglu-ve-marco-asensio-gelismesi-besiktas-derbisinde",
-    "title": "Fenerbahçe'de Beşiktaş derbisi öncesi flaş gelişme! Kerem ve Asensio ...",
-    "ts": 1788272793521
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/01/trabzonspordan-huseyin-cimsir-aciklamasi-genclerbirligi-macinda",
     "title": "Trabzonspor'dan Hüseyin Çimşir açıklaması! Gençlerbirliği maçında...",
     "ts": 1788285267151
@@ -343,5 +328,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/09/06/super-ligde-gunun-maclarinin-var-hakemleri-aciklandi",
     "title": "Süper Lig'de günün maçlarının VAR hakemleri açıklandı!",
     "ts": 1788700800209
+  },
+  {
+    "id": "news-1175070",
+    "title": "Fenerbahçe'den Aziz Yıldırım yalanlaması",
+    "ts": 1788711745784
+  },
+  {
+    "id": "news-1175039",
+    "title": "Süper Lig'de yeni transferlerin yaş ortalaması 25,01",
+    "ts": 1788711749497
+  },
+  {
+    "id": "news-1175038",
+    "title": "Süper Lig takımları 119 yabancı futbolcu aldı",
+    "ts": 1788711752653
   }
 ]
