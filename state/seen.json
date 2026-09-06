@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/01/galatasarayda-deniz-gul-transferinin-detaylari-belli-oldu",
-    "title": "Galatasaray'da Deniz Gül transferinin detayları belli oldu!",
-    "ts": 1788294168069
-  },
-  {
-    "id": "https://www.fotomac.com.tr/corum-fk/2026/09/01/corum-fk-youssoufa-moukokoyu-transfer-etti",
-    "title": "Çorum FK, Youssoufa Moukoko'yu transfer etti",
-    "ts": 1788294171640
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/01/trabzonsporda-john-lundstram-ile-yollar-ayrildi",
-    "title": "Trabzonspor'da John Lundstram ile yollar ayrıldı!",
-    "ts": 1788294174821
-  },
-  {
     "id": "news-1174468",
     "title": "Galatasaray, Nelsson ile yollarını ayırdı",
     "ts": 1788302536311
@@ -343,5 +328,20 @@
     "id": "news-1175087",
     "title": "Salah, Trabzon'u seviyor!",
     "ts": 1788719363981
+  },
+  {
+    "id": "news-1175080",
+    "title": "Kayserispor, Murat Cem Akpınar'ı kadrosuna kattı",
+    "ts": 1788727263977
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/06/luis-suarezden-fenerbahce-itirafi-transferi",
+    "title": "Luis Suarez'den Fenerbahçe itirafı! Transferi...",
+    "ts": 1788727267394
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/06/galatasaraydan-osimhen-ve-lemina-aciklamasi",
+    "title": "Galatasaray'dan Osimhen ve Lemina açıklaması!",
+    "ts": 1788727270522
   }
 ]
