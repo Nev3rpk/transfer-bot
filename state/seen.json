@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174565",
-    "title": "Bitshiabu, Galatasaray için hedefini açıkladı",
-    "ts": 1788380542603
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/02/besiktasta-transferde-flas-umit-akdag-gelismesi",
-    "title": "Beşiktaş'ta transferde flaş Ümit Akdağ gelişmesi!",
-    "ts": 1788380545917
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/02/galatasarayda-el-chadaille-bitshiabunun-lisansi-cikarildi",
-    "title": "Galatasaray'da El Chadaille Bitshiabu'nun lisansı çıkarıldı!",
-    "ts": 1788380549022
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/02/galatasaraydan-ayrilan-nelsson-nordsjaellanda-transfer-oldu",
     "title": "Galatasaray'dan ayrılan Nelsson, Nordsjaelland'a transfer oldu!",
     "ts": 1788389059276
@@ -338,5 +323,20 @@
     "id": "news-1175206",
     "title": "Beşiktaş'ın Avrupa maçına yurt dışı kararı!",
     "ts": 1788808762692
+  },
+  {
+    "id": "news-1175211",
+    "title": "Antalyaspor'da Bülent Korkmaz dönemi sona erdi",
+    "ts": 1788819002299
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/07/galatasarayli-yildiza-ulkesinden-elestiri-milli-takima-donebilecegini-sanmiyorum",
+    "title": "Galatasaraylı yıldıza ülkesinden eleştiri: Milli takıma dönebileceğini sanmıyorum!",
+    "ts": 1788819005697
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/07/galatasarayli-yildiza-flas-elestiri-oradaki-suresi-doldu",
+    "title": "Galatasaraylı yıldıza flaş eleştiri: Oradaki süresi doldu!",
+    "ts": 1788819008903
   }
 ]
