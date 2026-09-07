@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1174468",
-    "title": "Galatasaray, Nelsson ile yollarını ayırdı",
-    "ts": 1788302536311
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/01/galatasaray-deniz-gulun-maliyetini-acikladi",
-    "title": "Galatasaray, Deniz Gül'ün maliyetini açıkladı!",
-    "ts": 1788302539825
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/01/trabzonspordan-john-david-lundstram-aciklamasi",
-    "title": "Trabzonspor'dan John David Lundstram açıklaması!",
-    "ts": 1788302542980
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/02/ugurcan-cakirin-sahalara-donus-tarihi-belli-oldu-o-macta-forma-giyebilecek",
-    "title": "Uğurcan Çakır'ın sahalara dönüş tarihi belli oldu! O maçta forma giyebilecek",
-    "ts": 1788357605771
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/02/galatasaraya-ugurcan-cakir-mujdesi-o-macta-kaleye-geri-donecek",
-    "title": "Galatasaray'a Uğurcan Çakır müjdesi! O maçta kaleye geri dönecek",
-    "ts": 1788357609331
-  },
-  {
-    "id": "news-1174547",
-    "title": "Galatasaray'da Deniz Gül ilk antrenmanına çıktı",
-    "ts": 1788357612488
-  },
-  {
     "id": "news-1174559",
     "title": "Esenler Erokspor, Mame Mor Faye'yi kadrosuna kattı",
     "ts": 1788371330791
@@ -353,5 +323,20 @@
     "id": "news-1175113",
     "title": "Franculino Dju: \"Harika bir atmosfer vardı\"",
     "ts": 1788734236132
+  },
+  {
+    "id": "news-1175202",
+    "title": "Fenerbahçe'de ayrılık: Rodrigo Becao",
+    "ts": 1788794749707
+  },
+  {
+    "id": "news-1175200",
+    "title": "Konyaspor'un eski başkanı Ömer Korkmaz: \"Konyaspor'u icraya vermedik\"",
+    "ts": 1788794753007
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/07/galatasarayda-osimhen-gelismesi-trabzonspor-macinda",
+    "title": "Galatasaray'da Osimhen gelişmesi! Trabzonspor maçında...",
+    "ts": 1788794756109
   }
 ]
