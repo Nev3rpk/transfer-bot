@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174677",
-    "title": "Gençlerbirliği'ne yeni golcü",
-    "ts": 1788458181279
-  },
-  {
-    "id": "news-1174674",
-    "title": "Galatasaray'da Barış Alper gelişmesi",
-    "ts": 1788458184720
-  },
-  {
-    "id": "news-1174673",
-    "title": "Fenerbahçe'den Asensio iddialarına yanıt",
-    "ts": 1788458187942
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/03/trabzonsporda-genclerbirligi-macinin-hazirliklari-devam-etti",
     "title": "Trabzonspor’da Gençlerbirliği maçının hazırlıkları devam etti",
     "ts": 1788467207576
@@ -323,5 +308,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktasta-olaganustu-secimli-genel-kurul-karari-alindi",
     "title": "Beşiktaş'ta olağanüstü seçimli genel kurul kararı alındı!",
     "ts": 1788876170502
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/09/08/vlahovic-ve-kerem-akturkoglu-pfdkya-sevk-edildi",
+    "title": "Dusan Vlahovic ve Kerem Aktürkoğlu PFDK'ya sevk edildi!",
+    "ts": 1788890352220
+  },
+  {
+    "id": "news-1175293",
+    "title": "Beşiktaş'tan sakatlık açıklaması: Rıdvan Yılmaz",
+    "ts": 1788890355660
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktasa-ridvan-yilmazdan-kotu-haber",
+    "title": "Beşiktaş'a Rıdvan Yılmaz'dan kötü haber!",
+    "ts": 1788890358790
   }
 ]
