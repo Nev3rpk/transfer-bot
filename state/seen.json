@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1174837",
-    "title": "Çaykur Rizespor, İtalyan Borrelli'yi kadrosuna kattı",
-    "ts": 1788559193492
-  },
-  {
-    "id": "https://www.aspor.com.tr/samsunspor/2026/09/04/samsunspor-toni-borevkovici-vitoria-scye-kiraladi",
-    "title": "Samsunspor, Toni Borevkovic'i Vitoria SC'ye kiraladı",
-    "ts": 1788559196823
-  },
-  {
-    "id": "https://www.aspor.com.tr/kasimpasa/2026/09/04/kasimpasa-jesurun-rak-sakyiyi-kadrosuna-katti",
-    "title": "Kasımpaşa, Jesurun Rak-Sakyi'yi kadrosuna kattı",
-    "ts": 1788559199923
-  },
-  {
     "id": "news-1174849",
     "title": "Yeni transferlerin ilk derbisi: Kim baskıya daha hazır?",
     "ts": 1788565911950
@@ -308,5 +293,20 @@
     "id": "news-1175426",
     "title": "Aleksey Batrakov: \"Hayalim Barcelona\"",
     "ts": 1788984986464
+  },
+  {
+    "id": "news-1175451",
+    "title": "Okan Buruk'tan maç sonu hakem isyanı!",
+    "ts": 1788993589389
+  },
+  {
+    "id": "news-1175448",
+    "title": "Yunus Akgün'den maç sonu hakem tepkisi!",
+    "ts": 1788993592864
+  },
+  {
+    "id": "news-1175440",
+    "title": "Galatasaray, Lizbon'da Norveçli hakeme takıldı!",
+    "ts": 1788993596007
   }
 ]
