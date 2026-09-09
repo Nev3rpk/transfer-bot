@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/03/besiktasa-kotu-haber-breno-bidon-kulubunde-kaliyor",
-    "title": "Beşiktaş'a kötü haber! Breno Bidon kulübünde kalıyor",
-    "ts": 1788475815384
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/09/03/breno-bidonun-menajerinden-flas-aciklama-besiktasin-projesine-guven-duymadim",
-    "title": "Breno Bidon'un menajerinden flaş açıklama: Beşiktaş'ın projesine güven duymadım!",
-    "ts": 1788475818721
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/09/03/fenerbahcede-marco-asensiodan-sakatlik-aciklamasi-bu-konuda-aciklama-yapmam-gerekti",
-    "title": "Fenerbahçe'de Marco Asensio'dan sakatlık açıklaması: Bu konuda açıklama yapmam gerekti!",
-    "ts": 1788475821822
-  },
-  {
-    "id": "news-1174774",
-    "title": "Fenerbahçe'den olağan genel kurul açıklaması!",
-    "ts": 1788530091721
-  },
-  {
-    "id": "news-1174773",
-    "title": "Fenerbahçe'den sürpriz transfer hamlesi!",
-    "ts": 1788530095159
-  },
-  {
-    "id": "news-1174761",
-    "title": "Gençlerbirliği'nden Newcastle'a transfer: Ousmane Diabate",
-    "ts": 1788530098271
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/04/fenerbahceye-guendouzi-ve-greenwooda-sok-ceza",
     "title": "Fenerbahçe'ye Guendouzi ve Greenwood'a şok ceza!",
     "ts": 1788542344008
@@ -323,5 +293,20 @@
     "id": "news-1175279",
     "title": "G.Saray'a Lizbon maçı öncesi Abdülkerim şoku!",
     "ts": 1788900896180
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/09/galatasaray-haberi-rafael-leaodan-flas-transfer-sozleri",
+    "title": "GALATASARAY HABERİ: Rafael Leao'dan flaş transfer sözleri!",
+    "ts": 1788962692731
+  },
+  {
+    "id": "news-1175394",
+    "title": "Rafael Leao: \"Geri dönmek isterim\"",
+    "ts": 1788962696114
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/09/mauro-icardiye-surpriz-talip-transferde-yeni-adresi",
+    "title": "Mauro Icardi'ye sürpriz talip! Transferde yeni adresi...",
+    "ts": 1788962699278
   }
 ]
