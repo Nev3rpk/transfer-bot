@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/05/fenerbahceli-yildiza-besiktas-derbisinde-kadikoyde-islik",
-    "title": "Fenerbahçeli yıldıza Beşiktaş derbisinde Kadıköy'de ıslık!",
-    "ts": 1788632896098
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/09/05/derbide-korkutan-an-iki-yildiz-kafa-kafaya-carpisti",
-    "title": "Derbide korkutan an! İki yıldız kafa kafaya çarpıştı",
-    "ts": 1788632899558
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/09/05/bakan-gurlek-acikladi-yasa-disi-bahise-ve-suc-gelirlerine-gecit-yok",
-    "title": "Bakan Gürlek açıkladı: Yasa dışı bahise ve suç gelirlerine geçit yok",
-    "ts": 1788632902707
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/09/05/besiktas-baskani-serdal-adalidan-derbi-primi",
     "title": "Beşiktaş Başkanı Serdal Adalı'dan derbi primi",
     "ts": 1788640550028
@@ -293,5 +278,20 @@
     "id": "news-1175549",
     "title": "Galatasaray, Espen Eskas için UEFA'ya gidiyor!",
     "ts": 1789061778393
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/10/aziz-yildirimdan-ismail-kartalin-istifasina-dair-aciklama-ismail-kartal-gorevine-devam-ediyor",
+    "title": "Aziz Yıldırım'dan İsmail Kartal'ın istifasına dair açıklama: İsmail Kartal görevine devam ediyor!",
+    "ts": 1789071488210
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/10/fenerbahcede-ismail-kartal-gorevinden-istifa-etti",
+    "title": "Fenerbahçe'de İsmail Kartal görevinden istifa etti!",
+    "ts": 1789071491689
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/10/trabzonspordan-taklit-ve-lisanssiz-urunlerle-ilgili-aciklama",
+    "title": "Trabzonspor'dan taklit ve lisanssız ürünlerle ilgili açıklama",
+    "ts": 1789071494856
   }
 ]
