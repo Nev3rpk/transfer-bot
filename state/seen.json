@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1174849",
-    "title": "Yeni transferlerin ilk derbisi: Kim baskıya daha hazır?",
-    "ts": 1788565911950
-  },
-  {
-    "id": "https://www.aspor.com.tr/goztepe/2026/09/04/goztepe-ingiliz-futbolcu-anjorini-transfer-etti",
-    "title": "Göztepe, İngiliz futbolcu Anjorin'i transfer etti",
-    "ts": 1788565915448
-  },
-  {
-    "id": "https://www.aspor.com.tr/rizespor/2026/09/04/caykur-rizespor-can-bozdogani-renklerine-bagladi",
-    "title": "Çaykur Rizespor, Can Bozdoğan'ı renklerine bağladı",
-    "ts": 1788565918608
-  },
-  {
-    "id": "news-1174908",
-    "title": "Çaykur Rizespor'da transfer raporu: 20 ayrılık, 9 transfer",
-    "ts": 1788613834124
-  },
-  {
-    "id": "news-1174907",
-    "title": "Fenerbahçe, bu sezon transferde farklı bir yol izledi",
-    "ts": 1788613837483
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/05/cimbomdan-genc-kaleciye-yeni-sozlesme-iste-detaylar",
-    "title": "Cimbom'dan genç kaleciye yeni sözleşme! İşte detaylar",
-    "ts": 1788613840608
-  },
-  {
     "id": "news-1174910",
     "title": "Beşiktaş, \"iddialı\" bir transfer dönemini geride bıraktı",
     "ts": 1788624558776
@@ -308,5 +278,20 @@
     "id": "news-1175440",
     "title": "Galatasaray, Lizbon'da Norveçli hakeme takıldı!",
     "ts": 1788993596007
+  },
+  {
+    "id": "news-1175542",
+    "title": "Göztepe'de Ankersen soruları yanıtladı",
+    "ts": 1789048778140
+  },
+  {
+    "id": "news-1175520",
+    "title": "Mauricio Isla futbolu bıraktı!",
+    "ts": 1789048781689
+  },
+  {
+    "id": "news-1175514",
+    "title": "Can Bozdoğan'dan Rizespor için transfer itirafı",
+    "ts": 1789048784907
   }
 ]
