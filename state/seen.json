@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175070",
-    "title": "Fenerbahçe'den Aziz Yıldırım yalanlaması",
-    "ts": 1788711745784
-  },
-  {
-    "id": "news-1175039",
-    "title": "Süper Lig'de yeni transferlerin yaş ortalaması 25,01",
-    "ts": 1788711749497
-  },
-  {
-    "id": "news-1175038",
-    "title": "Süper Lig takımları 119 yabancı futbolcu aldı",
-    "ts": 1788711752653
-  },
-  {
     "id": "news-1175089",
     "title": "Emre Belözoğlu'ndan hakem tepkisi!",
     "ts": 1788719357378
@@ -278,5 +263,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/11/trabzonsporun-konya-kafilesi-aciklandi",
     "title": "Trabzonspor'un Konya kafilesi açıklandı!",
     "ts": 1789135142027
+  },
+  {
+    "id": "news-1175687",
+    "title": "Fabio Miretti, kadroya alınmadı!",
+    "ts": 1789148266553
+  },
+  {
+    "id": "news-1175685",
+    "title": "Fenerbahçe, Antonio Conte'ye gidiyor!",
+    "ts": 1789148270044
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/besiktasin-erzurumspor-fk-maci-ilk-11i-aciklandi",
+    "title": "Beşiktaş-Erzurumspor FK | CANLI (Trendyol Süper Lig)",
+    "ts": 1789148273201
   }
 ]
