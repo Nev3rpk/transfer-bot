@@ -1,30 +1,5 @@
 [
   {
-    "id": "news-1175080",
-    "title": "Kayserispor, Murat Cem Akpınar'ı kadrosuna kattı",
-    "ts": 1788727263977
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/06/luis-suarezden-fenerbahce-itirafi-transferi",
-    "title": "Luis Suarez'den Fenerbahçe itirafı! Transferi...",
-    "ts": 1788727267394
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/06/galatasaraydan-osimhen-ve-lemina-aciklamasi",
-    "title": "Galatasaray'dan Osimhen ve Lemina açıklaması!",
-    "ts": 1788727270522
-  },
-  {
-    "id": "news-1175118",
-    "title": "Rafael Leao'dan dikkat çeken itiraf!",
-    "ts": 1788734232829
-  },
-  {
-    "id": "news-1175113",
-    "title": "Franculino Dju: \"Harika bir atmosfer vardı\"",
-    "ts": 1788734236132
-  },
-  {
     "id": "news-1175202",
     "title": "Fenerbahçe'de ayrılık: Rodrigo Becao",
     "ts": 1788794749707
@@ -278,5 +253,20 @@
     "id": "news-1175667",
     "title": "Fenerbahçe'de yeni hoca kim olacak?",
     "ts": 1789157894785
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/11/trabzonsporun-konyaspor-maci-kadrosu-belli-oldu",
+    "title": "Trabzonspor'un Konyaspor maçı kadrosu belli oldu!",
+    "ts": 1789166509566
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/11/galatasaraydan-uefa-hamlesi-sporting-maci-icin",
+    "title": "Galatasaray'dan UEFA hamlesi! Sporting maçı için...",
+    "ts": 1789166512864
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/tahkim-kurulundan-dusan-vlahovic-icin-karar",
+    "title": "Tahkim Kurulu'ndan Dusan Vlahovic için karar!",
+    "ts": 1789166515982
   }
 ]
