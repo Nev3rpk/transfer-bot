@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/07/transfer-donemi-bitti-ayriliklar-bitmedi-fenerbahce-o-isimle-vedalasiyor",
-    "title": "Transfer dönemi bitti ayrılıklar bitmedi! Fenerbahçe o isimle vedalaşıyor",
-    "ts": 1788808756133
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/07/fenerbahcede-bir-ayrilik-daha-yeni-takimi-belli-oldu",
-    "title": "Fenerbahçe'de bir ayrılık daha! Yeni takımı belli oldu",
-    "ts": 1788808759549
-  },
-  {
-    "id": "news-1175206",
-    "title": "Beşiktaş'ın Avrupa maçına yurt dışı kararı!",
-    "ts": 1788808762692
-  },
-  {
     "id": "news-1175211",
     "title": "Antalyaspor'da Bülent Korkmaz dönemi sona erdi",
     "ts": 1788819002299
@@ -298,5 +283,15 @@
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/12/tumosan-konyaspor-trabzonspor-canli-trendyol-super-lig",
     "title": "TÜMOSAN Konyaspor-Trabzonspor | CANLI (Trendyol Süper Lig)",
     "ts": 1789237979431
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/12/okan-buruktan-yildiz-isme-kesik-iste-galatasarayin-kocaelispor-maci-11i",
+    "title": "Okan Buruk'tan yıldız isme kesik! İşte Galatasaray'ın Kocaelispor maçı 11'i",
+    "ts": 1789247287401
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/12/usta-gazeteci-acikladi-iste-ismail-kartalin-istifasinin-9-nedeni",
+    "title": "Usta gazeteci açıkladı! İşte İsmail Kartal'ın istifasının 9 nedeni",
+    "ts": 1789247290675
   }
 ]
