@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175202",
-    "title": "Fenerbahçe'de ayrılık: Rodrigo Becao",
-    "ts": 1788794749707
-  },
-  {
-    "id": "news-1175200",
-    "title": "Konyaspor'un eski başkanı Ömer Korkmaz: \"Konyaspor'u icraya vermedik\"",
-    "ts": 1788794753007
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/07/galatasarayda-osimhen-gelismesi-trabzonspor-macinda",
-    "title": "Galatasaray'da Osimhen gelişmesi! Trabzonspor maçında...",
-    "ts": 1788794756109
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/09/07/transfer-donemi-bitti-ayriliklar-bitmedi-fenerbahce-o-isimle-vedalasiyor",
     "title": "Transfer dönemi bitti ayrılıklar bitmedi! Fenerbahçe o isimle vedalaşıyor",
     "ts": 1788808756133
@@ -283,5 +268,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/12/ve-mauro-icardinin-yeni-takimi-belli-oluyor-transfere-yesil-isik-yakti",
     "title": "Ve Mauro Icardi'nin yeni takımı belli oluyor! Transfere yeşil ışık yaktı",
     "ts": 1789219055703
+  },
+  {
+    "id": "https://www.aspor.com.tr/samsunspor/2026/09/12/samsunspor-sokta-arca-corum-fkdan-deplasmanda-5-gollu-zafer",
+    "title": "Samsunspor şokta! Arca Çorum FK’dan deplasmanda 5 gollü zafer",
+    "ts": 1789230242033
+  },
+  {
+    "id": "news-1175759",
+    "title": "Roma, Jayden Oosterwolde'den vazgeçmedi!",
+    "ts": 1789230245336
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/09/12/samsunspor-arca-corum-fk-canli-samsunspor-arca-corum-fk-maci-canli-anlatim",
+    "title": "Çorum FK gol oldu yağdı!",
+    "ts": 1789230248442
   }
 ]
