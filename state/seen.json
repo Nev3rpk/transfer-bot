@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175211",
-    "title": "Antalyaspor'da Bülent Korkmaz dönemi sona erdi",
-    "ts": 1788819002299
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/07/galatasarayli-yildiza-ulkesinden-elestiri-milli-takima-donebilecegini-sanmiyorum",
-    "title": "Galatasaraylı yıldıza ülkesinden eleştiri: Milli takıma dönebileceğini sanmıyorum!",
-    "ts": 1788819005697
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/07/galatasarayli-yildiza-flas-elestiri-oradaki-suresi-doldu",
-    "title": "Galatasaraylı yıldıza flaş eleştiri: Oradaki süresi doldu!",
-    "ts": 1788819008903
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/erzurumspor-fk-baskani-ahmet-dal-besiktasa-karsi-puan-veya-puanlar-almak-istiyoruz",
     "title": "Erzurumspor FK Başkanı Ahmet Dal: Beşiktaş'a karşı puan veya puanlar almak istiyoruz",
     "ts": 1788876163987
@@ -293,5 +278,10 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/12/usta-gazeteci-acikladi-iste-ismail-kartalin-istifasinin-9-nedeni",
     "title": "Usta gazeteci açıkladı! İşte İsmail Kartal'ın istifasının 9 nedeni",
     "ts": 1789247290675
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/12/pep-guardiolanin-menajerinden-trabzonspor-aciklamasi",
+    "title": "Pep Guardiola'nın menajerinden Trabzonspor açıklaması!",
+    "ts": 1789254473185
   }
 ]
