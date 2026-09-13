@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/erzurumspor-fk-baskani-ahmet-dal-besiktasa-karsi-puan-veya-puanlar-almak-istiyoruz",
-    "title": "Erzurumspor FK Başkanı Ahmet Dal: Beşiktaş'a karşı puan veya puanlar almak istiyoruz",
-    "ts": 1788876163987
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/08/sporting-cpden-galatasaray-maci-oncesi-surpriz-karar",
-    "title": "Sporting CP'den Galatasaray maçı öncesi sürpriz karar!",
-    "ts": 1788876167368
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktasta-olaganustu-secimli-genel-kurul-karari-alindi",
-    "title": "Beşiktaş'ta olağanüstü seçimli genel kurul kararı alındı!",
-    "ts": 1788876170502
-  },
-  {
     "id": "https://www.aspor.com.tr/futbol/2026/09/08/vlahovic-ve-kerem-akturkoglu-pfdkya-sevk-edildi",
     "title": "Dusan Vlahovic ve Kerem Aktürkoğlu PFDK'ya sevk edildi!",
     "ts": 1788890352220
@@ -298,5 +283,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/09/13/ismail-kartaldan-aziz-yildirima-flas-itiraf-iste-istifa-kararinin-nedeni",
     "title": "İsmail Kartal'dan Aziz Yıldırım'a flaş itiraf! İşte istifa kararının nedeni",
     "ts": 1789308025524
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/13/amed-sk-basaksehir-canli-trendyol-super-lig-5-hafta",
+    "title": "Amed SK-Başakşehir | CANLI (Trendyol Süper Lig 5. hafta)",
+    "ts": 1789320604486
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/13/kocaelispor-galatasaray-canli-trendyol-super-lig",
+    "title": "Kocaelispor-Galatasaray | CANLI (Trendyol Süper Lig)",
+    "ts": 1789320607906
+  },
+  {
+    "id": "news-1175874",
+    "title": "Trabzonspor'da Şenol Güneş ile anlaşma yakın!",
+    "ts": 1789320611077
   }
 ]
