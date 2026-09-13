@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktastan-vlahovic-tepkisi",
-    "title": "Beşiktaş'tan TFF'ye Vlahovic tepkisi!",
-    "ts": 1788900889789
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/09/08/besiktasta-secim-tarihi-belli-oldu",
-    "title": "Beşiktaş'ta seçim tarihi belli oldu!",
-    "ts": 1788900893077
-  },
-  {
-    "id": "news-1175279",
-    "title": "G.Saray'a Lizbon maçı öncesi Abdülkerim şoku!",
-    "ts": 1788900896180
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/09/09/galatasaray-haberi-rafael-leaodan-flas-transfer-sozleri",
     "title": "GALATASARAY HABERİ: Rafael Leao'dan flaş transfer sözleri!",
     "ts": 1788962692731
@@ -298,5 +283,15 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/13/galatasarayda-flas-osimhen-gelismesi-donus-maci-ortaya-cikti",
     "title": "Galatasaray'da flaş Osimhen gelişmesi! Dönüş maçı ortaya çıktı",
     "ts": 1789328484417
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/galatasarayin-iptal-edilen-golunde-karar-dogru-mu-mustafa-culcu-acikladi",
+    "title": "Galatasaray'ın iptal edilen golünde karar doğru mu? Mustafa Çulcu açıkladı!",
+    "ts": 1789336793829
+  },
+  {
+    "id": "news-1175929",
+    "title": "Mario Lemina'dan sakatlık yanıtı!",
+    "ts": 1789336797187
   }
 ]
