@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/futbol/2026/09/08/vlahovic-ve-kerem-akturkoglu-pfdkya-sevk-edildi",
-    "title": "Dusan Vlahovic ve Kerem Aktürkoğlu PFDK'ya sevk edildi!",
-    "ts": 1788890352220
-  },
-  {
-    "id": "news-1175293",
-    "title": "Beşiktaş'tan sakatlık açıklaması: Rıdvan Yılmaz",
-    "ts": 1788890355660
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktasa-ridvan-yilmazdan-kotu-haber",
-    "title": "Beşiktaş'a Rıdvan Yılmaz'dan kötü haber!",
-    "ts": 1788890358790
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/08/besiktastan-vlahovic-tepkisi",
     "title": "Beşiktaş'tan TFF'ye Vlahovic tepkisi!",
     "ts": 1788900889789
@@ -298,5 +283,20 @@
     "id": "news-1175874",
     "title": "Trabzonspor'da Şenol Güneş ile anlaşma yakın!",
     "ts": 1789320611077
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/13/okan-buruktan-victor-osimhen-ve-trabzonspor-derbisi-icin-aciklama",
+    "title": "Okan Buruk'tan Victor Osimhen ve Trabzonspor derbisi için açıklama!",
+    "ts": 1789328477893
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/13/ismail-kartaldan-olay-itiraf-istifa-sebebini-aziz-yildirima-acikladi",
+    "title": "İsmail Kartal'dan olay itiraf! İstifa sebebini Aziz Yıldırım'a açıkladı",
+    "ts": 1789328481280
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/13/galatasarayda-flas-osimhen-gelismesi-donus-maci-ortaya-cikti",
+    "title": "Galatasaray'da flaş Osimhen gelişmesi! Dönüş maçı ortaya çıktı",
+    "ts": 1789328484417
   }
 ]
