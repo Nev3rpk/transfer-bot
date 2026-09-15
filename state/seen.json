@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/10/fenerbahceden-devler-ligine-ozel-koregorafi",
-    "title": "Fenerbahçe'den Devler Ligi'ne özel koregorafi!",
-    "ts": 1789061771729
-  },
-  {
-    "id": "news-1175554",
-    "title": "Hakim Ziyech, Botafogo'ya transfer oldu",
-    "ts": 1789061775232
-  },
-  {
-    "id": "news-1175549",
-    "title": "Galatasaray, Espen Eskas için UEFA'ya gidiyor!",
-    "ts": 1789061778393
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/09/10/aziz-yildirimdan-ismail-kartalin-istifasina-dair-aciklama-ismail-kartal-gorevine-devam-ediyor",
     "title": "Aziz Yıldırım'dan İsmail Kartal'ın istifasına dair açıklama: İsmail Kartal görevine devam ediyor!",
     "ts": 1789071488210
@@ -278,5 +263,20 @@
     "id": "news-1176154",
     "title": "Mauro Icardi, Lazio'ya gitmiyor!",
     "ts": 1789482911620
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/15/thomas-reis-trabzona-ulasti",
+    "title": "Thomas Reis Trabzon'a ulaştı!",
+    "ts": 1789497545919
+  },
+  {
+    "id": "news-1176078",
+    "title": "Thomas Reis, Trabzonspor için geldi!",
+    "ts": 1789497549325
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/15/trendyol-super-ligde-5-haftanin-var-kayitlari-aciklandi",
+    "title": "Trendyol Süper Lig'de 5. haftanın VAR kayıtları açıklandı!",
+    "ts": 1789497552507
   }
 ]
