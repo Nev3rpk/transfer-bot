@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175542",
-    "title": "Göztepe'de Ankersen soruları yanıtladı",
-    "ts": 1789048778140
-  },
-  {
-    "id": "news-1175520",
-    "title": "Mauricio Isla futbolu bıraktı!",
-    "ts": 1789048781689
-  },
-  {
-    "id": "news-1175514",
-    "title": "Can Bozdoğan'dan Rizespor için transfer itirafı",
-    "ts": 1789048784907
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/09/10/fenerbahceden-devler-ligine-ozel-koregorafi",
     "title": "Fenerbahçe'den Devler Ligi'ne özel koregorafi!",
     "ts": 1789061771729
@@ -278,5 +263,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/09/14/fenerbahcede-imza-cok-yakin-deneyimli-ismin-sozlesmesi-uzatiliyor",
     "title": "Fenerbahçe'de imza çok yakın! Deneyimli ismin sözleşmesi uzatılıyor",
     "ts": 1789427718274
+  },
+  {
+    "id": "news-1176159",
+    "title": "Samsunsporlu Marius Mouandilmadj, Olympiakos'a gidiyor",
+    "ts": 1789482905160
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/15/galatasarayda-bitshiabu-bilmecesi-cozuldu-iste-forma-giyememe-nedeni",
+    "title": "Galatasaray'da Bitshiabu bilmecesi çözüldü! İşte forma giyememe nedeni",
+    "ts": 1789482908466
+  },
+  {
+    "id": "news-1176154",
+    "title": "Mauro Icardi, Lazio'ya gitmiyor!",
+    "ts": 1789482911620
   }
 ]
