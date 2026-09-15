@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/10/fenerbahceden-aciklama-ismail-kartala-sise-atan-sahis-tespit-edildi",
-    "title": "Fenerbahçe'den açıklama! İsmail Kartal’a şişe atan şahıs tespit edildi",
-    "ts": 1789080114308
-  },
-  {
-    "id": "news-1175581",
-    "title": "Fenerbahçe açıkladı: Seyirden men!",
-    "ts": 1789080117812
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/archie-browndan-ismail-kartalin-istifa-kararina-flas-tepki",
-    "title": "Archie Brown'dan İsmail Kartal'ın istifa kararına flaş tepki!",
-    "ts": 1789080120972
-  },
-  {
     "id": "news-1175659",
     "title": "Trabzonspor, Konyaspor maçının kamp kadrosunu açıkladı",
     "ts": 1789135135468
@@ -278,5 +263,15 @@
     "id": "news-1176108",
     "title": "Başakşehir'de Nuri Şahin kararı!",
     "ts": 1789509162044
+  },
+  {
+    "id": "news-1176160",
+    "title": "Aleksey Batrakov'a milli davet",
+    "ts": 1789516379722
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/15/galatasarayda-flas-gercek-ortaya-cikti-bitshiabunun-oynamama-sebebi",
+    "title": "Galatasaray'da flaş gerçek ortaya çıktı! Bitshiabu'nun oynamama sebebi...",
+    "ts": 1789516383157
   }
 ]
