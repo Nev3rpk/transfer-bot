@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/leandro-trossard-daha-da-iyi-olacagim",
-    "title": "Leandro Trossard: Daha da iyi olacağım!",
-    "ts": 1789157888022
-  },
-  {
-    "id": "news-1175704",
-    "title": "beIN Trio'dan Beşiktaş - Erzurum maçı yorumları",
-    "ts": 1789157891641
-  },
-  {
-    "id": "news-1175667",
-    "title": "Fenerbahçe'de yeni hoca kim olacak?",
-    "ts": 1789157894785
-  },
-  {
     "id": "https://www.aspor.com.tr/trabzonspor/2026/09/11/trabzonsporun-konyaspor-maci-kadrosu-belli-oldu",
     "title": "Trabzonspor'un Konyaspor maçı kadrosu belli oldu!",
     "ts": 1789166509566
@@ -273,5 +258,20 @@
     "id": "news-1176241",
     "title": "Fenerbahçe'de Aziz Yıldırım için başkanlığı bırakma iddiası!",
     "ts": 1789583751003
+  },
+  {
+    "id": "news-1176240",
+    "title": "Beşiktaş'ın UEFA Avrupa Ligi kadrosu açıklandı",
+    "ts": 1789595396460
+  },
+  {
+    "id": "news-1176239",
+    "title": "Kocaelispor 4 futbolcunun sağlık durumunu açıkladı!",
+    "ts": 1789595399847
+  },
+  {
+    "id": "news-1176231",
+    "title": "MHK'den hakem kararları analizi: Anthony Taylor tek tek değerlendirdi",
+    "ts": 1789595402986
   }
 ]
