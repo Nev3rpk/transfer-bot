@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175687",
-    "title": "Fabio Miretti, kadroya alınmadı!",
-    "ts": 1789148266553
-  },
-  {
-    "id": "news-1175685",
-    "title": "Fenerbahçe, Antonio Conte'ye gidiyor!",
-    "ts": 1789148270044
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/besiktasin-erzurumspor-fk-maci-ilk-11i-aciklandi",
-    "title": "Beşiktaş-Erzurumspor FK | CANLI (Trendyol Süper Lig)",
-    "ts": 1789148273201
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/leandro-trossard-daha-da-iyi-olacagim",
     "title": "Leandro Trossard: Daha da iyi olacağım!",
     "ts": 1789157888022
@@ -273,5 +258,20 @@
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/16/super-ligde-ilk-5-haftanin-en-tartismali-pozisyonlari-tek-tek-aciklandi-mhkden-hakem-kararlarina-iliskin-analiz",
     "title": "Süper Lig'de ilk 5 haftanın en tartışmalı pozisyonları tek tek açıklandı! MHK'den hakem kararlarına ilişkin analiz",
     "ts": 1789569053001
+  },
+  {
+    "id": "news-1176245",
+    "title": "Orhan Ak: \"Puanlarla dönmek istiyoruz\"",
+    "ts": 1789583744557
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/09/16/tff-resmen-duyurduiste-dort-buyuklerin-kadro-listeleri",
+    "title": "TFF resmen duyurdu:İşte dört büyüklerin kadro listeleri!",
+    "ts": 1789583747866
+  },
+  {
+    "id": "news-1176241",
+    "title": "Fenerbahçe'de Aziz Yıldırım için başkanlığı bırakma iddiası!",
+    "ts": 1789583751003
   }
 ]
