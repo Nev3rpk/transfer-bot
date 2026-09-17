@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/11/trabzonsporun-konyaspor-maci-kadrosu-belli-oldu",
-    "title": "Trabzonspor'un Konyaspor maçı kadrosu belli oldu!",
-    "ts": 1789166509566
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/11/galatasaraydan-uefa-hamlesi-sporting-maci-icin",
-    "title": "Galatasaray'dan UEFA hamlesi! Sporting maçı için...",
-    "ts": 1789166512864
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/11/tahkim-kurulundan-dusan-vlahovic-icin-karar",
-    "title": "Tahkim Kurulu'ndan Dusan Vlahovic için karar!",
-    "ts": 1789166515982
-  },
-  {
     "id": "news-1175766",
     "title": "Pep Guardiola için Trabzonspor yanıtı!",
     "ts": 1789219049098
@@ -273,5 +258,20 @@
     "id": "news-1176231",
     "title": "MHK'den hakem kararları analizi: Anthony Taylor tek tek değerlendirdi",
     "ts": 1789595402986
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/16/galatasarayda-transferler-neden-gec-yapildi-dursun-ozbek-acikladi",
+    "title": "Galatasaray'da transferler neden geç yapıldı? Dursun Özbek açıkladı",
+    "ts": 1789603192011
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/09/16/dursun-ozbekten-transfer-elestirilerine-yanit-aradaki-fark-yaklasik-50-milyon-euro",
+    "title": "Dursun Özbek'ten transfer eleştirilerine yanıt: Aradaki fark yaklaşık 50 milyon euro",
+    "ts": 1789603195347
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspor-baskani-ertugrul-dogan-galatasaray-bize-yanlis-yapti",
+    "title": "Trabzonspor Başkanı Ertuğrul Doğan: Galatasaray bize yanlış yaptı",
+    "ts": 1789603198455
   }
 ]
