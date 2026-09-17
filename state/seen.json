@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/12/okan-buruktan-yildiz-isme-kesik-iste-galatasarayin-kocaelispor-maci-11i",
-    "title": "Okan Buruk'tan yıldız isme kesik! İşte Galatasaray'ın Kocaelispor maçı 11'i",
-    "ts": 1789247287401
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/12/usta-gazeteci-acikladi-iste-ismail-kartalin-istifasinin-9-nedeni",
-    "title": "Usta gazeteci açıkladı! İşte İsmail Kartal'ın istifasının 9 nedeni",
-    "ts": 1789247290675
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/12/pep-guardiolanin-menajerinden-trabzonspor-aciklamasi",
     "title": "Pep Guardiola'nın menajerinden Trabzonspor açıklaması!",
     "ts": 1789254473185
@@ -258,5 +248,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/17/vincenzo-italiano-iyi-baslamak-istiyoruz",
     "title": "Vincenzo Italiano: \"İyi başlamak istiyoruz!\"",
     "ts": 1789670629522
+  },
+  {
+    "id": "news-1176352",
+    "title": "Nathan Ake'nin eşinden İstanbul'da dikkat çeken paylaşım!",
+    "ts": 1789681893046
+  },
+  {
+    "id": "news-1176348",
+    "title": "Orkun Kökçü'den Fenerbahçe derbisi itirafı",
+    "ts": 1789681896437
+  },
+  {
+    "id": "news-1176347",
+    "title": "Watt: \"Taraftarımıza 3 puan hediye etmek istiyoruz\"",
+    "ts": 1789681899557
   }
 ]
