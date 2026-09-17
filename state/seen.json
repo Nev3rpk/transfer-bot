@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/samsunspor/2026/09/12/samsunspor-sokta-arca-corum-fkdan-deplasmanda-5-gollu-zafer",
-    "title": "Samsunspor şokta! Arca Çorum FK’dan deplasmanda 5 gollü zafer",
-    "ts": 1789230242033
-  },
-  {
-    "id": "news-1175759",
-    "title": "Roma, Jayden Oosterwolde'den vazgeçmedi!",
-    "ts": 1789230245336
-  },
-  {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/09/12/samsunspor-arca-corum-fk-canli-samsunspor-arca-corum-fk-maci-canli-anlatim",
-    "title": "Çorum FK gol oldu yağdı!",
-    "ts": 1789230248442
-  },
-  {
-    "id": "https://www.aspor.com.tr/rizespor/2026/09/12/recep-ucar-bugun-iyi-ki-var-var-diyoruz",
-    "title": "Recep Uçar: Bugün iyi ki VAR var diyoruz",
-    "ts": 1789237972701
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/12/corendon-alanyaspor-goztepe-canli-trendyol-super-lig",
-    "title": "Corendon Alanyaspor-Göztepe | CANLI (Trendyol Süper Lig)",
-    "ts": 1789237976202
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/12/tumosan-konyaspor-trabzonspor-canli-trendyol-super-lig",
-    "title": "TÜMOSAN Konyaspor-Trabzonspor | CANLI (Trendyol Süper Lig)",
-    "ts": 1789237979431
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/12/okan-buruktan-yildiz-isme-kesik-iste-galatasarayin-kocaelispor-maci-11i",
     "title": "Okan Buruk'tan yıldız isme kesik! İşte Galatasaray'ın Kocaelispor maçı 11'i",
     "ts": 1789247287401
@@ -273,5 +243,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/09/17/trabzonsporda-thomas-reis-imzayi-atti-az-laf-cok-is",
     "title": "Trabzonspor'da Thomas Reis imzayı attı: Az laf, çok iş",
     "ts": 1789655690405
+  },
+  {
+    "id": "news-1176359",
+    "title": "Jean Tigana yeniden Dolmabahçe'de!",
+    "ts": 1789670622811
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/09/17/vincenzo-italiano-guzel-bir-yolculuk-olacak",
+    "title": "Vincenzo Italiano: Güzel bir yolculuk olacak!",
+    "ts": 1789670626351
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/17/vincenzo-italiano-iyi-baslamak-istiyoruz",
+    "title": "Vincenzo Italiano: \"İyi başlamak istiyoruz!\"",
+    "ts": 1789670629522
   }
 ]
