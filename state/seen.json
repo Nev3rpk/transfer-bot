@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1175873",
-    "title": "Trabzonspor'da Stefano Pioli gelişmesi",
-    "ts": 1789308018939
-  },
-  {
-    "id": "news-1175861",
-    "title": "Altay krizlere meydan okudu",
-    "ts": 1789308022375
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/13/ismail-kartaldan-aziz-yildirima-flas-itiraf-iste-istifa-kararinin-nedeni",
-    "title": "İsmail Kartal'dan Aziz Yıldırım'a flaş itiraf! İşte istifa kararının nedeni",
-    "ts": 1789308025524
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/13/amed-sk-basaksehir-canli-trendyol-super-lig-5-hafta",
     "title": "Amed SK-Başakşehir | CANLI (Trendyol Süper Lig 5. hafta)",
     "ts": 1789320604486
@@ -273,5 +258,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/09/17/bakanliktan-galatasaray-aciklamasi-herhangi-bir-ozel-uygulama-yok",
     "title": "Bakanlıktan Galatasaray açıklaması: Herhangi bir özel uygulama yok",
     "ts": 1789689022176
+  },
+  {
+    "id": "news-1176460",
+    "title": "Alanyaspor'dan Göztepe maçının hakemine tepki",
+    "ts": 1789740060108
+  },
+  {
+    "id": "news-1176459",
+    "title": "Okay Yokuşlu ameliyat olduğunu açıkladı!",
+    "ts": 1789740063506
+  },
+  {
+    "id": "news-1176458",
+    "title": "Galatasaray açıkladı; Trabzon'da 4 eksik!",
+    "ts": 1789740066656
   }
 ]
