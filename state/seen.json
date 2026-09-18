@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/13/okan-buruktan-victor-osimhen-ve-trabzonspor-derbisi-icin-aciklama",
-    "title": "Okan Buruk'tan Victor Osimhen ve Trabzonspor derbisi için açıklama!",
-    "ts": 1789328477893
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/13/ismail-kartaldan-olay-itiraf-istifa-sebebini-aziz-yildirima-acikladi",
-    "title": "İsmail Kartal'dan olay itiraf! İstifa sebebini Aziz Yıldırım'a açıkladı",
-    "ts": 1789328481280
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/13/galatasarayda-flas-osimhen-gelismesi-donus-maci-ortaya-cikti",
-    "title": "Galatasaray'da flaş Osimhen gelişmesi! Dönüş maçı ortaya çıktı",
-    "ts": 1789328484417
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/galatasarayin-iptal-edilen-golunde-karar-dogru-mu-mustafa-culcu-acikladi",
     "title": "Galatasaray'ın iptal edilen golünde karar doğru mu? Mustafa Çulcu açıkladı!",
     "ts": 1789336793829
@@ -273,5 +258,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/18/galatasarayda-cifte-ayrilik-okan-buruk-biletlerini-kesti",
     "title": "Galatasaray'da çifte ayrılık! Okan Buruk biletlerini kesti",
     "ts": 1789753548689
+  },
+  {
+    "id": "news-1176481",
+    "title": "Kasımpaşa'da Emre Belözoğlu ile bir ilk",
+    "ts": 1789762502745
+  },
+  {
+    "id": "news-1176474",
+    "title": "Georgios Bartzokas: \"Kupayı kazanmak istiyoruz\"",
+    "ts": 1789762506146
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/18/fenerbahcede-mert-muldur-antrenmanda-sakatlandi",
+    "title": "Fenerbahçe'de Mert Müldür antrenmanda sakatlandı!",
+    "ts": 1789762509320
   }
 ]
