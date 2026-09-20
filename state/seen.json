@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176162",
-    "title": "TFF, 5. haftanın VAR kayıtlarını açıkladı",
-    "ts": 1789509155545
-  },
-  {
-    "id": "news-1176161",
-    "title": "Sergen Yalçın'dan Fenerbahçe için çarpıcı iddia",
-    "ts": 1789509158889
-  },
-  {
-    "id": "news-1176108",
-    "title": "Başakşehir'de Nuri Şahin kararı!",
-    "ts": 1789509162044
-  },
-  {
     "id": "news-1176160",
     "title": "Aleksey Batrakov'a milli davet",
     "ts": 1789516379722
@@ -308,5 +293,20 @@
     "id": "news-1176726",
     "title": "Fenerbahçe tarihine geçen galibiyet!",
     "ts": 1789932924766
+  },
+  {
+    "id": "news-1176752",
+    "title": "Wils: \"Hakem bizim tarafımızla alakalı hiçbir karar vermedi!\"",
+    "ts": 1789941937504
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/serdal-adalidan-mac-sonu-hakem-tepkisi",
+    "title": "Serdal Adalı'dan maç sonu hakem tepkisi!",
+    "ts": 1789941940847
+  },
+  {
+    "id": "news-1176740",
+    "title": "Serdal Adalı: \"Bir olay olacak, bu lig bu şekilde bitmez!",
+    "ts": 1789941943951
   }
 ]
