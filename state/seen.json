@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176159",
-    "title": "Samsunsporlu Marius Mouandilmadj, Olympiakos'a gidiyor",
-    "ts": 1789482905160
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/15/galatasarayda-bitshiabu-bilmecesi-cozuldu-iste-forma-giyememe-nedeni",
-    "title": "Galatasaray'da Bitshiabu bilmecesi çözüldü! İşte forma giyememe nedeni",
-    "ts": 1789482908466
-  },
-  {
-    "id": "news-1176154",
-    "title": "Mauro Icardi, Lazio'ya gitmiyor!",
-    "ts": 1789482911620
-  },
-  {
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/15/thomas-reis-trabzona-ulasti",
     "title": "Thomas Reis Trabzon'a ulaştı!",
     "ts": 1789497545919
@@ -308,5 +293,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/20/fenerbahce-eyupspor-maci-oncesi-asensioya-yogun-ilgi",
     "title": "Fenerbahçe-Eyüpspor maçı öncesi Asensio'ya yoğun ilgi!",
     "ts": 1789912303563
+  },
+  {
+    "id": "news-1176722",
+    "title": "Oppong ilk kez forma giydi, Skriniar bir ilki yaşadı",
+    "ts": 1789924370103
+  },
+  {
+    "id": "news-1176721",
+    "title": "Eyüpspor'da 8-0 sonrası istifa: Özhan Pulat",
+    "ts": 1789924373607
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/20/vincenzo-italiano-degisikliklere-ragmen",
+    "title": "Vincenzo Italiano: \"Değişikliklere rağmen...\"",
+    "ts": 1789924376803
   }
 ]
