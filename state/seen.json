@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176066",
-    "title": "Antalyaspor'da Osman Özköylü dönemi!",
-    "ts": 1789427711570
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/14/mauro-icardiye-yeni-talip-everton-derken-surpriz-takim",
-    "title": "Mauro Icardi'ye yeni talip! Everton derken sürpriz takım",
-    "ts": 1789427715128
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/14/fenerbahcede-imza-cok-yakin-deneyimli-ismin-sozlesmesi-uzatiliyor",
-    "title": "Fenerbahçe'de imza çok yakın! Deneyimli ismin sözleşmesi uzatılıyor",
-    "ts": 1789427718274
-  },
-  {
     "id": "news-1176159",
     "title": "Samsunsporlu Marius Mouandilmadj, Olympiakos'a gidiyor",
     "ts": 1789482905160
@@ -308,5 +293,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/09/19/aleksey-batrakov-hakkinda-flas-yorum-transfere-damga-vuracak",
     "title": "Aleksey Batrakov hakkında flaş yorum: Transfere damga vuracak!",
     "ts": 1789853670574
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/20/erzurumspor-fk-samsunspor-canli-trendyol-super-lig",
+    "title": "Erzurumspor FK-Samsunspor | CANLI (Trendyol Süper Lig)",
+    "ts": 1789912296936
+  },
+  {
+    "id": "news-1176686",
+    "title": "Ertuğrul Doğan'dan oyunculara prim müjdesi! Rakamı artırdı!",
+    "ts": 1789912300382
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/20/fenerbahce-eyupspor-maci-oncesi-asensioya-yogun-ilgi",
+    "title": "Fenerbahçe-Eyüpspor maçı öncesi Asensio'ya yoğun ilgi!",
+    "ts": 1789912303563
   }
 ]
