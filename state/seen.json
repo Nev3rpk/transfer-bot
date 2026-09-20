@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/15/thomas-reis-trabzona-ulasti",
-    "title": "Thomas Reis Trabzon'a ulaştı!",
-    "ts": 1789497545919
-  },
-  {
-    "id": "news-1176078",
-    "title": "Thomas Reis, Trabzonspor için geldi!",
-    "ts": 1789497549325
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/15/trendyol-super-ligde-5-haftanin-var-kayitlari-aciklandi",
-    "title": "Trendyol Süper Lig'de 5. haftanın VAR kayıtları açıklandı!",
-    "ts": 1789497552507
-  },
-  {
     "id": "news-1176162",
     "title": "TFF, 5. haftanın VAR kayıtlarını açıkladı",
     "ts": 1789509155545
@@ -308,5 +293,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/20/vincenzo-italiano-degisikliklere-ragmen",
     "title": "Vincenzo Italiano: \"Değişikliklere rağmen...\"",
     "ts": 1789924376803
+  },
+  {
+    "id": "news-1176730",
+    "title": "Amedspor-Beşiktaş maçında penaltı tartışması!",
+    "ts": 1789932918313
+  },
+  {
+    "id": "news-1176727",
+    "title": "Asensio neden oynamadı? İsmail Kartal açıkladı!",
+    "ts": 1789932921611
+  },
+  {
+    "id": "news-1176726",
+    "title": "Fenerbahçe tarihine geçen galibiyet!",
+    "ts": 1789932924766
   }
 ]
