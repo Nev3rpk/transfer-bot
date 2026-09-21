@@ -1,30 +1,5 @@
 [
   {
-    "id": "news-1176160",
-    "title": "Aleksey Batrakov'a milli davet",
-    "ts": 1789516379722
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/15/galatasarayda-flas-gercek-ortaya-cikti-bitshiabunun-oynamama-sebebi",
-    "title": "Galatasaray'da flaş gerçek ortaya çıktı! Bitshiabu'nun oynamama sebebi...",
-    "ts": 1789516383157
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/09/16/anthony-taylor-anlatti-ilk-4-haftanin-tartismali-pozisyonlari-analiz-edildi",
-    "title": "Anthony Taylor anlattı! İlk 4 haftanın tartışmalı pozisyonları analiz edildi",
-    "ts": 1789569046408
-  },
-  {
-    "id": "news-1176236",
-    "title": "Rafael Leao için flaş sözler!",
-    "ts": 1789569049863
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/16/super-ligde-ilk-5-haftanin-en-tartismali-pozisyonlari-tek-tek-aciklandi-mhkden-hakem-kararlarina-iliskin-analiz",
-    "title": "Süper Lig'de ilk 5 haftanın en tartışmalı pozisyonları tek tek açıklandı! MHK'den hakem kararlarına ilişkin analiz",
-    "ts": 1789569053001
-  },
-  {
     "id": "news-1176245",
     "title": "Orhan Ak: \"Puanlarla dönmek istiyoruz\"",
     "ts": 1789583744557
@@ -308,5 +283,20 @@
     "id": "news-1176740",
     "title": "Serdal Adalı: \"Bir olay olacak, bu lig bu şekilde bitmez!",
     "ts": 1789941943951
+  },
+  {
+    "id": "news-1176833",
+    "title": "Galatasaray'da Dursun Özbek'ten Okan Buruk'a destek açıklaması!",
+    "ts": 1790006880072
+  },
+  {
+    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/09/21/kayserispora-fifadan-ode-kaldir-yasagi",
+    "title": "Kayserispor'a FIFA'dan 'öde-kaldır' yasağı",
+    "ts": 1790006883553
+  },
+  {
+    "id": "news-1176831",
+    "title": "A Milli Takım'da dört oyuncunun sağlık durumu takipte",
+    "ts": 1790006886711
   }
 ]
