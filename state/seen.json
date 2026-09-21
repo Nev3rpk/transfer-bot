@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176240",
-    "title": "Beşiktaş'ın UEFA Avrupa Ligi kadrosu açıklandı",
-    "ts": 1789595396460
-  },
-  {
-    "id": "news-1176239",
-    "title": "Kocaelispor 4 futbolcunun sağlık durumunu açıkladı!",
-    "ts": 1789595399847
-  },
-  {
-    "id": "news-1176231",
-    "title": "MHK'den hakem kararları analizi: Anthony Taylor tek tek değerlendirdi",
-    "ts": 1789595402986
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/09/16/galatasarayda-transferler-neden-gec-yapildi-dursun-ozbek-acikladi",
     "title": "Galatasaray'da transferler neden geç yapıldı? Dursun Özbek açıkladı",
     "ts": 1789603192011
@@ -298,5 +283,15 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/09/21/trabzonsporda-11-futbolcu-milli-takim-heyecani-yasayacak",
     "title": "Trabzonspor’da 11 futbolcu milli takım heyecanı yaşayacak",
     "ts": 1790022547760
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/09/21/hakan-calhanoglu-transferinde-flas-gelisme-fenerbahce-ve-galatasarayin-gundemindeydi",
+    "title": "Hakan Çalhanoğlu transferinde flaş gelişme! Fenerbahçe ve Galatasaray'ın gündemindeydi",
+    "ts": 1790033371433
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/21/hakan-calhanoglu-icin-gundemi-sarsacak-iddia-fenerbahce-ve-galatasaray-derken",
+    "title": "Hakan Çalhanoğlu için gündemi sarsacak iddia! Fenerbahçe ve Galatasaray derken...",
+    "ts": 1790033374815
   }
 ]
