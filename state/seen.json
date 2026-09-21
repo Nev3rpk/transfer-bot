@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176245",
-    "title": "Orhan Ak: \"Puanlarla dönmek istiyoruz\"",
-    "ts": 1789583744557
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/09/16/tff-resmen-duyurduiste-dort-buyuklerin-kadro-listeleri",
-    "title": "TFF resmen duyurdu:İşte dört büyüklerin kadro listeleri!",
-    "ts": 1789583747866
-  },
-  {
-    "id": "news-1176241",
-    "title": "Fenerbahçe'de Aziz Yıldırım için başkanlığı bırakma iddiası!",
-    "ts": 1789583751003
-  },
-  {
     "id": "news-1176240",
     "title": "Beşiktaş'ın UEFA Avrupa Ligi kadrosu açıklandı",
     "ts": 1789595396460
@@ -298,5 +283,20 @@
     "id": "news-1176831",
     "title": "A Milli Takım'da dört oyuncunun sağlık durumu takipte",
     "ts": 1790006886711
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/09/21/trendyol-super-ligde-6-haftanin-var-kayitlari-aciklandi",
+    "title": "Trendyol Süper Lig'de 6. haftanın VAR kayıtları açıklandı!",
+    "ts": 1790022540989
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/21/son-dakika-fenerbahceden-mert-muldur-aciklamasi",
+    "title": "SON DAKİKA: Fenerbahçe'den Mert Müldür açıklaması! Sahalardan uzak kalacağı süre...",
+    "ts": 1790022544585
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/21/trabzonsporda-11-futbolcu-milli-takim-heyecani-yasayacak",
+    "title": "Trabzonspor’da 11 futbolcu milli takım heyecanı yaşayacak",
+    "ts": 1790022547760
   }
 ]
