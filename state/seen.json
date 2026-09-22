@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1176352",
-    "title": "Nathan Ake'nin eşinden İstanbul'da dikkat çeken paylaşım!",
-    "ts": 1789681893046
-  },
-  {
-    "id": "news-1176348",
-    "title": "Orkun Kökçü'den Fenerbahçe derbisi itirafı",
-    "ts": 1789681896437
-  },
-  {
-    "id": "news-1176347",
-    "title": "Watt: \"Taraftarımıza 3 puan hediye etmek istiyoruz\"",
-    "ts": 1789681899557
-  },
-  {
-    "id": "news-1176395",
-    "title": "Beşiktaş'ın korner silahı yine devrede",
-    "ts": 1789689015796
-  },
-  {
-    "id": "news-1176381",
-    "title": "Bruno Genesio'dan Beşiktaş ve Avrupa Ligi iddiası",
-    "ts": 1789689019075
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/17/bakanliktan-galatasaray-aciklamasi-herhangi-bir-ozel-uygulama-yok",
-    "title": "Bakanlıktan Galatasaray açıklaması: Herhangi bir özel uygulama yok",
-    "ts": 1789689022176
-  },
-  {
     "id": "news-1176460",
     "title": "Alanyaspor'dan Göztepe maçının hakemine tepki",
     "ts": 1789740060108
@@ -293,5 +263,15 @@
     "id": "news-1176926",
     "title": "Amedspor Başkanı Nahit Eren'den hakem tepkisi!",
     "ts": 1790112732068
+  },
+  {
+    "id": "https://www.aspor.com.tr/milli-takim/2026/09/22/mustafa-eskihellac-a-milli-takim-aday-kadrosuna-dahil-edildi",
+    "title": "Mustafa Eskihellaç A Milli Takım aday kadrosuna dahil edildi!",
+    "ts": 1790121384787
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/22/skriniardan-flas-aciklamalar-fenerbahce-duygusal-acidan-adeta-bir-salincak-gibi",
+    "title": "Milan Skriniar'dan flaş açıklamalar: Fenerbahçe duygusal açıdan adeta bir salıncak gibi!",
+    "ts": 1790121388175
   }
 ]
