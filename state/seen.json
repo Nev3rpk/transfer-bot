@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/16/galatasarayda-transferler-neden-gec-yapildi-dursun-ozbek-acikladi",
-    "title": "Galatasaray'da transferler neden geç yapıldı? Dursun Özbek açıkladı",
-    "ts": 1789603192011
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/09/16/dursun-ozbekten-transfer-elestirilerine-yanit-aradaki-fark-yaklasik-50-milyon-euro",
-    "title": "Dursun Özbek'ten transfer eleştirilerine yanıt: Aradaki fark yaklaşık 50 milyon euro",
-    "ts": 1789603195347
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspor-baskani-ertugrul-dogan-galatasaray-bize-yanlis-yapti",
-    "title": "Trabzonspor Başkanı Ertuğrul Doğan: Galatasaray bize yanlış yaptı",
-    "ts": 1789603198455
-  },
-  {
     "id": "https://www.aspor.com.tr/goztepe/2026/09/17/ligin-son-sirasindaki-goztepede-stanimir-stoilovun-sozlesmesi-2028e-kadar-uzatildi",
     "title": "Ligin son sırasındaki Göztepe’de Stanimir Stoilov'un sözleşmesi 2028’e kadar uzatıldı",
     "ts": 1789655683881
@@ -293,5 +278,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/21/hakan-calhanoglu-icin-gundemi-sarsacak-iddia-fenerbahce-ve-galatasaray-derken",
     "title": "Hakan Çalhanoğlu için gündemi sarsacak iddia! Fenerbahçe ve Galatasaray derken...",
     "ts": 1790033374815
+  },
+  {
+    "id": "news-1176919",
+    "title": "Gift Orban'ın sözleşme detayları açıklandı",
+    "ts": 1790086641445
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/22/edersondan-milli-takim-karari-brezilya-kampi-yerine-fenerbahcede-kalacak",
+    "title": "Ederson’dan milli takım kararı! Brezilya kampı yerine Fenerbahçe’de kalacak",
+    "ts": 1790086644812
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/22/fenerbahcede-edersondan-flas-karar-brezilya-milli-takimina-gitmeyecek",
+    "title": "Fenerbahçe'de Ederson'dan flaş karar! Brezilya Milli Takımı'na gitmeyecek",
+    "ts": 1790086647926
   }
 ]
