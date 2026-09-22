@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/goztepe/2026/09/17/ligin-son-sirasindaki-goztepede-stanimir-stoilovun-sozlesmesi-2028e-kadar-uzatildi",
-    "title": "Ligin son sırasındaki Göztepe’de Stanimir Stoilov'un sözleşmesi 2028’e kadar uzatıldı",
-    "ts": 1789655683881
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/17/fenerbahcede-marco-asensio-takimla-birlikte-calisti",
-    "title": "Fenerbahçe'de Marco Asensio takımla birlikte çalıştı!",
-    "ts": 1789655687283
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/17/trabzonsporda-thomas-reis-imzayi-atti-az-laf-cok-is",
-    "title": "Trabzonspor'da Thomas Reis imzayı attı: Az laf, çok iş",
-    "ts": 1789655690405
-  },
-  {
     "id": "news-1176359",
     "title": "Jean Tigana yeniden Dolmabahçe'de!",
     "ts": 1789670622811
@@ -293,5 +278,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/22/fenerbahcede-edersondan-flas-karar-brezilya-milli-takimina-gitmeyecek",
     "title": "Fenerbahçe'de Ederson'dan flaş karar! Brezilya Milli Takımı'na gitmeyecek",
     "ts": 1790086647926
+  },
+  {
+    "id": "news-1176781",
+    "title": "CANLI: Fenerbahçe Tarfin - Beşiktaş",
+    "ts": 1790100669779
+  },
+  {
+    "id": "news-1176931",
+    "title": "Beşiktaş'ta Adalı imzaları topladı! Kulüpten açıklama",
+    "ts": 1790100673212
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/09/22/besiktas-kulubu-divan-kurulundan-olaganustu-secimli-genel-kurul-aciklamasi",
+    "title": "Beşiktaş Kulübü Divan Kurulundan olağanüstü seçimli genel kurul açıklaması",
+    "ts": 1790100676337
   }
 ]
