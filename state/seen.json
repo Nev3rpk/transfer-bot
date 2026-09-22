@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176359",
-    "title": "Jean Tigana yeniden Dolmabahçe'de!",
-    "ts": 1789670622811
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/09/17/vincenzo-italiano-guzel-bir-yolculuk-olacak",
-    "title": "Vincenzo Italiano: Güzel bir yolculuk olacak!",
-    "ts": 1789670626351
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/17/vincenzo-italiano-iyi-baslamak-istiyoruz",
-    "title": "Vincenzo Italiano: \"İyi başlamak istiyoruz!\"",
-    "ts": 1789670629522
-  },
-  {
     "id": "news-1176352",
     "title": "Nathan Ake'nin eşinden İstanbul'da dikkat çeken paylaşım!",
     "ts": 1789681893046
@@ -293,5 +278,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/09/22/besiktas-kulubu-divan-kurulundan-olaganustu-secimli-genel-kurul-aciklamasi",
     "title": "Beşiktaş Kulübü Divan Kurulundan olağanüstü seçimli genel kurul açıklaması",
     "ts": 1790100676337
+  },
+  {
+    "id": "news-1176938",
+    "title": "Talen Horton-Tucker: \"Çok iyi hissediyorum\"",
+    "ts": 1790112725607
+  },
+  {
+    "id": "news-1176928",
+    "title": "Trabzonspor'dan teknik heyete flaş takviye: Jerome Boateng",
+    "ts": 1790112728954
+  },
+  {
+    "id": "news-1176926",
+    "title": "Amedspor Başkanı Nahit Eren'den hakem tepkisi!",
+    "ts": 1790112732068
   }
 ]
