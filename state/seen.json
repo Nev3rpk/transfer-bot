@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176460",
-    "title": "Alanyaspor'dan Göztepe maçının hakemine tepki",
-    "ts": 1789740060108
-  },
-  {
-    "id": "news-1176459",
-    "title": "Okay Yokuşlu ameliyat olduğunu açıkladı!",
-    "ts": 1789740063506
-  },
-  {
-    "id": "news-1176458",
-    "title": "Galatasaray açıkladı; Trabzon'da 4 eksik!",
-    "ts": 1789740066656
-  },
-  {
     "id": "news-1176469",
     "title": "Fransa'da Kante kararı! Zidane nedenini açıkladı!",
     "ts": 1789753541851
@@ -273,5 +258,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/22/skriniardan-flas-aciklamalar-fenerbahce-duygusal-acidan-adeta-bir-salincak-gibi",
     "title": "Milan Skriniar'dan flaş açıklamalar: Fenerbahçe duygusal açıdan adeta bir salıncak gibi!",
     "ts": 1790121388175
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/09/23/alvaro-morata-galatasaraydan-ayrildigindan-beri-gol-atamiyor",
+    "title": "Alvaro Morata, Galatasaray'dan ayrıldığından beri gol atamıyor",
+    "ts": 1790174128565
+  },
+  {
+    "id": "news-1177008",
+    "title": "Galatasaray ile ilgili olay iddia: \"26 kupaya hükmen muhafaza\"",
+    "ts": 1790174131904
+  },
+  {
+    "id": "news-1177005",
+    "title": "Franculino Dju'nun bonservis bedeli yükseldi",
+    "ts": 1790174135039
   }
 ]
