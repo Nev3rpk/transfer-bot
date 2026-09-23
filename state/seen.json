@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176481",
-    "title": "Kasımpaşa'da Emre Belözoğlu ile bir ilk",
-    "ts": 1789762502745
-  },
-  {
-    "id": "news-1176474",
-    "title": "Georgios Bartzokas: \"Kupayı kazanmak istiyoruz\"",
-    "ts": 1789762506146
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/18/fenerbahcede-mert-muldur-antrenmanda-sakatlandi",
-    "title": "Fenerbahçe'de Mert Müldür antrenmanda sakatlandı!",
-    "ts": 1789762509320
-  },
-  {
     "id": "https://www.aspor.com.tr/uluslar-ligi/2026/09/18/rafael-leaoya-ulkesi-portekiz-milli-takimindan-davet-geldi",
     "title": "Rafael Leao'ya ülkesi Portekiz Milli Takımı'ndan davet geldi!",
     "ts": 1789771365080
@@ -273,5 +258,20 @@
     "id": "news-1177016",
     "title": "Manchester United'dan Guirassy hamlesi!",
     "ts": 1790189155921
+  },
+  {
+    "id": "news-1177024",
+    "title": "Serdal Adalı'dan yayıncı kuruluş için suç duyurusu!",
+    "ts": 1790200582624
+  },
+  {
+    "id": "news-1177029",
+    "title": "Serdal Adalı açıkladı: Hapoel Beer-Sheva maçının yeri belli oldu!",
+    "ts": 1790200586117
+  },
+  {
+    "id": "news-1177022",
+    "title": "Raskin ve Adalı'dan Beşiktaş transferi açıklaması",
+    "ts": 1790200589274
   }
 ]
