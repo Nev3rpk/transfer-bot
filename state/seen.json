@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176469",
-    "title": "Fransa'da Kante kararı! Zidane nedenini açıkladı!",
-    "ts": 1789753541851
-  },
-  {
-    "id": "news-1176465",
-    "title": "Yüksel Yıldırım: \"Dursun Özbek'e üzülüyorum!\"",
-    "ts": 1789753545482
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/18/galatasarayda-cifte-ayrilik-okan-buruk-biletlerini-kesti",
-    "title": "Galatasaray'da çifte ayrılık! Okan Buruk biletlerini kesti",
-    "ts": 1789753548689
-  },
-  {
     "id": "news-1176481",
     "title": "Kasımpaşa'da Emre Belözoğlu ile bir ilk",
     "ts": 1789762502745
@@ -273,5 +258,20 @@
     "id": "news-1177005",
     "title": "Franculino Dju'nun bonservis bedeli yükseldi",
     "ts": 1790174135039
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/dusan-vlahovic-transferi-nasil-gerceklesti-serdal-adali-o-ismin-etksini-acikladi",
+    "title": "Dusan Vlahovic transferi nasıl gerçekleşti? Serdal Adalı o ismin etksini açıkladı",
+    "ts": 1790189149375
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktas-baskani-serdal-adalidan-vincenzo-italiano-itirafi",
+    "title": "Beşiktaş Başkanı Serdal Adalı'dan Vincenzo Italiano itirafı!",
+    "ts": 1790189152786
+  },
+  {
+    "id": "news-1177016",
+    "title": "Manchester United'dan Guirassy hamlesi!",
+    "ts": 1790189155921
   }
 ]
