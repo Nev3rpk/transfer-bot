@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176722",
-    "title": "Oppong ilk kez forma giydi, Skriniar bir ilki yaşadı",
-    "ts": 1789924370103
-  },
-  {
-    "id": "news-1176721",
-    "title": "Eyüpspor'da 8-0 sonrası istifa: Özhan Pulat",
-    "ts": 1789924373607
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/09/20/vincenzo-italiano-degisikliklere-ragmen",
-    "title": "Vincenzo Italiano: \"Değişikliklere rağmen...\"",
-    "ts": 1789924376803
-  },
-  {
     "id": "news-1176730",
     "title": "Amedspor-Beşiktaş maçında penaltı tartışması!",
     "ts": 1789932918313
@@ -228,5 +213,20 @@
     "id": "news-1177202",
     "title": "Fenerbahçe milli arada Azerbaycan'a gidiyor!",
     "ts": 1790348076339
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/25/fenerbahce-matteo-guendouzi-hakkinda-aciklama-yayinladi",
+    "title": "Fenerbahçe Matteo Guendouzi hakkında açıklama yayınladı!",
+    "ts": 1790363051698
+  },
+  {
+    "id": "news-1177222",
+    "title": "UEFA'dan Fenerbahçe'ye Guendouzi müjdesi",
+    "ts": 1790363055246
+  },
+  {
+    "id": "news-1177201",
+    "title": "İlkay Gündoğan'ın ailesine AVM'de çirkin sözler iddiası!",
+    "ts": 1790363058420
   }
 ]
