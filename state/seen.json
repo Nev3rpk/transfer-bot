@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/20/erzurumspor-fk-samsunspor-canli-trendyol-super-lig",
-    "title": "Erzurumspor FK-Samsunspor | CANLI (Trendyol Süper Lig)",
-    "ts": 1789912296936
-  },
-  {
-    "id": "news-1176686",
-    "title": "Ertuğrul Doğan'dan oyunculara prim müjdesi! Rakamı artırdı!",
-    "ts": 1789912300382
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/20/fenerbahce-eyupspor-maci-oncesi-asensioya-yogun-ilgi",
-    "title": "Fenerbahçe-Eyüpspor maçı öncesi Asensio'ya yoğun ilgi!",
-    "ts": 1789912303563
-  },
-  {
     "id": "news-1176722",
     "title": "Oppong ilk kez forma giydi, Skriniar bir ilki yaşadı",
     "ts": 1789924370103
@@ -228,5 +213,20 @@
     "id": "news-1177108",
     "title": "Salah'tan Trabzonspor'a transfer önerisi!",
     "ts": 1790286898352
+  },
+  {
+    "id": "news-1177219",
+    "title": "Uğur Uçar'dan Çorum FK'ye veda mesajı",
+    "ts": 1790348069928
+  },
+  {
+    "id": "news-1177211",
+    "title": "Pero Antic'ten Obradovic itirafı: \"Görüşmemiz 45 saniye sürdü\"",
+    "ts": 1790348073234
+  },
+  {
+    "id": "news-1177202",
+    "title": "Fenerbahçe milli arada Azerbaycan'a gidiyor!",
+    "ts": 1790348076339
   }
 ]
