@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/superlig/2026/09/21/trendyol-super-ligde-6-haftanin-var-kayitlari-aciklandi",
-    "title": "Trendyol Süper Lig'de 6. haftanın VAR kayıtları açıklandı!",
-    "ts": 1790022540989
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/09/21/son-dakika-fenerbahceden-mert-muldur-aciklamasi",
-    "title": "SON DAKİKA: Fenerbahçe'den Mert Müldür açıklaması! Sahalardan uzak kalacağı süre...",
-    "ts": 1790022544585
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/09/21/trabzonsporda-11-futbolcu-milli-takim-heyecani-yasayacak",
-    "title": "Trabzonspor’da 11 futbolcu milli takım heyecanı yaşayacak",
-    "ts": 1790022547760
-  },
-  {
     "id": "https://www.aspor.com.tr/futbol/2026/09/21/hakan-calhanoglu-transferinde-flas-gelisme-fenerbahce-ve-galatasarayin-gundemindeydi",
     "title": "Hakan Çalhanoğlu transferinde flaş gelişme! Fenerbahçe ve Galatasaray'ın gündemindeydi",
     "ts": 1790033371433
@@ -213,5 +198,20 @@
     "id": "news-1177279",
     "title": "Emenike, İsmail Kartal'la görüştü, Aziz Yıldırım'ın elini öptü!",
     "ts": 1790444458723
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/26/fenerbahce-arsavev-avrupada-sov-yapti-minsk-karsisinda-4-gollu-zafer",
+    "title": "Fenerbahçe arsaVev Avrupa'da şov yaptı! Minsk karşısında 4 gollü zafer",
+    "ts": 1790454594327
+  },
+  {
+    "id": "news-1177269",
+    "title": "Gabigol için Süper Lig iddiası!",
+    "ts": 1790454597740
+  },
+  {
+    "id": "news-1177267",
+    "title": "Galatasaray'dan çılgın ara transfer planı!",
+    "ts": 1790454600886
   }
 ]
