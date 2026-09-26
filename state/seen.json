@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176833",
-    "title": "Galatasaray'da Dursun Özbek'ten Okan Buruk'a destek açıklaması!",
-    "ts": 1790006880072
-  },
-  {
-    "id": "https://www.aspor.com.tr/tff-birinci-lig/2026/09/21/kayserispora-fifadan-ode-kaldir-yasagi",
-    "title": "Kayserispor'a FIFA'dan 'öde-kaldır' yasağı",
-    "ts": 1790006883553
-  },
-  {
-    "id": "news-1176831",
-    "title": "A Milli Takım'da dört oyuncunun sağlık durumu takipte",
-    "ts": 1790006886711
-  },
-  {
     "id": "https://www.fotomac.com.tr/superlig/2026/09/21/trendyol-super-ligde-6-haftanin-var-kayitlari-aciklandi",
     "title": "Trendyol Süper Lig'de 6. haftanın VAR kayıtları açıklandı!",
     "ts": 1790022540989
@@ -213,5 +198,20 @@
     "id": "news-1177270",
     "title": "Klopp'tan Beşiktaşlı yıldız için sürpriz karar",
     "ts": 1790431187015
+  },
+  {
+    "id": "news-1177294",
+    "title": "Beşiktaş'a Jeffries'ten kötü haber",
+    "ts": 1790444452129
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/26/galatasarayda-flas-ayrilik-okan-buruk-biletini-kesti",
+    "title": "Galatasaray'da flaş ayrılık! Okan Buruk biletini kesti",
+    "ts": 1790444455516
+  },
+  {
+    "id": "news-1177279",
+    "title": "Emenike, İsmail Kartal'la görüştü, Aziz Yıldırım'ın elini öptü!",
+    "ts": 1790444458723
   }
 ]
