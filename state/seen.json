@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176938",
-    "title": "Talen Horton-Tucker: \"Çok iyi hissediyorum\"",
-    "ts": 1790112725607
-  },
-  {
-    "id": "news-1176928",
-    "title": "Trabzonspor'dan teknik heyete flaş takviye: Jerome Boateng",
-    "ts": 1790112728954
-  },
-  {
-    "id": "news-1176926",
-    "title": "Amedspor Başkanı Nahit Eren'den hakem tepkisi!",
-    "ts": 1790112732068
-  },
-  {
     "id": "https://www.aspor.com.tr/milli-takim/2026/09/22/mustafa-eskihellac-a-milli-takim-aday-kadrosuna-dahil-edildi",
     "title": "Mustafa Eskihellaç A Milli Takım aday kadrosuna dahil edildi!",
     "ts": 1790121384787
@@ -213,5 +198,20 @@
     "id": "news-1177363",
     "title": "Mauro Icardi transferinde flaş gelişme! İtalyanlar duyurdu",
     "ts": 1790535090284
+  },
+  {
+    "id": "news-1177361",
+    "title": "Trabzonspor, forma satışında geçen sezona fark attı!",
+    "ts": 1790545641401
+  },
+  {
+    "id": "news-1177355",
+    "title": "Aziz Yıldırım tek tek borç açıkladı: \"Ört ki ölem!\"",
+    "ts": 1790545644774
+  },
+  {
+    "id": "news-1177351",
+    "title": "Aziz Yıldırım'dan Kerem Aktürkoğlu açıklaması: \"Biri bizi şikayet etti\"",
+    "ts": 1790545647872
   }
 ]
