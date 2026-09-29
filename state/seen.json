@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1177133",
-    "title": "Fenerbahçe'den yasa dışı bahis sitelerine suç duyurusu",
-    "ts": 1790275586567
-  },
-  {
-    "id": "news-1177115",
-    "title": "Torreira'nın presi yetmedi! Uruguay, Japonya'ya yenildi",
-    "ts": 1790275590058
-  },
-  {
-    "id": "https://www.aspor.com.tr/corum-fk/2026/09/24/super-ligde-beklenmeyen-ayrilik-ugur-ucar",
-    "title": "Süper Lig'de beklenmeyen ayrılık! Uğur Uçar...",
-    "ts": 1790275593378
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/09/24/galatasarayda-dursun-ozbekin-ocak-hedefi-belli-oldu-3-transfer",
     "title": "Galatasaray'da Dursun Özbek'in ocak hedefi belli oldu! 3 transfer...",
     "ts": 1790286891834
@@ -203,5 +188,20 @@
     "id": "news-1177540",
     "title": "Rafael Leao'nun avukatından transfer itirafı",
     "ts": 1790698638499
+  },
+  {
+    "id": "news-1177546",
+    "title": "Serdal Adalı'dan MHK Başkanlığı için flaş öneri!",
+    "ts": 1790715371239
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/29/pfdkdan-okan-buruk-ve-ugochukwu-icin-ceza-karari",
+    "title": "PFDK'den Okan Buruk ve Ugochukwu için ceza kararı!",
+    "ts": 1790715374648
+  },
+  {
+    "id": "news-1177539",
+    "title": "Kocaelispor'dan Haidara ve Dijksteel açıklaması!",
+    "ts": 1790715377774
   }
 ]
