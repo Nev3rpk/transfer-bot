@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1177272",
-    "title": "Beşiktaş'tan Ghezzal'ı hatırlatan transfer hamlesi",
-    "ts": 1790431180471
-  },
-  {
-    "id": "https://www.fotomac.com.tr/uluslar-ligi/2026/09/26/almanyada-alexander-nubel-karari-klopp-acikladi",
-    "title": "Almanya'da Alexander Nübel kararı! Klopp açıkladı",
-    "ts": 1790431183881
-  },
-  {
-    "id": "news-1177270",
-    "title": "Klopp'tan Beşiktaşlı yıldız için sürpriz karar",
-    "ts": 1790431187015
-  },
-  {
     "id": "news-1177294",
     "title": "Beşiktaş'a Jeffries'ten kötü haber",
     "ts": 1790444452129
@@ -188,5 +173,20 @@
     "id": "news-1177655",
     "title": "Saliha Şahin: \"Fenerbahçe benim hep hayalimdi!\"",
     "ts": 1790801701508
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/01/fenerbahceye-verilen-transfer-yasagi-kalkti",
+    "title": "Fenerbahçe'ye verilen transfer yasağı kalktı!",
+    "ts": 1790873361365
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/10/01/premier-lig-devinden-besiktasli-yildiza-kanca-devre-arasinda-transfer-olabilir",
+    "title": "Premier Lig devinden Beşiktaşlı yıldıza kanca! Devre arasında transfer olabilir",
+    "ts": 1790873364747
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/01/galatasarayda-singo-gelismesi-iste-sahalara-donus-tarihi",
+    "title": "Galatasaray'da Singo gelişmesi! İşte sahalara dönüş tarihi",
+    "ts": 1790873367868
   }
 ]
