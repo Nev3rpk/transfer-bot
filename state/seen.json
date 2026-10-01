@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1177294",
-    "title": "Beşiktaş'a Jeffries'ten kötü haber",
-    "ts": 1790444452129
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/09/26/galatasarayda-flas-ayrilik-okan-buruk-biletini-kesti",
-    "title": "Galatasaray'da flaş ayrılık! Okan Buruk biletini kesti",
-    "ts": 1790444455516
-  },
-  {
-    "id": "news-1177279",
-    "title": "Emenike, İsmail Kartal'la görüştü, Aziz Yıldırım'ın elini öptü!",
-    "ts": 1790444458723
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/09/26/fenerbahce-arsavev-avrupada-sov-yapti-minsk-karsisinda-4-gollu-zafer",
-    "title": "Fenerbahçe arsaVev Avrupa'da şov yaptı! Minsk karşısında 4 gollü zafer",
-    "ts": 1790454594327
-  },
-  {
-    "id": "news-1177269",
-    "title": "Gabigol için Süper Lig iddiası!",
-    "ts": 1790454597740
-  },
-  {
-    "id": "news-1177267",
-    "title": "Galatasaray'dan çılgın ara transfer planı!",
-    "ts": 1790454600886
-  },
-  {
     "id": "news-1177264",
     "title": "Batrakov'dan Galatasaray itirafı: \"Tüylerim diken diken oldu!\"",
     "ts": 1790463934872
@@ -188,5 +158,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/01/galatasarayda-singo-gelismesi-iste-sahalara-donus-tarihi",
     "title": "Galatasaray'da Singo gelişmesi! İşte sahalara dönüş tarihi",
     "ts": 1790873367868
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/01/super-lig-hakemi-yasin-kol-gozaltina-alindi",
+    "title": "Futbolda \"hakemler dosyası\" soruşturmasında yeni gelişme: Süper Lig Hakemi Yasin Kol gözaltına alındı",
+    "ts": 1790890290709
+  },
+  {
+    "id": "news-1177764",
+    "title": "Hyeon-gyu Oh için Premier Lig iddiası!",
+    "ts": 1790890294200
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/01/transferde-szymanski-bombasi-yeni-takimi-herkesi-sasirtacak",
+    "title": "Transferde Szymanski bombası! Yeni takımı herkesi şaşırtacak",
+    "ts": 1790890297383
   }
 ]
