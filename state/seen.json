@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1176510",
-    "title": "Beşiktaş, Belaruslu genç yeteneği kadrosuna kattı!",
-    "ts": 1790618099792
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/bruno-fernandes-galatasaraya-gel-cagrisina-iste-boyle-yanit-verdi",
-    "title": "Bruno Fernandes, “Galatasaray’a gel” çağrısına böyle yanıt verdi!",
-    "ts": 1790618103096
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/09/28/vagner-love-futbolu-birakti",
-    "title": "Vagner Love futbolu bıraktı!",
-    "ts": 1790618106240
-  },
-  {
     "id": "https://www.aspor.com.tr/trabzonspor/2026/09/28/trabzonspordan-malinovskyi-aciklamasi",
     "title": "Trabzonspor'dan Malinovskyi açıklaması!",
     "ts": 1790635824976
@@ -163,5 +148,20 @@
     "id": "news-1177957",
     "title": "Beşiktaş Kulübü, kafe açacağını açıkladı!",
     "ts": 1791037776255
+  },
+  {
+    "id": "news-1177987",
+    "title": "Greenwood kırmızı gördü, Fenerbahçe 11 kişi devam etti",
+    "ts": 1791050839359
+  },
+  {
+    "id": "news-1177976",
+    "title": "Galatasaray'ın eski yöneticisi İbrahim Hatipoğlu'nun acı günü",
+    "ts": 1791050842765
+  },
+  {
+    "id": "news-1177956",
+    "title": "Rusya'da Felipe Augusto transferi olay yarattı!",
+    "ts": 1791050845901
   }
 ]
