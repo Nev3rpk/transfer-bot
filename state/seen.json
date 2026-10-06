@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/konya-stadinda-filistin-pankartlari",
-    "title": "Konya Stadı'nda Filistin pankartları",
-    "ts": 1790801694886
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/09/30/trabzonspor-baskani-ertugrul-dogan-aciklamalarda-bulunuyor",
-    "title": "Trabzonspor Başkanı Ertuğrul Doğan açıklamalarda bulundu",
-    "ts": 1790801698372
-  },
-  {
-    "id": "news-1177655",
-    "title": "Saliha Şahin: \"Fenerbahçe benim hep hayalimdi!\"",
-    "ts": 1790801701508
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/01/fenerbahceye-verilen-transfer-yasagi-kalkti",
     "title": "Fenerbahçe'ye verilen transfer yasağı kalktı!",
     "ts": 1790873361365
@@ -153,5 +138,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/05/fenerbahcenin-eski-kalecisi-ilie-datcu-hayatini-kaybetti",
     "title": "Fenerbahçe'nin eski kalecisi Ilie Datcu hayatını kaybetti",
     "ts": 1791226776735
+  },
+  {
+    "id": "news-1178261",
+    "title": "Ahmet Nur Çebi'den TFF Başkanlığı açıklaması!",
+    "ts": 1791303954078
+  },
+  {
+    "id": "news-1178260",
+    "title": "Galatasaray'dan Barış Alper Yılmaz için yeni sözleşme planı!",
+    "ts": 1791303957604
+  },
+  {
+    "id": "news-1178258",
+    "title": "Gençlerbirliği için Carlos Tevez iddiası!",
+    "ts": 1791303960830
   }
 ]
