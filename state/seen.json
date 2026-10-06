@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/01/fenerbahceye-verilen-transfer-yasagi-kalkti",
-    "title": "Fenerbahçe'ye verilen transfer yasağı kalktı!",
-    "ts": 1790873361365
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/10/01/premier-lig-devinden-besiktasli-yildiza-kanca-devre-arasinda-transfer-olabilir",
-    "title": "Premier Lig devinden Beşiktaşlı yıldıza kanca! Devre arasında transfer olabilir",
-    "ts": 1790873364747
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/01/galatasarayda-singo-gelismesi-iste-sahalara-donus-tarihi",
-    "title": "Galatasaray'da Singo gelişmesi! İşte sahalara dönüş tarihi",
-    "ts": 1790873367868
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/01/super-lig-hakemi-yasin-kol-gozaltina-alindi",
     "title": "Futbolda \"hakemler dosyası\" soruşturmasında yeni gelişme: Süper Lig Hakemi Yasin Kol gözaltına alındı",
     "ts": 1790890290709
@@ -153,5 +138,20 @@
     "id": "news-1178258",
     "title": "Gençlerbirliği için Carlos Tevez iddiası!",
     "ts": 1791303960830
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/10/06/besiktastan-sakatlik-aciklamasi",
+    "title": "Beşiktaş'tan sakatlık açıklaması!",
+    "ts": 1791320751950
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/06/besiktastan-milot-rashicanin-sakatligi-hakkinda-aciklama",
+    "title": "Beşiktaş'tan Milot Rashica'nın sakatlığı hakkında açıklama!",
+    "ts": 1791320755307
+  },
+  {
+    "id": "news-1178247",
+    "title": "Ederson için yüzlerce metrelik kuyruk!",
+    "ts": 1791320758440
   }
 ]
