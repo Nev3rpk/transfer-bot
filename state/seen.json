@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1177987",
-    "title": "Greenwood kırmızı gördü, Fenerbahçe 11 kişi devam etti",
-    "ts": 1791050839359
-  },
-  {
-    "id": "news-1177976",
-    "title": "Galatasaray'ın eski yöneticisi İbrahim Hatipoğlu'nun acı günü",
-    "ts": 1791050842765
-  },
-  {
-    "id": "news-1177956",
-    "title": "Rusya'da Felipe Augusto transferi olay yarattı!",
-    "ts": 1791050845901
-  },
-  {
-    "id": "news-1177997",
-    "title": "Galatasaraylı Jakobs için Senegal'den yeni açıklama",
-    "ts": 1791063366232
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/04/fenerbahcede-flas-gelisme-cezasi-bitti-ayaginin-tozuyla-idmana-cikti",
     "title": "Fenerbahçe'de flaş gelişme! Cezası bitti, ayağının tozuyla idmana çıktı",
     "ts": 1791126267133
@@ -138,5 +118,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/10/08/okan-buruktan-baris-alper-yilmaz-karari-kasimpasa-macinda",
     "title": "Okan Buruk'tan Barış Alper Yılmaz kararı! Kasımpaşa maçında...",
     "ts": 1791479205426
+  },
+  {
+    "id": "news-1178496",
+    "title": "Konyaspor Başkanı Atiker'den hakem kararlarına tepki",
+    "ts": 1791497718149
+  },
+  {
+    "id": "news-1178463",
+    "title": "Galatasaray, Ali Fuat Diriker'e veda etti",
+    "ts": 1791497721511
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/08/galatasaraydan-flas-baris-alper-yilmaz-karari-form-dusuklugu-sonrasi",
+    "title": "Galatasaray'dan flaş Barış Alper Yılmaz kararı! Form düşüklüğü sonrası...",
+    "ts": 1791497724641
   }
 ]
