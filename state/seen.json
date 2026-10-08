@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1177917",
-    "title": "Beşiktaş'ta ibra kararı!",
-    "ts": 1791037769621
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/03/fenerbahcenin-eski-futbolcusu-fredden-flas-mourinho-aciklamasi",
-    "title": "Fenerbahçe'nin eski futbolcusu Fred'den flaş Mourinho açıklaması!",
-    "ts": 1791037773098
-  },
-  {
-    "id": "news-1177957",
-    "title": "Beşiktaş Kulübü, kafe açacağını açıkladı!",
-    "ts": 1791037776255
-  },
-  {
     "id": "news-1177987",
     "title": "Greenwood kırmızı gördü, Fenerbahçe 11 kişi devam etti",
     "ts": 1791050839359
@@ -138,5 +123,20 @@
     "id": "news-1178349",
     "title": "Dursun Özbek'ten Taç Spor için açıklama!",
     "ts": 1791410953291
+  },
+  {
+    "id": "news-1178485",
+    "title": "Archie Brown, en çok kullandığı Türkçe kelimeyi açıkladı",
+    "ts": 1791479198671
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/08/dolmabahcede-flas-gelisme-kaptan-sahalara-geri-donuyor",
+    "title": "Dolmabahçe'de flaş gelişme! Kaptan sahalara geri dönüyor",
+    "ts": 1791479202185
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/08/okan-buruktan-baris-alper-yilmaz-karari-kasimpasa-macinda",
+    "title": "Okan Buruk'tan Barış Alper Yılmaz kararı! Kasımpaşa maçında...",
+    "ts": 1791479205426
   }
 ]
