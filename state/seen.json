@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktasa-kotu-haber-rashica-maca-devam-edemedi",
-    "title": "Beşiktaş'a kötü haber! Rashica maça devam edemedi!",
-    "ts": 1791139340013
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/04/anderson-taliscadan-dikkat-ceken-paylasim",
-    "title": "Anderson Talisca'dan dikkat çeken paylaşım!",
-    "ts": 1791139343389
-  },
-  {
-    "id": "news-1178043",
-    "title": "İsmail Kartal: \"Arda Güler'i ilk oynatan benim!\"",
-    "ts": 1791139346508
-  },
-  {
     "id": "news-1178177",
     "title": "Arda Çakmak: \"Metin Diyadin ile yollar ayrıldı\"",
     "ts": 1791226770197
@@ -133,5 +118,20 @@
     "id": "news-1178577",
     "title": "Salih Özcan: \"Her şey iyi gidiyor\"",
     "ts": 1791564298826
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/09/fenerbahce-ve-galatasarayin-tur-ihtimallari-belli-oldu-yapay-zeka-acikladi",
+    "title": "Fenerbahçe ve Galatasaray'ın tur ihtimalleri belli oldu! Yapay zeka açıkladı",
+    "ts": 1791581094839
+  },
+  {
+    "id": "https://www.fotomac.com.tr/genclerbirligi/2026/10/09/genclerbirliginde-bernd-storck-donemi-basladi",
+    "title": "Gençlerbirliği'nde Bernd Storck dönemi başladı!",
+    "ts": 1791581098124
+  },
+  {
+    "id": "https://www.aspor.com.tr/genclerbirligi/2026/10/09/genclerbirliginin-yeni-teknik-direktoru-bernd-storck-oldu",
+    "title": "Gençlerbirliği'nin yeni teknik direktörü Bernd Storck oldu!",
+    "ts": 1791581101223
   }
 ]
