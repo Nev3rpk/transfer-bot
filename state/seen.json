@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1178177",
-    "title": "Arda Çakmak: \"Metin Diyadin ile yollar ayrıldı\"",
-    "ts": 1791226770197
-  },
-  {
-    "id": "news-1178167",
-    "title": "Aleksey Batrakov için PSG itirafı",
-    "ts": 1791226773607
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/05/fenerbahcenin-eski-kalecisi-ilie-datcu-hayatini-kaybetti",
-    "title": "Fenerbahçe'nin eski kalecisi Ilie Datcu hayatını kaybetti",
-    "ts": 1791226776735
-  },
-  {
     "id": "news-1178261",
     "title": "Ahmet Nur Çebi'den TFF Başkanlığı açıklaması!",
     "ts": 1791303954078
@@ -148,5 +133,20 @@
     "id": "news-1178656",
     "title": "Dursun Özbek: \"Rakiplerimizin iyi futbolcular transfer etmesini sağladık\"",
     "ts": 1791646758203
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/10/barcelonada-hansi-flickten-gundem-olan-galatasaray-sozleri",
+    "title": "Barcelona'da Hansi Flick'ten gündem olan Galatasaray sözleri!",
+    "ts": 1791661201265
+  },
+  {
+    "id": "news-1178736",
+    "title": "Aston Villa'da Fenerbahçe öncesi sakatlık!",
+    "ts": 1791661204620
+  },
+  {
+    "id": "news-1178734",
+    "title": "İrfan Can Kahveci zirvede tek başına!",
+    "ts": 1791661207790
   }
 ]
