@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/besiktas/2026/10/06/besiktastan-sakatlik-aciklamasi",
-    "title": "Beşiktaş'tan sakatlık açıklaması!",
-    "ts": 1791320751950
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/06/besiktastan-milot-rashicanin-sakatligi-hakkinda-aciklama",
-    "title": "Beşiktaş'tan Milot Rashica'nın sakatlığı hakkında açıklama!",
-    "ts": 1791320755307
-  },
-  {
-    "id": "news-1178247",
-    "title": "Ederson için yüzlerce metrelik kuyruk!",
-    "ts": 1791320758440
-  },
-  {
     "id": "news-1178359",
     "title": "Gaziantep FK'da Fuat Bavuk şoku!",
     "ts": 1791392942331
@@ -178,5 +163,20 @@
     "id": "news-1178833",
     "title": "Beşiktaş'ın Vlahovic'in pozisyonuna hakem yorumları!",
     "ts": 1791750412046
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/kocaelispor-baskani-recep-duruldan-besiktas-maci-sonrasi-olay-sozler",
+    "title": "Kocaelispor Başkanı Recep Durul’dan Beşiktaş maçı sonrası olay sözler!",
+    "ts": 1791762559588
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/11/galatasarayda-ilkay-gundogan-sessizligini-bozdu-transfer",
+    "title": "Galatasaray'da İlkay Gündoğan sessizliğini bozdu! Ayrılık iddialarına yanıt...",
+    "ts": 1791762563108
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/10/11/besiktastan-kirmizi-kart-tepkisi-yorum-acik-degil",
+    "title": "Beşiktaş’tan kırmızı kart tepkisi! \"Yorum açık değil\"",
+    "ts": 1791762566299
   }
 ]
