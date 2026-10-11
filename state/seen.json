@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1178261",
-    "title": "Ahmet Nur Çebi'den TFF Başkanlığı açıklaması!",
-    "ts": 1791303954078
-  },
-  {
-    "id": "news-1178260",
-    "title": "Galatasaray'dan Barış Alper Yılmaz için yeni sözleşme planı!",
-    "ts": 1791303957604
-  },
-  {
-    "id": "news-1178258",
-    "title": "Gençlerbirliği için Carlos Tevez iddiası!",
-    "ts": 1791303960830
-  },
-  {
     "id": "https://www.aspor.com.tr/besiktas/2026/10/06/besiktastan-sakatlik-aciklamasi",
     "title": "Beşiktaş'tan sakatlık açıklaması!",
     "ts": 1791320751950
@@ -178,5 +163,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/11/ahmet-cakardan-fenerbahceli-yildiza-flas-sozler-abuk-subuk-isler-yapti",
     "title": "Ahmet Çakar'dan Fenerbahçeli yıldıza flaş sözler! \"Abuk subuk işler yaptı\"",
     "ts": 1791734736404
+  },
+  {
+    "id": "news-1178848",
+    "title": "Kocaelispor'da Recep Durul'dan sert VAR tepkisi",
+    "ts": 1791750405404
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/11/dusan-vlahovicten-mac-sonu-orkun-kokcu-ovgusu",
+    "title": "Dusan Vlahovic'ten maç sonu Orkun Kökçü övgüsü!",
+    "ts": 1791750408824
+  },
+  {
+    "id": "news-1178833",
+    "title": "Beşiktaş'ın Vlahovic'in pozisyonuna hakem yorumları!",
+    "ts": 1791750412046
   }
 ]
