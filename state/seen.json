@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1178359",
-    "title": "Gaziantep FK'da Fuat Bavuk şoku!",
-    "ts": 1791392942331
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/10/07/mhkden-hakem-atamalariyla-ilgili-aciklama",
-    "title": "MHK'den hakem atamalarıyla ilgili açıklama!",
-    "ts": 1791392945893
-  },
-  {
-    "id": "news-1178350",
-    "title": "Galatasaray'da borç için dikkat çeken sözler!",
-    "ts": 1791392949072
-  },
-  {
     "id": "news-1178383",
     "title": "Kasımpaşa'dan Galatasaray maçı öncesi iddialı paylaşım",
     "ts": 1791410946601
@@ -178,5 +163,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/10/11/besiktastan-kirmizi-kart-tepkisi-yorum-acik-degil",
     "title": "Beşiktaş’tan kırmızı kart tepkisi! \"Yorum açık değil\"",
     "ts": 1791762566299
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/10/12/trabzonsporun-net-borcu-29-milyar-tl",
+    "title": "Trabzonspor'un net borcu: 2,9 milyar TL!",
+    "ts": 1791833583772
+  },
+  {
+    "id": "news-1178939",
+    "title": "Trabzonspor, net borcunu açıkladı!",
+    "ts": 1791833587173
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/12/besiktastan-vaclav-cerny-aciklamasi-son-durumu",
+    "title": "Beşiktaş'tan Vaclav Cerny açıklaması! Son durumu...",
+    "ts": 1791833590326
   }
 ]
