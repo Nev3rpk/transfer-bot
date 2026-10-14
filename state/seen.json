@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/09/galatasaray-kasimpasa-canli-trendyol-super-lig-7-hafta",
-    "title": "Galatasaray-Kasımpaşa | CANLI (Trendyol Süper Lig 7. hafta)",
-    "ts": 1791564292184
-  },
-  {
-    "id": "news-1178578",
-    "title": "Ismaila Sarr ile yeni sözleşme yakın!",
-    "ts": 1791564295653
-  },
-  {
-    "id": "news-1178577",
-    "title": "Salih Özcan: \"Her şey iyi gidiyor\"",
-    "ts": 1791564298826
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/09/fenerbahce-ve-galatasarayin-tur-ihtimallari-belli-oldu-yapay-zeka-acikladi",
     "title": "Fenerbahçe ve Galatasaray'ın tur ihtimalleri belli oldu! Yapay zeka açıkladı",
     "ts": 1791581094839
@@ -178,5 +163,20 @@
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/14/genclerbirliginden-galatasaray-maci-oncesi-iddiali-aciklama-bernd-storck-planini-acikladi",
     "title": "Gençlerbirliği'nden Galatasaray maçı öncesi iddialı açıklama! Bernd Storck planını açıkladı",
     "ts": 1791989331474
+  },
+  {
+    "id": "news-1179211",
+    "title": "Vincenzo Italiano'dan Dusan Vlahovic açıklaması",
+    "ts": 1792004796030
+  },
+  {
+    "id": "news-1179210",
+    "title": "Galatasaray MCT Technic, KJ Simpson Jr.'ı kadrosuna kattı",
+    "ts": 1792004799582
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/10/14/vincenzo-italiano-vlahovicin-son-durumunu-acikladi",
+    "title": "Vincenzo Italiano Vlahovic'in son durumunu açıkladı!",
+    "ts": 1792004802763
   }
 ]
