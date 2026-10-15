@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-surpriz-gelisme-diego-carlos",
-    "title": "Fenerbahçe'de sürpriz gelişme! Diego Carlos...",
-    "ts": 1791646751584
-  },
-  {
-    "id": "news-1178657",
-    "title": "Çorum FK, zorlu Gaziantep deplasmanında puan arıyor",
-    "ts": 1791646755058
-  },
-  {
-    "id": "news-1178656",
-    "title": "Dursun Özbek: \"Rakiplerimizin iyi futbolcular transfer etmesini sağladık\"",
-    "ts": 1791646758203
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/10/10/barcelonada-hansi-flickten-gundem-olan-galatasaray-sozleri",
     "title": "Barcelona'da Hansi Flick'ten gündem olan Galatasaray sözleri!",
     "ts": 1791661201265
@@ -193,5 +178,20 @@
     "id": "news-1179336",
     "title": "Ahmet Çakar'ın Galatasaray ve Fenerbahçe tahmini doğru çıktı",
     "ts": 1792074963482
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/10/15/onana-penalti-kurtardi-hatasini-telafi-etti",
+    "title": "Onana penaltı kurtardı hatasını telafi etti!",
+    "ts": 1792090135711
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/10/15/onana-penalti-kurtardi-kendini-affettirdi",
+    "title": "Onana penaltı kurtardı kendini affettirdi!",
+    "ts": 1792090139312
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/15/vincenzo-italianodan-salih-ozcan-ve-ndidi-aciklamasi",
+    "title": "Vincenzo Italiano'dan Salih Özcan ve Ndidi açıklaması!",
+    "ts": 1792090142482
   }
 ]
