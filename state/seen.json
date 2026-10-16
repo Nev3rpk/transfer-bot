@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1178848",
-    "title": "Kocaelispor'da Recep Durul'dan sert VAR tepkisi",
-    "ts": 1791750405404
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/11/dusan-vlahovicten-mac-sonu-orkun-kokcu-ovgusu",
-    "title": "Dusan Vlahovic'ten maç sonu Orkun Kökçü övgüsü!",
-    "ts": 1791750408824
-  },
-  {
-    "id": "news-1178833",
-    "title": "Beşiktaş'ın Vlahovic'in pozisyonuna hakem yorumları!",
-    "ts": 1791750412046
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/kocaelispor-baskani-recep-duruldan-besiktas-maci-sonrasi-olay-sozler",
     "title": "Kocaelispor Başkanı Recep Durul’dan Beşiktaş maçı sonrası olay sözler!",
     "ts": 1791762559588
@@ -193,5 +178,20 @@
     "id": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/16/lilleden-ayase-ueda-aciklamasi-galatasaraya-karsi-oynayacak-mi",
     "title": "Lille'den Ayase Ueda açıklaması! Galatasaray'a karşı oynayacak mı?",
     "ts": 1792174544484
+  },
+  {
+    "id": "news-1179531",
+    "title": "FIFA, Eyüpspor'a 3 dönem transfer yasağı verdi!",
+    "ts": 1792186056057
+  },
+  {
+    "id": "news-1179526",
+    "title": "Cengiz Ünder, Çorum FK'de yeniden doğdu!",
+    "ts": 1792186059476
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/16/besiktastan-orkun-kokcunun-sakatligi-hakkinda-aciklama",
+    "title": "Beşiktaş'tan Orkun Kökçü'nün sakatlığı hakkında açıklama!",
+    "ts": 1792186062610
   }
 ]
