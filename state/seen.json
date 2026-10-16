@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/besiktas-kocaelispor-canli-trendyol-super-lig",
-    "title": "Beşiktaş-Kocaelispor | CANLI (Trendyol Süper Lig)",
-    "ts": 1791734729751
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/10/11/dunyanin-en-degerli-takimlari-aciklandi-besiktas-fenerbahce-galatasaray-ve-trabzonspor",
-    "title": "Dünyanın en değerli takımları açıklandı! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor...",
-    "ts": 1791734733301
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/11/ahmet-cakardan-fenerbahceli-yildiza-flas-sozler-abuk-subuk-isler-yapti",
-    "title": "Ahmet Çakar'dan Fenerbahçeli yıldıza flaş sözler! \"Abuk subuk işler yaptı\"",
-    "ts": 1791734736404
-  },
-  {
     "id": "news-1178848",
     "title": "Kocaelispor'da Recep Durul'dan sert VAR tepkisi",
     "ts": 1791750405404
@@ -193,5 +178,20 @@
     "id": "news-1179490",
     "title": "Galatasaray'ın yeni golcü adayı: Pape Moussa Fall",
     "ts": 1792160818579
+  },
+  {
+    "id": "https://www.fotomac.com.tr/futbol/2026/10/16/temsilcilerimizin-tur-ihtimalleri-aciklandi-besiktas-fenerbahce-galatasaray-ve-trabzonspor",
+    "title": "Temsilcilerimizin tur ihtimalleri açıklandı! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor...",
+    "ts": 1792174538090
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/16/lillede-galatasaray-maci-oncesi-buyuk-sok-resmi-aciklama-geldi",
+    "title": "Lille'de Galatasaray maçı öncesi büyük şok! Resmi açıklama geldi",
+    "ts": 1792174541385
+  },
+  {
+    "id": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/16/lilleden-ayase-ueda-aciklamasi-galatasaraya-karsi-oynayacak-mi",
+    "title": "Lille'den Ayase Ueda açıklaması! Galatasaray'a karşı oynayacak mı?",
+    "ts": 1792174544484
   }
 ]
