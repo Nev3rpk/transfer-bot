@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1178733",
-    "title": "Youssef En-Nesyri'den harika bir gol!",
-    "ts": 1791673655444
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/asensiodan-o-soruya-dikkat-ceken-yanit-yuzde-yuzuyle-mi-oynadi",
-    "title": "Asensio'dan o soruya dikkat çeken yanıt! Yüzde yüzüyle mi oynadı?",
-    "ts": 1791673658923
-  },
-  {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/10/10/samsunsporda-thorsten-fink-ben-bir-savasciyim-burada-kalmak-istiyorum",
-    "title": "Samsunspor'da Thorsten Fink: Ben bir savaşçıyım, burada kalmak istiyorum!",
-    "ts": 1791673662139
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/besiktas-kocaelispor-canli-trendyol-super-lig",
     "title": "Beşiktaş-Kocaelispor | CANLI (Trendyol Süper Lig)",
     "ts": 1791734729751
@@ -193,5 +178,20 @@
     "id": "https://www.fotomac.com.tr/trabzonspor/2026/10/15/trabzonsporda-sakatlik-soku-yildiz-futbolcu-oyuna-devam-edemedi",
     "title": "Trabzonspor'da sakatlık şoku! Yıldız futbolcu oyuna devam edemedi",
     "ts": 1792101219860
+  },
+  {
+    "id": "news-1179493",
+    "title": "Galatasaray-Fenerbahçe derbisinin tarihi değişiyor!",
+    "ts": 1792160811801
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/16/galatasarayda-bruno-fernandes-transferi-ona-bagli-yildiz-isimle-yollar-ayrilabilir",
+    "title": "Galatasaray'da Bruno Fernandes transferi ona bağlı! Yıldız isimle yollar ayrılabilir",
+    "ts": 1792160815447
+  },
+  {
+    "id": "news-1179490",
+    "title": "Galatasaray'ın yeni golcü adayı: Pape Moussa Fall",
+    "ts": 1792160818579
   }
 ]
