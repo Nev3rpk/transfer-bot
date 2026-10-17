@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/10/12/trabzonsporun-net-borcu-29-milyar-tl",
-    "title": "Trabzonspor'un net borcu: 2,9 milyar TL!",
-    "ts": 1791833583772
-  },
-  {
-    "id": "news-1178939",
-    "title": "Trabzonspor, net borcunu açıkladı!",
-    "ts": 1791833587173
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/12/besiktastan-vaclav-cerny-aciklamasi-son-durumu",
-    "title": "Beşiktaş'tan Vaclav Cerny açıklaması! Son durumu...",
-    "ts": 1791833590326
-  },
-  {
     "id": "news-1179066",
     "title": "Ali Çamlı'dan Onugkha hakkında çarpıcı iddia: \"Dövmediği oyuncu kalmamış\"",
     "ts": 1791911831185
@@ -233,5 +218,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/17/ismail-kartal-ve-ismail-yuksek-arasinda-ozel-gorusme-kendini-yeniden-kanitla",
     "title": "İsmail Kartal ve İsmail Yüksek arasında özel görüşme! \"Kendini yeniden kanıtla\"",
     "ts": 1792263517905
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/17/fenerbahcede-flas-asensio-gelismesi",
+    "title": "Fenerbahçe'de flaş Asensio gelişmesi!",
+    "ts": 1792271955115
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/ismail-kartaldan-flas-asensio-aciklamasi-geregini-yaparim",
+    "title": "İsmail Kartal'dan flaş Asensio açıklaması! \"Gereğini yaparım\"",
+    "ts": 1792271958792
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahceye-asensio-soku-ispanyol-yildiz-ameliyat-olacak",
+    "title": "Fenerbahçe'de Asensio şoku! İspanyol yıldız ameliyat olacak",
+    "ts": 1792271961954
   }
 ]
