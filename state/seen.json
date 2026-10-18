@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179084",
-    "title": "Galatasaray - Barcelona maçının adamı Lamine Yamal!",
-    "ts": 1791928481719
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/13/galatasarayda-sok-sakatlik-yildiz-isim-maca-devam-edemedi",
-    "title": "Galatasaray'da şok sakatlık! Yıldız isim maça devam edemedi",
-    "ts": 1791928485151
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/13/galatasarayda-lucas-torreira-soku-barcelona-macina-devam-edemedi",
-    "title": "Galatasaray’da Lucas Torreira şoku! Barcelona maçına devam edemedi",
-    "ts": 1791928488303
-  },
-  {
     "id": "https://www.aspor.com.tr/avrupa-ligi/2026/10/14/hoffenheim-teknik-direktoru-christian-ilzer-besiktasa-problemler-cikaracagimizi-biliyoruz",
     "title": "Hoffenheim Teknik Direktörü Christian Ilzer: Beşiktaş'a problemler çıkaracağımızı biliyoruz",
     "ts": 1791989324968
@@ -273,5 +258,10 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/10/18/vincenzo-italianodan-radikal-karar-trabzonspor-macinda",
     "title": "Vincenzo Italiano'dan radikal karar! Trabzonspor maçında...",
     "ts": 1792351848951
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/18/rams-park-ve-aslanvadi-iddialarina-bakanliktan-son-nokta-inceleme-tamamlandi",
+    "title": "RAMS Park ve Aslanvadi iddialarına Bakanlık'tan son nokta! İnceleme tamamlandı",
+    "ts": 1792361355336
   }
 ]
