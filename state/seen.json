@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179211",
-    "title": "Vincenzo Italiano'dan Dusan Vlahovic açıklaması",
-    "ts": 1792004796030
-  },
-  {
-    "id": "news-1179210",
-    "title": "Galatasaray MCT Technic, KJ Simpson Jr.'ı kadrosuna kattı",
-    "ts": 1792004799582
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/10/14/vincenzo-italiano-vlahovicin-son-durumunu-acikladi",
-    "title": "Vincenzo Italiano Vlahovic'in son durumunu açıkladı!",
-    "ts": 1792004802763
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/fenerbahcede-vedat-muric-karsi-karsiya-pozisyondan-yararlanamadi",
     "title": "Fenerbahçe'de Vedat Muriç karşı karşıya pozisyondan yararlanamadı!",
     "ts": 1792016830204
@@ -263,5 +248,20 @@
     "id": "news-1179869",
     "title": "Trabzonspor, Arseniy Batagov'un sakatlığını açıkladı!",
     "ts": 1792428256223
+  },
+  {
+    "id": "news-1179900",
+    "title": "Chibuike Nwaiwu'dan olay yaratan paylaşım!",
+    "ts": 1792444710761
+  },
+  {
+    "id": "news-1179898",
+    "title": "Onana: \"Trabzon halkına armağan etmek istiyoruz!\"",
+    "ts": 1792444714128
+  },
+  {
+    "id": "news-1179896",
+    "title": "Ernest Muçi'den Beşiktaş maçı sonrası iddialı sözler!",
+    "ts": 1792444717246
   }
 ]
