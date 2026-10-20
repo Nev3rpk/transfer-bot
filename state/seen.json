@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/10/15/onana-penalti-kurtardi-hatasini-telafi-etti",
-    "title": "Onana penaltı kurtardı hatasını telafi etti!",
-    "ts": 1792090135711
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/10/15/onana-penalti-kurtardi-kendini-affettirdi",
-    "title": "Onana penaltı kurtardı kendini affettirdi!",
-    "ts": 1792090139312
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/15/vincenzo-italianodan-salih-ozcan-ve-ndidi-aciklamasi",
-    "title": "Vincenzo Italiano'dan Salih Özcan ve Ndidi açıklaması!",
-    "ts": 1792090142482
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/10/15/hyeon-gyu-ohtan-besiktas-taraftarina-tesekkur",
     "title": "Hyeon-gyu Oh'tan Beşiktaş taraftarına teşekkür!",
     "ts": 1792101213146
@@ -248,5 +233,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/20/galatasaray-lille-maci-kamp-kadrosunu-acikladi",
     "title": "Galatasaray, Lille maçı kamp kadrosunu açıkladı!",
     "ts": 1792506974719
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/20/okan-buruk-aciklamalarda-bulunuyor",
+    "title": "Singo Lille maçında forma giyecek mi? Okan Buruk açıkladı",
+    "ts": 1792522279786
+  },
+  {
+    "id": "news-1180000",
+    "title": "Oğuz Aydın, Fenerbahçe tarihine geçti!",
+    "ts": 1792522283161
+  },
+  {
+    "id": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/ismail-kartaldan-slavia-prag-maci-oncesi-greenwood-aciklamasi",
+    "title": "İsmail Kartal'dan Slavia Prag maçı öncesi Greenwood açıklaması!",
+    "ts": 1792522286283
   }
 ]
