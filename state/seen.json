@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179493",
-    "title": "Galatasaray-Fenerbahçe derbisinin tarihi değişiyor!",
-    "ts": 1792160811801
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/16/galatasarayda-bruno-fernandes-transferi-ona-bagli-yildiz-isimle-yollar-ayrilabilir",
-    "title": "Galatasaray'da Bruno Fernandes transferi ona bağlı! Yıldız isimle yollar ayrılabilir",
-    "ts": 1792160815447
-  },
-  {
-    "id": "news-1179490",
-    "title": "Galatasaray'ın yeni golcü adayı: Pape Moussa Fall",
-    "ts": 1792160818579
-  },
-  {
     "id": "https://www.fotomac.com.tr/futbol/2026/10/16/temsilcilerimizin-tur-ihtimalleri-aciklandi-besiktas-fenerbahce-galatasaray-ve-trabzonspor",
     "title": "Temsilcilerimizin tur ihtimalleri açıklandı! Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor...",
     "ts": 1792174538090
@@ -248,5 +233,20 @@
     "id": "https://www.aspor.com.tr/trabzonspor/2026/10/20/turkiye-futbol-federasyonundan-ertugrul-dogan-aciklamasi",
     "title": "Türkiye Futbol Federasyonu'ndan Ertuğrul Doğan açıklaması!",
     "ts": 1792533607985
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/21/lille-galatasaray-maci-oncesi-flas-skor-tahmini",
+    "title": "Lille-Galatasaray maçı öncesi flaş skor tahmini!",
+    "ts": 1792594054691
+  },
+  {
+    "id": "https://www.aspor.com.tr/besiktas/2026/10/21/wilfred-ndidi-evimiz-bizim-mabedimiz",
+    "title": "Wilfred Ndidi: Evimiz bizim mabedimiz",
+    "ts": 1792594058109
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/21/fransiz-gazeteciden-galatasaray-itirafi-yildiz-transferlerinden-etkileniyoruz",
+    "title": "Fransız gazeteciden Galatasaray itirafı: Yıldız transferlerinden etkileniyoruz!",
+    "ts": 1792594061244
   }
 ]
