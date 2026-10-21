@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179531",
-    "title": "FIFA, Eyüpspor'a 3 dönem transfer yasağı verdi!",
-    "ts": 1792186056057
-  },
-  {
-    "id": "news-1179526",
-    "title": "Cengiz Ünder, Çorum FK'de yeniden doğdu!",
-    "ts": 1792186059476
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/16/besiktastan-orkun-kokcunun-sakatligi-hakkinda-aciklama",
-    "title": "Beşiktaş'tan Orkun Kökçü'nün sakatlığı hakkında açıklama!",
-    "ts": 1792186062610
-  },
-  {
     "id": "news-1179518",
     "title": "Cenk Tosun'dan Beşiktaş ve Fenerbahçe itirafı! \"Hata yaptım\"",
     "ts": 1792194329898
@@ -248,5 +233,20 @@
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/21/lilleden-galatasaraya-transfer-onerisi-scout-ekibinin-yerinde-olsam",
     "title": "Lille'den Galatasaray'a transfer önerisi: Scout ekibinin yerinde olsam...",
     "ts": 1792609423685
+  },
+  {
+    "id": "news-1180153",
+    "title": "Gaziantep FK'de olağanüstü seçimli genel kurul kararı alındı",
+    "ts": 1792622000390
+  },
+  {
+    "id": "news-1180134",
+    "title": "Yunus Akgün: \"Hocamıza sözümüz vardı, tuttuk\"",
+    "ts": 1792622003716
+  },
+  {
+    "id": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/21/okan-buruk-lille-zaferi-sonrasi-o-maci-isaret-etti-tur-atlamis-olarak-gitmek-istiyoruz",
+    "title": "Okan Buruk Lille zaferi sonrası o maçı işaret etti: Tur atlamış olarak gitmek istiyoruz",
+    "ts": 1792622006828
   }
 ]
