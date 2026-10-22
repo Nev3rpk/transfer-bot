@@ -1,30 +1,5 @@
 [
   {
-    "id": "news-1179518",
-    "title": "Cenk Tosun'dan Beşiktaş ve Fenerbahçe itirafı! \"Hata yaptım\"",
-    "ts": 1792194329898
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/16/galatasarayin-genclerbirligi-maci-kamp-kadrosu-aciklandi-3-isim-yok",
-    "title": "Galatasaray'ın Gençlerbirliği maçı kamp kadrosu açıklandı! 3 isim yok",
-    "ts": 1792194333420
-  },
-  {
-    "id": "news-1179601",
-    "title": "Fenerbahçe'de soyunma odası yenilendi",
-    "ts": 1792243445705
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/17/galatasaraydan-flas-hakem-aciklamasi",
-    "title": "Galatasaray'dan flaş hakem açıklaması!",
-    "ts": 1792243449219
-  },
-  {
-    "id": "news-1179590",
-    "title": "Titi'den Beşiktaş itirafı: \"İmzaya çok yaklaşmıştım\"",
-    "ts": 1792243452491
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/17/fenerbahce-alanyaspor-macinda-penalti-karari-iste-o-pozisyon",
     "title": "Fenerbahçe-Alanyaspor maçında penaltı kararı! İşte o pozisyon",
     "ts": 1792254821989
@@ -248,5 +223,20 @@
     "id": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/21/okan-buruk-lille-zaferi-sonrasi-o-maci-isaret-etti-tur-atlamis-olarak-gitmek-istiyoruz",
     "title": "Okan Buruk Lille zaferi sonrası o maçı işaret etti: Tur atlamış olarak gitmek istiyoruz",
     "ts": 1792622006828
+  },
+  {
+    "id": "news-1180218",
+    "title": "Aston Villa, Oğuz Aydın için geliyor!",
+    "ts": 1792680466002
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/10/22/trabzonspor-baskani-ertugrul-dogandan-transfer-aciklamasi",
+    "title": "Trabzonspor Başkanı Ertuğrul Doğan'dan transfer açıklaması",
+    "ts": 1792680469419
+  },
+  {
+    "id": "news-1180203",
+    "title": "Felipe Melo, derbi için İstanbul'a geliyor",
+    "ts": 1792680472545
   }
 ]
