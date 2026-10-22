@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/17/fenerbahcede-flas-asensio-gelismesi",
-    "title": "Fenerbahçe'de flaş Asensio gelişmesi!",
-    "ts": 1792271955115
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/ismail-kartaldan-flas-asensio-aciklamasi-geregini-yaparim",
-    "title": "İsmail Kartal'dan flaş Asensio açıklaması! \"Gereğini yaparım\"",
-    "ts": 1792271958792
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahceye-asensio-soku-ispanyol-yildiz-ameliyat-olacak",
-    "title": "Fenerbahçe'de Asensio şoku! İspanyol yıldız ameliyat olacak",
-    "ts": 1792271961954
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/17/ismail-kartaldan-asensio-aciklamasi-bir-oyuncuyla-aramda-problem-olursa",
     "title": "İsmail Kartal'dan Asensio açıklaması! \"Bir oyuncuyla aramda problem olursa...\"",
     "ts": 1792278969359
@@ -223,5 +208,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/10/22/italianodan-rotasyon-sozleri-herkese-ihtiyacimiz-var",
     "title": "Italiano'dan rotasyon sözleri: Herkese ihtiyacımız var",
     "ts": 1792695582645
+  },
+  {
+    "id": "news-1180283",
+    "title": "Italiano'dan Miretti için sakatlık açıklaması",
+    "ts": 1792707171621
+  },
+  {
+    "id": "news-1180244",
+    "title": "Beşiktaş öne geçti, geriye düştü, eşitledi!",
+    "ts": 1792707175021
+  },
+  {
+    "id": "news-1180261",
+    "title": "Ndidi'nin görüntüsü gündem oldu!",
+    "ts": 1792707178150
   }
 ]
