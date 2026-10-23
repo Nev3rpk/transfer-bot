@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179758",
-    "title": "Beşiktaş'ın rakibi Leverkusen, Freiburg'un serisini bitirdi",
-    "ts": 1792342902092
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/10/18/basaksehir-gaziantep-fk-canli",
-    "title": "Başakşehir-Gaziantep FK | CANLI",
-    "ts": 1792342905431
-  },
-  {
-    "id": "news-1179741",
-    "title": "Levent Şahin'den tarihi derbi için itiraf: \"Kazanacağımızı biliyorduk\"",
-    "ts": 1792342908535
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/18/transfer-haberi-genc-yildiz-fenerbahce-ve-besiktasi-reddetti",
     "title": "TRANSFER HABERİ: Genç yıldız, Fenerbahçe ve Beşiktaş'ı reddetti!",
     "ts": 1792351842210
@@ -213,5 +198,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahce-haberi-antonio-conte-kapiyi-kapatmadi",
     "title": "FENERBAHÇE HABERİ: Antonio Conte kapıyı kapatmadı!",
     "ts": 1792766072289
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/23/besiktastan-sakatlik-aciklamasi-fabio-miretti",
+    "title": "Beşiktaş'tan sakatlık açıklaması! Fabio Miretti...",
+    "ts": 1792781359473
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/23/fenerbahcede-ilk-ayrilik-belli-oldu-ocak-ayinda-gonderiliyor",
+    "title": "Fenerbahçe'de ilk ayrılık belli oldu! Ocak ayında gönderiliyor",
+    "ts": 1792781362996
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahcede-flas-kerem-akturkoglu-gelismesi-derbide-etkisiz-kalirsa",
+    "title": "Fenerbahçe'de flaş Kerem Aktürkoğlu gelişmesi! Derbide etkisiz kalırsa...",
+    "ts": 1792781366170
   }
 ]
