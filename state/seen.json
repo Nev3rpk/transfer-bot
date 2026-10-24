@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179858",
-    "title": "Galatasaray, UEFA'ya gidiyor: Sokağa çıkma yasağı!",
-    "ts": 1792428249411
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/19/italianodan-cerny-ve-vlahovicin-son-durumu-hakkinda-aciklama",
-    "title": "Italiano'dan Cerny ve Vlahovic'in son durumu hakkında açıklama!",
-    "ts": 1792428253036
-  },
-  {
-    "id": "news-1179869",
-    "title": "Trabzonspor, Arseniy Batagov'un sakatlığını açıkladı!",
-    "ts": 1792428256223
-  },
-  {
     "id": "news-1179900",
     "title": "Chibuike Nwaiwu'dan olay yaratan paylaşım!",
     "ts": 1792444710761
@@ -213,5 +198,20 @@
     "id": "news-1180425",
     "title": "Okan Buruk'tan Osimhen'e derbi öncesi özel uyarı!",
     "ts": 1792849592465
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/erol-bulutdan-flas-itiraf-fenerbahceden-istedigi-ismi-acikladi",
+    "title": "Erol Bulut'dan flaş itiraf! Fenerbahçe'den istediği ismi açıkladı",
+    "ts": 1792861709478
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/24/batrakovdan-osimhene-ovgu-dolu-sozler-harika-bir-jestti",
+    "title": "Batrakov'dan Osimhen'e övgü dolu sözler! \"Harika bir jestti\"",
+    "ts": 1792861712764
+  },
+  {
+    "id": "news-1180456",
+    "title": "Arda Kızıldağ, 10 dakikada çıktı; tepki!",
+    "ts": 1792861715866
   }
 ]
