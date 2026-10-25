@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179900",
-    "title": "Chibuike Nwaiwu'dan olay yaratan paylaşım!",
-    "ts": 1792444710761
-  },
-  {
-    "id": "news-1179898",
-    "title": "Onana: \"Trabzon halkına armağan etmek istiyoruz!\"",
-    "ts": 1792444714128
-  },
-  {
-    "id": "news-1179896",
-    "title": "Ernest Muçi'den Beşiktaş maçı sonrası iddialı sözler!",
-    "ts": 1792444717246
-  },
-  {
     "id": "news-1179992",
     "title": "PFDK \"bahis eylemi\" ile sevk edilen Ertuğrul Doğan'ın cezasını açıkladı",
     "ts": 1792506967946
@@ -228,5 +213,20 @@
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/24/erzurumspor-fk-teknik-direktoru-serkan-ozbalta-puansiz-donmek-istemiyorduk",
     "title": "Erzurumspor FK Teknik Direktörü Serkan Özbalta: Puansız dönmek istemiyorduk",
     "ts": 1792870657007
+  },
+  {
+    "id": "news-1180533",
+    "title": "Trabzonspor'un fırtına ikilisi!",
+    "ts": 1792936959253
+  },
+  {
+    "id": "news-1180532",
+    "title": "Galatasaray-Fenerbahçe derbisinde gözler golcülerde",
+    "ts": 1792936962677
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/10/25/tumosan-konyaspor-genclerbirligi-canli-trendyol-super-lig",
+    "title": "Tümosan Konyaspor-Gençlerbirliği | CANLI (Trendyol Süper Lig)",
+    "ts": 1792936965832
   }
 ]
