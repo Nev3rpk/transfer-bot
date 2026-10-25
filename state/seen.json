@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1179992",
-    "title": "PFDK \"bahis eylemi\" ile sevk edilen Ertuğrul Doğan'ın cezasını açıkladı",
-    "ts": 1792506967946
-  },
-  {
-    "id": "news-1179930",
-    "title": "Galatasaray'da Singo gelişmesi",
-    "ts": 1792506971481
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/20/galatasaray-lille-maci-kamp-kadrosunu-acikladi",
-    "title": "Galatasaray, Lille maçı kamp kadrosunu açıkladı!",
-    "ts": 1792506974719
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/20/okan-buruk-aciklamalarda-bulunuyor",
     "title": "Singo Lille maçında forma giyecek mi? Okan Buruk açıkladı",
     "ts": 1792522279786
@@ -228,5 +213,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/10/25/tumosan-konyaspor-genclerbirligi-canli-trendyol-super-lig",
     "title": "Tümosan Konyaspor-Gençlerbirliği | CANLI (Trendyol Süper Lig)",
     "ts": 1792936965832
+  },
+  {
+    "id": "https://www.aspor.com.tr/samsunspor/2026/10/25/samsunspordan-tffye-cagri",
+    "title": "Samsunspor'dan TFF'ye çağrı",
+    "ts": 1792950270478
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/10/25/samsunspor-tffye-cagrida-bulundu",
+    "title": "Samsunspor, TFF'ye çağrıda bulundu",
+    "ts": 1792950273855
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/25/fenerbahcede-savunma-belirsizligi-ismail-kartal-kime-sans-verecek",
+    "title": "Fenerbahçe'de savunma belirsizliği! İsmail Kartal kime şans verecek?",
+    "ts": 1792950276974
   }
 ]
