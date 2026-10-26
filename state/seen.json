@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180122",
-    "title": "Galatasaray'ın penaltısı VAR'dan döndü!",
-    "ts": 1792609417042
-  },
-  {
-    "id": "news-1180120",
-    "title": "Yunus Akgün'den 65 saniyede rekor!",
-    "ts": 1792609420474
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/21/lilleden-galatasaraya-transfer-onerisi-scout-ekibinin-yerinde-olsam",
-    "title": "Lille'den Galatasaray'a transfer önerisi: Scout ekibinin yerinde olsam...",
-    "ts": 1792609423685
-  },
-  {
     "id": "news-1180153",
     "title": "Gaziantep FK'de olağanüstü seçimli genel kurul kararı alındı",
     "ts": 1792622000390
@@ -198,5 +183,20 @@
     "id": "news-1180711",
     "title": "Gençlerbirliği'nde Dimitrios Goutas sezonu kapattı!",
     "ts": 1793031864754
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi",
+    "title": "Galatasaray'ın penaltı beklediği pozisyonda VAR devreye girdi",
+    "ts": 1793048806109
+  },
+  {
+    "id": "news-1180756",
+    "title": "Galatasaray derbide penaltı bekledi! Karar devam",
+    "ts": 1793048809475
+  },
+  {
+    "id": "news-1180751",
+    "title": "Fenerbahçe'de iki isim ilk heyecanını yaşadı",
+    "ts": 1793048812577
   }
 ]
