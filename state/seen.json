@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180283",
-    "title": "Italiano'dan Miretti için sakatlık açıklaması",
-    "ts": 1792707171621
-  },
-  {
-    "id": "news-1180244",
-    "title": "Beşiktaş öne geçti, geriye düştü, eşitledi!",
-    "ts": 1792707175021
-  },
-  {
-    "id": "news-1180261",
-    "title": "Ndidi'nin görüntüsü gündem oldu!",
-    "ts": 1792707178150
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/23/ingiliz-devlerinden-galatasarayli-yildiza-yakin-takip-55-milyon-euro",
     "title": "İngiliz devlerinden Galatasaraylı yıldıza yakın takip! 55 milyon euro...",
     "ts": 1792766065738
@@ -198,5 +183,10 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/27/fenerbahcenin-yeni-teknik-direktoru-kim-olacak-iste-listedeki-hoca-adaylari",
     "title": "Fenerbahçe'nin yeni teknik direktörü kim olacak? İşte listedeki hoca adayları...",
     "ts": 1793132492472
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/27/fenerbahcede-ismail-kartal-donemi-sona-erdi-aziz-yildirim-samandirada-karari-verdi",
+    "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi! Resmi açıklama geldi",
+    "ts": 1793145188659
   }
 ]
