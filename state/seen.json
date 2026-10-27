@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180153",
-    "title": "Gaziantep FK'de olağanüstü seçimli genel kurul kararı alındı",
-    "ts": 1792622000390
-  },
-  {
-    "id": "news-1180134",
-    "title": "Yunus Akgün: \"Hocamıza sözümüz vardı, tuttuk\"",
-    "ts": 1792622003716
-  },
-  {
-    "id": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/21/okan-buruk-lille-zaferi-sonrasi-o-maci-isaret-etti-tur-atlamis-olarak-gitmek-istiyoruz",
-    "title": "Okan Buruk Lille zaferi sonrası o maçı işaret etti: Tur atlamış olarak gitmek istiyoruz",
-    "ts": 1792622006828
-  },
-  {
     "id": "news-1180218",
     "title": "Aston Villa, Oğuz Aydın için geliyor!",
     "ts": 1792680466002
@@ -198,5 +183,20 @@
     "id": "news-1180751",
     "title": "Fenerbahçe'de iki isim ilk heyecanını yaşadı",
     "ts": 1793048812577
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/dis-basin-galatasaray-fenerbahce-derbisini-konusuyor",
+    "title": "Dış basın Galatasaray-Fenerbahçe derbisini konuşuyor!",
+    "ts": 1793061541974
+  },
+  {
+    "id": "news-1180783",
+    "title": "Dursun Özbek'ten derbi sonrası dev prim",
+    "ts": 1793061545398
+  },
+  {
+    "id": "news-1180778",
+    "title": "İsmail Kartal: \"Önümüze bakmak istiyoruz\"",
+    "ts": 1793061548530
   }
 ]
