@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180248",
-    "title": "Salah'ın yıldızlaştığı gecede Trabzonspor'dan 2'de 2",
-    "ts": 1792695575918
-  },
-  {
-    "id": "https://www.fotomac.com.tr/avrupaligi/2026/10/22/vincenzo-italianodan-crystal-palace-maci-oncesi-rotasyon-sozleri",
-    "title": "Vincenzo Italiano'dan Crystal Palace maçı öncesi rotasyon sözleri!",
-    "ts": 1792695579456
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/10/22/italianodan-rotasyon-sozleri-herkese-ihtiyacimiz-var",
-    "title": "Italiano'dan rotasyon sözleri: Herkese ihtiyacımız var",
-    "ts": 1792695582645
-  },
-  {
     "id": "news-1180283",
     "title": "Italiano'dan Miretti için sakatlık açıklaması",
     "ts": 1792707171621
@@ -198,5 +183,20 @@
     "id": "https://www.fotomac.com.tr/galatasaray/2026/10/27/beklenen-transfer-gerceklesiyor-icardinin-yeni-takimi",
     "title": "Beklenen transfer gerçekleşiyor! Icardi'nin yeni takımı...",
     "ts": 1793115564293
+  },
+  {
+    "id": "news-1180873",
+    "title": "İsmail Kartal: \"Artık psikolojim kaldırmıyor!\"",
+    "ts": 1793132485772
+  },
+  {
+    "id": "news-1180871",
+    "title": "Süper Lig'de bu sezon yaşanan teknik direktör ayrılıkları",
+    "ts": 1793132489313
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/27/fenerbahcenin-yeni-teknik-direktoru-kim-olacak-iste-listedeki-hoca-adaylari",
+    "title": "Fenerbahçe'nin yeni teknik direktörü kim olacak? İşte listedeki hoca adayları...",
+    "ts": 1793132492472
   }
 ]
