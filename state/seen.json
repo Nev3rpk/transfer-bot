@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/23/besiktastan-sakatlik-aciklamasi-fabio-miretti",
-    "title": "Beşiktaş'tan sakatlık açıklaması! Fabio Miretti...",
-    "ts": 1792781359473
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/23/fenerbahcede-ilk-ayrilik-belli-oldu-ocak-ayinda-gonderiliyor",
-    "title": "Fenerbahçe'de ilk ayrılık belli oldu! Ocak ayında gönderiliyor",
-    "ts": 1792781362996
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahcede-flas-kerem-akturkoglu-gelismesi-derbide-etkisiz-kalirsa",
-    "title": "Fenerbahçe'de flaş Kerem Aktürkoğlu gelişmesi! Derbide etkisiz kalırsa...",
-    "ts": 1792781366170
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/23/ismail-kartaldan-flas-kerem-akturkoglu-karari-galatasaray-derbisinde-kotu-oynarsa",
     "title": "İsmail Kartal'dan flaş Kerem Aktürkoğlu kararı! Galatasaray derbisinde kötü oynarsa...",
     "ts": 1792792024792
@@ -188,5 +173,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/28/dirk-kuyt-icin-flas-aciklama-sezon-sonuna-kadar",
     "title": "Dirk Kuyt için flaş açıklama! Sezon sonuna kadar...",
     "ts": 1793204600422
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/28/galatasarayin-senegalli-futbolcusu-ismail-jakobs-milli-takima-veda-etti",
+    "title": "Galatasaray'ın Senegalli futbolcusu Ismail Jakobs, milli takıma veda etti",
+    "ts": 1793221989407
+  },
+  {
+    "id": "news-1180940",
+    "title": "Fenerbahçe'de Kuyt'ın menajerinden flaş açıklama!",
+    "ts": 1793221992766
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/28/almanyanin-eski-teknik-direktoru-gundemde-fenerbahce-icin-dikkat-ceken-teknik-direktor-iddiasi",
+    "title": "Almanya'nın eski teknik direktörü gündemde! Fenerbahçe için dikkat çeken teknik direktör iddiası",
+    "ts": 1793221995902
   }
 ]
