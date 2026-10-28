@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/23/ingiliz-devlerinden-galatasarayli-yildiza-yakin-takip-55-milyon-euro",
-    "title": "İngiliz devlerinden Galatasaraylı yıldıza yakın takip! 55 milyon euro...",
-    "ts": 1792766065738
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/23/antonio-conteden-acik-kapi-sosyal-medya-hesabindan-duyurdu",
-    "title": "Antonio Conte'den açık kapı! Sosyal medya hesabından duyurdu",
-    "ts": 1792766069139
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahce-haberi-antonio-conte-kapiyi-kapatmadi",
-    "title": "FENERBAHÇE HABERİ: Antonio Conte kapıyı kapatmadı!",
-    "ts": 1792766072289
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/10/23/besiktastan-sakatlik-aciklamasi-fabio-miretti",
     "title": "Beşiktaş'tan sakatlık açıklaması! Fabio Miretti...",
     "ts": 1792781359473
@@ -188,5 +173,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/27/fenerbahcede-ismail-kartal-donemi-sona-erdi-aziz-yildirim-samandirada-karari-verdi",
     "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi! Resmi açıklama geldi",
     "ts": 1793145188659
+  },
+  {
+    "id": "news-1180948",
+    "title": "Gençlerbirliği'nde olağanüstü genel kurul kararı",
+    "ts": 1793204593840
+  },
+  {
+    "id": "news-1180946",
+    "title": "Orkun Kökçü için hedef Celtic maçı",
+    "ts": 1793204597286
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/28/dirk-kuyt-icin-flas-aciklama-sezon-sonuna-kadar",
+    "title": "Dirk Kuyt için flaş açıklama! Sezon sonuna kadar...",
+    "ts": 1793204600422
   }
 ]
