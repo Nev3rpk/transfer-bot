@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180533",
-    "title": "Trabzonspor'un fırtına ikilisi!",
-    "ts": 1792936959253
-  },
-  {
-    "id": "news-1180532",
-    "title": "Galatasaray-Fenerbahçe derbisinde gözler golcülerde",
-    "ts": 1792936962677
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/10/25/tumosan-konyaspor-genclerbirligi-canli-trendyol-super-lig",
-    "title": "Tümosan Konyaspor-Gençlerbirliği | CANLI (Trendyol Süper Lig)",
-    "ts": 1792936965832
-  },
-  {
     "id": "https://www.aspor.com.tr/samsunspor/2026/10/25/samsunspordan-tffye-cagri",
     "title": "Samsunspor'dan TFF'ye çağrı",
     "ts": 1792950270478
@@ -168,5 +153,20 @@
     "id": "news-1181058",
     "title": "Galatasaray'da Konyaspor maçı öncesi keyifler yerinde",
     "ts": 1793309398701
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/10/30/besiktasin-avrupa-maci-icin-karar",
+    "title": "Beşiktaş'ın Avrupa maçı için karar!",
+    "ts": 1793377518801
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/30/son-dakika-fenerbahce-milli-araya-kadar-takimi-dirk-kuytin-yonetecegini-acikladi",
+    "title": "SON DAKİKA: Fenerbahçe, milli araya kadar takımı Dirk Kuyt'ın çalıştıracağını açıkladı!",
+    "ts": 1793377522250
+  },
+  {
+    "id": "https://www.fotomac.com.tr/samsunspor/2026/10/30/samsunspor-teknik-direktoru-nenad-bjelica-istanbuldan-3-puanla-donmek-istiyoruz",
+    "title": "Samsunspor Teknik Direktörü Nenad Bjelica: İstanbul’dan 3 puanla dönmek istiyoruz!",
+    "ts": 1793377525407
   }
 ]
