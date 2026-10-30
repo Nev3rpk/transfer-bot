@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/samsunspor/2026/10/25/samsunspordan-tffye-cagri",
-    "title": "Samsunspor'dan TFF'ye çağrı",
-    "ts": 1792950270478
-  },
-  {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/10/25/samsunspor-tffye-cagrida-bulundu",
-    "title": "Samsunspor, TFF'ye çağrıda bulundu",
-    "ts": 1792950273855
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/25/fenerbahcede-savunma-belirsizligi-ismail-kartal-kime-sans-verecek",
-    "title": "Fenerbahçe'de savunma belirsizliği! İsmail Kartal kime şans verecek?",
-    "ts": 1792950276974
-  },
-  {
     "id": "news-1180722",
     "title": "Thomas Reis: \"İlk 11 benim kararım\"",
     "ts": 1793031858145
@@ -168,5 +153,20 @@
     "id": "https://www.fotomac.com.tr/samsunspor/2026/10/30/samsunspor-teknik-direktoru-nenad-bjelica-istanbuldan-3-puanla-donmek-istiyoruz",
     "title": "Samsunspor Teknik Direktörü Nenad Bjelica: İstanbul’dan 3 puanla dönmek istiyoruz!",
     "ts": 1793377525407
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/30/abdulkerim-bardakcinin-cezasi-onandi-tffden-galatasaraya-kotu-haber",
+    "title": "Abdülkerim Bardakcı'nın cezası onandı! TFF'den Galatasaray'a kötü haber",
+    "ts": 1793393826570
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/10/30/tahkim-kurulundan-abdulkerim-bardakci-icin-karar-cikti",
+    "title": "Tahkim Kurulu'ndan Abdülkerim Bardakcı için karar çıktı!",
+    "ts": 1793393830054
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/levent-tuzemen-batrakov-gecen-sezon-gelecekti-ama-birileri-engelledi",
+    "title": "Levent Tüzemen: Batrakov geçen sezon gelecekti ama birileri engelledi",
+    "ts": 1793393833246
   }
 ]
