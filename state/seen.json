@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180722",
-    "title": "Thomas Reis: \"İlk 11 benim kararım\"",
-    "ts": 1793031858145
-  },
-  {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/besiktas-basaksehir-canli-trendyol-super-lig-9-hafta",
-    "title": "Beşiktaş-Başakşehir | CANLI (Trendyol Süper Lig 9. hafta)",
-    "ts": 1793031861605
-  },
-  {
-    "id": "news-1180711",
-    "title": "Gençlerbirliği'nde Dimitrios Goutas sezonu kapattı!",
-    "ts": 1793031864754
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi",
     "title": "Galatasaray'ın penaltı beklediği pozisyonda VAR devreye girdi",
     "ts": 1793048806109
@@ -198,5 +183,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahcede-goztepe-maci-oncesi-greenwood-gelismesi",
     "title": "Fenerbahçe'de Göztepe maçı öncesi Greenwood gelişmesi!",
     "ts": 1793460853761
+  },
+  {
+    "id": "news-1181330",
+    "title": "Kojo Oppong: \"Büyük bir hayal kırıklığı yaşıyoruz\"",
+    "ts": 1793475561398
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahcede-futbolculardan-yonetime-flas-hoca-talebi-kaptan-skriniar-onderliginde",
+    "title": "Fenerbahçe'de futbolculardan yönetime flaş hoca talebi! Kaptan Skriniar önderliğinde...",
+    "ts": 1793475564687
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/fenerbahcede-sok-iddia-yabanci-futbolcularin-hoca-talebi-ortaya-cikti",
+    "title": "Fenerbahçe'de şok iddia! Yabancı futbolcuların hoca talebi ortaya çıktı",
+    "ts": 1793475567785
   }
 ]
