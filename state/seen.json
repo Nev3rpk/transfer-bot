@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi",
-    "title": "Galatasaray'ın penaltı beklediği pozisyonda VAR devreye girdi",
-    "ts": 1793048806109
-  },
-  {
-    "id": "news-1180756",
-    "title": "Galatasaray derbide penaltı bekledi! Karar devam",
-    "ts": 1793048809475
-  },
-  {
-    "id": "news-1180751",
-    "title": "Fenerbahçe'de iki isim ilk heyecanını yaşadı",
-    "ts": 1793048812577
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/dis-basin-galatasaray-fenerbahce-derbisini-konusuyor",
     "title": "Dış basın Galatasaray-Fenerbahçe derbisini konuşuyor!",
     "ts": 1793061541974
@@ -198,5 +183,10 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/fenerbahcede-sok-iddia-yabanci-futbolcularin-hoca-talebi-ortaya-cikti",
     "title": "Fenerbahçe'de şok iddia! Yabancı futbolcuların hoca talebi ortaya çıktı",
     "ts": 1793475567785
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/mattia-croci-tortiden-fenerbahce-yaniti-teknik-direktor-adayi",
+    "title": "Mattia Croci-Torti'den Fenerbahçe yanıtı! Teknik direktör adayı...",
+    "ts": 1793487473599
   }
 ]
