@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180873",
-    "title": "İsmail Kartal: \"Artık psikolojim kaldırmıyor!\"",
-    "ts": 1793132485772
-  },
-  {
-    "id": "news-1180871",
-    "title": "Süper Lig'de bu sezon yaşanan teknik direktör ayrılıkları",
-    "ts": 1793132489313
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/27/fenerbahcenin-yeni-teknik-direktoru-kim-olacak-iste-listedeki-hoca-adaylari",
-    "title": "Fenerbahçe'nin yeni teknik direktörü kim olacak? İşte listedeki hoca adayları...",
-    "ts": 1793132492472
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/10/27/fenerbahcede-ismail-kartal-donemi-sona-erdi-aziz-yildirim-samandirada-karari-verdi",
     "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi! Resmi açıklama geldi",
     "ts": 1793145188659
@@ -173,5 +158,20 @@
     "id": "news-1181420",
     "title": "Arda Güler'den Fenerbahçe'ye 2 milyon euro daha!",
     "ts": 1793550705288
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/01/hakan-safi-fenerbahce-baskanligi-icin-adayligini-acikladi-mi",
+    "title": "Hakan Safi Fenerbahçe başkanlığı için adaylığını açıkladı mı?",
+    "ts": 1793566500134
+  },
+  {
+    "id": "news-1181455",
+    "title": "Fenerbahçe'de Conceiçao sesleri! Jesus referans verdi",
+    "ts": 1793566503599
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/01/arda-guler-fenerbahceye-yine-kazandirdi",
+    "title": "Arda Güler, Fenerbahçe'ye yine kazandırdı!",
+    "ts": 1793566506728
   }
 ]
