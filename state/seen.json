@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1180948",
-    "title": "Gençlerbirliği'nde olağanüstü genel kurul kararı",
-    "ts": 1793204593840
-  },
-  {
-    "id": "news-1180946",
-    "title": "Orkun Kökçü için hedef Celtic maçı",
-    "ts": 1793204597286
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/28/dirk-kuyt-icin-flas-aciklama-sezon-sonuna-kadar",
-    "title": "Dirk Kuyt için flaş açıklama! Sezon sonuna kadar...",
-    "ts": 1793204600422
-  },
-  {
     "id": "https://www.aspor.com.tr/galatasaray/2026/10/28/galatasarayin-senegalli-futbolcusu-ismail-jakobs-milli-takima-veda-etti",
     "title": "Galatasaray'ın Senegalli futbolcusu Ismail Jakobs, milli takıma veda etti",
     "ts": 1793221989407
@@ -183,5 +168,20 @@
     "id": "https://www.aspor.com.tr/milli-takim/2026/11/01/sergen-yalcin-kasimpasa-besiktas-macinda",
     "title": "Sergen Yalçın Kasımpaşa-Beşiktaş maçında!",
     "ts": 1793578002637
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahcede-conceicao-kararinin-perde-arkasi-belli-oldu-son-sozu-aziz-yildirim-soyledi",
+    "title": "Fenerbahçe'de Conceiçao kararının perde arkası belli oldu! Son sözü Aziz Yıldırım söyledi",
+    "ts": 1793649312555
+  },
+  {
+    "id": "news-1181545",
+    "title": "Stuttgart'ın paylaşımı olay oldu, geri adım geldi!",
+    "ts": 1793649315877
+  },
+  {
+    "id": "news-1181542",
+    "title": "Kayserispor'dan Muğlaspor'a gol yağmuru: 6-0!",
+    "ts": 1793649318988
   }
 ]
