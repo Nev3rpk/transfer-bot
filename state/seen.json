@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/10/30/besiktasin-avrupa-maci-icin-karar",
-    "title": "Beşiktaş'ın Avrupa maçı için karar!",
-    "ts": 1793377518801
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/30/son-dakika-fenerbahce-milli-araya-kadar-takimi-dirk-kuytin-yonetecegini-acikladi",
-    "title": "SON DAKİKA: Fenerbahçe, milli araya kadar takımı Dirk Kuyt'ın çalıştıracağını açıkladı!",
-    "ts": 1793377522250
-  },
-  {
-    "id": "https://www.fotomac.com.tr/samsunspor/2026/10/30/samsunspor-teknik-direktoru-nenad-bjelica-istanbuldan-3-puanla-donmek-istiyoruz",
-    "title": "Samsunspor Teknik Direktörü Nenad Bjelica: İstanbul’dan 3 puanla dönmek istiyoruz!",
-    "ts": 1793377525407
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/10/30/abdulkerim-bardakcinin-cezasi-onandi-tffden-galatasaraya-kotu-haber",
     "title": "Abdülkerim Bardakcı'nın cezası onandı! TFF'den Galatasaray'a kötü haber",
     "ts": 1793393826570
@@ -168,5 +153,20 @@
     "id": "news-1181672",
     "title": "Uğurcan Çakır: \"Bu gruptan çıkmak istiyoruz\"",
     "ts": 1793744812750
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/04/bartug-elmaz-iyi-oyunla-kazanmak-istiyoruz",
+    "title": "Bartuğ Elmaz: İyi oyunla kazanmak istiyoruz!",
+    "ts": 1793814053520
+  },
+  {
+    "id": "news-1181784",
+    "title": "Göztepe Yuppo'dan 5 setlik galibiyet!",
+    "ts": 1793814056952
+  },
+  {
+    "id": "news-1181783",
+    "title": "Iraola'dan Barcola açıklaması: \"Forvet ama gezecek!\"",
+    "ts": 1793814060089
   }
 ]
