@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/30/abdulkerim-bardakcinin-cezasi-onandi-tffden-galatasaraya-kotu-haber",
-    "title": "Abdülkerim Bardakcı'nın cezası onandı! TFF'den Galatasaray'a kötü haber",
-    "ts": 1793393826570
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/10/30/tahkim-kurulundan-abdulkerim-bardakci-icin-karar-cikti",
-    "title": "Tahkim Kurulu'ndan Abdülkerim Bardakcı için karar çıktı!",
-    "ts": 1793393830054
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/levent-tuzemen-batrakov-gecen-sezon-gelecekti-ama-birileri-engelledi",
-    "title": "Levent Tüzemen: Batrakov geçen sezon gelecekti ama birileri engelledi",
-    "ts": 1793393833246
-  },
-  {
     "id": "news-1181213",
     "title": "Aleksey Batrakov için flaş iddia!",
     "ts": 1793406200889
@@ -168,5 +153,20 @@
     "id": "news-1181783",
     "title": "Iraola'dan Barcola açıklaması: \"Forvet ama gezecek!\"",
     "ts": 1793814060089
+  },
+  {
+    "id": "news-1181810",
+    "title": "Vedat Muriqi: \"Emre Hoca en doğru seçim\"",
+    "ts": 1793833420169
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/04/fenerbahcenin-kasasi-dolup-tasacak-iste-liverpool-zaferiyle-elde-edilen-dev-gelir",
+    "title": "Fenerbahçe'nin kasası dolup taşacak! İşte Liverpool zaferiyle elde edilen dev gelir",
+    "ts": 1793833423804
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/04/dirk-kuyt-liverpool-zaferi-sonrasi-acikladi-fenerbahcede-kalacak-mi",
+    "title": "Dirk Kuyt, Liverpool zaferi sonrası açıkladı! Fenerbahçe'de kalacak mı?",
+    "ts": 1793833426965
   }
 ]
