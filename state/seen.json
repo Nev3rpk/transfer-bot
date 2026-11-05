@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1181330",
-    "title": "Kojo Oppong: \"Büyük bir hayal kırıklığı yaşıyoruz\"",
-    "ts": 1793475561398
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahcede-futbolculardan-yonetime-flas-hoca-talebi-kaptan-skriniar-onderliginde",
-    "title": "Fenerbahçe'de futbolculardan yönetime flaş hoca talebi! Kaptan Skriniar önderliğinde...",
-    "ts": 1793475564687
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/fenerbahcede-sok-iddia-yabanci-futbolcularin-hoca-talebi-ortaya-cikti",
-    "title": "Fenerbahçe'de şok iddia! Yabancı futbolcuların hoca talebi ortaya çıktı",
-    "ts": 1793475567785
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/mattia-croci-tortiden-fenerbahce-yaniti-teknik-direktor-adayi",
-    "title": "Mattia Croci-Torti'den Fenerbahçe yanıtı! Teknik direktör adayı...",
-    "ts": 1793487473599
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/levent-tuzemen-gsarayin-huzurunu-niye-bozuyorsunuz",
     "title": "Levent Tüzemen: G.Saray'ın huzurunu niye bozuyorsunuz!",
     "ts": 1793550698653
@@ -153,5 +133,20 @@
     "id": "news-1181906",
     "title": "Galatasaray ve Fenerbahçe'ye Avrupa'dan dev gelir",
     "ts": 1793900859685
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/11/05/besiktas-penalti-kazandi",
+    "title": "Celtic - Beşiktaş maçında penaltı kararı! Poku yerde kaldı...",
+    "ts": 1793920084247
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/11/05/paul-onuachudan-freiburg-maci-sonrasi-aciklama-bir-forvet-olarak-ben-de-gol-atmak-istiyorum",
+    "title": "Paul Onuachu'dan Freiburg maçı sonrası açıklama: Bir forvet olarak ben de gol atmak istiyorum!",
+    "ts": 1793920087612
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/11/05/denizlispor-kume-dustu",
+    "title": "Denizlispor küme düştü",
+    "ts": 1793920090771
   }
 ]
