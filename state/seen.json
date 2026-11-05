@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1181213",
-    "title": "Aleksey Batrakov için flaş iddia!",
-    "ts": 1793406200889
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/10/30/rafael-leaodan-abdulkerim-bardakci-sozleri-cezayi-hak-etmedi",
-    "title": "Rafael Leao'dan Abdülkerim Bardakcı sözleri! \"Cezayı hak etmedi\"",
-    "ts": 1793406204224
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/30/fenerbahceden-unlu-teknik-direktore-resmi-teklif-kuyt-aciklanmisti-ama",
-    "title": "Fenerbahçe'den ünlü teknik direktöre resmi teklif! Kuyt açıklanmıştı ama...",
-    "ts": 1793406207352
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/greenwood-neden-kadroya-alinmadi-dirk-kuyt-acikladi",
-    "title": "Greenwood neden kadroya alınmadı? Dirk Kuyt açıkladı",
-    "ts": 1793460847194
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/greenwood-neden-kadroya-alinmadi-dirk-kuyt-acikladi",
-    "title": "Dirk Kuyt'tan İsmail Kartal sözleri! \"Özel biriydi ancak...\"",
-    "ts": 1793460850629
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahcede-goztepe-maci-oncesi-greenwood-gelismesi",
-    "title": "Fenerbahçe'de Göztepe maçı öncesi Greenwood gelişmesi!",
-    "ts": 1793460853761
-  },
-  {
     "id": "news-1181330",
     "title": "Kojo Oppong: \"Büyük bir hayal kırıklığı yaşıyoruz\"",
     "ts": 1793475561398
@@ -168,5 +138,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/11/04/dirk-kuyt-liverpool-zaferi-sonrasi-acikladi-fenerbahcede-kalacak-mi",
     "title": "Dirk Kuyt, Liverpool zaferi sonrası açıkladı! Fenerbahçe'de kalacak mı?",
     "ts": 1793833426965
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/11/05/freiburg-maci-oncesi-trabzonsporda-stefan-savic-butun-planimiz-3-puan",
+    "title": "Freiburg maçı öncesi Trabzonspor'da Stefan Savic: Bütün planımız 3 puan",
+    "ts": 1793900853113
+  },
+  {
+    "id": "news-1181907",
+    "title": "Aleksey Batrakov için Premier Lig açıklaması!",
+    "ts": 1793900856535
+  },
+  {
+    "id": "news-1181906",
+    "title": "Galatasaray ve Fenerbahçe'ye Avrupa'dan dev gelir",
+    "ts": 1793900859685
   }
 ]
