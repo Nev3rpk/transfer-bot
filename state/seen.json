@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/levent-tuzemen-gsarayin-huzurunu-niye-bozuyorsunuz",
-    "title": "Levent Tüzemen: G.Saray'ın huzurunu niye bozuyorsunuz!",
-    "ts": 1793550698653
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/01/galatasarayda-2-istifa-abdullah-kavukcu-aciklama-yapti",
-    "title": "Galatasaray'da 2. istifa! Abdullah Kavukcu açıklama yaptı",
-    "ts": 1793550702134
-  },
-  {
-    "id": "news-1181420",
-    "title": "Arda Güler'den Fenerbahçe'ye 2 milyon euro daha!",
-    "ts": 1793550705288
-  },
-  {
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/01/hakan-safi-fenerbahce-baskanligi-icin-adayligini-acikladi-mi",
     "title": "Hakan Safi Fenerbahçe başkanlığı için adaylığını açıkladı mı?",
     "ts": 1793566500134
@@ -148,5 +133,20 @@
     "id": "https://www.aspor.com.tr/futbol/2026/11/05/denizlispor-kume-dustu",
     "title": "Denizlispor küme düştü",
     "ts": 1793920090771
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/11/06/gaziantep-fk-kasimpasa-canli-trendyol-super-lig-11-hafta",
+    "title": "Gaziantep FK-Kasımpaşa | CANLI (Trendyol Süper Lig 11. hafta)",
+    "ts": 1793984681190
+  },
+  {
+    "id": "news-1182023",
+    "title": "Fenerbahçe otobüsü saldırısında flaş gelişme",
+    "ts": 1793984684586
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/06/batrakov-ile-yeni-sozlesme-yapilacak-mi-menajeri-resmen-acikladi",
+    "title": "Batrakov ile yeni sözleşme yapılacak mı? Menajeri resmen açıkladı",
+    "ts": 1793984687713
   }
 ]
