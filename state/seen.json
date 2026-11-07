@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahcede-conceicao-kararinin-perde-arkasi-belli-oldu-son-sozu-aziz-yildirim-soyledi",
-    "title": "Fenerbahçe'de Conceiçao kararının perde arkası belli oldu! Son sözü Aziz Yıldırım söyledi",
-    "ts": 1793649312555
-  },
-  {
-    "id": "news-1181545",
-    "title": "Stuttgart'ın paylaşımı olay oldu, geri adım geldi!",
-    "ts": 1793649315877
-  },
-  {
-    "id": "news-1181542",
-    "title": "Kayserispor'dan Muğlaspor'a gol yağmuru: 6-0!",
-    "ts": 1793649318988
-  },
-  {
     "id": "news-1181658",
     "title": "Fenerbahçe'de Barış Göktürk'ten istifa açıklaması!",
     "ts": 1793726848043
@@ -148,5 +133,20 @@
     "id": "news-1182125",
     "title": "Okan Buruk'tan kadroda iki sürpriz!",
     "ts": 1794067273163
+  },
+  {
+    "id": "news-1182159",
+    "title": "Barış Alper Yılmaz'dan sezonun ikinci golü!",
+    "ts": 1794082919648
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/07/trio-ekibi-galatasaray-amed-sk-macini-degerlendirdi",
+    "title": "Trio ekibi Galatasaray-Amed SK maçını değerlendirdi",
+    "ts": 1794082922976
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/07/galatasarayda-galibiyetin-ardindan-yunus-akgun-cok-mutluyuz",
+    "title": "Galatasaray'da galibiyetin ardından Yunus Akgün: Çok mutluyuz!",
+    "ts": 1794082926085
   }
 ]
