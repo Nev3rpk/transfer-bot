@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1181658",
-    "title": "Fenerbahçe'de Barış Göktürk'ten istifa açıklaması!",
-    "ts": 1793726848043
-  },
-  {
-    "id": "news-1181656",
-    "title": "Rıdvan Dilmen'den Emre Belözoğlu sözleri!",
-    "ts": 1793726851527
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/03/emre-belozoglu-kimdir-kac-yasinda-ve-hangi-takimli-iste-hayati-ve-kariyeri",
-    "title": "Emre Belözoğlu kimdir, kaç yaşında ve hangi takımlı? İşte hayatı ve kariyeri",
-    "ts": 1793726854700
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/11/03/ermedin-demirovicten-galatasaray-itirafi-transfer",
     "title": "Ermedin Demirovic'ten Galatasaray itirafı! Transfer...",
     "ts": 1793744806208
@@ -178,5 +163,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/11/08/besiktas-fenerbahce-ve-galatasaray-o-transferin-pesinde",
     "title": "Beşiktaş, Fenerbahçe ve Galatasaray o transferin peşinde!",
     "ts": 1794155309285
+  },
+  {
+    "id": "news-1182293",
+    "title": "Vlahovic'ten Trossard'a esprili teşekkür: \"Her hafta hediye alırım!\"",
+    "ts": 1794170455404
+  },
+  {
+    "id": "news-1182286",
+    "title": "Nahit Eren'den Galatasaray için açıklama",
+    "ts": 1794170458844
+  },
+  {
+    "id": "news-1182261",
+    "title": "Beşiktaş evinde firesiz gidiyor!",
+    "ts": 1794170462037
   }
 ]
