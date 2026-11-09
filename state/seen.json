@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/04/bartug-elmaz-iyi-oyunla-kazanmak-istiyoruz",
-    "title": "Bartuğ Elmaz: İyi oyunla kazanmak istiyoruz!",
-    "ts": 1793814053520
-  },
-  {
-    "id": "news-1181784",
-    "title": "Göztepe Yuppo'dan 5 setlik galibiyet!",
-    "ts": 1793814056952
-  },
-  {
-    "id": "news-1181783",
-    "title": "Iraola'dan Barcola açıklaması: \"Forvet ama gezecek!\"",
-    "ts": 1793814060089
-  },
-  {
     "id": "news-1181810",
     "title": "Vedat Muriqi: \"Emre Hoca en doğru seçim\"",
     "ts": 1793833420169
@@ -178,5 +163,20 @@
     "id": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktas-genclerbirligi-macinda-kirmizi-kart-karari",
     "title": "Beşiktaş-Gençlerbirliği maçında kırmızı kart kararı!",
     "ts": 1794183895039
+  },
+  {
+    "id": "news-1182386",
+    "title": "Galatasaray'da ocakta ayrılık ihtimali: Leroy Sane",
+    "ts": 1794255596292
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/11/09/premier-lig-devleri-batrakovun-pesinde-ingiliz-basnindan-flas-iddia",
+    "title": "Premier Lig devleri Batrakov'un peşinde! İngiliz basnından flaş iddia",
+    "ts": 1794255599798
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/09/mac-allisterdan-fenerbahce-itirafi-liverpoolun-maglubiyetinin-nedenini-acikladi",
+    "title": "Mac Allister'dan Fenerbahçe itirafı! Liverpool'un mağlubiyetinin nedenini açıkladı",
+    "ts": 1794255602955
   }
 ]
