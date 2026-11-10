@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1181810",
-    "title": "Vedat Muriqi: \"Emre Hoca en doğru seçim\"",
-    "ts": 1793833420169
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/04/fenerbahcenin-kasasi-dolup-tasacak-iste-liverpool-zaferiyle-elde-edilen-dev-gelir",
-    "title": "Fenerbahçe'nin kasası dolup taşacak! İşte Liverpool zaferiyle elde edilen dev gelir",
-    "ts": 1793833423804
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/04/dirk-kuyt-liverpool-zaferi-sonrasi-acikladi-fenerbahcede-kalacak-mi",
-    "title": "Dirk Kuyt, Liverpool zaferi sonrası açıkladı! Fenerbahçe'de kalacak mı?",
-    "ts": 1793833426965
-  },
-  {
     "id": "https://www.aspor.com.tr/trabzonspor/2026/11/05/freiburg-maci-oncesi-trabzonsporda-stefan-savic-butun-planimiz-3-puan",
     "title": "Freiburg maçı öncesi Trabzonspor'da Stefan Savic: Bütün planımız 3 puan",
     "ts": 1793900853113
@@ -178,5 +163,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/11/09/mac-allisterdan-fenerbahce-itirafi-liverpoolun-maglubiyetinin-nedenini-acikladi",
     "title": "Mac Allister'dan Fenerbahçe itirafı! Liverpool'un mağlubiyetinin nedenini açıkladı",
     "ts": 1794255602955
+  },
+  {
+    "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/11/10/tffden-trendyol-super-lig-ve-trendyol-1-lig-icin-yeni-karar-coklu-top-sistemi-basliyor",
+    "title": "TFF'den Trendyol Süper Lig ve Trendyol 1. Lig için yeni karar! Çoklu Top Sistemi başlıyor",
+    "ts": 1794331463725
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/10/fenerbahcenin-orta-saha-planini-bozan-gelisme-danilo-transferinde-son-durum",
+    "title": "Fenerbahçe'nin orta saha planını bozan gelişme! Danilo transferinde son durum",
+    "ts": 1794331467192
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/10/fenerbahceye-danilo-soku-tum-planlar-altust-oldu",
+    "title": "Fenerbahçe'ye Danilo şoku! Tüm planlar altüst oldu",
+    "ts": 1794331470371
   }
 ]
