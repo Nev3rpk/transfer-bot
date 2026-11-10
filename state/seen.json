@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/11/05/freiburg-maci-oncesi-trabzonsporda-stefan-savic-butun-planimiz-3-puan",
-    "title": "Freiburg maçı öncesi Trabzonspor'da Stefan Savic: Bütün planımız 3 puan",
-    "ts": 1793900853113
-  },
-  {
-    "id": "news-1181907",
-    "title": "Aleksey Batrakov için Premier Lig açıklaması!",
-    "ts": 1793900856535
-  },
-  {
-    "id": "news-1181906",
-    "title": "Galatasaray ve Fenerbahçe'ye Avrupa'dan dev gelir",
-    "ts": 1793900859685
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/11/05/besiktas-penalti-kazandi",
     "title": "Celtic - Beşiktaş maçında penaltı kararı! Poku yerde kaldı...",
     "ts": 1793920084247
@@ -178,5 +163,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/10/fenerbahceye-danilo-soku-tum-planlar-altust-oldu",
     "title": "Fenerbahçe'ye Danilo şoku! Tüm planlar altüst oldu",
     "ts": 1794331470371
+  },
+  {
+    "id": "https://www.fotomac.com.tr/alanyaspor/2026/11/10/corendon-alanyasporda-ugur-ucar-donemi",
+    "title": "Corendon Alanyaspor'da Uğur Uçar dönemi!",
+    "ts": 1794349608893
+  },
+  {
+    "id": "news-1182466",
+    "title": "Alanyaspor'da Joao Pereira gitti, Uğur Uçar geldi!",
+    "ts": 1794349612291
+  },
+  {
+    "id": "news-1182486",
+    "title": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
+    "ts": 1794349616414
   }
 ]
