@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1182159",
-    "title": "Barış Alper Yılmaz'dan sezonun ikinci golü!",
-    "ts": 1794082919648
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/07/trio-ekibi-galatasaray-amed-sk-macini-degerlendirdi",
-    "title": "Trio ekibi Galatasaray-Amed SK maçını değerlendirdi",
-    "ts": 1794082922976
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/07/galatasarayda-galibiyetin-ardindan-yunus-akgun-cok-mutluyuz",
-    "title": "Galatasaray'da galibiyetin ardından Yunus Akgün: Çok mutluyuz!",
-    "ts": 1794082926085
-  },
-  {
     "id": "news-1182168",
     "title": "Galatasaray'ın gol sevinci dünya gündeminde!",
     "ts": 1794095105129
@@ -163,5 +148,20 @@
     "id": "https://www.aspor.com.tr/futbol/2026/11/12/fernando-muslera-futbolu-birakiyor-galatasaray-efsanesi-icin-veda-zamani",
     "title": "Fernando Muslera futbolu bırakıyor! Galatasaray efsanesi için veda zamanı",
     "ts": 1794505820728
+  },
+  {
+    "id": "news-1182682",
+    "title": "Beşiktaş Kadın Futbol Takımı'na Ukraynalı forvet",
+    "ts": 1794524609232
+  },
+  {
+    "id": "news-1182677",
+    "title": "Van Bommel'den Trossard ve Beşiktaş sorusuna yanıt",
+    "ts": 1794524612752
+  },
+  {
+    "id": "https://www.aspor.com.tr/futbol/2026/11/12/atletico-madrid-alexander-sorlothu-satis-listesine-koydu-super-lig",
+    "title": "Atletico Madrid, Alexander Sörloth'u satış listesine koydu! Süper Lig...",
+    "ts": 1794524615870
   }
 ]
