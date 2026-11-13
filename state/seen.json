@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1182293",
-    "title": "Vlahovic'ten Trossard'a esprili teşekkür: \"Her hafta hediye alırım!\"",
-    "ts": 1794170455404
-  },
-  {
-    "id": "news-1182286",
-    "title": "Nahit Eren'den Galatasaray için açıklama",
-    "ts": 1794170458844
-  },
-  {
-    "id": "news-1182261",
-    "title": "Beşiktaş evinde firesiz gidiyor!",
-    "ts": 1794170462037
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/11/08/emmanuel-agbadou-boyle-devam-etmek-istiyoruz",
     "title": "Emmanuel Agbadou: Böyle devam etmek istiyoruz!",
     "ts": 1794183888648
@@ -148,5 +133,20 @@
     "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/13/fenerbahceden-nathan-akenin-saglik-durumuna-iliskin-aciklama",
     "title": "Fenerbahçe'den Nathan Ake'nin sağlık durumuna ilişkin açıklama!",
     "ts": 1794590827513
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/13/galatasaray-kevin-de-bruyneyi-gozune-kestirdi-belcika-basini-acikladi",
+    "title": "Galatasaray Kevin De Bruyne'yi gözüne kestirdi! Belçika basını açıkladı",
+    "ts": 1794609904522
+  },
+  {
+    "id": "https://www.fotomac.com.tr/superlig/2026/11/13/tffden-7-super-lig-kulubune-para-cezasi",
+    "title": "PFDK'den 7 Süper Lig kulübüne para cezası!",
+    "ts": 1794609908008
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/11/13/galatasaray-kevin-de-bruyne-icin-firsat-kolluyor",
+    "title": "Galatasaray, Kevin De Bruyne için fırsat kolluyor!",
+    "ts": 1794609911217
   }
 ]
