@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1182168",
-    "title": "Galatasaray'ın gol sevinci dünya gündeminde!",
-    "ts": 1794095105129
-  },
-  {
-    "id": "news-1182148",
-    "title": "Galatasaray'da gol sonrası sarı kart iddiası!",
-    "ts": 1794095108550
-  },
-  {
-    "id": "news-1182146",
-    "title": "Fenerbahçe Medicana, Gebze'nin serisini bitirdi!",
-    "ts": 1794095111678
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/08/irfan-can-kahveciden-sergen-yalcin-aciklamasi-hicbir-alakasi-yok",
-    "title": "İrfan Can Kahveci'den Sergen Yalçın açıklaması! \"Hiçbir alakası yok\"",
-    "ts": 1794155302648
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/08/dirk-kuyt-fenerbahceden-ayrildi-mi-teknik-ekip-sekilleniyor",
-    "title": "Dirk Kuyt Fenerbahçe'den ayrıldı mı? Teknik ekip şekilleniyor",
-    "ts": 1794155306183
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/11/08/besiktas-fenerbahce-ve-galatasaray-o-transferin-pesinde",
-    "title": "Beşiktaş, Fenerbahçe ve Galatasaray o transferin peşinde!",
-    "ts": 1794155309285
-  },
-  {
     "id": "news-1182293",
     "title": "Vlahovic'ten Trossard'a esprili teşekkür: \"Her hafta hediye alırım!\"",
     "ts": 1794170455404
@@ -163,5 +133,20 @@
     "id": "https://www.aspor.com.tr/futbol/2026/11/12/atletico-madrid-alexander-sorlothu-satis-listesine-koydu-super-lig",
     "title": "Atletico Madrid, Alexander Sörloth'u satış listesine koydu! Süper Lig...",
     "ts": 1794524615870
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/13/galatasaray-yonetiminde-2-istifa-birden",
+    "title": "Galatasaray'da 2 istifa birden!",
+    "ts": 1794590820628
+  },
+  {
+    "id": "news-1182772",
+    "title": "Ertuğrul Doğan'dan Yüksel Yıldırım'a üç futbolcu önerisi iddiası",
+    "ts": 1794590824376
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/13/fenerbahceden-nathan-akenin-saglik-durumuna-iliskin-aciklama",
+    "title": "Fenerbahçe'den Nathan Ake'nin sağlık durumuna ilişkin açıklama!",
+    "ts": 1794590827513
   }
 ]
