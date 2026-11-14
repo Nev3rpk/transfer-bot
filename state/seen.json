@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1182386",
-    "title": "Galatasaray'da ocakta ayrılık ihtimali: Leroy Sane",
-    "ts": 1794255596292
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/09/premier-lig-devleri-batrakovun-pesinde-ingiliz-basnindan-flas-iddia",
-    "title": "Premier Lig devleri Batrakov'un peşinde! İngiliz basnından flaş iddia",
-    "ts": 1794255599798
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/09/mac-allisterdan-fenerbahce-itirafi-liverpoolun-maglubiyetinin-nedenini-acikladi",
-    "title": "Mac Allister'dan Fenerbahçe itirafı! Liverpool'un mağlubiyetinin nedenini açıkladı",
-    "ts": 1794255602955
-  },
-  {
     "id": "https://www.aspor.com.tr/spor-toto-super-lig/2026/11/10/tffden-trendyol-super-lig-ve-trendyol-1-lig-icin-yeni-karar-coklu-top-sistemi-basliyor",
     "title": "TFF'den Trendyol Süper Lig ve Trendyol 1. Lig için yeni karar! Çoklu Top Sistemi başlıyor",
     "ts": 1794331463725
@@ -148,5 +133,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/11/14/juventusta-gozler-vincenzo-italianonun-kararinda-fabio-miretti",
     "title": "Juventus'ta gözler Vincenzo Italiano'nun kararında! Fabio Miretti...",
     "ts": 1794673079529
+  },
+  {
+    "id": "news-1182855",
+    "title": "Beşiktaş'ta Fabio Miretti için karar sezon sonu",
+    "ts": 1794689448302
+  },
+  {
+    "id": "news-1182850",
+    "title": "Vinicius'un jeneriklik golleri Brezilya'yı kurtaramadı!",
+    "ts": 1794689451602
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/14/matvey-kislyak-resmen-acikladi-galatasaraya-transferi-icin",
+    "title": "Matvey Kislyak resmen açıkladı! Galatasaray'a transferi için...",
+    "ts": 1794689454790
   }
 ]
