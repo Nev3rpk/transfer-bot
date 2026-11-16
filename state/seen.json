@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/alanyaspor/2026/11/10/corendon-alanyasporda-ugur-ucar-donemi",
-    "title": "Corendon Alanyaspor'da Uğur Uçar dönemi!",
-    "ts": 1794349608893
-  },
-  {
-    "id": "news-1182466",
-    "title": "Alanyaspor'da Joao Pereira gitti, Uğur Uçar geldi!",
-    "ts": 1794349612291
-  },
-  {
-    "id": "news-1182486",
-    "title": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
-    "ts": 1794349616414
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/11/galatasarayda-carlos-cuesta-gelismesi-vasco-da-gamadan-flas-haber",
-    "title": "Galatasaray'da Carlos Cuesta gelişmesi! Vasco da Gama'dan flaş haber",
-    "ts": 1794418641206
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/11/galatasarayda-zemin-krizi-divan-kuruluna-tasindi-maclarin-baska-statta-oynanmasi-onerildi",
-    "title": "Galatasaray'da zemin krizi Divan Kurulu'na taşındı! Maçların başka statta oynanması önerildi",
-    "ts": 1794418644833
-  },
-  {
-    "id": "news-1182567",
-    "title": "Galatasaray'da transfer planı ortaya çıktı",
-    "ts": 1794418647979
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/11/11/fenerbahce-arsavev-evinde-real-sociedada-yenilerek-uefa-avrupa-ligine-veda-etti",
     "title": "Fenerbahçe ArsaVev evinde Real Sociedad'a yenilerek UEFA Avrupa Ligi'ne veda etti!",
     "ts": 1794441325841
@@ -163,5 +133,20 @@
     "id": "news-1182930",
     "title": "Trabzonspor'a kötü haber: Ernest Muçi",
     "ts": 1794777945151
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/16/abdullah-kavukcudan-istifa-mektubu",
+    "title": "Abdullah Kavukcu'dan istifa mektubu",
+    "ts": 1794859040095
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/11/16/abdullah-kavukcudan-galatasaraya-veda-aciklamasi",
+    "title": "Abdullah Kavukcu'dan Galatasaray'a veda açıklaması!",
+    "ts": 1794859043454
+  },
+  {
+    "id": "news-1183016",
+    "title": "Emmanuel Agbadou'nun durumu belli oldu: Sakatlıktan dönüş tarihi",
+    "ts": 1794859046581
   }
 ]
