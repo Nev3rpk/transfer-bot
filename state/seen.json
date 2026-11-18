@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1182682",
-    "title": "Beşiktaş Kadın Futbol Takımı'na Ukraynalı forvet",
-    "ts": 1794524609232
-  },
-  {
-    "id": "news-1182677",
-    "title": "Van Bommel'den Trossard ve Beşiktaş sorusuna yanıt",
-    "ts": 1794524612752
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/11/12/atletico-madrid-alexander-sorlothu-satis-listesine-koydu-super-lig",
-    "title": "Atletico Madrid, Alexander Sörloth'u satış listesine koydu! Süper Lig...",
-    "ts": 1794524615870
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/13/galatasaray-yonetiminde-2-istifa-birden",
-    "title": "Galatasaray'da 2 istifa birden!",
-    "ts": 1794590820628
-  },
-  {
-    "id": "news-1182772",
-    "title": "Ertuğrul Doğan'dan Yüksel Yıldırım'a üç futbolcu önerisi iddiası",
-    "ts": 1794590824376
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/13/fenerbahceden-nathan-akenin-saglik-durumuna-iliskin-aciklama",
-    "title": "Fenerbahçe'den Nathan Ake'nin sağlık durumuna ilişkin açıklama!",
-    "ts": 1794590827513
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/11/13/galatasaray-kevin-de-bruyneyi-gozune-kestirdi-belcika-basini-acikladi",
     "title": "Galatasaray Kevin De Bruyne'yi gözüne kestirdi! Belçika basını açıkladı",
     "ts": 1794609904522
@@ -133,5 +103,20 @@
     "id": "https://www.aspor.com.tr/fenerbahce/2026/11/17/transfer-haberi-mason-greenwood-hakkinda-bomba-iddia-fenerbahceden-ayrilacak-mi",
     "title": "TRANSFER HABERİ: Mason Greenwood hakkında bomba iddia! Fenerbahçe'den ayrılacak mı?",
     "ts": 1794941627709
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/18/ne-galatasaray-istiyor-ne-kendi-takimi-bitshiabuyi-neler-bekliyor",
+    "title": "Ne Galatasaray istiyor ne kendi takımı! Bitshiabu'yi neler bekliyor?",
+    "ts": 1795026823588
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/11/18/galatasaray-ve-rb-leipzigin-bitshiabu-plani-ortaya-cikti",
+    "title": "Galatasaray ve RB Leipzig'in Bitshiabu planı ortaya çıktı",
+    "ts": 1795026827406
+  },
+  {
+    "id": "news-1183255",
+    "title": "Arda Güler'den Fenerbahçe'ye cevap!",
+    "ts": 1795026830558
   }
 ]
