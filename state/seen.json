@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/13/galatasaray-kevin-de-bruyneyi-gozune-kestirdi-belcika-basini-acikladi",
-    "title": "Galatasaray Kevin De Bruyne'yi gözüne kestirdi! Belçika basını açıkladı",
-    "ts": 1794609904522
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/11/13/tffden-7-super-lig-kulubune-para-cezasi",
-    "title": "PFDK'den 7 Süper Lig kulübüne para cezası!",
-    "ts": 1794609908008
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/13/galatasaray-kevin-de-bruyne-icin-firsat-kolluyor",
-    "title": "Galatasaray, Kevin De Bruyne için fırsat kolluyor!",
-    "ts": 1794609911217
-  },
-  {
     "id": "https://www.fotomac.com.tr/besiktas/2026/11/14/transferde-flas-gelisme-fabio-miretti",
     "title": "Transferde flaş gelişme! Fabio Miretti...",
     "ts": 1794673072664
@@ -118,5 +103,10 @@
     "id": "news-1183255",
     "title": "Arda Güler'den Fenerbahçe'ye cevap!",
     "ts": 1795026830558
+  },
+  {
+    "id": "news-1183262",
+    "title": "Romelu Lukaku'ya MLS'ten 3 talip!",
+    "ts": 1795049656404
   }
 ]
