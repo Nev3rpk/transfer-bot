@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/11/14/transferde-flas-gelisme-fabio-miretti",
-    "title": "Transferde flaş gelişme! Fabio Miretti...",
-    "ts": 1794673072664
-  },
-  {
-    "id": "news-1182867",
-    "title": "Vedat Muriqi için PSG itirafı!",
-    "ts": 1794673076404
-  },
-  {
-    "id": "https://www.aspor.com.tr/besiktas/2026/11/14/juventusta-gozler-vincenzo-italianonun-kararinda-fabio-miretti",
-    "title": "Juventus'ta gözler Vincenzo Italiano'nun kararında! Fabio Miretti...",
-    "ts": 1794673079529
-  },
-  {
     "id": "news-1182855",
     "title": "Beşiktaş'ta Fabio Miretti için karar sezon sonu",
     "ts": 1794689448302
@@ -108,5 +93,20 @@
     "id": "news-1183262",
     "title": "Romelu Lukaku'ya MLS'ten 3 talip!",
     "ts": 1795049656404
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/real-madrid-zaferi-sonrasi-besiktas-fuzuldan-taraftara-transfer-mujdesi",
+    "title": "Real Madrid zaferi sonrası Beşiktaş Fuzul'dan taraftara transfer müjdesi!",
+    "ts": 1795113945616
+  },
+  {
+    "id": "news-1183346",
+    "title": "Valencia'dan Tammy Abraham için temas",
+    "ts": 1795113949076
+  },
+  {
+    "id": "news-1183345",
+    "title": "Fenerbahçe, Rodrigo Zalazar için yeniden devrede!",
+    "ts": 1795113952218
   }
 ]
