@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1182855",
-    "title": "Beşiktaş'ta Fabio Miretti için karar sezon sonu",
-    "ts": 1794689448302
-  },
-  {
-    "id": "news-1182850",
-    "title": "Vinicius'un jeneriklik golleri Brezilya'yı kurtaramadı!",
-    "ts": 1794689451602
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/14/matvey-kislyak-resmen-acikladi-galatasaraya-transferi-icin",
-    "title": "Matvey Kislyak resmen açıkladı! Galatasaray'a transferi için...",
-    "ts": 1794689454790
-  },
-  {
     "id": "https://www.fotomac.com.tr/gaziantep/2026/11/15/gaziantep-fknin-yeni-teknik-direktoru-belli-oldu",
     "title": "Gaziantep FK, Volkan Demirel ile prensip anlaşmasına vardı!",
     "ts": 1794761051593
@@ -108,5 +93,20 @@
     "id": "news-1183345",
     "title": "Fenerbahçe, Rodrigo Zalazar için yeniden devrede!",
     "ts": 1795113952218
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/19/neymar-alex-de-souza-ile-bir-araya-geldi",
+    "title": "Neymar Alex de Souza ile bir araya geldi!",
+    "ts": 1795136322245
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/11/19/ertugrul-dogandan-salah-aciklamalari-trabzonspora-gelmesi",
+    "title": "Ertuğrul Doğan'dan Salah açıklamaları! \"Trabzonspor'a gelmesi...\"",
+    "ts": 1795136325767
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/19/fenerbahceden-flas-asensio-karari-sakatlik-donusunde",
+    "title": "Fenerbahçe'den flaş Asensio kararı! Sakatlık dönüşünde...",
+    "ts": 1795136328944
   }
 ]
