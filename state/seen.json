@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1182932",
-    "title": "Goran Pandev'den Icardi itirafı! \"Doğru karardı\"",
-    "ts": 1794777938393
-  },
-  {
-    "id": "https://www.aspor.com.tr/trabzonspor/2026/11/15/zenit-trabzonspor-canli-izle-heyecan-a-sporda",
-    "title": "Zenit-Trabzonspor | CANLI İZLE (Heyecan A Spor'da!)",
-    "ts": 1794777941970
-  },
-  {
-    "id": "news-1182930",
-    "title": "Trabzonspor'a kötü haber: Ernest Muçi",
-    "ts": 1794777945151
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/11/16/abdullah-kavukcudan-istifa-mektubu",
     "title": "Abdullah Kavukcu'dan istifa mektubu",
     "ts": 1794859040095
@@ -108,5 +93,20 @@
     "id": "https://www.fotomac.com.tr/superlig/2026/11/20/uc-buyuklere-transferde-kotu-haber-brahim-diaz",
     "title": "Üç büyüklere transferde kötü haber! Brahım Diaz...",
     "ts": 1795198339699
+  },
+  {
+    "id": "news-1183484",
+    "title": "Arda Turan'dan Fenerbahçe sözleri: Favoriyi açıkladı!",
+    "ts": 1795219461881
+  },
+  {
+    "id": "https://www.fotomac.com.tr/trabzonspor/2026/11/20/trabzonspordan-transfer-aciklamasi-deniz-ertas",
+    "title": "Trabzonspor'dan transfer açıklaması! Deniz Ertaş...",
+    "ts": 1795219465528
+  },
+  {
+    "id": "https://www.aspor.com.tr/trabzonspor/2026/11/20/trabzonsporun-anlastigi-one-surulmustu-asbaskan-zeyyat-kafkastan-aciklama-geldi",
+    "title": "Trabzonspor'un anlaştığı öne sürülmüştü! Asbaşkan Zeyyat Kafkas'tan açıklama geldi",
+    "ts": 1795219468625
   }
 ]
