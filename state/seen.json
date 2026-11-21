@@ -1,20 +1,5 @@
 [
   {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/16/abdullah-kavukcudan-istifa-mektubu",
-    "title": "Abdullah Kavukcu'dan istifa mektubu",
-    "ts": 1794859040095
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/16/abdullah-kavukcudan-galatasaraya-veda-aciklamasi",
-    "title": "Abdullah Kavukcu'dan Galatasaray'a veda açıklaması!",
-    "ts": 1794859043454
-  },
-  {
-    "id": "news-1183016",
-    "title": "Emmanuel Agbadou'nun durumu belli oldu: Sakatlıktan dönüş tarihi",
-    "ts": 1794859046581
-  },
-  {
     "id": "news-1183167",
     "title": "Kenan Karaman'dan Dzeko için Fenerbahçe itirafı!",
     "ts": 1794941621126
@@ -123,5 +108,20 @@
     "id": "news-1183543",
     "title": "Bernd Storck: \"Takımı ligde tutmak istiyoruz\"",
     "ts": 1795280515202
+  },
+  {
+    "id": "news-1183609",
+    "title": "PSG'de Desire Doue şoku! Çapraz bağları koptu!",
+    "ts": 1795299328915
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/21/vedat-muric-herkes-daha-fazla-sorumluluk-almak-zorunda",
+    "title": "Vedat Muriç: Herkes daha fazla sorumluluk almak zorunda",
+    "ts": 1795299332279
+  },
+  {
+    "id": "news-1183585",
+    "title": "Vedat Muriqi: \"Lukaku'nun golü geçerli sayılsa farklı olabilirdi\"",
+    "ts": 1795299335392
   }
 ]
