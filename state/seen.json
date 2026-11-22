@@ -1,20 +1,5 @@
 [
   {
-    "id": "news-1183167",
-    "title": "Kenan Karaman'dan Dzeko için Fenerbahçe itirafı!",
-    "ts": 1794941621126
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/17/zeki-murat-gole-fenerbahceye-veda-etti",
-    "title": "Zeki Murat Göle Fenerbahçe'ye veda etti",
-    "ts": 1794941624574
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/17/transfer-haberi-mason-greenwood-hakkinda-bomba-iddia-fenerbahceden-ayrilacak-mi",
-    "title": "TRANSFER HABERİ: Mason Greenwood hakkında bomba iddia! Fenerbahçe'den ayrılacak mı?",
-    "ts": 1794941627709
-  },
-  {
     "id": "https://www.fotomac.com.tr/galatasaray/2026/11/18/ne-galatasaray-istiyor-ne-kendi-takimi-bitshiabuyi-neler-bekliyor",
     "title": "Ne Galatasaray istiyor ne kendi takımı! Bitshiabu'yi neler bekliyor?",
     "ts": 1795026823588
@@ -138,5 +123,20 @@
     "id": "https://www.aspor.com.tr/futbol/2026/11/22/juventus-venezia-karsisinda-farkli-kazandi",
     "title": "Juventus, Venezia karşısında farklı kazandı!",
     "ts": 1795368738614
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspor-richarlisonu-bitirdi",
+    "title": "\"Trabzonspor Richarlison'u bitirdi\"",
+    "ts": 1795388625573
+  },
+  {
+    "id": "news-1183716",
+    "title": "Mbaye Diagne'den Amedspor'a yanıt: \"Yalancısınız\"",
+    "ts": 1795388629026
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/22/okan-buruk-besiktas-macinda-cezali-mi-derbide-yok-mu",
+    "title": "Okan Buruk Beşiktaş maçında cezalı mı, derbide yok mu?",
+    "ts": 1795388632262
   }
 ]
