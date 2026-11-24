@@ -1,25 +1,5 @@
 [
   {
-    "id": "news-1183262",
-    "title": "Romelu Lukaku'ya MLS'ten 3 talip!",
-    "ts": 1795049656404
-  },
-  {
-    "id": "https://www.fotomac.com.tr/video-haber/videoizle/real-madrid-zaferi-sonrasi-besiktas-fuzuldan-taraftara-transfer-mujdesi",
-    "title": "Real Madrid zaferi sonrası Beşiktaş Fuzul'dan taraftara transfer müjdesi!",
-    "ts": 1795113945616
-  },
-  {
-    "id": "news-1183346",
-    "title": "Valencia'dan Tammy Abraham için temas",
-    "ts": 1795113949076
-  },
-  {
-    "id": "news-1183345",
-    "title": "Fenerbahçe, Rodrigo Zalazar için yeniden devrede!",
-    "ts": 1795113952218
-  },
-  {
     "id": "https://www.aspor.com.tr/fenerbahce/2026/11/19/neymar-alex-de-souza-ile-bir-araya-geldi",
     "title": "Neymar Alex de Souza ile bir araya geldi!",
     "ts": 1795136322245
@@ -138,5 +118,20 @@
     "id": "news-1183815",
     "title": "Fenerbahçe'ye Arsenal'den 22'lik stoper iddiası",
     "ts": 1795470657236
+  },
+  {
+    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/24/galatasarayda-mario-lemina-soku-maca-devam-edemedi",
+    "title": "Galatasaray'da Mario Lemina şoku! Maça devam edemedi",
+    "ts": 1795552026654
+  },
+  {
+    "id": "https://www.fotomac.com.tr/genclerbirligi/2026/11/24/genclerbirliginden-fifanin-transfer-yasagi-hakkinda-aciklama",
+    "title": "Gençlerbirliği'nden FIFA'nın transfer yasağı hakkında açıklama!",
+    "ts": 1795552030000
+  },
+  {
+    "id": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/11/24/arda-turandan-emre-belozoglu-sozleri-birlikte-bircok-ilke-imza-attik",
+    "title": "Arda Turan'dan Emre Belözoğlu sözleri! \"Birlikte birçok ilke imza attık\"",
+    "ts": 1795552033117
   }
 ]
