@@ -1,35 +1,5 @@
 [
   {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/19/neymar-alex-de-souza-ile-bir-araya-geldi",
-    "title": "Neymar Alex de Souza ile bir araya geldi!",
-    "ts": 1795136322245
-  },
-  {
-    "id": "https://www.fotomac.com.tr/trabzonspor/2026/11/19/ertugrul-dogandan-salah-aciklamalari-trabzonspora-gelmesi",
-    "title": "Ertuğrul Doğan'dan Salah açıklamaları! \"Trabzonspor'a gelmesi...\"",
-    "ts": 1795136325767
-  },
-  {
-    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/19/fenerbahceden-flas-asensio-karari-sakatlik-donusunde",
-    "title": "Fenerbahçe'den flaş Asensio kararı! Sakatlık dönüşünde...",
-    "ts": 1795136328944
-  },
-  {
-    "id": "https://www.aspor.com.tr/galatasaray/2026/11/20/galatasaraya-italyan-duvari-bonservis-bedeli-ortaya-cikti",
-    "title": "Galatasaray'a İtalyan duvarı! Bonservis bedeli ortaya çıktı",
-    "ts": 1795198333003
-  },
-  {
-    "id": "https://www.fotomac.com.tr/galatasaray/2026/11/20/galatasaraydan-italyan-savunmaciya-kanca-juventusun-bonservis-talebi",
-    "title": "Galatasaray'dan İtalyan savunmacıya kanca! Juventus'un bonservis talebi...",
-    "ts": 1795198336478
-  },
-  {
-    "id": "https://www.fotomac.com.tr/superlig/2026/11/20/uc-buyuklere-transferde-kotu-haber-brahim-diaz",
-    "title": "Üç büyüklere transferde kötü haber! Brahım Diaz...",
-    "ts": 1795198339699
-  },
-  {
     "id": "news-1183484",
     "title": "Arda Turan'dan Fenerbahçe sözleri: Favoriyi açıkladı!",
     "ts": 1795219461881
@@ -133,5 +103,20 @@
     "id": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/11/24/arda-turandan-emre-belozoglu-sozleri-birlikte-bircok-ilke-imza-attik",
     "title": "Arda Turan'dan Emre Belözoğlu sözleri! \"Birlikte birçok ilke imza attık\"",
     "ts": 1795552033117
+  },
+  {
+    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/25/fenerbahcede-emre-belozoglundan-flas-kadro-aciklamasi",
+    "title": "Fenerbahçe'de Emre Belözoğlu'ndan flaş kadro açıklaması!",
+    "ts": 1795635707197
+  },
+  {
+    "id": "news-1184087",
+    "title": "Beşiktaş Fuzul'dan sakatlık açıklaması!",
+    "ts": 1795635710506
+  },
+  {
+    "id": "https://www.aspor.com.tr/galatasaray/2026/11/25/noa-langin-performansi-napolinin-transfer-planini-degistirdi-galatasaray",
+    "title": "Noa Lang'ın performansı Napoli'nin transfer planını değiştirdi! Galatasaray...",
+    "ts": 1795635713608
   }
 ]
