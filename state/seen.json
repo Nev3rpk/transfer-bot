@@ -1,35 +1,5 @@
 [
   {
-    "id": "news-1183609",
-    "title": "PSG'de Desire Doue şoku! Çapraz bağları koptu!",
-    "ts": 1795299328915
-  },
-  {
-    "id": "https://www.fotomac.com.tr/fenerbahce/2026/11/21/vedat-muric-herkes-daha-fazla-sorumluluk-almak-zorunda",
-    "title": "Vedat Muriç: Herkes daha fazla sorumluluk almak zorunda",
-    "ts": 1795299332279
-  },
-  {
-    "id": "news-1183585",
-    "title": "Vedat Muriqi: \"Lukaku'nun golü geçerli sayılsa farklı olabilirdi\"",
-    "ts": 1795299335392
-  },
-  {
-    "id": "https://www.fotomac.com.tr/besiktas/2026/11/22/dusan-vlahovicten-galatasaray-derbisiyle-ilgili-soruya-dikkat-ceken-yanit",
-    "title": "Dusan Vlahovic'ten Galatasaray derbisiyle ilgili soruya dikkat çeken yanıt!",
-    "ts": 1795368731754
-  },
-  {
-    "id": "news-1183681",
-    "title": "Acun Ilıcalı ve Ali Koç, Hull City tribününde yan yana",
-    "ts": 1795368735440
-  },
-  {
-    "id": "https://www.aspor.com.tr/futbol/2026/11/22/juventus-venezia-karsisinda-farkli-kazandi",
-    "title": "Juventus, Venezia karşısında farklı kazandı!",
-    "ts": 1795368738614
-  },
-  {
     "id": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspor-richarlisonu-bitirdi",
     "title": "\"Trabzonspor Richarlison'u bitirdi\"",
     "ts": 1795388625573
@@ -103,5 +73,20 @@
     "id": "https://www.aspor.com.tr/besiktas/2026/11/26/besiktas-hapoel-beer-sheva-canli-uefa-avrupa-ligi-5-hafta",
     "title": "Beşiktaş-Hapoel Beer Sheva | CANLI (UEFA Avrupa Ligi 5. hafta)",
     "ts": 1795720948238
+  },
+  {
+    "id": "https://www.aspor.com.tr/fenerbahce/2026/11/27/uefadan-fenerbahceye-ozur-vedat-muriqiye-ozel-tesekkur-mektubu",
+    "title": "UEFA'dan Fenerbahçe'ye özür! Vedat Muriqi'ye özel teşekkür mektubu",
+    "ts": 1795807046625
+  },
+  {
+    "id": "https://www.fotomac.com.tr/video-haber/videoizle/besiktasta-onder-ozenden-galatasaray-derbisi-aciklamasi-erteleme-talebi-yapilacak-mi-izle",
+    "title": "Beşiktaş, Galatasaray derbisi için erteleme talebi yapacak mı? Önder Özen açıkladı!",
+    "ts": 1795807050327
+  },
+  {
+    "id": "https://www.fotomac.com.tr/besiktas/2026/11/27/uefadan-besiktas-macindaki-olaylarla-ilgili-aciklama-yayinladi",
+    "title": "UEFA'dan Beşiktaş maçındaki olaylarla ilgili soruşturma kararı!",
+    "ts": 1795807053581
   }
 ]
